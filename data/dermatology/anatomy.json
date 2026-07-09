@@ -9,7 +9,7 @@
             "example_en": "The dermatologist checked for clogged pores.",
             "example_ru": "Дерматолог проверил кожу на наличие закупоренных пор.",
             "note": "",
-            "image": ""
+            "image": "data/images/Pore.jpg"
         },
         {
             "en": "Oil glands (sebaceous glands)",
@@ -25,6 +25,30 @@
             "example_en": "A rash developed in the skin fold under her arm.",
             "example_ru": "Сыпь появилась в кожной складке под мышкой.",
             "note": "",
+            "image": ""
+        },
+        {
+            "en": "The ball of the foot",
+            "ru": "Подушечка стопы",
+            "example_en": "High heels often cause a burning pain in the ball of the foot.",
+            "example_ru": "Высокие каблуки часто вызывают жгучую боль в подушечке стопы.",
+            "note": "The padded area on the bottom of the foot located right behind the toes.",
+            "image": ""
+        },
+        {
+            "en": "The heel",
+            "ru": "Пятка",
+            "example_en": "He developed a painful blister on his heel from his new running shoes.",
+            "example_ru": "Из-за новых кроссовок у него на пятке появился болезненный мозоль.",
+            "note": "The rounded, bony back part of the foot beneath the ankle.",
+            "image": ""
+        },
+        {
+            "en": "Uric Acid",
+            "ru": "Мочевая кислота",
+            "example_en": "The doctor explained that high uric acid levels can lead to gout and joint pain.",
+            "example_ru": "Врач объяснил, что высокий уровень мочевой кислоты может привести к подагре и боли в суставах.",
+            "note": "Uric acid is a waste product generated when the body breaks down purines found in your cells and certain foods.",
             "image": ""
         }
     ]

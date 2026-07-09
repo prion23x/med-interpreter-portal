@@ -9,7 +9,7 @@
             "example_en": "She broke out in hives after taking the medication.",
             "example_ru": "У неё появилась крапивница после приёма лекарства.",
             "note": "",
-            "image": ""
+            "image": "data/images/Hives.jpg"
         },
         {
             "en": "Blister(s)",
@@ -17,15 +17,23 @@
             "example_en": "Won't this cause a blister?",
             "example_ru": "Это не вызовет волдырь?",
             "note": "Source occasionally mistranslated this as 'мозоль' (callus) — kept distinct from Callus/corn below.",
-            "image": ""
+            "image": "data/images/Blister.png"
         },
         {
-            "en": "Callus / corn",
-            "ru": "Мозоль (сухая мозоль)",
-            "example_en": "He has a painful corn on his foot.",
-            "example_ru": "У него на ноге болезненная мозоль.",
-            "note": "",
-            "image": ""
+            "en": "A corn",
+            "ru": "Сухая/Стержневая мозоль",
+            "example_en": "He wore tight dress shoes and developed a painful corn on his pinky toe.",
+            "example_ru": "Из-за тесной обуви у него на мизинце ноги появилась болезненная стержневая мозоль.",
+            "note": "Refers to small, painful bumps with a deep, hard center core, typically found on toes.",
+            "image": "data/images/Corn_and_Callus.jpg"
+        },
+        {
+            "en": "A callus",
+            "ru": "Натоптыш",
+            "example_en": "Running every day caused a thick callus to form on the ball of her foot.",
+            "example_ru": "Ежедневный бег привёл к образованию толстого натоптыша на подушечке стопы.",
+            "note": "Refers to flat, broad patches of rough, thickened skin, typically found on the soles of the feet.",
+            "image": "data/images/Corn_and_Callus.jpg"
         },
         {
             "en": "Shingles",
@@ -33,7 +41,7 @@
             "example_en": "Shingles causes a painful, blistering rash.",
             "example_ru": "Опоясывающий лишай вызывает болезненную сыпь с волдырями.",
             "note": "",
-            "image": ""
+            "image": "data/images/Shingles.png"
         },
         {
             "en": "Painful masses / growths",
@@ -41,7 +49,7 @@
             "example_en": "The patient reported painful growths under the skin.",
             "example_ru": "Пациент сообщил о болезненных наростах под кожей.",
             "note": "",
-            "image": ""
+            "image": "data/images/Painful masses.jpeg"
         },
         {
             "en": "Peel off (skin peeling)",
@@ -73,7 +81,7 @@
             "example_en": "The scar has faded over the past year.",
             "example_ru": "Шрам поблек за последний год.",
             "note": "",
-            "image": ""
+            "image": "data/images/Scar.jpg"
         },
         {
             "en": "Scar tissue",
@@ -81,7 +89,7 @@
             "example_en": "Scar tissue formed around the wound.",
             "example_ru": "Вокруг раны образовалась рубцовая ткань.",
             "note": "",
-            "image": ""
+            "image": "data/images/Scar tissue.jpeg"
         },
         {
             "en": "Staphylococcus",
@@ -89,7 +97,7 @@
             "example_en": "The culture came back positive for staphylococcus.",
             "example_ru": "Посев показал положительный результат на стафилококк.",
             "note": "",
-            "image": ""
+            "image": "data/images/Staphylococcus"
         },
         {
             "en": "Itching",
@@ -97,7 +105,7 @@
             "example_en": "The rash is accompanied by intense itching.",
             "example_ru": "Сыпь сопровождается сильным зудом.",
             "note": "",
-            "image": ""
+            "image": "data/images/Itching.webp"
         },
         {
             "en": "Lichen",
@@ -105,7 +113,7 @@
             "example_en": "Lichen planus can cause itchy, purple bumps.",
             "example_ru": "Лишай может вызывать зудящие лиловые высыпания.",
             "note": "Source listed as 'enzoma' (likely typo) — distinct from Eczema below.",
-            "image": ""
+            "image": "data/images/Lichen.webp"
         },
         {
             "en": "Skin breakdown",
@@ -168,8 +176,8 @@
             "ru": "Экзема (дерматит)",
             "example_en": "Eczema causes dry, itchy, inflamed skin.",
             "example_ru": "Экзема вызывает сухость, зуд и воспаление кожи.",
-            "note": "",
-            "image": ""
+            "note": "Commonly referring to atopic dermatitis, is a chronic skin condition characterized by dry, red, and intensely itchy patches",
+            "image": "data/images/Eczema.jpg"
         },
         {
             "en": "Lesion",
@@ -177,23 +185,23 @@
             "example_en": "The lesion was biopsied to rule out malignancy.",
             "example_ru": "Была взята биопсия поражения для исключения злокачественности.",
             "note": "",
-            "image": ""
+            "image": "data/images/Lesion.webp"
         },
         {
             "en": "Lymphedema",
             "ru": "Лимфедема (лимфатический отёк)",
             "example_en": "She developed lower extremity lymphedema after surgery.",
             "example_ru": "После операции у неё развилась лимфедема нижних конечностей.",
-            "note": "",
-            "image": ""
+            "note": "Lymphedema is chronic swelling caused by a backup of lymph fluid in the body's tissues. It happens when lymph nodes or vessels are damaged or removed, usually from cancer treatment",
+            "image": "data/images/Lymphedema.png"
         },
         {
             "en": "Gout",
             "ru": "Подагра",
             "example_en": "Gout often affects the big toe first.",
             "example_ru": "Подагра часто в первую очередь поражает большой палец ноги.",
-            "note": "",
-            "image": ""
+            "note": "Gout is a highly painful, inflammatory form of arthritis caused by an excess of uric acid in the blood (hyperuricemia)",
+            "image": "data/images/Gout.jpg"
         },
         {
             "en": "Advanced scabies",
@@ -208,7 +216,7 @@
             "ru": "Кожные проявления",
             "example_en": "This is a common skin manifestation of the disease.",
             "example_ru": "Это распространённое кожное проявление данного заболевания.",
-            "note": "",
+            "note": "A skin manifestation is an outward sign on your skin caused by an internal illness. Your skin acts like a window. It shows clues about hidden issues like infections, immune problems, or organ diseases in your organs. Common signs include rashes, bumps, or color changes.",
             "image": ""
         },
         {
@@ -217,15 +225,15 @@
             "example_en": "Lupus can cause a butterfly-shaped rash on the face.",
             "example_ru": "Волчанка может вызывать сыпь в форме бабочки на лице.",
             "note": "",
-            "image": ""
+            "image": "data/images/Lupus.jpg"
         },
         {
             "en": "Yellowing of the skin",
             "ru": "Пожелтение кожи",
             "example_en": "Yellowing of the skin may indicate a liver problem.",
             "example_ru": "Пожелтение кожи может указывать на проблему с печенью.",
-            "note": "",
-            "image": ""
+            "note": "Yellowing of the skin is often caused by jaundice, a buildup of bilirubin (a yellow waste product from dead red blood cells) in the blood.",
+            "image": "data/images/Yellowing of the skin.jpg"
         },
         {
             "en": "Heavy sweating",
@@ -241,15 +249,15 @@
             "example_en": "The patient had several sores on her legs.",
             "example_ru": "У пациентки было несколько болячек на ногах.",
             "note": "",
-            "image": ""
+            "image": "data/images/Sores.jpg"
         },
         {
-            "en": "Pressure sores (pressure injury)",
+            "en": "Pressure/Bed sores (pressure injury)",
             "ru": "Пролежни (травма от давления)",
             "example_en": "Pressure sores can develop from staying in one position too long.",
             "example_ru": "Пролежни могут появиться из-за долгого пребывания в одном положении.",
-            "note": "",
-            "image": ""
+            "note": "Pressure sores (or bedsores) happen when constant weight presses on your skin and cuts off blood flow.",
+            "image": "data/images/Pressure sores.png"
         },
         {
             "en": "Clogged pore",
@@ -257,7 +265,7 @@
             "example_en": "A clogged pore can lead to a breakout.",
             "example_ru": "Закупоренная пора может привести к высыпанию.",
             "note": "",
-            "image": ""
+            "image": "data/images/Clogged pore.jpg"
         },
         {
             "en": "Bug bites",
@@ -265,15 +273,15 @@
             "example_en": "The bug bites caused mild swelling and redness.",
             "example_ru": "Укусы насекомых вызвали лёгкий отёк и покраснение.",
             "note": "",
-            "image": ""
+            "image": "data/images/Bug bites.jpg"
         },
         {
-            "en": "Flushing in the cheeks",
+            "en": "Flushing on the cheeks",
             "ru": "Покраснение на щеках",
             "example_en": "She experiences flushing in the cheeks when anxious.",
             "example_ru": "У неё появляется покраснение на щеках при волнении.",
-            "note": "",
-            "image": ""
+            "note": "Cheek flushing happens when the blood vessels in your face suddenly widen.",
+            "image": "data/images/Flushing in the cheeks.png"
         },
         {
             "en": "Ridge (bump)",
@@ -281,7 +289,7 @@
             "example_en": "There is a small ridge along the scar line.",
             "example_ru": "Вдоль линии шрама есть небольшой выступ.",
             "note": "",
-            "image": ""
+            "image": "data/images/Ridge.jpeg"
         },
         {
             "en": "Lipoma (fatty tumor)",
@@ -289,15 +297,15 @@
             "example_en": "The lipoma was soft and moved easily under the skin.",
             "example_ru": "Жировик был мягким и легко смещался под кожей.",
             "note": "",
-            "image": ""
+            "image": "data/images/Lipoma.jpeg"
         },
         {
             "en": "Bruise / bruising",
             "ru": "Синяк (кровоподтёк)",
             "example_en": "The bruise should fade within two weeks.",
             "example_ru": "Синяк должен пройти в течение двух недель.",
-            "note": "",
-            "image": ""
+            "note": "A bruise (also called a contusion) is a common skin injury that occurs when trauma damages small blood vessels under the skin WITHOUT breaking it",
+            "image": "data/images/Bruise.jpeg"
         },
         {
             "en": "Scab",
@@ -305,14 +313,14 @@
             "example_en": "Don't pick at the scab while it heals.",
             "example_ru": "Не сдирайте корку, пока она заживает.",
             "note": "",
-            "image": ""
+            "image": "data/images/Scab.jpeg"
         },
         {
             "en": "Red mole (red nevus / birthmark)",
             "ru": "Красная родинка",
             "example_en": "The red mole has not changed in size.",
             "example_ru": "Красная родинка не изменилась в размере.",
-            "note": "",
+            "note": "A hematoma is a localized collection of blood that pools outside of damaged blood vessels.",
             "image": ""
         },
         {
@@ -321,7 +329,7 @@
             "example_en": "A hematoma formed after the injection.",
             "example_ru": "После инъекции образовалась гематома.",
             "note": "",
-            "image": ""
+            "image": "data/images/Hematoma.jpg"
         }
     ]
 }
