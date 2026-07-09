@@ -4,59 +4,131 @@
     "color": "#eed49f",
     "terms": [
         {
-            "en": "Fallopian Tubes",
-            "ru": "Маточные трубы",
+            "en": "Fallopian/Uterine Tubes",
+            "ru": "Маточные трубки",
             "example_en": "The fallopian tubes carry the egg from the ovary to the uterus.",
-            "example_ru": "Маточные трубы переносят яйцеклетку из яичника в матку.",
-            "note": "",
-            "image": ""
+            "example_ru": "Маточные трубки переносят яйцеклетку из яичника в матку.",
+            "note": "A pair of narrow ducts that transport eggs from the ovaries to the uterus and are the typical site of fertilization.",
+            "image": "data/images/Fallopian Tubes.jpg"
+        },
+        {
+            "en": "Ovaries",
+            "ru": "Яичники",
+            "example_en": "The ovaries produce eggs and hormones.",
+            "example_ru": "Яичники вырабатывают яйцеклетки и гормоны.",
+            "note": "A pair of small almond-shaped organs that produce and release eggs (ova) and secrete the sex hormones estrogen and progesterone.",
+            "image": "data/images/uterus_structure.png"
+        },
+        {
+            "en": "Ligament of Ovary",
+            "ru": "Связка яичника",
+            "example_en": "The ligament of ovary attaches the ovary to the uterus.",
+            "example_ru": "Связка яичника прикрепляет яичник к матке.",
+            "note": "A fibrous cord that anchors the medial pole of the ovary to the lateral wall of the uterus.",
+            "image": "data/images/uterus_structure.png"
+        },
+        {
+            "en": "Cervical Canal",
+            "ru": "Цервикальный канал",
+            "example_en": "The cervical canal connects the uterus to the vagina.",
+            "example_ru": "Цервикальный канал соединяет матку с влагалищем.",
+            "note": "The narrow passage running through the cervix that connects the uterine cavity to the vagina, through which menstrual blood exits and sperm enters.",
+            "image": "data/images/Cervical canal.jpg"
+        },
+        {
+            "en": "Endometrium",
+            "ru": "Эндометрий",
+            "example_en": "The endometrium thickens during the menstrual cycle.",
+            "example_ru": "Эндометрий утолщается во время менструального цикла.",
+            "note": "The inner mucous membrane lining the uterus that builds up each cycle in preparation for embryo implantation and sheds during menstruation if fertilization does not occur.",
+            "image": "data/images/uterus_structure.png"
+        },
+        {
+            "en": "Vagina",
+            "ru": "Влагалище",
+            "example_en": "The vagina is the birth canal.",
+            "example_ru": "Влагалище — это родовой канал.",
+            "note": "The muscular, elastic canal extending from the cervix to the external genitalia, serving as the birth canal and the passageway for menstrual flow.",
+            "image": "data/images/Vulva.jpg"
+        },
+        {
+            "en": "Vulva",
+            "ru": "Вульва",
+            "example_en": "The vulva includes the external female genitalia.",
+            "example_ru": "Вульва включает наружные женские половые органы.",
+            "note": "The collective term for all external female genitalia, including the labia majora, labia minora, clitoris, and vaginal opening.",
+            "image": "data/images/Vulva.jpg"
         },
         {
             "en": "Amniotic Sac",
             "ru": "Амниотическая оболочка",
             "example_en": "The amniotic sac holds the fluid that cushions the fetus.",
             "example_ru": "Амниотическая оболочка удерживает жидкость, которая защищает плод.",
-            "note": "",
-            "image": ""
+            "note": "A fluid-filled membranous sac made of two layers (amnion and chorion) that surrounds and protects the developing fetus throughout pregnancy.",
+            "image": "data/images/Amniotic Sac.jpg"
+        },
+        {
+            "en": "Amniotic Fluid",
+            "ru": "Амниотическая жидкость",
+            "example_en": "The amniotic fluid protects and cushions the developing fetus.",
+            "example_ru": "Амниотическая жидкость защищает и поддерживает развивающийся плод.",
+            "note": "The protective liquid inside the amniotic sac that cushions the fetus against physical shock, supports limb movement, and helps regulate temperature and lung development.",
+            "image": "data/images/Amniotic Fluid.jpeg"
+        },
+        {
+            "en": "Placenta",
+            "ru": "Плацента",
+            "example_en": "The placenta transfers nutrients and oxygen to the fetus.",
+            "example_ru": "Плацента передает питательные вещества и кислород плоду.",
+            "note": "A temporary organ that attaches to the uterine wall during pregnancy, exchanging oxygen, nutrients, and waste between maternal and fetal blood via the umbilical cord.",
+            "image": "data/images/Placenta.png"
+        },
+        {
+            "en": "Cervix",
+            "ru": "Шейка матки",
+            "example_en": "The cervix opens during labor to allow the baby to pass through.",
+            "example_ru": "Шейка матки расширяется во время родов, позволяя ребенку пройти.",
+            "note": "The lower, narrow portion of the uterus that protrudes into the vagina and gradually dilates during labor to allow delivery.",
+            "image": "data/images/Cervix.png"
         },
         {
             "en": "Urethra",
             "ru": "Мочеиспускательный канал",
             "example_en": "The urethra carries urine out of the bladder.",
             "example_ru": "Мочеиспускательный канал выводит мочу из мочевого пузыря.",
-            "note": "",
-            "image": ""
+            "note": "The tube that drains urine from the bladder to the outside; in females it is short (~4 cm) and opens just above the vaginal opening.",
+            "image": "data/images/Urethra.webp"
         },
         {
             "en": "Ureters",
             "ru": "Мочеточники",
             "example_en": "The ureters connect the kidneys to the bladder.",
             "example_ru": "Мочеточники соединяют почки с мочевым пузырём.",
-            "note": "",
-            "image": ""
+            "note": "Two muscular tubes, one from each kidney, that transport urine to the bladder via rhythmic peristaltic contractions.",
+            "image": "data/images/Urethra.webp"
         },
         {
             "en": "Uterus",
             "ru": "Матка",
             "example_en": "The uterus is where the fetus develops during pregnancy.",
             "example_ru": "Матка — это орган, где развивается плод во время беременности.",
-            "note": "",
-            "image": ""
+            "note": "A hollow, thick-walled, pear-shaped muscular organ in the female pelvis where a fertilized egg implants and the fetus develops until birth.",
+            "image": "data/images/uterus_structure.png"
         },
         {
             "en": "Mammary Glands",
             "ru": "Молочные железы",
             "example_en": "The mammary glands produce milk after childbirth.",
             "example_ru": "Молочные железы вырабатывают молоко после родов.",
-            "note": "",
-            "image": ""
+            "note": "Modified sweat glands within the breast that produce and secrete milk in response to hormonal signals following childbirth.",
+            "image": "data/images/Mammary glands.jpg"
         },
         {
             "en": "Nipple",
             "ru": "Сосок",
             "example_en": "The nipple can become sore during breastfeeding.",
             "example_ru": "Сосок может воспаляться во время грудного вскармливания.",
-            "note": "",
+            "note": "The small raised projection at the center of the breast through which milk is released during breastfeeding.",
             "image": ""
         },
         {
@@ -64,39 +136,55 @@
             "ru": "Ткань соска",
             "example_en": "A biopsy was taken from the nipple tissue.",
             "example_ru": "Была взята биопсия ткани соска.",
-            "note": "",
+            "note": "The specialized tissue of the nipple and surrounding areola, containing smooth muscle, dense nerve endings, and lactiferous ducts that carry milk to the surface.",
             "image": ""
+        },
+        {
+            "en": "Vaginal Opening",
+            "ru": "Вход во влагалище",
+            "example_en": "The doctor examined the vaginal opening during the pelvic exam.",
+            "example_ru": "Врач осмотрел вход во влагалище во время гинекологического осмотра.",
+            "note": "The external orifice of the vagina, located between the urethral opening and the anus within the vulva.",
+            "image": "data/images/Clitoris.webp"
+        },
+        {
+            "en": "Clitoris",
+            "ru": "Клитор",
+            "example_en": "The clitoris is an external sexual organ located above the vaginal opening.",
+            "example_ru": "Клитор — это наружный орган, расположенный над входом во влагалища.",
+            "note": "A small erectile organ at the anterior junction of the labia minora, densely innervated and functionally analogous to the penis.",
+            "image": "data/images/Clitoris.webp"
         },
         {
             "en": "Clitoral Glans",
             "ru": "Головка клитора",
             "example_en": "The clitoral glans is highly sensitive.",
             "example_ru": "Головка клитора очень чувствительна.",
-            "note": "",
-            "image": ""
+            "note": "The externally visible tip of the clitoris, covered by the clitoral hood, and containing the highest concentration of sensory nerve endings.",
+            "image": "data/images/Clitoris.webp"
         },
         {
             "en": "Umbilical Cord",
             "ru": "Пуповина",
             "example_en": "The umbilical cord was clamped right after delivery.",
             "example_ru": "Пуповину пережали сразу после родов.",
-            "note": "",
-            "image": ""
+            "note": "The flexible, rope-like structure connecting the fetus to the placenta, containing two arteries and one vein that carry blood, nutrients, and oxygen.",
+            "image": "data/images/Umbilical Cord.webp"
         },
         {
             "en": "Umbilical Stump",
             "ru": "Пуповинный остаток",
             "example_en": "Keep the umbilical stump clean and dry until it falls off.",
             "example_ru": "Держите пуповинный остаток чистым и сухим, пока он не отпадёт.",
-            "note": "",
-            "image": ""
+            "note": "The small remnant of the umbilical cord left attached to the newborn's navel after clamping and cutting, which dries and falls off within 1–3 weeks.",
+            "image": "data/images/Umbilical stump.webp"
         },
         {
             "en": "Umbilical Area",
             "ru": "Область пупка",
             "example_en": "There was mild redness in the umbilical area.",
             "example_ru": "В области пупка отмечалось лёгкое покраснение.",
-            "note": "",
+            "note": "The region of the abdomen surrounding the navel, commonly assessed in newborns for signs of infection or abnormal healing after cord separation.",
             "image": ""
         },
         {
@@ -104,16 +192,16 @@
             "ru": "Пупок",
             "example_en": "The baby's belly button healed within two weeks.",
             "example_ru": "Пупок у ребёнка зажил в течение двух недель.",
-            "note": "",
-            "image": ""
+            "note": "The scar at the center of the abdomen marking the former attachment point of the umbilical cord.",
+            "image": "data/images/Navel.webp"
         },
         {
             "en": "Colostrum",
             "ru": "Молозиво",
             "example_en": "Colostrum is the first milk produced after birth.",
             "example_ru": "Молозиво — это первое молоко, вырабатываемое после родов.",
-            "note": "",
-            "image": ""
+            "note": "The thick, yellowish, antibody-rich fluid produced by the mammary glands in the first few days postpartum, providing the newborn with passive immune protection.",
+            "image": "data/images/Colostrum.webp"
         }
     ]
 }
