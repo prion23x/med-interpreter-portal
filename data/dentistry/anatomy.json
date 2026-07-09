@@ -9,7 +9,7 @@
             "example_en": "The dentist examined the roof of her mouth, or palate.",
             "example_ru": "Стоматолог осмотрел нёбо пациентки.",
             "note": "Roof of the mouth",
-            "image": "../data/_images/Palate.jpg"
+            "image": "data/_images/Palate.jpg"
         },
         {
             "en": "Baby teeth",
@@ -17,7 +17,7 @@
             "example_en": "Baby teeth usually begin falling out around age six.",
             "example_ru": "Молочные зубы обычно начинают выпадать примерно в шесть лет.",
             "note": "",
-            "image": ""
+            "image": "data/_images/Baby teeth.png"
         },
         {
             "en": "Molar teeth",
@@ -25,7 +25,7 @@
             "example_en": "Molars are the large teeth at the back used for grinding food.",
             "example_ru": "Моляры — это большие задние зубы, используемые для пережёвывания пищи.",
             "note": "",
-            "image": "./data/_images/Molar teeth.jpg"
+            "image": "data/_images/Molar teeth.jpg"
         },
         {
             "en": "Premolar teeth",
@@ -33,7 +33,7 @@
             "example_en": "The premolars sit between the canines and the molars.",
             "example_ru": "Премоляры расположены между клыками и молярами.",
             "note": "Also called малые коренные зубы",
-            "image": "./data/_images/Premolar teeth.jpg"
+            "image": "data/_images/Premolar teeth.jpg"
         },
         {
             "en": "Primary molars",
@@ -73,7 +73,7 @@
             "example_en": "The lateral incisors are next to the central incisors.",
             "example_ru": "Боковые резцы расположены рядом с центральными резцами.",
             "note": "",
-            "image": "./data/_images/Lateral incisor teeth.jpg"
+            "image": "data/_images/Lateral incisor teeth.jpg"
         },
         {
             "en": "Central incisor teeth",
@@ -81,7 +81,7 @@
             "example_en": "The central incisors are the two front teeth.",
             "example_ru": "Центральные резцы — это два передних зуба.",
             "note": "",
-            "image": "./data/_images/Central incisor teeth.webp"
+            "image": "data/_images/Central incisor teeth.webp"
         },
         {
             "en": "Lower teeth",
@@ -89,7 +89,7 @@
             "example_en": "The lower teeth showed mild wear.",
             "example_ru": "На нижних зубах отмечена лёгкая стираемость.",
             "note": "",
-            "image": "./data/_images/Lower teeth.webp"
+            "image": "data/_images/Lower teeth.webp"
         },
         {
             "en": "Upper teeth",
@@ -97,7 +97,7 @@
             "example_en": "The upper teeth were examined first.",
             "example_ru": "Сначала осмотрели верхние зубы.",
             "note": "",
-            "image": "./data/_images/Upper teeth.jpg"
+            "image": "data/_images/Upper teeth.jpg"
         },
         {
             "en": "First molar teeth",
@@ -105,7 +105,7 @@
             "example_en": "The first molars usually erupt around age six.",
             "example_ru": "Первые моляры обычно прорезываются примерно в шесть лет.",
             "note": "",
-            "image": "./data/_images/First molar teeth.jpg"
+            "image": "data/_images/First molar teeth.jpg"
         },
         {
             "en": "Fissure",
@@ -121,7 +121,7 @@
             "example_en": "Please lift your upper lip slightly.",
             "example_ru": "Пожалуйста, приподнимите немного верхнюю губу.",
             "note": "",
-            "image": "./data/_images/Upper lip.jpeg"
+            "image": "data/_images/Upper lip.jpeg"
         },
         {
             "en": "Lower lip",
@@ -137,7 +137,7 @@
             "example_en": "A short lingual frenulum can restrict tongue movement.",
             "example_ru": "Короткая уздечка языка может ограничивать подвижность языка.",
             "note": "",
-            "image": "./data/_images/Frenulum of the tongue.jpg"
+            "image": "data/_images/Frenulum of the tongue.jpg"
         },
         {
             "en": "Gums (gingiva)",
@@ -145,7 +145,7 @@
             "example_en": "The gums appeared slightly swollen.",
             "example_ru": "Дёсны выглядели слегка припухшими.",
             "note": "",
-            "image": "./data/_images/Gums (gingiva).jpg"
+            "image": "data/_images/Gums (gingiva).jpg"
         },
         {
             "en": "Soft palate",
@@ -153,7 +153,7 @@
             "example_en": "The soft palate moves during swallowing.",
             "example_ru": "Мягкое нёбо двигается во время глотания.",
             "note": "",
-            "image": "./data/_images/Soft palate.jpg"
+            "image": "data/_images/Soft palate.jpg"
         },
         {
             "en": "Hard palate",
@@ -161,7 +161,7 @@
             "example_en": "The hard palate forms the roof of the mouth.",
             "example_ru": "Твёрдое нёбо образует верхнюю стенку полости рта.",
             "note": "",
-            "image": "./data/_images/Hard palate.jpg"
+            "image": "data/_images/Hard palate.jpg"
         },
         {
             "en": "Palatal arch",
@@ -177,7 +177,7 @@
             "example_en": "The uvula hangs at the back of the soft palate.",
             "example_ru": "Нёбный язычок свисает в задней части мягкого нёба.",
             "note": "Also called palatine uvula / velar uvula",
-            "image": "./data/_images/Uvula.jpeg"
+            "image": "data/_images/Uvula.jpeg"
         },
         {
             "en": "Superior labial frenulum",
@@ -201,7 +201,7 @@
             "example_en": "A vital tooth still has a functioning nerve.",
             "example_ru": "Живой зуб сохраняет функционирующий нерв.",
             "note": "",
-            "image": "./data/_images/Vital tooth.jpg"
+            "image": "data/_images/Vital tooth.jpg"
         },
         {
             "en": "Non-vital (devitalized) tooth",
@@ -209,7 +209,7 @@
             "example_en": "The non-vital tooth no longer responds to cold.",
             "example_ru": "Мёртвый зуб больше не реагирует на холод.",
             "note": "",
-            "image": "./data/_images/Non-vital (devitalized) tooth.jpeg"
+            "image": "data/_images/Non-vital (devitalized) tooth.jpeg"
         },
         {
             "en": "Pulp",
@@ -225,7 +225,7 @@
             "example_en": "Enamel is the hardest tissue in the human body.",
             "example_ru": "Эмаль — самая твёрдая ткань в организме человека.",
             "note": "",
-            "image": "./data/_images/Enamel.jpg"
+            "image": "data/_images/Enamel.jpg"
         },
         {
             "en": "Posterior teeth",
@@ -241,7 +241,7 @@
             "example_en": "The root canal contains the pulp tissue inside the root.",
             "example_ru": "Канал зуба содержит пульпарную ткань внутри корня.",
             "note": "Anatomical structure — not to be confused with the root canal procedure",
-            "image": "./data/_images/Root canal (anatomical).jpg"
+            "image": "data/_images/Root canal (anatomical).jpg"
         },
         {
             "en": "Dentin",
@@ -249,7 +249,7 @@
             "example_en": "Dentin lies beneath the enamel.",
             "example_ru": "Дентин находится под эмалью.",
             "note": "",
-            "image": "./data/_images/Dentin.png"
+            "image": "data/_images/Dentin.png"
         },
         {
             "en": "Wisdom teeth",
@@ -257,7 +257,7 @@
             "example_en": "Wisdom teeth often need to be removed if impacted.",
             "example_ru": "Зубы мудрости часто удаляют, если они ретинированы.",
             "note": "",
-            "image": "./data/_images/Wisdom teeth.jpeg"
+            "image": "data/_images/Wisdom teeth.jpeg"
         },
         {
             "en": "Gap (diastema)",
@@ -265,7 +265,7 @@
             "example_en": "There is a small gap between her front teeth.",
             "example_ru": "Между её передними зубами есть небольшой промежуток.",
             "note": "",
-            "image": "./data/_images/Gap (diastema).png"
+            "image": "data/_images/Gap (diastema).png"
         },
         {
             "en": "Salivary gland",
@@ -273,7 +273,7 @@
             "example_en": "The salivary glands produce saliva to help digestion.",
             "example_ru": "Слюнные железы вырабатывают слюну, способствующую пищеварению.",
             "note": "",
-            "image": "./data/_images/Salivary gland.webp"
+            "image": "data/_images/Salivary gland.webp"
         }
     ]
 }
