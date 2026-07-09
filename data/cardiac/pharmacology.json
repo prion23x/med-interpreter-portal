@@ -1,0 +1,87 @@
+{
+    "intro": "Common cardiac-related medications and substances.",
+    "reading": "Cardiac pharmacology frequently includes medicines that affect clotting, heart rhythm, blood pressure, cholesterol, and symptoms. This section currently contains medication-related rows from the cardiac source data.",
+    "color": "#c6a0f6",
+    "terms": [
+        {
+            "en": "Valerian extract",
+            "ru": "валерьянка",
+            "example_en": "Some patients take valerian extract for anxiety or sleep.",
+            "example_ru": "Некоторые пациенты принимают валерьянку от тревоги или для сна.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Blood thinners, anticoagulant",
+            "ru": "препарат для разжижения крови, антикоагулянтный препарат",
+            "example_en": "Blood thinners help prevent the formation of blood clots.",
+            "example_ru": "Препараты для разжижения крови помогают предотвратить образование тромбов.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Diuretics",
+            "ru": "мочегонные препараты",
+            "example_en": "Diuretics help the body get rid of extra fluid.",
+            "example_ru": "Мочегонные препараты помогают организму вывести избыточную жидкость.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Water pills",
+            "ru": "мочегонные таблетки",
+            "example_en": "Water pills may make you urinate more often.",
+            "example_ru": "Мочегонные таблетки могут вызывать более частое мочеиспускание.",
+            "note": "diuretics",
+            "image": ""
+        },
+        {
+            "en": "Blood-thinning medication",
+            "ru": "лекарство для разжижения крови",
+            "example_en": "Blood-thinning medication helps lower the risk of clots.",
+            "example_ru": "Лекарство для разжижения крови помогает снизить риск тромбов.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Blood thinner",
+            "ru": "препарат для разжижения крови",
+            "example_en": "Take the blood thinner exactly as prescribed.",
+            "example_ru": "Принимайте препарат для разжижения крови строго по назначению.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Heparin shot",
+            "ru": "укол гепарина",
+            "example_en": "A heparin shot helps prevent blood clots while you are in the hospital.",
+            "example_ru": "Укол гепарина помогает предотвратить тромбы, пока вы находитесь в больнице.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Prevent blood clots",
+            "ru": "предотвратить образование кровяных тромбов",
+            "example_en": "This medicine is used to prevent blood clots.",
+            "example_ru": "Это лекарство используется, чтобы предотвратить образование кровяных тромбов.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Long half-life",
+            "ru": "длительный период полураспада",
+            "example_en": "A medicine with a long half-life stays in the body longer.",
+            "example_ru": "Лекарство с длительным периодом полураспада дольше остается в организме.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Cumulative effect",
+            "ru": "накопительный эффект",
+            "example_en": "Some medicines can have a cumulative effect over time.",
+            "example_ru": "Некоторые лекарства со временем могут иметь накопительный эффект.",
+            "note": "",
+            "image": ""
+        }
+    ]
+}

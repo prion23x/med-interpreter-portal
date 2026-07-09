@@ -1,0 +1,535 @@
+{
+    "intro": "Common heart conditions, rhythm problems, vessel problems, and symptoms.",
+    "reading": "Cardiac conditions include rhythm disturbances, heart failure, heart attack, valve-related findings, fluid buildup, and blood vessel narrowing or blockage. These terms often appear when explaining test results, symptoms, and urgent treatment decisions.",
+    "color": "#eed49f",
+    "terms": [
+        {
+            "en": "A heart murmur",
+            "ru": "Шум в сердце",
+            "example_en": "The doctor heard a heart murmur during the exam.",
+            "example_ru": "Во время осмотра врач услышал шум в сердце.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Narrowing of the vessel",
+            "ru": "Сужение сосуда",
+            "example_en": "The scan showed narrowing of the vessel near the heart.",
+            "example_ru": "Сканирование показало сужение сосуда рядом с сердцем.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Damage to the heart",
+            "ru": "Повреждение сердца",
+            "example_en": "The blood test can show signs of damage to the heart muscle.",
+            "example_ru": "Анализ крови может показать признаки повреждения сердечной мышцы.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Strain on the heart",
+            "ru": "Напряжение или нагрузка на сердце",
+            "example_en": "High blood pressure puts extra strain on the heart.",
+            "example_ru": "Высокое артериальное давление создает дополнительную нагрузку на сердце.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Fluid buildup",
+            "ru": "Скопление жидкости",
+            "example_en": "Fluid buildup can make breathing more difficult.",
+            "example_ru": "Скопление жидкости может затруднять дыхание.",
+            "note": "around heart",
+            "image": ""
+        },
+        {
+            "en": "Elevated heart rate",
+            "ru": "Повышенная частота сердечных сокращений",
+            "example_en": "An elevated heart rate can happen with fever or dehydration.",
+            "example_ru": "Повышенная частота сердечных сокращений может возникать при температуре или обезвоживании.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Heart skipping beats",
+            "ru": "сердце замирает",
+            "example_en": "Do you feel like your heart is skipping beats?",
+            "example_ru": "Вы чувствуете, что сердце замирает?",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Congestive heart failure",
+            "ru": "застойная сердечная недостаточность",
+            "example_en": "Congestive heart failure can cause swelling in the legs.",
+            "example_ru": "Застойная сердечная недостаточность может вызывать отеки ног.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Heart failure",
+            "ru": "сердечная недостаточность",
+            "example_en": "Heart failure means the heart is not pumping well enough.",
+            "example_ru": "Сердечная недостаточность означает, что сердце недостаточно хорошо перекачивает кровь.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Heart block",
+            "ru": "блокада сердца",
+            "example_en": "A heart block can slow the electrical signal in the heart.",
+            "example_ru": "Блокада сердца может замедлять электрический сигнал в сердце.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Heart attack",
+            "ru": "сердечный приступ",
+            "example_en": "Call emergency services right away if you think this is a heart attack.",
+            "example_ru": "Сразу вызовите скорую помощь, если вы думаете, что это сердечный приступ.",
+            "note": "лучше \"сердечный приступ\" чем \"инфаркт\"",
+            "image": ""
+        },
+        {
+            "en": "Cardiac conductance disorder",
+            "ru": "нарушение проводимости сердца",
+            "example_en": "The EKG suggests a cardiac conductance disorder.",
+            "example_ru": "ЭКГ указывает на нарушение проводимости сердца.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Constriction",
+            "ru": "сужение",
+            "example_en": "Constriction of the vessels can reduce blood flow.",
+            "example_ru": "Сужение сосудов может уменьшать кровоток.",
+            "note": "vessels",
+            "image": ""
+        },
+        {
+            "en": "Dilation of the vessel",
+            "ru": "расширение сосуда",
+            "example_en": "Dilation of the vessel may be seen after treatment.",
+            "example_ru": "Расширение сосуда может наблюдаться после лечения.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Subtotal occlusion of the vessel",
+            "ru": "почти полная закупорка сосуда",
+            "example_en": "Subtotal occlusion of the vessel requires urgent evaluation.",
+            "example_ru": "Почти полная закупорка сосуда требует срочной оценки.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Blocked arteries",
+            "ru": "закупоренные артерии",
+            "example_en": "Blocked arteries can cause chest pain with exertion.",
+            "example_ru": "Закупоренные артерии могут вызывать боль в груди при нагрузке.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Coronary artery disease",
+            "ru": "поражение коронарных артерий",
+            "example_en": "Coronary artery disease develops when plaque narrows the arteries.",
+            "example_ru": "Поражение коронарных артерий развивается, когда бляшки сужают артерии.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Plaque",
+            "ru": "бляшка",
+            "example_en": "Plaque can build up inside the coronary arteries.",
+            "example_ru": "Бляшка может накапливаться внутри коронарных артерий.",
+            "note": "cholesterol",
+            "image": ""
+        },
+        {
+            "en": "Plaque rupture",
+            "ru": "разрыв бляшки",
+            "example_en": "Plaque rupture can trigger a sudden blood clot.",
+            "example_ru": "Разрыв бляшки может вызвать внезапное образование тромба.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Angina pectoris",
+            "ru": "стенокардия",
+            "example_en": "Angina pectoris often feels like pressure in the chest.",
+            "example_ru": "Стенокардия часто ощущается как давление в груди.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Tachycardia",
+            "ru": "тахикардия",
+            "example_en": "Tachycardia means the heart rate is faster than expected.",
+            "example_ru": "Тахикардия означает, что сердечный ритм быстрее ожидаемого.",
+            "note": "быстро",
+            "image": ""
+        },
+        {
+            "en": "Bradycardia",
+            "ru": "брадикардия",
+            "example_en": "Bradycardia can cause dizziness if the pulse is too slow.",
+            "example_ru": "Брадикардия может вызывать головокружение, если пульс слишком медленный.",
+            "note": "медленно ~<60 BPM",
+            "image": ""
+        },
+        {
+            "en": "Atrial fibrillation",
+            "ru": "мерцательная аритмия",
+            "example_en": "Atrial fibrillation can increase the risk of blood clots.",
+            "example_ru": "Мерцательная аритмия может повышать риск образования тромбов.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Irregular heartbeat",
+            "ru": "нерегулярный сердечный ритм",
+            "example_en": "An irregular heartbeat may feel like fluttering in the chest.",
+            "example_ru": "Нерегулярный сердечный ритм может ощущаться как трепетание в груди.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Abnormal heartbeat",
+            "ru": "аномальный сердечный ритм",
+            "example_en": "The monitor recorded an abnormal heartbeat overnight.",
+            "example_ru": "Монитор зафиксировал аномальный сердечный ритм ночью.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Blood clot",
+            "ru": "кровяной тромб/сгусток",
+            "example_en": "A blood clot can block blood flow through an artery.",
+            "example_ru": "Кровяной тромб может блокировать кровоток через артерию.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Cardiac arrest",
+            "ru": "остановка сердца",
+            "example_en": "Cardiac arrest means the heart has stopped pumping effectively.",
+            "example_ru": "Остановка сердца означает, что сердце перестало эффективно перекачивать кровь.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Fluid retention",
+            "ru": "задержка жидкости",
+            "example_en": "Fluid retention may cause swelling in the ankles.",
+            "example_ru": "Задержка жидкости может вызывать отеки в области лодыжек.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Fluid buildup around the heart",
+            "ru": "скопление жидкости вокруг сердца",
+            "example_en": "Fluid buildup around the heart can limit how well it fills.",
+            "example_ru": "Скопление жидкости вокруг сердца может ограничивать его наполнение.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Myocardial infarction",
+            "ru": "инфаркт миокарда",
+            "example_en": "Myocardial infarction is the medical term for a heart attack.",
+            "example_ru": "Инфаркт миокарда — это медицинский термин для сердечного приступа.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Thrombosis",
+            "ru": "тромбоз",
+            "example_en": "Thrombosis means a blood clot has formed inside a vessel.",
+            "example_ru": "Тромбоз означает, что внутри сосуда образовался кровяной тромб.",
+            "note": "formation of blood clot",
+            "image": ""
+        },
+        {
+            "en": "Aneurysm",
+            "ru": "аневризма",
+            "example_en": "An aneurysm is a weak, widened area of a blood vessel.",
+            "example_ru": "Аневризма — это слабый расширенный участок кровеносного сосуда.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Low heart rate",
+            "ru": "замедленное сердцебиение",
+            "example_en": "A low heart rate is normal for some athletes.",
+            "example_ru": "Замедленное сердцебиение является нормой для некоторых спортсменов.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "High heart rate",
+            "ru": "учащённое сердцебиение",
+            "example_en": "A high heart rate can occur during pain or stress.",
+            "example_ru": "Учащённое сердцебиение может возникать при боли или стрессе.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Cholesterol plaque",
+            "ru": "холестериновая бляшка",
+            "example_en": "Cholesterol plaque can narrow the coronary arteries.",
+            "example_ru": "Холестериновая бляшка может сужать коронарные артерии.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "A-fib",
+            "ru": "мерцательная аритмия",
+            "example_en": "A-fib can cause an irregular heartbeat.",
+            "example_ru": "Мерцательная аритмия может вызывать нерегулярный сердечный ритм.",
+            "note": "short for atrial fibrillation",
+            "image": ""
+        },
+        {
+            "en": "Cardiac insufficiency",
+            "ru": "сердечная недостаточность",
+            "example_en": "Cardiac insufficiency means the heart is not pumping strongly enough.",
+            "example_ru": "Сердечная недостаточность означает, что сердце перекачивает кровь недостаточно сильно.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Elevated blood pressure",
+            "ru": "повышенное артериальное давление",
+            "example_en": "Elevated blood pressure can put strain on the heart.",
+            "example_ru": "Повышенное артериальное давление может создавать нагрузку на сердце.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Orthostatic hypertension",
+            "ru": "ортостатическая гипертония",
+            "example_en": "Orthostatic hypertension means the blood pressure rises when standing.",
+            "example_ru": "Ортостатическая гипертония означает, что артериальное давление повышается при вставании.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "White coat syndrome",
+            "ru": "синдром белого халата",
+            "example_en": "White coat syndrome can make blood pressure higher in the clinic.",
+            "example_ru": "Синдром белого халата может повышать артериальное давление в клинике.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Edema",
+            "ru": "отёк",
+            "example_en": "Edema in the legs can happen when the heart is under strain.",
+            "example_ru": "Отёк ног может возникать, когда сердце испытывает нагрузку.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Swelling",
+            "ru": "отёк",
+            "example_en": "Call us if the swelling gets worse.",
+            "example_ru": "Позвоните нам, если отёк усилится.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Excess fluid",
+            "ru": "избыток жидкости",
+            "example_en": "Excess fluid can collect in the legs or lungs.",
+            "example_ru": "Избыток жидкости может скапливаться в ногах или лёгких.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Extra fluid",
+            "ru": "избыточная жидкость",
+            "example_en": "The medicine helps remove extra fluid from the body.",
+            "example_ru": "Лекарство помогает вывести избыточную жидкость из организма.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Fluid removal",
+            "ru": "выведение избыточной жидкости",
+            "example_en": "Fluid removal can make breathing easier.",
+            "example_ru": "Выведение избыточной жидкости может облегчить дыхание.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Volume overload",
+            "ru": "перегрузка объёмом",
+            "example_en": "Volume overload can worsen heart failure symptoms.",
+            "example_ru": "Перегрузка объёмом может ухудшать симптомы сердечной недостаточности.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Venous reflux or venous insufficiency",
+            "ru": "венозный рефлюкс или венозная недостаточность",
+            "example_en": "Venous reflux can cause leg swelling and discomfort.",
+            "example_ru": "Венозный рефлюкс может вызывать отёк и дискомфорт в ногах.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Lower extremity lymphedema",
+            "ru": "лимфедема нижних конечностей",
+            "example_en": "Lower extremity lymphedema can cause persistent leg swelling.",
+            "example_ru": "Лимфедема нижних конечностей может вызывать стойкий отёк ног.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Lymphedema",
+            "ru": "лимфедема, лимфатический отёк",
+            "example_en": "Lymphedema is swelling caused by lymph fluid buildup.",
+            "example_ru": "Лимфедема — это отёк, вызванный скоплением лимфатической жидкости.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Bulging veins",
+            "ru": "выступающие вены",
+            "example_en": "Bulging veins may be related to venous insufficiency.",
+            "example_ru": "Выступающие вены могут быть связаны с венозной недостаточностью.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Blocked stent",
+            "ru": "забитый стент",
+            "example_en": "A blocked stent can reduce blood flow again.",
+            "example_ru": "Забитый стент может снова уменьшить кровоток.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Hematoma",
+            "ru": "гематома",
+            "example_en": "A hematoma can form after a procedure or blood draw.",
+            "example_ru": "Гематома может образоваться после процедуры или забора крови.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Hemorrhage",
+            "ru": "кровоизлияние",
+            "example_en": "A hemorrhage is bleeding into tissue or a body space.",
+            "example_ru": "Кровоизлияние — это кровотечение в ткани или полость организма.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Bruising",
+            "ru": "синяки, кровоподтёки",
+            "example_en": "Bruising can be more common while taking blood thinners.",
+            "example_ru": "Синяки могут появляться чаще при приёме препаратов для разжижения крови.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Facial drooping",
+            "ru": "опущение лица",
+            "example_en": "Facial drooping can be a warning sign of stroke.",
+            "example_ru": "Опущение лица может быть предупреждающим признаком инсульта.",
+            "note": "during stroke",
+            "image": ""
+        },
+        {
+            "en": "Slurred speech",
+            "ru": "невнятная речь",
+            "example_en": "Slurred speech can be a stroke symptom.",
+            "example_ru": "Невнятная речь может быть симптомом инсульта.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Incoherent speech",
+            "ru": "неясная речь",
+            "example_en": "Incoherent speech should be evaluated urgently.",
+            "example_ru": "Неясную речь нужно срочно оценить.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Changes in thinking",
+            "ru": "изменения мышления",
+            "example_en": "Sudden changes in thinking can be concerning.",
+            "example_ru": "Внезапные изменения мышления могут вызывать беспокойство.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Rush of blood to the head",
+            "ru": "прилив крови к голове",
+            "example_en": "Some patients describe a rush of blood to the head when standing.",
+            "example_ru": "Некоторые пациенты описывают прилив крови к голове при вставании.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Pain that lasts 10 minutes and goes away",
+            "ru": "боль длится 10 минут и проходит",
+            "example_en": "Chest pain that lasts 10 minutes and goes away may still need evaluation.",
+            "example_ru": "Боль в груди, которая длится 10 минут и проходит, всё равно может требовать оценки.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Heavy sweating",
+            "ru": "сильное потоотделение",
+            "example_en": "Heavy sweating with chest pain can be a warning sign.",
+            "example_ru": "Сильное потоотделение вместе с болью в груди может быть тревожным признаком.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Fatigue",
+            "ru": "утомляемость",
+            "example_en": "Fatigue can be a symptom of heart failure.",
+            "example_ru": "Утомляемость может быть симптомом сердечной недостаточности.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Feeling fatigued",
+            "ru": "чувствовать утомление",
+            "example_en": "Tell us if you have been feeling fatigued with activity.",
+            "example_ru": "Сообщите нам, если вы чувствуете утомление при нагрузке.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Moderately out of breath",
+            "ru": "умеренная одышка",
+            "example_en": "The patient became moderately out of breath while walking.",
+            "example_ru": "У пациента появилась умеренная одышка при ходьбе.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Dyspnea",
+            "ru": "затруднённое дыхание, одышка",
+            "example_en": "Dyspnea can occur when fluid builds up in the lungs.",
+            "example_ru": "Одышка может возникать, когда жидкость скапливается в лёгких.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Gasping for air",
+            "ru": "ловить воздух ртом",
+            "example_en": "Go to the emergency room if you are gasping for air.",
+            "example_ru": "Обратитесь в отделение неотложной помощи, если вы ловите воздух ртом.",
+            "note": "",
+            "image": ""
+        }
+    ]
+}

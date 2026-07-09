@@ -1,0 +1,103 @@
+{
+    "intro": "Pulmonary anatomy and general breathing terms.",
+    "reading": "The pulmonary system includes the airways, lungs, lung lobes, alveoli, chest wall, and breathing measurements such as respiratory rate and oxygen level. These terms are common when explaining respiratory symptoms, oxygen monitoring, and lung imaging.",
+    "color": "#8aadf4",
+    "terms": [
+        {
+            "en": "Windpipe",
+            "ru": "трахея",
+            "example_en": "The windpipe carries air from the throat to the lungs.",
+            "example_ru": "Трахея проводит воздух из горла в лёгкие.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Voice box",
+            "ru": "гортань",
+            "example_en": "The voice box sits above the windpipe.",
+            "example_ru": "Гортань находится над трахеей.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Vocal cords",
+            "ru": "голосовые связки",
+            "example_en": "The vocal cords can be irritated after a breathing tube.",
+            "example_ru": "Голосовые связки могут раздражаться после дыхательной трубки.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Lung lobe",
+            "ru": "лёгочная доля",
+            "example_en": "The right lung has three lobes.",
+            "example_ru": "Правое лёгкое имеет три доли.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Air sacs",
+            "ru": "альвеолы",
+            "example_en": "Air sacs are where oxygen enters the blood.",
+            "example_ru": "Альвеолы — это место, где кислород поступает в кровь.",
+            "note": "normalized from “airsacks”",
+            "image": ""
+        },
+        {
+            "en": "Chest wall",
+            "ru": "стенка грудной клетки",
+            "example_en": "The chest wall moves when you breathe.",
+            "example_ru": "Стенка грудной клетки двигается, когда вы дышите.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Breathing rate",
+            "ru": "частота дыхания",
+            "example_en": "The nurse will check your breathing rate.",
+            "example_ru": "Медсестра проверит частоту дыхания.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Oxygen level / SpO2",
+            "ru": "уровень кислорода / SpO2",
+            "example_en": "The oxygen level is measured with a pulse oximeter.",
+            "example_ru": "Уровень кислорода измеряют пульсоксиметром.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Phlegm",
+            "ru": "мокрота",
+            "example_en": "Please tell us if the phlegm changes color.",
+            "example_ru": "Пожалуйста, сообщите нам, если мокрота изменит цвет.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Secretions",
+            "ru": "выделения",
+            "example_en": "Thick secretions can make coughing harder.",
+            "example_ru": "Густые выделения могут затруднять кашель.",
+            "note": "e.g., phlegm",
+            "image": ""
+        },
+        {
+            "en": "Mucus in the lungs",
+            "ru": "слизь в лёгких",
+            "example_en": "Mucus in the lungs can cause noisy breathing.",
+            "example_ru": "Слизь в лёгких может вызывать шумное дыхание.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Upper respiratory tract",
+            "ru": "верхние дыхательные пути",
+            "example_en": "A cold usually affects the upper respiratory tract.",
+            "example_ru": "Простуда обычно поражает верхние дыхательные пути.",
+            "note": "",
+            "image": ""
+        }
+    ]
+}

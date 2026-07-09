@@ -1,0 +1,15 @@
+{
+    "intro": "MEDICATIONS and remedies used in ENT care.",
+    "reading": "ENT pharmacology in routine visits often centers on symptom relief, such as throat lozenges for irritation, alongside antibiotics for infections and nasal sprays for congestion.",
+    "color": "#91d7e3",
+    "terms": [
+        {
+            "en": "Throat lozenge",
+            "ru": "Леденцы для горла",
+            "example_en": "Throat lozenges can soothe a scratchy throat.",
+            "example_ru": "Леденцы для горла могут облегчить першение в горле.",
+            "note": "Moved here from relevant.md's \"Others\" section",
+            "image": ""
+        }
+    ]
+}

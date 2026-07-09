@@ -1,0 +1,93 @@
+[
+  {
+    "id": "cardiac",
+    "label": "Cardiac",
+    "icon": "🫀",
+    "description": "Heart and vascular system",
+    "types": ["anatomy", "conditions", "procedures", "devices", "pharmacology"]
+  },
+  {
+    "id": "pulmonary",
+    "label": "Pulmonary",
+    "icon": "🫁",
+    "description": "Lungs, airways, and respiratory system",
+    "types": ["anatomy", "conditions", "procedures", "devices", "pharmacology"]
+  },
+  {
+    "id": "dentistry",
+    "label": "Dentistry",
+    "icon": "🦷",
+    "description": "Teeth, gums, and oral health",
+    "types": ["anatomy", "conditions", "procedures", "devices", "pharmacology"]
+  },
+  {
+    "id": "ophthalmology",
+    "label": "Ophthalmology",
+    "icon": "👁️",
+    "description": "Eyes, vision, and ocular health",
+    "types": ["anatomy", "conditions", "procedures", "devices", "pharmacology"]
+  },
+  {
+    "id": "oncology",
+    "label": "Oncology",
+    "icon": "🔬",
+    "description": "Cancer diagnosis, treatment, and care",
+    "types": ["anatomy", "conditions", "procedures", "devices", "pharmacology"]
+  },
+  {
+    "id": "orthopedics",
+    "label": "Orthopedics",
+    "icon": "🦴",
+    "description": "Bones, joints, muscles, and skeletal system",
+    "types": ["anatomy", "conditions", "procedures", "devices", "pharmacology"]
+  },
+  {
+    "id": "physiotherapy",
+    "label": "Physiotherapy",
+    "icon": "🤸",
+    "description": "Physical therapy and rehabilitation",
+    "types": ["anatomy", "conditions", "procedures", "devices", "pharmacology"]
+  },
+  {
+    "id": "radiology",
+    "label": "Radiology",
+    "icon": "🩻",
+    "description": "Medical imaging and radiologic services",
+    "types": ["anatomy", "conditions", "procedures", "devices", "pharmacology"]
+  },
+  {
+    "id": "neurology",
+    "label": "Neurology",
+    "icon": "🧠",
+    "description": "Nervous system, brain, and spinal cord",
+    "types": ["anatomy", "conditions", "procedures", "devices", "pharmacology"]
+  },
+  {
+    "id": "gastroenterology",
+    "label": "Gastroenterology",
+    "icon": "🍽️",
+    "description": "Digestive system, liver, and gastrointestinal tract",
+    "types": ["anatomy", "conditions", "procedures", "devices", "pharmacology"]
+  },
+  {
+    "id": "dermatology",
+    "label": "Dermatology",
+    "icon": "🧴",
+    "description": "Skin, hair, nails, and dermatologic conditions",
+    "types": ["anatomy", "conditions", "procedures", "devices", "pharmacology"]
+  },
+  {
+    "id": "ent",
+    "label": "ENT",
+    "icon": "👂",
+    "description": "Ears, nose, throat, and otolaryngologic system",
+    "types": ["anatomy", "conditions", "procedures", "devices", "pharmacology"]
+  },
+  {
+    "id": "obgyn",
+    "label": "OB/GYN",
+    "icon": "🤰",
+    "description": "Pregnancy, childbirth, and maternal care",
+    "types": ["anatomy", "conditions", "procedures", "devices", "pharmacology"]
+  }
+]

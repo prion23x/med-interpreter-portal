@@ -1,0 +1,63 @@
+{
+    "intro": "DEVICES and equipment used in ENT care.",
+    "reading": "ENT devices include tools for airway support (nasal cannulas, laryngeal masks, endotracheal tubes), hearing (hearing aids, ear tubes), and routine exams (suction catheters, tweezers). Interpreters encounter these most often during procedure explanations and pre-op discussions.",
+    "color": "#7dc4e4",
+    "terms": [
+        {
+            "en": "Nasal cannula",
+            "ru": "Назальная канюля",
+            "example_en": "The nasal cannula delivers oxygen through the nostrils.",
+            "example_ru": "Назальная канюля подаёт кислород через ноздри.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Hearing aid",
+            "ru": "Слуховой аппарат",
+            "example_en": "She wears a hearing aid in her right ear.",
+            "example_ru": "Она носит слуховой аппарат в правом ухе.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Ear tube (tympanostomy tube)",
+            "ru": "Ушной шунт",
+            "example_en": "Ear tubes help drain fluid from the middle ear.",
+            "example_ru": "Ушные шунты помогают отводить жидкость из среднего уха.",
+            "note": "Source: \"eardrum tube\"",
+            "image": ""
+        },
+        {
+            "en": "Laryngeal mask",
+            "ru": "Ларингеальная маска",
+            "example_en": "The anesthesiologist placed a laryngeal mask before surgery.",
+            "example_ru": "Анестезиолог установил ларингеальную маску перед операцией.",
+            "note": "Source: \"larengial mask\"",
+            "image": ""
+        },
+        {
+            "en": "Suction catheter",
+            "ru": "Отсасывающий катетер",
+            "example_en": "The nurse used a suction catheter to clear his airway.",
+            "example_ru": "Медсестра использовала отсасывающий катетер, чтобы очистить дыхательные пути.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Tweezers (forceps)",
+            "ru": "Пинцет",
+            "example_en": "The doctor used tweezers to remove a small object from the ear.",
+            "example_ru": "Врач использовал пинцет, чтобы извлечь небольшой предмет из уха.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Endotracheal (laryngeal) tube",
+            "ru": "Эндотрахеальная (ларингеальная) трубка",
+            "example_en": "The endotracheal tube helps the patient breathe during surgery.",
+            "example_ru": "Эндотрахеальная трубка помогает пациенту дышать во время операции.",
+            "note": "Source: \"larry tube\"",
+            "image": ""
+        }
+    ]
+}

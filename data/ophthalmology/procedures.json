@@ -1,0 +1,103 @@
+{
+    "intro": "PROCEDURES and diagnostic tests commonly performed during eye exams.",
+    "reading": "Ophthalmology procedures include routine diagnostic tests like tonometry and visual field testing, imaging techniques such as fundus examination and corneal ultrasound, and surgical interventions like LASIK. Interpreters need precise procedural vocabulary to support exam instructions and informed consent.",
+    "color": "#a6da95",
+    "terms": [
+        {
+            "en": "Eye reassessment",
+            "ru": "Повторное обследование зрения",
+            "example_en": "We'll schedule an eye reassessment in three months.",
+            "example_ru": "Мы назначим повторное обследование зрения через три месяца.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Squeeze the eyelids shut",
+            "ru": "Зажмуриться",
+            "example_en": "Please squeeze your eyelids shut tightly, then relax.",
+            "example_ru": "Пожалуйста, крепко зажмурьтесь, а затем расслабьтесь.",
+            "note": "Common exam instruction",
+            "image": ""
+        },
+        {
+            "en": "Pull an eyelash",
+            "ru": "Выдернуть ресницу",
+            "example_en": "The doctor had to pull an eyelash that was irritating the eye.",
+            "example_ru": "Врачу пришлось выдернуть ресницу, которая раздражала глаз.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Refraction (test)",
+            "ru": "Рефракция",
+            "example_en": "The refraction test determines your glasses prescription.",
+            "example_ru": "Тест на рефракцию определяет параметры для очков.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Slit-lamp examination",
+            "ru": "Осмотр в щелевой лампе",
+            "example_en": "The slit-lamp examination showed no corneal damage.",
+            "example_ru": "Осмотр в щелевой лампе не выявил повреждений роговицы.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Fundus examination",
+            "ru": "Осмотр глазного дна",
+            "example_en": "A fundus examination checks the health of the retina.",
+            "example_ru": "Осмотр глазного дна позволяет оценить состояние сетчатки.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Visual field test (perimetry)",
+            "ru": "Периметрия",
+            "example_en": "The visual field test can detect early glaucoma damage.",
+            "example_ru": "Периметрия помогает выявить ранние повреждения при глаукоме.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Tonometry",
+            "ru": "Тонометрия",
+            "example_en": "Tonometry measures the pressure inside the eye.",
+            "example_ru": "Тонометрия измеряет давление внутри глаза.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "LASIK surgery",
+            "ru": "Лазерная коррекция зрения (LASIK)",
+            "example_en": "LASIK surgery can reduce the need for glasses.",
+            "example_ru": "Лазерная коррекция зрения может снизить потребность в очках.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Pupil dilation",
+            "ru": "Расширение зрачка",
+            "example_en": "Pupil dilation allows a better view of the retina.",
+            "example_ru": "Расширение зрачка позволяет лучше рассмотреть сетчатку.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Fluorescein staining",
+            "ru": "Окрашивание флуоресцеином",
+            "example_en": "Fluorescein staining highlights scratches on the cornea.",
+            "example_ru": "Окрашивание флуоресцеином выявляет царапины на роговице.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Corneal ultrasound",
+            "ru": "УЗИ роговицы",
+            "example_en": "A corneal ultrasound measures the thickness of the cornea.",
+            "example_ru": "УЗИ роговицы измеряет толщину роговицы.",
+            "note": "Source typo \"carate ultrasound\" corrected",
+            "image": ""
+        }
+    ]
+}

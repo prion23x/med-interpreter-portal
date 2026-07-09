@@ -1,0 +1,231 @@
+{
+    "intro": "Common cardiac procedures, tests, and activity instructions.",
+    "reading": "Cardiac care may involve diagnostic tests such as EKGs, angiograms, stress tests, and catheterization. Treatment can include CPR, bypass surgery, open heart surgery, transplantation, or advanced support such as ECMO.",
+    "color": "#8aadf4",
+    "terms": [
+        {
+            "en": "An angiogram",
+            "ru": "Ангиограмма",
+            "example_en": "The angiogram helps us see whether an artery is blocked.",
+            "example_ru": "Ангиограмма помогает увидеть, заблокирована ли артерия.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "A heart transplant",
+            "ru": "Пересадка сердца",
+            "example_en": "A heart transplant is considered only for severe heart failure.",
+            "example_ru": "Пересадку сердца рассматривают только при тяжелой сердечной недостаточности.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "A stress test",
+            "ru": "Обследование сердца под нагрузкой",
+            "example_en": "The stress test checks how your heart works during exercise.",
+            "example_ru": "Обследование сердца под нагрузкой проверяет, как сердце работает при физической нагрузке.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Chest compressions",
+            "ru": "Непрямой массаж сердца",
+            "example_en": "Start chest compressions if the patient has no pulse.",
+            "example_ru": "Начните непрямой массаж сердца, если у пациента нет пульса.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Transplantation",
+            "ru": "Пересадка",
+            "example_en": "Transplantation requires careful matching and long-term follow-up.",
+            "example_ru": "Пересадка требует тщательного подбора и длительного наблюдения.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Open heart surgery",
+            "ru": "Операция на открытом сердце",
+            "example_en": "Open heart surgery may be needed to repair the valve.",
+            "example_ru": "Для восстановления клапана может потребоваться операция на открытом сердце.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "CPR",
+            "ru": "сердечно-лёгочная реанимация",
+            "example_en": "CPR should begin immediately during cardiac arrest.",
+            "example_ru": "Сердечно-лёгочную реанимацию нужно начать немедленно при остановке сердца.",
+            "note": "cardiopulmonary resuscitation; chest compressions",
+            "image": ""
+        },
+        {
+            "en": "Strenuous activity",
+            "ru": "интенсивная физическая нагрузка, напряженная деятельность",
+            "example_en": "Avoid strenuous activity until the cardiologist clears you.",
+            "example_ru": "Избегайте интенсивной физической нагрузки, пока кардиолог не разрешит.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Bypass",
+            "ru": "шунтирование",
+            "example_en": "A bypass creates a new route for blood around the blockage.",
+            "example_ru": "Шунтирование создает новый путь для крови в обход закупорки.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Coronary bypass surgery",
+            "ru": "операция коронарного шунтирования",
+            "example_en": "Coronary bypass surgery can improve blood flow to the heart muscle.",
+            "example_ru": "Операция коронарного шунтирования может улучшить кровоток к сердечной мышце.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "EKG",
+            "ru": "ЭКГ",
+            "example_en": "The EKG showed an abnormal heart rhythm.",
+            "example_ru": "ЭКГ показала аномальный сердечный ритм.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Cardiac catheterization",
+            "ru": "катетеризация сердца",
+            "example_en": "Cardiac catheterization lets the doctor examine the heart arteries.",
+            "example_ru": "Катетеризация сердца позволяет врачу обследовать артерии сердца.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Cardiopulmonary massage",
+            "ru": "сердечно-лёгочный массаж",
+            "example_en": "Cardiopulmonary massage continued until the rhythm returned.",
+            "example_ru": "Сердечно-лёгочный массаж продолжали, пока ритм не восстановился.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "ECMO flow",
+            "ru": "объёмная скорость кровотока на ЭКМО",
+            "example_en": "The team adjusted the ECMO flow during the procedure.",
+            "example_ru": "Команда отрегулировала объёмную скорость кровотока на ЭКМО во время процедуры.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Stent placement",
+            "ru": "установка стента",
+            "example_en": "Stent placement can open a narrowed artery.",
+            "example_ru": "Установка стента может открыть суженную артерию.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Radiofrequency ablation",
+            "ru": "радиочастотная абляция",
+            "example_en": "Radiofrequency ablation may be used to treat certain rhythm problems.",
+            "example_ru": "Радиочастотная абляция может применяться для лечения некоторых нарушений ритма.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Doppler ultrasound",
+            "ru": "допплерография",
+            "example_en": "A Doppler ultrasound checks blood flow through the vessels.",
+            "example_ru": "Допплерография проверяет кровоток по сосудам.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Carotid ultrasound",
+            "ru": "УЗИ сонных артерий",
+            "example_en": "A carotid ultrasound checks blood flow in the neck arteries.",
+            "example_ru": "УЗИ сонных артерий проверяет кровоток в артериях шеи.",
+            "note": "normalized from unclear source row",
+            "image": ""
+        },
+        {
+            "en": "Blood draw",
+            "ru": "забор крови",
+            "example_en": "A blood draw is needed before the procedure.",
+            "example_ru": "Перед процедурой нужен забор крови.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Blood collection tube",
+            "ru": "пробирка с кровью",
+            "example_en": "The nurse filled one tube of blood for the lab.",
+            "example_ru": "Медсестра наполнила одну пробирку с кровью для лаборатории.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Port blood draw",
+            "ru": "забор крови через порт-систему",
+            "example_en": "A port blood draw may be easier if your veins are hard to access.",
+            "example_ru": "Забор крови через порт-систему может быть проще, если к венам трудно получить доступ.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Port access",
+            "ru": "пункция порт-системы",
+            "example_en": "Port access must be done using sterile technique.",
+            "example_ru": "Пункцию порт-системы нужно выполнять стерильно.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Nuclear medicine scan",
+            "ru": "радиоизотопное сканирование",
+            "example_en": "A nuclear medicine scan can show how well blood reaches the heart muscle.",
+            "example_ru": "Радиоизотопное сканирование может показать, насколько хорошо кровь поступает к сердечной мышце.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Take it easy",
+            "ru": "не перенапрягайтесь",
+            "example_en": "Take it easy for the rest of the day after the test.",
+            "example_ru": "Не перенапрягайтесь до конца дня после обследования.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Do not overdo it",
+            "ru": "не перенапрягайтесь",
+            "example_en": "Do not overdo it while you are recovering.",
+            "example_ru": "Не перенапрягайтесь, пока восстанавливаетесь.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Stamina",
+            "ru": "выносливость",
+            "example_en": "Cardiac rehabilitation can help improve stamina.",
+            "example_ru": "Кардиореабилитация может помочь улучшить выносливость.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "To draw blood",
+            "ru": "брать кровь",
+            "example_en": "We need to draw blood before the scan.",
+            "example_ru": "Перед сканированием нам нужно взять кровь.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "To poke and take blood",
+            "ru": "сделать прокол для забора крови",
+            "example_en": "The nurse will poke the vein and take blood for the test.",
+            "example_ru": "Медсестра сделает прокол вены для забора крови на анализ.",
+            "note": "",
+            "image": ""
+        }
+    ]
+}

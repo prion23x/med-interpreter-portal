@@ -1,0 +1,143 @@
+{
+    "intro": "PROCEDURES, tests, and personnel involved in orthopedic care.",
+    "reading": "Orthopedic procedures include diagnostic tests (bone density scans), surgical repairs (rotator cuff repair, kyphoplasty), rehabilitative exercises, and the care teams that coordinate treatment. Interpreters need precise procedural vocabulary to support informed consent and rehab instructions.",
+    "color": "#8bd5ca",
+    "terms": [
+        {
+            "en": "Bone density test",
+            "ru": "Тест плотности костей",
+            "example_en": "The bone density test showed early signs of osteoporosis.",
+            "example_ru": "Тест плотности костей выявил ранние признаки остеопороза.",
+            "note": "Also called DEXA scan / bone mineral density test; source listed as X-ray-based and general test separately",
+            "image": ""
+        },
+        {
+            "en": "Orthopedic surgery",
+            "ru": "Ортопедическая хирургия",
+            "example_en": "He underwent orthopedic surgery to repair the fracture.",
+            "example_ru": "Ему провели ортопедическую операцию для восстановления перелома.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Leg alignment",
+            "ru": "Положение (выравнивание) ног",
+            "example_en": "The surgeon assessed the leg alignment before the procedure.",
+            "example_ru": "Хирург оценил выравнивание ног перед процедурой.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Core strengthening exercises",
+            "ru": "Упражнения для укрепления мышц пресса",
+            "example_en": "Core strengthening exercises support the lower back.",
+            "example_ru": "Упражнения для укрепления мышц пресса поддерживают поясницу.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Range of motion",
+            "ru": "Диапазон движения (подвижность суставов)",
+            "example_en": "The therapist measured his range of motion after surgery.",
+            "example_ru": "Терапевт измерил диапазон движения после операции.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Bone cement",
+            "ru": "Костный цемент",
+            "example_en": "Bone cement was used to secure the implant.",
+            "example_ru": "Костный цемент использовался для фиксации импланта.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Kyphoplasty",
+            "ru": "Кифопластика",
+            "example_en": "Kyphoplasty can relieve pain from a compressed vertebra.",
+            "example_ru": "Кифопластика может облегчить боль от компрессии позвонка.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Rotator cuff repair",
+            "ru": "Восстановление вращательной манжеты плеча",
+            "example_en": "Rotator cuff repair is often done arthroscopically.",
+            "example_ru": "Восстановление вращательной манжеты плеча часто выполняется артроскопически.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Joint irrigation",
+            "ru": "Промывание сустава",
+            "example_en": "Joint irrigation removes debris from the joint space.",
+            "example_ru": "Промывание сустава удаляет посторонние частицы из суставного пространства.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Shoulder debridement",
+            "ru": "Хирургическая обработка плечевого сустава",
+            "example_en": "Shoulder debridement removes damaged tissue from the joint.",
+            "example_ru": "Хирургическая обработка плечевого сустава удаляет повреждённую ткань из сустава.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Scapular retraction",
+            "ru": "Сведение лопаток (приведение лопаток к позвоночнику)",
+            "example_en": "Retract your shoulders together like this.",
+            "example_ru": "Сведите лопатки вместе, вот так.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Scapular protraction",
+            "ru": "Развести лопатки (протракция лопаток)",
+            "example_en": "Now protract your shoulders forward.",
+            "example_ru": "Теперь разведите лопатки вперёд.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "To flex a tendon",
+            "ru": "Сгибать (задействовать) сухожилие",
+            "example_en": "Try to flex the tendon slowly during the exercise.",
+            "example_ru": "Постарайтесь медленно сгибать сухожилие во время упражнения.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Reverse shoulder replacement",
+            "ru": "Реверсивное эндопротезирование плечевого сустава",
+            "example_en": "Reverse shoulder replacement is used for severe rotator cuff damage.",
+            "example_ru": "Реверсивное эндопротезирование плечевого сустава применяется при тяжёлом повреждении вращательной манжеты.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Orthopedic surgery team",
+            "ru": "Команда ортопедической хирургии",
+            "example_en": "The orthopedic surgery team reviewed the scans before the operation.",
+            "example_ru": "Команда ортопедической хирургии изучила снимки перед операцией.",
+            "note": "Personnel, not a procedure itself",
+            "image": ""
+        },
+        {
+            "en": "Spine team",
+            "ru": "Команда специалистов по лечению позвоночника",
+            "example_en": "The spine team recommended physical therapy first.",
+            "example_ru": "Команда специалистов по лечению позвоночника сначала рекомендовала физиотерапию.",
+            "note": "Personnel, not a procedure itself",
+            "image": ""
+        },
+        {
+            "en": "Orthopedist",
+            "ru": "Ортопед",
+            "example_en": "The orthopedist reviewed the X-ray results.",
+            "example_ru": "Ортопед изучил результаты рентгена.",
+            "note": "Specialist/profession, not a procedure itself",
+            "image": ""
+        }
+    ]
+}

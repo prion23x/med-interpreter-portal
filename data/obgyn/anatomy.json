@@ -1,0 +1,119 @@
+{
+    "intro": "STRUCTURES and general OB/GYN terms used in clinical communication.",
+    "reading": "OB/GYN anatomy covers the reproductive organs (uterus, fallopian tubes, ovaries), the urinary structures interpreters often hear alongside them (urethra, ureters), and pregnancy/postpartum-specific structures like the amniotic sac and umbilical cord. Breast anatomy also falls under this topic during OB/GYN visits.",
+    "color": "#eed49f",
+    "terms": [
+        {
+            "en": "Fallopian Tubes",
+            "ru": "Маточные трубы",
+            "example_en": "The fallopian tubes carry the egg from the ovary to the uterus.",
+            "example_ru": "Маточные трубы переносят яйцеклетку из яичника в матку.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Amniotic Sac",
+            "ru": "Амниотическая оболочка",
+            "example_en": "The amniotic sac holds the fluid that cushions the fetus.",
+            "example_ru": "Амниотическая оболочка удерживает жидкость, которая защищает плод.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Urethra",
+            "ru": "Мочеиспускательный канал",
+            "example_en": "The urethra carries urine out of the bladder.",
+            "example_ru": "Мочеиспускательный канал выводит мочу из мочевого пузыря.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Ureters",
+            "ru": "Мочеточники",
+            "example_en": "The ureters connect the kidneys to the bladder.",
+            "example_ru": "Мочеточники соединяют почки с мочевым пузырём.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Uterus",
+            "ru": "Матка",
+            "example_en": "The uterus is where the fetus develops during pregnancy.",
+            "example_ru": "Матка — это орган, где развивается плод во время беременности.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Mammary Glands",
+            "ru": "Молочные железы",
+            "example_en": "The mammary glands produce milk after childbirth.",
+            "example_ru": "Молочные железы вырабатывают молоко после родов.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Nipple",
+            "ru": "Сосок",
+            "example_en": "The nipple can become sore during breastfeeding.",
+            "example_ru": "Сосок может воспаляться во время грудного вскармливания.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Nipple Tissue",
+            "ru": "Ткань соска",
+            "example_en": "A biopsy was taken from the nipple tissue.",
+            "example_ru": "Была взята биопсия ткани соска.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Clitoral Glans",
+            "ru": "Головка клитора",
+            "example_en": "The clitoral glans is highly sensitive.",
+            "example_ru": "Головка клитора очень чувствительна.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Umbilical Cord",
+            "ru": "Пуповина",
+            "example_en": "The umbilical cord was clamped right after delivery.",
+            "example_ru": "Пуповину пережали сразу после родов.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Umbilical Stump",
+            "ru": "Пуповинный остаток",
+            "example_en": "Keep the umbilical stump clean and dry until it falls off.",
+            "example_ru": "Держите пуповинный остаток чистым и сухим, пока он не отпадёт.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Umbilical Area",
+            "ru": "Область пупка",
+            "example_en": "There was mild redness in the umbilical area.",
+            "example_ru": "В области пупка отмечалось лёгкое покраснение.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Belly Button / Navel",
+            "ru": "Пупок",
+            "example_en": "The baby's belly button healed within two weeks.",
+            "example_ru": "Пупок у ребёнка зажил в течение двух недель.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Colostrum",
+            "ru": "Молозиво",
+            "example_en": "Colostrum is the first milk produced after birth.",
+            "example_ru": "Молозиво — это первое молоко, вырабатываемое после родов.",
+            "note": "",
+            "image": ""
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "intro": "DEVICES and vision-correction equipment used in eye care.",
+    "reading": "Ophthalmology devices include everyday vision aids like eyeglasses and contact lenses, as well as protective and diagnostic tools such as eye patches and eye charts. Understanding lens types and measurement units like diopters helps interpreters accurately convey prescriptions.",
+    "color": "#8aadf4",
+    "terms": [
+        {
+            "en": "Eye chart",
+            "ru": "Таблица для проверки зрения",
+            "example_en": "Please read the smallest line you can see on the eye chart.",
+            "example_ru": "Пожалуйста, прочитайте самую маленькую строку, которую видите на таблице.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Contact lenses",
+            "ru": "Контактные линзы",
+            "example_en": "She has worn contact lenses for ten years.",
+            "example_ru": "Она носит контактные линзы уже десять лет.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Eyeglasses",
+            "ru": "Очки",
+            "example_en": "He needs new eyeglasses for reading.",
+            "example_ru": "Ему нужны новые очки для чтения.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Diopter",
+            "ru": "Диоптрия",
+            "example_en": "Your new prescription is minus two diopters.",
+            "example_ru": "Ваш новый рецепт — минус две диоптрии.",
+            "note": "Unit of lens power, not a physical device",
+            "image": ""
+        },
+        {
+            "en": "Eyeglass frame",
+            "ru": "Оправа",
+            "example_en": "She chose a lightweight metal frame.",
+            "example_ru": "Она выбрала лёгкую металлическую оправу.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Bifocal lens",
+            "ru": "Бифокальная линза",
+            "example_en": "Bifocal lenses correct both near and distance vision.",
+            "example_ru": "Бифокальные линзы корректируют зрение как вблизи, так и вдали.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Tinted lenses",
+            "ru": "Затемнённые линзы",
+            "example_en": "Tinted lenses can reduce glare outdoors.",
+            "example_ru": "Затемнённые линзы уменьшают блики на улице.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Eye patch",
+            "ru": "Глазная повязка",
+            "example_en": "Wear the eye patch for the first day after surgery.",
+            "example_ru": "Носите глазную повязку в течение первого дня после операции.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Single vision lenses",
+            "ru": "Однофокусные линзы",
+            "example_en": "Single vision lenses correct for only one distance.",
+            "example_ru": "Однофокусные линзы корректируют зрение только на одном расстоянии.",
+            "note": "",
+            "image": ""
+        }
+    ]
+}

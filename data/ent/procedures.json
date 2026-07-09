@@ -1,0 +1,71 @@
+{
+    "intro": "PROCEDURES commonly performed in ENT care.",
+    "reading": "ENT procedures include surgeries (tonsillectomy, adenoidectomy, tracheostomy), diagnostic tests (hearing tests, swallow studies), and routine in-office steps like gargling instructions or ear canal exams. Precise procedural vocabulary supports informed consent conversations.",
+    "color": "#8bd5ca",
+    "terms": [
+        {
+            "en": "Gargling",
+            "ru": "Полоскание горла",
+            "example_en": "Gargling with warm salt water can ease a sore throat.",
+            "example_ru": "Полоскание горла тёплой солёной водой может облегчить боль в горле.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Tonsillectomy",
+            "ru": "Удаление миндалин (тонзиллэктомия)",
+            "example_en": "The surgeon recommended a tonsillectomy due to recurrent infections.",
+            "example_ru": "Хирург рекомендовал удаление миндалин из-за частых инфекций.",
+            "note": "Merged 3 duplicate source lines",
+            "image": ""
+        },
+        {
+            "en": "Adenoidectomy",
+            "ru": "Удаление аденоидов (аденоидэктомия)",
+            "example_en": "An adenoidectomy may help with chronic nasal blockage in children.",
+            "example_ru": "Аденоидэктомия может помочь при хронической заложенности носа у детей.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Tracheostomy",
+            "ru": "Трахеостомия",
+            "example_en": "A tracheostomy creates an opening in the neck to help with breathing.",
+            "example_ru": "Трахеостомия создаёт отверстие в шее для облегчения дыхания.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Swallow study",
+            "ru": "Исследование акта глотания",
+            "example_en": "During the swallow study, the patient was asked to take a swallow of thickened liquid.",
+            "example_ru": "Во время исследования акта глотания пациента попросили сделать глоток загущённой жидкости.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Curettage (scraping out)",
+            "ru": "Выскабливание",
+            "example_en": "The doctor performed a light curettage to clear debris from the ear canal.",
+            "example_ru": "Врач провёл лёгкое выскабливание, чтобы удалить загрязнения из слухового прохода.",
+            "note": "Source phrase: \"to scratch out\"",
+            "image": ""
+        },
+        {
+            "en": "Straightening the ear canal",
+            "ru": "Выпрямление слухового прохода",
+            "example_en": "The doctor gently pulled the ear to straighten the ear canal for examination.",
+            "example_ru": "Врач слегка потянул за ухо, чтобы выпрямить слуховой проход для осмотра.",
+            "note": "Source: \"to strain an ear canal\" — likely means straighten, for otoscopic exam",
+            "image": ""
+        },
+        {
+            "en": "Hearing test (audiometry)",
+            "ru": "Проверка слуха (аудиометрия)",
+            "example_en": "Raise your hand each time you hear a beep during the hearing test.",
+            "example_ru": "Поднимайте руку каждый раз, когда слышите звуковой сигнал во время проверки слуха.",
+            "note": "Merged duplicate source line",
+            "image": ""
+        }
+    ]
+}

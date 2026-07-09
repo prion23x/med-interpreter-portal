@@ -1,0 +1,279 @@
+{
+    "intro": "Common orthopedic CONDITIONS, injuries, and symptoms discussed during appointments.",
+    "reading": "Orthopedic conditions include fractures, joint disease, spinal deformities, and soft-tissue injuries. Interpreters should know both formal diagnostic terms (osteoarthritis, stenosis) and the descriptive phrases patients and clinicians use for symptoms like gait changes or pain.",
+    "color": "#b7bdf8",
+    "terms": [
+        {
+            "en": "Arthritis",
+            "ru": "Артрит",
+            "example_en": "Arthritis causes joint pain and stiffness.",
+            "example_ru": "Артрит вызывает боль и скованность в суставах.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Femur fracture",
+            "ru": "Перелом бедренной кости",
+            "example_en": "He suffered a femur fracture in the accident.",
+            "example_ru": "Он получил перелом бедренной кости в результате аварии.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Femur neck fracture",
+            "ru": "Перелом шейки бедренной кости",
+            "example_en": "A femur neck fracture is common in older adults after a fall.",
+            "example_ru": "Перелом шейки бедренной кости часто встречается у пожилых людей после падения.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Bones healed incorrectly (malunion)",
+            "ru": "Кости срослись неправильно",
+            "example_en": "The bones healed incorrectly and required surgery to correct.",
+            "example_ru": "Кости срослись неправильно, и потребовалась операция для исправления.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Shoulder cuff injury",
+            "ru": "Травма вращающей манжеты плеча",
+            "example_en": "The shoulder cuff injury limited his range of motion.",
+            "example_ru": "Травма вращающей манжеты плеча ограничила подвижность его плеча.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Fracture (general)",
+            "ru": "Перелом",
+            "example_en": "The X-ray confirmed a fracture in the wrist.",
+            "example_ru": "Рентген подтвердил перелом запястья.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Osteoporosis",
+            "ru": "Остеопороз",
+            "example_en": "Osteoporosis makes bones fragile and prone to fracture.",
+            "example_ru": "Остеопороз делает кости хрупкими и склонными к перелому.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Osteopenia",
+            "ru": "Остеопения",
+            "example_en": "Osteopenia is an early stage of bone density loss.",
+            "example_ru": "Остеопения — это ранняя стадия снижения плотности костей.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Bone-deep (rattling) pain",
+            "ru": "Пронизывающая до костей боль",
+            "example_en": "She described a rattling pain deep in her bones.",
+            "example_ru": "Она описала пронизывающую до костей боль.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Spine collapses (over time)",
+            "ru": "Позвоночник со временем проседает",
+            "example_en": "Without treatment, the spine can collapse over time.",
+            "example_ru": "Без лечения позвоночник может со временем проседать.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Dislocation and loosening",
+            "ru": "Вывих и расшатывание (ослабление)",
+            "example_en": "The surgeon checked for dislocation and loosening of the implant.",
+            "example_ru": "Хирург проверил наличие вывиха и расшатывания импланта.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Osteoarthritis",
+            "ru": "Остеоартрит",
+            "example_en": "Osteoarthritis is the most common form of joint disease.",
+            "example_ru": "Остеоартрит — самая распространённая форма заболевания суставов.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Primary osteoarthritis",
+            "ru": "Первичный остеоартрит",
+            "example_en": "Primary osteoarthritis develops without a known prior injury.",
+            "example_ru": "Первичный остеоартрит развивается без известной предшествующей травмы.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Kyphosis",
+            "ru": "Кифоз",
+            "example_en": "Kyphosis causes an excessive forward curve of the upper spine.",
+            "example_ru": "Кифоз вызывает чрезмерный изгиб верхней части позвоночника вперёд.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Spinal curvature",
+            "ru": "Искривление (изгиб) позвоночника",
+            "example_en": "The scan showed an abnormal spinal curvature.",
+            "example_ru": "Снимок показал аномальное искривление позвоночника.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Multiple spinal fractures",
+            "ru": "Множественные переломы позвоночника",
+            "example_en": "The patient had multiple spinal fractures from osteoporosis.",
+            "example_ru": "У пациента было несколько переломов позвоночника вследствие остеопороза.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Vertebral fracture",
+            "ru": "Трещина в позвонке",
+            "example_en": "A small vertebral fracture was visible on the scan.",
+            "example_ru": "На снимке была видна небольшая трещина в позвонке.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Torn ligaments",
+            "ru": "Порванные связки",
+            "example_en": "He tore the ligaments in his knee during the game.",
+            "example_ru": "Он порвал связки колена во время игры.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Rotator cuff tear",
+            "ru": "Разрыв вращательной манжеты плеча",
+            "example_en": "A rotator cuff tear often causes pain when lifting the arm.",
+            "example_ru": "Разрыв вращательной манжеты плеча часто вызывает боль при поднятии руки.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Hardware loosening",
+            "ru": "Расшатывание компонентов (конструкции)",
+            "example_en": "Hardware loosening may require revision surgery.",
+            "example_ru": "Расшатывание конструкции может потребовать повторной операции.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Joint contractures",
+            "ru": "Контрактуры сустава",
+            "example_en": "Joint contractures limit the normal range of motion.",
+            "example_ru": "Контрактуры сустава ограничивают нормальную подвижность.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Dislocation",
+            "ru": "Вывих",
+            "example_en": "The shoulder dislocation was reduced in the emergency room.",
+            "example_ru": "Вывих плеча был вправлен в приёмном отделении.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Bone alignment",
+            "ru": "Расположение (выравнивание) кости",
+            "example_en": "The doctor checked the bone alignment after the cast was removed.",
+            "example_ru": "Врач проверил выравнивание кости после снятия гипса.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Bone healing",
+            "ru": "Срастание кости",
+            "example_en": "Bone healing typically takes six to eight weeks.",
+            "example_ru": "Срастание кости обычно занимает от шести до восьми недель.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Non-displaced fracture",
+            "ru": "Перелом без смещения",
+            "example_en": "A non-displaced fracture often heals without surgery.",
+            "example_ru": "Перелом без смещения часто заживает без операции.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Stooped / bent-over gait",
+            "ru": "Сгорбленная походка (ходить сгорбленным)",
+            "example_en": "Kyphosis can cause a stooped, bent-over gait.",
+            "example_ru": "Кифоз может вызывать сгорбленную походку.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Sprained/twisted finger",
+            "ru": "Подвёрнутый палец",
+            "example_en": "She sprained her finger while playing volleyball.",
+            "example_ru": "Она подвернула палец во время игры в волейбол.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Limping",
+            "ru": "Хромота",
+            "example_en": "He has been limping since the injury.",
+            "example_ru": "Он хромает с момента травмы.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "To stoop (verb)",
+            "ru": "Сутулиться, горбиться",
+            "example_en": "Try not to stoop when you walk.",
+            "example_ru": "Старайтесь не сутулиться при ходьбе.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Spinal canal stenosis",
+            "ru": "Сужение (спинномозгового) канала",
+            "example_en": "Spinal canal stenosis can compress the nerves.",
+            "example_ru": "Сужение спинномозгового канала может сдавливать нервы.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "To dislocate (verb)",
+            "ru": "Вывихнуть, сместить (сустав)",
+            "example_en": "He dislocated his shoulder during the fall.",
+            "example_ru": "Он вывихнул плечо во время падения.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Twisting (injury mechanism)",
+            "ru": "Скручивание, поворот (торсия)",
+            "example_en": "The injury happened from twisting the knee suddenly.",
+            "example_ru": "Травма произошла из-за резкого скручивания колена.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Muscle strain",
+            "ru": "Растяжение мышц",
+            "example_en": "A muscle strain can cause pain and swelling.",
+            "example_ru": "Растяжение мышц может вызывать боль и отёк.",
+            "note": "Related terms in source: мышечный разрыв (muscle tear), миозит (myositis)",
+            "image": ""
+        },
+        {
+            "en": "Phantom limb pain",
+            "ru": "Фантомная боль в конечности",
+            "example_en": "Phantom limb pain is common after an amputation.",
+            "example_ru": "Фантомная боль в конечности часто возникает после ампутации.",
+            "note": "Also phrased as боль в ампутированной конечности / постампутационная боль",
+            "image": ""
+        }
+    ]
+}

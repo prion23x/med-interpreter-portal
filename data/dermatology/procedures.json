@@ -1,0 +1,71 @@
+{
+    "intro": "PROCEDURES commonly performed in dermatology and wound care.",
+    "reading": "Dermatology procedures center on wound care: cleaning, numbing, dressing, and wrapping, along with instructions patients hear about applying medication and managing dressings at home.",
+    "color": "#8aadf4",
+    "terms": [
+        {
+            "en": "Apply topically",
+            "ru": "Применять местно",
+            "example_en": "Apply the cream topically twice a day.",
+            "example_ru": "Применяйте крем местно два раза в день.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Antiseptic wash",
+            "ru": "Антисептическая обработка",
+            "example_en": "The wound was cleaned with an antiseptic wash.",
+            "example_ru": "Рана была обработана антисептическим раствором.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Numbing the skin",
+            "ru": "Обезболивание кожи",
+            "example_en": "They numb the skin around this area before the procedure.",
+            "example_ru": "Кожу вокруг этой области обезболивают перед процедурой.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Saturated dressing",
+            "ru": "Пропитавшаяся повязка",
+            "example_en": "Change the dressing if it gets saturated.",
+            "example_ru": "Смените повязку, если она пропиталась.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Wound care",
+            "ru": "Уход за раной (обработка раны)",
+            "example_en": "Proper wound care helps prevent infection.",
+            "example_ru": "Правильный уход за раной помогает предотвратить инфекцию.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Direct firm pressure",
+            "ru": "Прямое (плотное) давление",
+            "example_en": "Apply direct firm pressure to stop the bleeding.",
+            "example_ru": "Примените прямое плотное давление, чтобы остановить кровотечение.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Treat / clean the wound",
+            "ru": "Обработать рану",
+            "example_en": "Please clean the wound before applying the dressing.",
+            "example_ru": "Пожалуйста, обработайте рану перед наложением повязки.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Limb wrapping",
+            "ru": "Бинтование конечности",
+            "example_en": "Limb wrapping helps control the swelling.",
+            "example_ru": "Бинтование конечности помогает контролировать отёк.",
+            "note": "",
+            "image": ""
+        }
+    ]
+}

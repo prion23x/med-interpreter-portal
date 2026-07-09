@@ -1,0 +1,55 @@
+{
+    "intro": "DEVICES, dressings, and garments used in dermatological care.",
+    "reading": "Dermatology-related devices are mostly wound-care and compression products: dressings, patches, compression garments and socks, plus general supplies like mild soap used in wound cleaning.",
+    "color": "#91d7e3",
+    "terms": [
+        {
+            "en": "Medical patches",
+            "ru": "Медицинские пластыри",
+            "example_en": "Apply the medical patch directly over the area.",
+            "example_ru": "Наклейте медицинский пластырь непосредственно на область.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Stocking",
+            "ru": "Чулок",
+            "example_en": "Wear the compression stocking during the day.",
+            "example_ru": "Носите компрессионный чулок в течение дня.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Garment (compression garment)",
+            "ru": "Компрессионное изделие",
+            "example_en": "The compression garment helps reduce swelling.",
+            "example_ru": "Компрессионное изделие помогает уменьшить отёк.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Dressing",
+            "ru": "Повязка (перевязочный материал)",
+            "example_en": "Change the dressing once a day.",
+            "example_ru": "Меняйте повязку один раз в день.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Shrinker sock",
+            "ru": "Компрессионный носок",
+            "example_en": "The shrinker sock reduces swelling after amputation.",
+            "example_ru": "Компрессионный носок уменьшает отёк после ампутации.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Mild soap",
+            "ru": "Мягкое (щадящее) мыло",
+            "example_en": "Clean the wound with mild soap and water.",
+            "example_ru": "Промойте рану мягким мылом и водой.",
+            "note": "General wound-care supply.",
+            "image": ""
+        }
+    ]
+}

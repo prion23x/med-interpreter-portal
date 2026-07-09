@@ -1,0 +1,119 @@
+{
+    "intro": "DEVICES and equipment used in orthopedic treatment and mobility support.",
+    "reading": "Orthopedic devices range from mobility aids like canes, crutches, and wheelchairs to fixation hardware like rods, plates, and screws used in surgery. Interpreters should distinguish between temporary support devices and permanent surgical hardware.",
+    "color": "#8aadf4",
+    "terms": [
+        {
+            "en": "Cane",
+            "ru": "Трость",
+            "example_en": "He uses a cane to help with balance.",
+            "example_ru": "Он использует трость для поддержания равновесия.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Crutches",
+            "ru": "Костыли",
+            "example_en": "She was given crutches after the ankle surgery.",
+            "example_ru": "После операции на лодыжке ей выдали костыли.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Sling",
+            "ru": "Повязка",
+            "example_en": "His arm was in a sling for three weeks.",
+            "example_ru": "Его рука была в повязке в течение трёх недель.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Cast",
+            "ru": "Гипс",
+            "example_en": "The cast will stay on for six weeks.",
+            "example_ru": "Гипс останется на шесть недель.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Wheelchair",
+            "ru": "Инвалидная коляска",
+            "example_en": "He uses a wheelchair while recovering from surgery.",
+            "example_ru": "Он использует инвалидную коляску во время восстановления после операции.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Splint",
+            "ru": "Шина",
+            "example_en": "The nurse put a splint on his broken finger.",
+            "example_ru": "Медсестра наложила шину на его сломанный палец.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Rods (surgical)",
+            "ru": "Стержни",
+            "example_en": "Rods were used to stabilize the fracture.",
+            "example_ru": "Для стабилизации перелома использовались стержни.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Metal plates, pins and rods",
+            "ru": "Металлические пластины, спицы и стержни",
+            "example_en": "Metal plates, pins, and rods hold the bone in place while it heals.",
+            "example_ru": "Металлические пластины, спицы и стержни удерживают кость на месте во время заживления.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Brace",
+            "ru": "Корсет (фиксатор)",
+            "example_en": "We are going to redesign these braces for a better fit.",
+            "example_ru": "Мы переделаем дизайн этих фиксаторов для лучшей посадки.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Arm brace",
+            "ru": "Фиксатор руки",
+            "example_en": "The arm brace keeps the elbow from bending too far.",
+            "example_ru": "Фиксатор руки не даёт локтю сгибаться слишком сильно.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Wheelchair ramp",
+            "ru": "Пандус для инвалидной коляски",
+            "example_en": "The clinic installed a wheelchair ramp at the entrance.",
+            "example_ru": "Клиника установила пандус для инвалидной коляски при входе.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Tourniquet",
+            "ru": "Жгут",
+            "example_en": "A tourniquet was applied to control the bleeding.",
+            "example_ru": "Жгут был наложен для остановки кровотечения.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Screw (surgical)",
+            "ru": "Винтик",
+            "example_en": "A small screw secures the plate to the bone.",
+            "example_ru": "Небольшой винтик крепит пластину к кости.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Cervical collar (neck brace)",
+            "ru": "Воротник на шее (шейный ортез)",
+            "example_en": "He was fitted with a cervical collar after the accident.",
+            "example_ru": "После аварии ему надели воротник на шею.",
+            "note": "",
+            "image": ""
+        }
+    ]
+}

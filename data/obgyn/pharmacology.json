@@ -1,0 +1,39 @@
+{
+    "intro": "MEDICATIONS and hormone-related agents used in OB/GYN care.",
+    "reading": "OB/GYN pharmacology covers pregnancy-support supplements (prenatal vitamins, folic acid), hormone therapies (HRT), and key hormone markers like hCG that guide diagnosis and monitoring even though they are not administered as drugs.",
+    "color": "#ed8796",
+    "terms": [
+        {
+            "en": "Prenatal Vitamins",
+            "ru": "Витамины для беременных",
+            "example_en": "She started taking prenatal vitamins before conception.",
+            "example_ru": "Она начала принимать витамины для беременных ещё до зачатия.",
+            "note": "Source translation had a typo (\"бедренных\" instead of \"беременных\").",
+            "image": ""
+        },
+        {
+            "en": "Hormone Replacement Therapy (HRT)",
+            "ru": "Гормонозаместительная терапия",
+            "example_en": "HRT can help relieve menopausal symptoms.",
+            "example_ru": "Гормонозаместительная терапия может облегчить симптомы менопаузы.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Folic Acid",
+            "ru": "Фолиевая кислота",
+            "example_en": "Folic acid helps prevent neural tube defects.",
+            "example_ru": "Фолиевая кислота помогает предотвратить дефекты нервной трубки.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Human Chorionic Gonadotropin (hCG)",
+            "ru": "Хорионический гонадотропин человека (ХГЧ)",
+            "example_en": "An hCG blood test can confirm pregnancy.",
+            "example_ru": "Анализ крови на ХГЧ может подтвердить беременность.",
+            "note": "Endogenous pregnancy hormone/marker, not an administered medication; source had the English/Russian columns reversed.",
+            "image": ""
+        }
+    ]
+}

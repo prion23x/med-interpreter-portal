@@ -1,0 +1,391 @@
+{
+    "intro": "STRUCTURES and general cardiac terms used in clinical communication.",
+    "reading": "The heart has four chambers, four main valves, a protective pericardial sac, and blood vessels that carry blood to and from the body. Blood components, cholesterol values, and blood pressure are common general terms interpreters hear during cardiac visits.",
+    "color": "#ed8796",
+    "terms": [
+        {
+            "en": "Blood pressure",
+            "ru": "Артериальное давление",
+            "example_en": "Please check the blood pressure in both arms.",
+            "example_ru": "Пожалуйста, измерьте артериальное давление на обеих руках.",
+            "note": "Не кровяное",
+            "image": "https://cdn.prod.website-files.com/66bdfc87da2d5175e8c7dd54/673a1c2ca94458bd37e800b3_blood-pressure.jpeg"
+        },
+        {
+            "en": "Pericardium",
+            "ru": "Околосердечный мешок",
+            "example_en": "The pericardium protects the heart and helps reduce friction.",
+            "example_ru": "Околосердечный мешок защищает сердце и помогает уменьшить трение.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "A ventricle",
+            "ru": "Желудочек",
+            "example_en": "The left ventricle pumps blood to the rest of the body.",
+            "example_ru": "Левый желудочек перекачивает кровь в остальные части тела.",
+            "note": "e.g., in brain, heart",
+            "image": "https://www.thoughtco.com/thmb/iyctF-drsw6xgSR-ruu7h9AC4Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/heart_cross-section-57ed79845f9b586c3512474e.jpg"
+        },
+        {
+            "en": "An atrium",
+            "ru": "Предсердие",
+            "example_en": "The right atrium receives blood returning from the body.",
+            "example_ru": "Правое предсердие получает кровь, возвращающуюся из организма.",
+            "note": "",
+            "image": "https://www.thoughtco.com/thmb/iyctF-drsw6xgSR-ruu7h9AC4Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/heart_cross-section-57ed79845f9b586c3512474e.jpg"
+        },
+        {
+            "en": "Cholesterol level",
+            "ru": "уровень холестерина",
+            "example_en": "Your cholesterol level is higher than we expected.",
+            "example_ru": "Ваш уровень холестерина выше, чем мы ожидали.",
+            "note": "",
+            "image": "https://www.chandigarhayurvedcentre.com/wp-content/uploads/2024/03/high-cholesterol.jpg"
+        },
+        {
+            "en": "HDL",
+            "ru": "липопротеины высокой плотности (ЛПВП)",
+            "example_en": "A higher HDL level can be protective for the heart.",
+            "example_ru": "Более высокий уровень ЛПВП может защищать сердце.",
+            "note": "хороший холестерин",
+            "image": "https://www.herbovedam.com/cdn/shop/articles/7xm508843.jpg?v=1708428975"
+        },
+        {
+            "en": "LDL",
+            "ru": "липопротеины низкой плотности (ЛПНП)",
+            "example_en": "We want to lower your LDL to reduce cardiac risk.",
+            "example_ru": "Мы хотим снизить уровень ЛПНП, чтобы уменьшить риск для сердца.",
+            "note": "плохой холестерин",
+            "image": "https://www.herbovedam.com/cdn/shop/articles/7xm508843.jpg?v=1708428975"
+        },
+        {
+            "en": "Red blood cells",
+            "ru": "эритроциты",
+            "example_en": "Red blood cells carry oxygen through the bloodstream.",
+            "example_ru": "Эритроциты переносят кислород по кровотоку.",
+            "note": "",
+            "image": "https://physicsworld.com/wp-content/uploads/2018/09/Red-blood-cells.png"
+        },
+        {
+            "en": "White blood cells",
+            "ru": "лейкоциты",
+            "example_en": "White blood cells help the body fight infection.",
+            "example_ru": "Лейкоциты помогают организму бороться с инфекцией.",
+            "note": "",
+            "image": "https://cdn11.bigcommerce.com/s-gresmczhg1/product_images/uploaded_images/redbloodcells.jpg"
+        },
+        {
+            "en": "Platelets",
+            "ru": "тромбоциты",
+            "example_en": "Platelets help the blood form clots after bleeding.",
+            "example_ru": "Тромбоциты помогают крови образовывать сгустки после кровотечения.",
+            "note": "",
+            "image": "https://cdn11.bigcommerce.com/s-gresmczhg1/product_images/uploaded_images/redbloodcells.jpg"
+        },
+        {
+            "en": "A septum",
+            "ru": "Перегородка",
+            "example_en": "The septum separates the right and left sides of the heart.",
+            "example_ru": "Перегородка разделяет правую и левую стороны сердца.",
+            "note": "nasal, ventricular",
+            "image": ""
+        },
+        {
+            "en": "Aortic valve",
+            "ru": "аортальный клапан",
+            "example_en": "The aortic valve opens when blood leaves the left ventricle.",
+            "example_ru": "Аортальный клапан открывается, когда кровь выходит из левого желудочка.",
+            "note": "",
+            "image": "https://www.bhf.org.uk/-/media/images/information-support/illustrations/heart-valves.jpg?rev=b71e3126e8f243fa94a4ce10db3a805b&la=en&h=600&w=800&hash=C9458986981C9E6CC1875598BDC29D81"
+        },
+        {
+            "en": "Bloodflow / Bloodstream",
+            "ru": "Кровоток",
+            "example_en": "The ultrasound shows reduced bloodflow through this artery.",
+            "example_ru": "УЗИ показывает сниженный кровоток через эту артерию.",
+            "note": "",
+            "image": "https://www.verywellhealth.com/thmb/q-DE1yH8q4m1eG34Yy4YKntzt2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-626974567-defc9220866c4e679c8d244dfbb997bb.jpg"
+        },
+        {
+            "en": "Femoral vein",
+            "ru": "бедренная вена",
+            "example_en": "The catheter may be placed through the femoral vein.",
+            "example_ru": "Катетер могут ввести через бедренную вену.",
+            "note": "",
+            "image": "https://www.texasheart.org/wp-content/uploads/2017/12/thi-leg-vasculature.jpg"
+        },
+        {
+            "en": "A heart valve",
+            "ru": "Клапан сердца",
+            "example_en": "A damaged heart valve can make the heart work harder.",
+            "example_ru": "Поврежденный клапан сердца может заставлять сердце работать сильнее.",
+            "note": "",
+            "image": "https://www.bhf.org.uk/-/media/images/information-support/illustrations/heart-valves.jpg?rev=b71e3126e8f243fa94a4ce10db3a805b&la=en&h=600&w=800&hash=C9458986981C9E6CC1875598BDC29D81"
+        },
+        {
+            "en": "Dense/thick blood",
+            "ru": "Густая кровь",
+            "example_en": "Thick blood can increase the risk of clot formation.",
+            "example_ru": "Густая кровь может повышать риск образования тромбов.",
+            "note": "blood",
+            "image": ""
+        },
+        {
+            "en": "Thin blood",
+            "ru": "Разжижённая / не густая кровь",
+            "example_en": "This medicine keeps the blood thin to prevent clots.",
+            "example_ru": "Это лекарство поддерживает кровь разжиженной, чтобы предотвратить тромбы.",
+            "note": "blood",
+            "image": ""
+        },
+        {
+            "en": "Indicators, values",
+            "ru": "показатели, значения",
+            "example_en": "A few blood test values are outside the normal range.",
+            "example_ru": "Некоторые показатели анализа крови выходят за пределы нормы.",
+            "note": "",
+            "image": "https://impact-ed.sas.upenn.edu/sites/default/files/2021-02/Performance-Indicators-1vz1hur.png"
+        },
+        {
+            "en": "Pericardial fluid",
+            "ru": "перикардная жидкость",
+            "example_en": "A small amount of pericardial fluid is normal.",
+            "example_ru": "Небольшое количество перикардной жидкости является нормой.",
+            "note": "",
+            "image": "https://assets.cureus.com/uploads/figure/file/1589387/article_river_f15ec540552b11f08af7492e39999d3b-Figure-1.png"
+        },
+        {
+            "en": "Saturated fats",
+            "ru": "насыщенные жиры",
+            "example_en": "Try to reduce saturated fats in your diet.",
+            "example_ru": "Постарайтесь уменьшить количество насыщенных жиров в рационе.",
+            "note": "",
+            "image": "https://i.dietdoctor.com/wp-content/uploads/2019/06/fat.jpg?auto=compress%2Cformat&w=800&h=561&fit=crop"
+        },
+        {
+            "en": "Transfats",
+            "ru": "транс-жиры",
+            "example_en": "Transfats can raise the risk of heart disease.",
+            "example_ru": "Транс-жиры могут повышать риск сердечных заболеваний.",
+            "note": "",
+            "image": "https://www.diabetes.co.uk/wp-content/uploads/2022/10/fastfood-badforyou.jpg"
+        },
+        {
+            "en": "Mitral valve",
+            "ru": "митральный клапан",
+            "example_en": "The mitral valve controls blood flow between the atrium and ventricle.",
+            "example_ru": "Митральный клапан контролирует поток крови между предсердием и желудочком.",
+            "note": "",
+            "image": "https://www.bhf.org.uk/-/media/images/information-support/illustrations/heart-valves.jpg?rev=b71e3126e8f243fa94a4ce10db3a805b&la=en&h=600&w=800&hash=C9458986981C9E6CC1875598BDC29D81"
+        },
+        {
+            "en": "Aorta",
+            "ru": "Аорта",
+            "example_en": "The aorta carries oxygen-rich blood away from the heart.",
+            "example_ru": "Аорта переносит насыщенную кислородом кровь от сердца.",
+            "note": "",
+            "image": "https://www.thoughtco.com/thmb/iyctF-drsw6xgSR-ruu7h9AC4Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/heart_cross-section-57ed79845f9b586c3512474e.jpg"
+        },
+        {
+            "en": "Thicker blood",
+            "ru": "Более густая кровь",
+            "example_en": "Thicker blood can increase the chance of clotting.",
+            "example_ru": "Более густая кровь может повышать вероятность образования тромбов.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Complete blood count",
+            "ru": "Полный анализ крови",
+            "example_en": "A complete blood count helps us check your blood cells.",
+            "example_ru": "Полный анализ крови помогает проверить клетки крови.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "CBC",
+            "ru": "Общий анализ крови",
+            "example_en": "The CBC results will be reviewed by the doctor.",
+            "example_ru": "Врач рассмотрит результаты общего анализа крови.",
+            "note": "complete blood count",
+            "image": ""
+        },
+        {
+            "en": "Type and screen",
+            "ru": "Определение группы крови и скрининг антител",
+            "example_en": "We may need a type and screen before the procedure.",
+            "example_ru": "Перед процедурой нам может понадобиться определение группы крови и скрининг антител.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Blood count",
+            "ru": "Количество клеток крови",
+            "example_en": "Your blood count is stable today.",
+            "example_ru": "Сегодня количество клеток крови у вас стабильное.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "INR level",
+            "ru": "Уровень МНО",
+            "example_en": "Your INR level shows how thin your blood is while taking this medicine.",
+            "example_ru": "Уровень МНО показывает, насколько разжижена кровь на фоне приема этого лекарства.",
+            "note": "Международное нормализованное отношение",
+            "image": ""
+        },
+        {
+            "en": "Low-salt diet",
+            "ru": "Низкосолевая диета",
+            "example_en": "A low-salt diet can help reduce fluid buildup.",
+            "example_ru": "Низкосолевая диета может помочь уменьшить скопление жидкости.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Supply with blood",
+            "ru": "Снабжать кровью",
+            "example_en": "The coronary arteries supply the heart muscle with blood.",
+            "example_ru": "Коронарные артерии снабжают сердечную мышцу кровью.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Pulmonary blood supply",
+            "ru": "Лёгочное кровоснабжение",
+            "example_en": "Pulmonary blood supply depends on blood flow from the heart to the lungs.",
+            "example_ru": "Лёгочное кровоснабжение зависит от кровотока от сердца к лёгким.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Radial artery",
+            "ru": "Лучевая артерия",
+            "example_en": "The catheter can sometimes be inserted through the radial artery.",
+            "example_ru": "Иногда катетер можно ввести через лучевую артерию.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Atrial lead",
+            "ru": "Предсердный электрод",
+            "example_en": "The atrial lead helps the pacemaker sense signals from the upper chamber.",
+            "example_ru": "Предсердный электрод помогает кардиостимулятору считывать сигналы из верхней камеры сердца.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Upper chamber of the heart",
+            "ru": "Верхняя камера сердца",
+            "example_en": "The atrium is an upper chamber of the heart.",
+            "example_ru": "Предсердие — это верхняя камера сердца.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Chemistry panel",
+            "ru": "Биохимический анализ крови",
+            "example_en": "The chemistry panel checks kidney function and electrolytes.",
+            "example_ru": "Биохимический анализ крови проверяет функцию почек и электролиты.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Baseline",
+            "ru": "Базовый уровень",
+            "example_en": "We compare today’s result with your baseline.",
+            "example_ru": "Мы сравниваем сегодняшний результат с вашим базовым уровнем.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Blood pressure baseline",
+            "ru": "Базовый уровень артериального давления",
+            "example_en": "Your blood pressure baseline is usually lower at home.",
+            "example_ru": "Ваш базовый уровень артериального давления дома обычно ниже.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Readings",
+            "ru": "Показатели",
+            "example_en": "Please bring your home blood pressure readings to the visit.",
+            "example_ru": "Пожалуйста, принесите на приём домашние показатели артериального давления.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Abnormal readings",
+            "ru": "Показатели с отклонением",
+            "example_en": "The monitor showed a few abnormal readings overnight.",
+            "example_ru": "Монитор показал несколько показателей с отклонением ночью.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Within normal limits",
+            "ru": "в пределах нормы",
+            "example_en": "Your heart rhythm is within normal limits today.",
+            "example_ru": "Сегодня ваш сердечный ритм в пределах нормы.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Lower limit of normal",
+            "ru": "нижняя граница нормы",
+            "example_en": "Your pulse is near the lower limit of normal.",
+            "example_ru": "Ваш пульс близок к нижней границе нормы.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Monitor readings",
+            "ru": "показатели монитора",
+            "example_en": "The monitor readings were stable during the test.",
+            "example_ru": "Показатели монитора были стабильными во время теста.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Range of readings",
+            "ru": "диапазон показателей",
+            "example_en": "Your blood pressure readings have ranged from normal to high.",
+            "example_ru": "Ваши показатели артериального давления варьировались от нормальных до высоких.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Stable",
+            "ru": "стабильный",
+            "example_en": "Your blood pressure has been stable since this morning.",
+            "example_ru": "Ваше артериальное давление стабильно с сегодняшнего утра.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "To monitor",
+            "ru": "отслеживать",
+            "example_en": "We will monitor your heart rhythm overnight.",
+            "example_ru": "Мы будем отслеживать ваш сердечный ритм ночью.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Have ranged from",
+            "ru": "варьировались от",
+            "example_en": "Your blood pressure readings have ranged from normal to high.",
+            "example_ru": "Ваши показатели артериального давления варьировались от нормальных до высоких.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Consistent",
+            "ru": "стабильный",
+            "example_en": "Your pulse has been consistent during monitoring.",
+            "example_ru": "Ваш пульс был стабильным во время мониторинга.",
+            "note": "",
+            "image": ""
+        }
+    ]
+}

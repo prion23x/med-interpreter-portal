@@ -1,0 +1,71 @@
+{
+    "intro": "Common dental CONDITIONS and symptoms discussed during appointments.",
+    "reading": "Dental conditions range from tooth decay and gum disease to nerve-related pain and structural issues like cracked or loose teeth. Interpreters should be familiar with both clinical terminology and the everyday phrases patients use to describe symptoms.",
+    "color": "#f5bde6",
+    "terms": [
+        {
+            "en": "Cavity (tooth decay)",
+            "ru": "Кариес",
+            "example_en": "The X-ray showed a small cavity between two molars.",
+            "example_ru": "На рентгене виден небольшой кариес между двумя молярами.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Sore spots",
+            "ru": "Натёртости",
+            "example_en": "New dentures can cause sore spots on the gums.",
+            "example_ru": "Новые протезы могут вызывать натёртости на дёснах.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Periodontitis",
+            "ru": "Пародонтит",
+            "example_en": "Periodontitis can lead to loose teeth if untreated.",
+            "example_ru": "Пародонтит может привести к расшатыванию зубов, если его не лечить.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Gingivitis",
+            "ru": "Гингивит",
+            "example_en": "Gingivitis causes red, swollen gums that bleed easily.",
+            "example_ru": "Гингивит вызывает покраснение и отёк дёсен, которые легко кровоточат.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Cracked tooth",
+            "ru": "Трещина зуба",
+            "example_en": "He complained of pain from a cracked tooth.",
+            "example_ru": "Он жаловался на боль из-за трещины в зубе.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Trigeminal neuralgia",
+            "ru": "Невралгия тройничного нерва",
+            "example_en": "Trigeminal neuralgia can cause sudden, severe facial pain.",
+            "example_ru": "Невралгия тройничного нерва может вызывать внезапную, сильную боль в лице.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Numb/frozen feeling in the palate",
+            "ru": "«Нёба мерзнет» (жалоба пациента)",
+            "example_en": "The patient said the roof of her mouth feels numb.",
+            "example_ru": "Пациентка сказала, что у неё немеет нёбо.",
+            "note": "Colloquial patient phrase",
+            "image": ""
+        },
+        {
+            "en": "Loose or missing teeth",
+            "ru": "Шатающиеся или отсутствующие зубы",
+            "example_en": "Do you have any loose or missing teeth?",
+            "example_ru": "Есть ли у вас шатающиеся или отсутствующие зубы?",
+            "note": "",
+            "image": ""
+        }
+    ]
+}

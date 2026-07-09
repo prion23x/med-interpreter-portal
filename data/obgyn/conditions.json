@@ -1,0 +1,175 @@
+{
+    "intro": "Common OB/GYN CONDITIONS and symptoms discussed during appointments.",
+    "reading": "OB/GYN conditions span pregnancy complications (gestational diabetes, preeclampsia, ectopic pregnancy), gynecological disorders (fibroids, mastitis, salpingitis), and routine symptoms patients report (spotting, urinary symptoms, PMS). Interpreters need both formal diagnostic terms and the everyday language patients use.",
+    "color": "#f5a97f",
+    "terms": [
+        {
+            "en": "Gestational Diabetes",
+            "ru": "Гестационный диабет",
+            "example_en": "She was diagnosed with gestational diabetes at 26 weeks.",
+            "example_ru": "У неё диагностировали гестационный диабет на 26-й неделе.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Premenstrual Syndrome (PMS)",
+            "ru": "Предменструальный синдром",
+            "example_en": "PMS symptoms often improve once the period starts.",
+            "example_ru": "Симптомы ПМС часто уменьшаются с началом менструации.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Bladder Inflammation (Cystitis)",
+            "ru": "Воспаление мочевого пузыря",
+            "example_en": "Bladder inflammation can cause pain during urination.",
+            "example_ru": "Воспаление мочевого пузыря может вызывать боль при мочеиспускании.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Menstrual Period",
+            "ru": "Менструальный цикл",
+            "example_en": "Her last menstrual period started two weeks ago.",
+            "example_ru": "Её последняя менструация началась две недели назад.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Miscarriage",
+            "ru": "Выкидыш",
+            "example_en": "She experienced a miscarriage in the first trimester.",
+            "example_ru": "У неё случился выкидыш в первом триместре.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Preeclampsia",
+            "ru": "Преэклампсия",
+            "example_en": "Preeclampsia is monitored closely with blood pressure checks.",
+            "example_ru": "Преэклампсию тщательно контролируют с помощью измерения давления.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Intrauterine Pregnancy",
+            "ru": "Внутриматочная беременность",
+            "example_en": "The ultrasound confirmed an intrauterine pregnancy.",
+            "example_ru": "УЗИ подтвердило внутриматочную беременность.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Ectopic Pregnancy",
+            "ru": "Внематочная беременность",
+            "example_en": "An ectopic pregnancy requires urgent treatment.",
+            "example_ru": "Внематочная беременность требует срочного лечения.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Hemorrhoids",
+            "ru": "Геморрой",
+            "example_en": "Hemorrhoids are common in the third trimester.",
+            "example_ru": "Геморрой часто встречается в третьем триместре.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "UTI (Urinary Tract Infection)",
+            "ru": "Инфекция мочевыводящих путей",
+            "example_en": "She was treated with antibiotics for a UTI.",
+            "example_ru": "Ей назначили антибиотики от инфекции мочевыводящих путей.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Heavy Bleeding",
+            "ru": "Обильное кровотечение",
+            "example_en": "She reported heavy bleeding between periods.",
+            "example_ru": "Она сообщила об обильном кровотечении между менструациями.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Fetal Growth",
+            "ru": "Рост плода",
+            "example_en": "How far along are you?",
+            "example_ru": "На каком вы сроке?",
+            "note": "Example reflects the common phrasing used to ask about gestational age/fetal growth.",
+            "image": ""
+        },
+        {
+            "en": "Uterine Overgrowth (Enlargement)",
+            "ru": "Чрезмерное разрастание матки",
+            "example_en": "The scan showed uterine overgrowth consistent with fibroids.",
+            "example_ru": "Снимок показал чрезмерное разрастание матки, характерное для миомы.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Spotting",
+            "ru": "Кровянистые выделения",
+            "example_en": "Light spotting is common in early pregnancy.",
+            "example_ru": "Лёгкие кровянистые выделения часто встречаются на ранних сроках беременности.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Uterine Fibroid",
+            "ru": "Миома матки",
+            "example_en": "The uterine fibroid was found during a routine ultrasound.",
+            "example_ru": "Миома матки была обнаружена при плановом УЗИ.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Breast Concerns",
+            "ru": "Жалобы на состояние молочных желез",
+            "example_en": "She came in with breast concerns after noticing a lump.",
+            "example_ru": "Она обратилась с жалобами на молочные железы после обнаружения уплотнения.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Mastitis",
+            "ru": "Мастит",
+            "example_en": "Mastitis can cause fever and breast pain during breastfeeding.",
+            "example_ru": "Мастит может вызывать жар и боль в груди во время кормления.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Salpingitis",
+            "ru": "Сальпингит (воспаление маточных труб)",
+            "example_en": "Salpingitis can lead to scarring of the fallopian tubes.",
+            "example_ru": "Сальпингит может привести к образованию рубцов в маточных трубах.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Urinary Symptoms",
+            "ru": "Симптомы мочевыводящих путей",
+            "example_en": "She reported urinary symptoms including burning and frequency.",
+            "example_ru": "Она сообщила о симптомах со стороны мочевыводящих путей, включая жжение и учащённое мочеиспускание.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Positive Margins",
+            "ru": "Позитивные края резекции",
+            "example_en": "Positive margins mean tumor cells were found at the edge of the removed tissue.",
+            "example_ru": "Позитивные края резекции означают, что опухолевые клетки обнаружены по краю удалённой ткани.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Sexual Intercourse",
+            "ru": "Половой акт",
+            "example_en": "Are you currently sexually active?",
+            "example_ru": "Вы сейчас ведёте половую жизнь?",
+            "note": "General term used in patient history-taking; originally listed under Others.",
+            "image": ""
+        }
+    ]
+}

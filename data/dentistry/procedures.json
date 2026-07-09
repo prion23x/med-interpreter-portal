@@ -1,0 +1,143 @@
+{
+    "intro": "PROCEDURES commonly performed during dental visits.",
+    "reading": "Dental procedures span preventive care (cleanings, sealants), restorative work (fillings, root canals), diagnostic steps (impressions, radiographs, shade matching), and surgical extractions. Interpreters need precise procedural vocabulary to support informed consent conversations.",
+    "color": "#f5a97f",
+    "terms": [
+        {
+            "en": "Sealing of the teeth (dental sealant)",
+            "ru": "Герметизация зубов",
+            "example_en": "Sealing the teeth helps prevent decay in the fissures.",
+            "example_ru": "Герметизация зубов помогает предотвратить кариес в бороздах.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Impression",
+            "ru": "Слепок (отпечаток)",
+            "example_en": "Let's take an impression of your front teeth.",
+            "example_ru": "Давайте сделаем слепок ваших передних зубов.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Radiograph (X-ray)",
+            "ru": "Рентгеновский снимок",
+            "example_en": "The radiograph revealed a cavity between two teeth.",
+            "example_ru": "Рентгеновский снимок показал кариес между двумя зубами.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Root canal (procedure)",
+            "ru": "Лечение корневого канала (удаление нерва)",
+            "example_en": "He needs a root canal on his upper molar.",
+            "example_ru": "Ему требуется лечение корневого канала верхнего моляра.",
+            "note": "Procedure — see also \"Root canal\" under Anatomy for the structure itself",
+            "image": ""
+        },
+        {
+            "en": "Hygiene (cleaning)",
+            "ru": "Чистка (гигиена полости рта)",
+            "example_en": "Regular hygiene visits help prevent gum disease.",
+            "example_ru": "Регулярные визиты на чистку помогают предотвратить заболевания дёсен.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Filling",
+            "ru": "Пломба",
+            "example_en": "The dentist placed a filling in the decayed tooth.",
+            "example_ru": "Стоматолог поставил пломбу в поражённый кариесом зуб.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Pulpectomy",
+            "ru": "Пульпэктомия (удаление пульпы)",
+            "example_en": "A pulpectomy removes the entire pulp of the tooth.",
+            "example_ru": "Пульпэктомия — это полное удаление пульпы зуба.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Pulpotomy",
+            "ru": "Пульпотомия",
+            "example_en": "A pulpotomy removes only the crown portion of the pulp.",
+            "example_ru": "Пульпотомия удаляет только коронковую часть пульпы.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Try-in",
+            "ru": "Примерка",
+            "example_en": "We'll schedule a try-in before the final crown is placed.",
+            "example_ru": "Мы назначим примерку перед установкой окончательной коронки.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Wax try-in with teeth",
+            "ru": "Примерка восковой конструкции с зубами",
+            "example_en": "The wax try-in lets you preview how the new teeth will look.",
+            "example_ru": "Примерка восковой конструкции позволяет заранее увидеть, как будут выглядеть новые зубы.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Shade guide",
+            "ru": "Шкала расцветок зубов",
+            "example_en": "The dentist used a shade guide to match the crown color.",
+            "example_ru": "Стоматолог использовал шкалу расцветок, чтобы подобрать цвет коронки.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Shades (tooth color options)",
+            "ru": "Оттенки",
+            "example_en": "This shade is the closest match to your natural teeth.",
+            "example_ru": "Этот оттенок наиболее точно соответствует вашим естественным зубам.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Tooth extraction",
+            "ru": "Удаление зуба",
+            "example_en": "The wisdom tooth extraction took about twenty minutes.",
+            "example_ru": "Удаление зуба мудрости заняло около двадцати минут.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Bite registration",
+            "ru": "Регистрация прикуса",
+            "example_en": "Please bite down gently for the bite registration.",
+            "example_ru": "Пожалуйста, слегка прикусите для регистрации прикуса.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Frenulum attachment",
+            "ru": "Прикрепление уздечки",
+            "example_en": "The frenulum attachment was assessed before the procedure.",
+            "example_ru": "Прикрепление уздечки было оценено перед процедурой.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Dental checkup",
+            "ru": "Профилактический осмотр у стоматолога",
+            "example_en": "You should schedule a dental checkup every six months.",
+            "example_ru": "Профилактический осмотр у стоматолога рекомендуется проходить каждые полгода.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Attachment (general)",
+            "ru": "Прикрепление, место прикрепления",
+            "example_en": "The orthodontist placed small attachments on several teeth.",
+            "example_ru": "Ортодонт установил небольшие крепления на нескольких зубах.",
+            "note": "General term for an attachment point (e.g., orthodontic attachments, frenulum attachment)",
+            "image": ""
+        }
+    ]
+}

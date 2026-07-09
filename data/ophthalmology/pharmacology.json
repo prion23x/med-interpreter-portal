@@ -1,0 +1,23 @@
+{
+    "intro": "MEDICATIONS used in eye examinations and treatment.",
+    "reading": "Eye drops are the primary pharmacological tool in ophthalmology, ranging from general lubricating drops to specialized dilating (mydriatic) drops used to widen the pupil for examination.",
+    "color": "#8bd5ca",
+    "terms": [
+        {
+            "en": "Dilating drops (mydriatic drops)",
+            "ru": "Капли для расширения зрачка",
+            "example_en": "The dilating drops will make your pupils widen for about four hours.",
+            "example_ru": "Капли для расширения зрачка подействуют примерно четыре часа.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Eye drops",
+            "ru": "Глазные капли",
+            "example_en": "Use the eye drops twice a day.",
+            "example_ru": "Используйте глазные капли два раза в день.",
+            "note": "",
+            "image": ""
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "intro": "Pulmonary devices and respiratory support equipment.",
+    "reading": "Respiratory care commonly uses oxygen delivery devices, pulse oximeters, suction equipment, CPAP, and tracheostomy-related equipment. These devices help monitor oxygen, support breathing, or clear the airway.",
+    "color": "#f5bde6",
+    "terms": [
+        {
+            "en": "Nasal cannula",
+            "ru": "назальная канюля",
+            "example_en": "The nasal cannula delivers oxygen through the nose.",
+            "example_ru": "Назальная канюля подаёт кислород через нос.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Cannula",
+            "ru": "канюля",
+            "example_en": "The cannula should sit comfortably in the nostrils.",
+            "example_ru": "Канюля должна удобно располагаться в ноздрях.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Pulse oximeter",
+            "ru": "пульсоксиметр",
+            "example_en": "The pulse oximeter clips onto your finger.",
+            "example_ru": "Пульсоксиметр закрепляется на пальце.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Oxygen equipment",
+            "ru": "кислородное оборудование",
+            "example_en": "The oxygen equipment will be delivered to your home.",
+            "example_ru": "Кислородное оборудование доставят вам домой.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Suction device",
+            "ru": "аппарат для отсасывания",
+            "example_en": "The suction device removes mucus from the airway.",
+            "example_ru": "Аппарат для отсасывания удаляет слизь из дыхательных путей.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Suction catheter",
+            "ru": "отсасывающий катетер",
+            "example_en": "A suction catheter can clear secretions from the tube.",
+            "example_ru": "Отсасывающий катетер может удалить выделения из трубки.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Tracheostomy",
+            "ru": "трахеостомия",
+            "example_en": "A tracheostomy creates an opening in the neck for breathing.",
+            "example_ru": "Трахеостомия создает отверстие в шее для дыхания.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "CPAP",
+            "ru": "СИПАП",
+            "example_en": "CPAP keeps the airway open during sleep.",
+            "example_ru": "СИПАП поддерживает дыхательные пути открытыми во время сна.",
+            "note": "",
+            "image": ""
+        }
+    ]
+}

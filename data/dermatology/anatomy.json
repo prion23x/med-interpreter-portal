@@ -1,0 +1,31 @@
+{
+    "intro": "STRUCTURES and general dermatology terms used in clinical communication.",
+    "reading": "Skin anatomy terms interpreters encounter include pores, glands, and descriptive terms for skin surface features like folds and grooves, which come up when describing lesions, rashes, and wounds.",
+    "color": "#a6da95",
+    "terms": [
+        {
+            "en": "Pore",
+            "ru": "Пора",
+            "example_en": "The dermatologist checked for clogged pores.",
+            "example_ru": "Дерматолог проверил кожу на наличие закупоренных пор.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Oil glands (sebaceous glands)",
+            "ru": "Сальные железы",
+            "example_en": "Oil glands can become overactive during adolescence.",
+            "example_ru": "Сальные железы могут становиться более активными в подростковом возрасте.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Skin fold / furrow",
+            "ru": "Борозда (складка, углубление)",
+            "example_en": "A rash developed in the skin fold under her arm.",
+            "example_ru": "Сыпь появилась в кожной складке под мышкой.",
+            "note": "",
+            "image": ""
+        }
+    ]
+}

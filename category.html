@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MedInterp — Medical Interpreter Portal</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  <!-- ============================================================
+     NAVBAR (shared across all pages)
+     ============================================================ -->
+  <nav class="navbar">
+    <div class="navbar-inner">
+      <span class="navbar-logo">MedInterp <span>/ EN–RU</span></span>
+      <div class="navbar-links">
+        <button class="nav-btn"><a href='./home.html'>Home</a></button>
+        <button class="nav-btn"><a>About</a></button>
+      </div>
+    </div>
+  </nav>
+
+
+  <!-- ============================================================
+     VIEW 1: CATEGORY PAGE
+     ============================================================ -->
+  <div class="content content--wide" id="content">
+  </div><!-- /content -->
+
+  <!-- MODAL -->
+  <div id="modal-overlay" class="modal-overlay hidden" onclick="closeModal()">
+    <div class="modal-card" id="modal-card" onclick="event.stopPropagation()">
+      <button class="modal-close" onclick="closeModal()">✕</button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <div id="orientation-lock-overlay" class="orientation-lock-overlay" aria-live="polite">
+    <div>
+      <p>Mobile support is only available in portrait mode.</p>
+      <p>Please rotate your device back to portrait.</p>
+    </div>
+  </div>
+
+  <script src="script_category.js"></script>
+
+  <div id="section-nav" class="section-nav"></div>
+
+</body>
+
+</html>

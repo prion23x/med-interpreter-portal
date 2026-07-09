@@ -1,0 +1,47 @@
+{
+    "intro": "DEVICES and equipment used in OB/GYN care.",
+    "reading": "OB/GYN devices include contraceptive and monitoring tools (IUD, vaginal ring, fetal doppler), diagnostic instruments used during exams (speculum), and delivery-assist instruments (forceps). Interpreters should distinguish devices used for prevention, monitoring, and delivery.",
+    "color": "#ee99a0",
+    "terms": [
+        {
+            "en": "IUD (Intrauterine Device)",
+            "ru": "Внутриматочная спираль",
+            "example_en": "An IUD can prevent pregnancy for several years.",
+            "example_ru": "Внутриматочная спираль может предотвращать беременность на несколько лет.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Doppler (Fetal Doppler)",
+            "ru": "Допплер (фетальный допплер)",
+            "example_en": "The doctor used a doppler to listen to the baby's heartbeat.",
+            "example_ru": "Врач использовал допплер, чтобы прослушать сердцебиение ребёнка.",
+            "note": "Russian translation was blank in the source; added for completeness.",
+            "image": ""
+        },
+        {
+            "en": "Vaginal Speculum",
+            "ru": "Влагалищное зеркало",
+            "example_en": "The speculum allows the doctor to examine the cervix.",
+            "example_ru": "Зеркало позволяет врачу осмотреть шейку матки.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Vaginal Ring",
+            "ru": "Вагинальное кольцо",
+            "example_en": "The vaginal ring releases hormones over several weeks.",
+            "example_ru": "Вагинальное кольцо выделяет гормоны в течение нескольких недель.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Forceps (Obstetric)",
+            "ru": "Акушерские щипцы",
+            "example_en": "Forceps were used to help guide the baby during delivery.",
+            "example_ru": "Акушерские щипцы использовались, чтобы помочь ребёнку во время родов.",
+            "note": "Also called родовспомогательные щипцы.",
+            "image": ""
+        }
+    ]
+}

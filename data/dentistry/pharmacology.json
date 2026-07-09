@@ -1,0 +1,15 @@
+{
+    "intro": "MEDICATIONS and pharmacological agents used in dental care.",
+    "reading": "Dental pharmacology in routine visits often involves sedation and pain management, such as nitrous oxide (laughing gas), along with anesthetics and antibiotics prescribed for infections.",
+    "color": "#f4dbd6",
+    "terms": [
+        {
+            "en": "Laughing gas (nitrous oxide)",
+            "ru": "Веселящий газ",
+            "example_en": "Laughing gas helps patients relax during the procedure.",
+            "example_ru": "Веселящий газ помогает пациентам расслабиться во время процедуры.",
+            "note": "",
+            "image": ""
+        }
+    ]
+}

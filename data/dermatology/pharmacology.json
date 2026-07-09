@@ -1,0 +1,31 @@
+{
+    "intro": "MEDICATIONS and topical agents used in dermatology.",
+    "reading": "Dermatology pharmacology commonly involves topical products: antibacterial ointments, steroid creams of varying potency, and scar treatments.",
+    "color": "#7dc4e4",
+    "terms": [
+        {
+            "en": "Scar cream",
+            "ru": "Крем для шрамов",
+            "example_en": "Apply the scar cream twice daily.",
+            "example_ru": "Наносите крем для шрамов дважды в день.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Bacitracin",
+            "ru": "Бацитрацин (антибактериальная мазь)",
+            "example_en": "Bacitracin is an antibacterial ointment for minor wounds.",
+            "example_ru": "Бацитрацин — антибактериальная мазь для небольших ран.",
+            "note": "Source spelled it 'baxitrasin'.",
+            "image": ""
+        },
+        {
+            "en": "Lower potency steroid",
+            "ru": "Стероид низкой активности (слабой потенции)",
+            "example_en": "The doctor prescribed a lower potency steroid for the face.",
+            "example_ru": "Врач назначил стероид слабой потенции для лица.",
+            "note": "",
+            "image": ""
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "intro": "Devices and equipment used in cardiac testing, monitoring, and procedures.",
+    "reading": "Cardiac visits may involve monitoring equipment such as EKG electrodes, blood pressure cuffs, heart monitors, implanted rhythm devices, stents, and surgical hardware. Interpreters should distinguish plain device names from their functional descriptions.",
+    "color": "#a6da95",
+    "terms": [
+        {
+            "en": "A stent",
+            "ru": "Стент - расширитель сосудов",
+            "example_en": "A stent can help keep the artery open.",
+            "example_ru": "Стент-расширитель сосудов может помочь держать артерию открытой.",
+            "note": "а не просто \"стент\"",
+            "image": ""
+        },
+        {
+            "en": "A loop recorder",
+            "ru": "Петлевой регистратор, имплантируемый кардиомонитор",
+            "example_en": "A loop recorder can track heart rhythm for a long time.",
+            "example_ru": "Петлевой регистратор может долго отслеживать сердечный ритм.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "An aneurysm clip",
+            "ru": "Клипса для аневризмы",
+            "example_en": "The surgeon placed an aneurysm clip to stop blood from entering the aneurysm.",
+            "example_ru": "Хирург установил клипсу для аневризмы, чтобы кровь не попадала в аневризму.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Rods",
+            "ru": "Стержни",
+            "example_en": "The rods help stabilize the area after surgery.",
+            "example_ru": "Стержни помогают стабилизировать область после операции.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "A blood pressure cuff",
+            "ru": "Манжета для измерения артериального давления",
+            "example_en": "The nurse placed the blood pressure cuff on your arm.",
+            "example_ru": "Медсестра надела манжету для измерения артериального давления на вашу руку.",
+            "note": "не кровяного, а артериального",
+            "image": ""
+        },
+        {
+            "en": "Leads / stickers",
+            "ru": "Электроды",
+            "example_en": "The EKG stickers need to stay attached during the test.",
+            "example_ru": "Электроды для ЭКГ должны оставаться прикрепленными во время теста.",
+            "note": "EKG",
+            "image": "https://www.intcomedical.com/web/upload/2025/07/08/20250708141058_94633.webp"
+        },
+        {
+            "en": "Pins",
+            "ru": "Хирургические спицы",
+            "example_en": "Pins may be used to hold small bones in place.",
+            "example_ru": "Хирургические спицы могут использоваться, чтобы удерживать небольшие кости на месте.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "A defibrillator",
+            "ru": "Дефибриллятор",
+            "example_en": "A defibrillator can deliver a shock to restore rhythm.",
+            "example_ru": "Дефибриллятор может подать разряд, чтобы восстановить ритм.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "A pacemaker",
+            "ru": "Кардиостимулятор",
+            "example_en": "A pacemaker helps control a slow heart rhythm.",
+            "example_ru": "Кардиостимулятор помогает контролировать замедленный сердечный ритм.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "A cord",
+            "ru": "Канатик",
+            "example_en": "The cord should not be pulled during monitoring.",
+            "example_ru": "Канатик нельзя тянуть во время мониторинга.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "A heart monitor",
+            "ru": "Монитор сердечной активности",
+            "example_en": "You will wear the heart monitor for a few days.",
+            "example_ru": "Вы будете носить монитор сердечной активности несколько дней.",
+            "note": "attachable, usually for a few days",
+            "image": ""
+        },
+        {
+            "en": "Patches",
+            "ru": "Пластыри",
+            "example_en": "The patches may irritate the skin after several days.",
+            "example_ru": "Пластыри могут раздражать кожу через несколько дней.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Zio Patch",
+            "ru": "Одноразовый регистратор ЭКГ",
+            "example_en": "The Zio Patch records your heart rhythm while you wear it.",
+            "example_ru": "Одноразовый регистратор ЭКГ записывает сердечный ритм, пока вы его носите.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "A tight blood pressure cuff",
+            "ru": "Манжета немного давит",
+            "example_en": "The blood pressure cuff will feel a bit tight for a few seconds.",
+            "example_ru": "Манжета для измерения давления будет немного давить несколько секунд.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "A pulse oximeter",
+            "ru": "Пульсоксиметр",
+            "example_en": "The pulse oximeter measures oxygen level and pulse.",
+            "example_ru": "Пульсоксиметр измеряет уровень кислорода и пульс.",
+            "note": "SpO2",
+            "image": ""
+        },
+        {
+            "en": "Compression stockings",
+            "ru": "Компрессионные чулки",
+            "example_en": "Compression stockings can help reduce leg swelling.",
+            "example_ru": "Компрессионные чулки могут помочь уменьшить отёк ног.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "A stocking",
+            "ru": "Чулок",
+            "example_en": "Put the stocking on before swelling increases during the day.",
+            "example_ru": "Наденьте чулок до того, как отёк усилится в течение дня.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "A compression garment",
+            "ru": "Компрессионное изделие",
+            "example_en": "The compression garment should fit snugly but not cut off circulation.",
+            "example_ru": "Компрессионное изделие должно плотно прилегать, но не нарушать кровообращение.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "A tourniquet",
+            "ru": "Жгут",
+            "example_en": "The nurse uses a tourniquet before drawing blood.",
+            "example_ru": "Медсестра использует жгут перед забором крови.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "An IV tourniquet",
+            "ru": "Жгут для внутривенного доступа",
+            "example_en": "The IV tourniquet helps make the vein easier to find.",
+            "example_ru": "Жгут для внутривенного доступа помогает легче найти вену.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "A port",
+            "ru": "Порт-система",
+            "example_en": "A port can be used for blood draws or medicines.",
+            "example_ru": "Порт-систему можно использовать для забора крови или введения лекарств.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "A pump",
+            "ru": "Помпа",
+            "example_en": "The pump controls how quickly the medicine goes in.",
+            "example_ru": "Помпа контролирует скорость введения лекарства.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "An IV line",
+            "ru": "Капельница, внутривенная линия",
+            "example_en": "The IV line will stay in place during the test.",
+            "example_ru": "Капельница останется на месте во время обследования.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "IV fluid",
+            "ru": "жидкость для внутривенного введения",
+            "example_en": "IV fluid may be given through the line.",
+            "example_ru": "Жидкость для внутривенного введения могут подать через линию.",
+            "note": "",
+            "image": ""
+        }
+    ]
+}

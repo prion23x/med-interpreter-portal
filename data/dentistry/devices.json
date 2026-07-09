@@ -1,0 +1,87 @@
+{
+    "intro": "DEVICES, appliances, and equipment used in dental treatment.",
+    "reading": "Dental devices include restorative items like crowns, bridges, and dentures, as well as orthodontic appliances such as retainers and implants. Knowing the differences between device types helps interpreters convey treatment options accurately.",
+    "color": "#f0c6c6",
+    "terms": [
+        {
+            "en": "Removable dentures",
+            "ru": "Съёмные зубные протезы",
+            "example_en": "He takes his removable dentures out every night.",
+            "example_ru": "Он снимает съёмные протезы каждую ночь.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Stainless steel crown",
+            "ru": "Коронка из нержавеющей стали",
+            "example_en": "Stainless steel crowns are often used on children's molars.",
+            "example_ru": "Коронки из нержавеющей стали часто используют на молярах у детей.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Silver crown",
+            "ru": "Серебряная коронка",
+            "example_en": "The silver crown was placed on the back molar.",
+            "example_ru": "Серебряная коронка была установлена на задний моляр.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "White crown",
+            "ru": "Белая коронка",
+            "example_en": "She requested a white crown for a more natural look.",
+            "example_ru": "Она попросила белую коронку для более естественного вида.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Dental bridge",
+            "ru": "Зубной мостик",
+            "example_en": "A dental bridge replaces one or more missing teeth.",
+            "example_ru": "Зубной мостик заменяет один или несколько отсутствующих зубов.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Partial denture",
+            "ru": "Частичный съёмный протез",
+            "example_en": "The partial denture fits around the remaining teeth.",
+            "example_ru": "Частичный съёмный протез крепится вокруг оставшихся зубов.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Retainers",
+            "ru": "Зубные фиксаторы (ретейнеры)",
+            "example_en": "Wear your retainers every night to keep your teeth in place.",
+            "example_ru": "Носите ретейнеры каждую ночь, чтобы зубы оставались на месте.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Dental implant",
+            "ru": "Зубной имплантат",
+            "example_en": "A dental implant replaces the root of a missing tooth.",
+            "example_ru": "Зубной имплантат заменяет корень отсутствующего зуба.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Dental crown (general)",
+            "ru": "Коронка",
+            "example_en": "The crown covers and protects the damaged tooth.",
+            "example_ru": "Коронка покрывает и защищает повреждённый зуб.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Mouth guard / mouthpiece",
+            "ru": "Каппа (насадка для рта)",
+            "example_en": "Bite down gently on the mouthpiece.",
+            "example_ru": "Слегка прикусите каппу.",
+            "note": "Source term appeared as \"a mouse piece\" — likely mouthpiece/mouth guard",
+            "image": ""
+        }
+    ]
+}
