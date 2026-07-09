@@ -9,23 +9,71 @@
             "example_en": "The windpipe carries air from the throat to the lungs.",
             "example_ru": "Трахея проводит воздух из горла в лёгкие.",
             "note": "",
-            "image": ""
+            "image": "data/images/Windpipe.jpg"
         },
         {
-            "en": "Voice box",
-            "ru": "гортань",
-            "example_en": "The voice box sits above the windpipe.",
-            "example_ru": "Гортань находится над трахеей.",
+            "en": "Tracheal cartilage",
+            "ru": "Трахеальный хрящ",
+            "example_en": "The tracheal cartilage rings keep the windpipe open.",
+            "example_ru": "Кольца трахеального хряща держат дыхательное горло открытым.",
             "note": "",
-            "image": ""
+            "image": "data/images/Lung roots.jpg"
+        },
+        {
+            "en": "Root of the lung",
+            "ru": "Корень лёгкого",
+            "example_en": "The root of the lung contains the main blood vessels and bronchi.",
+            "example_ru": "Корень лёгкого содержит основные кровеносные сосуды и бронхи.",
+            "note": "",
+            "image": "data/images/Lung roots.jpg"
+        },
+        {
+            "en": "Primary bronchi",
+            "ru": "Первичные бронхи",
+            "example_en": "The primary bronchi split from the trachea into the left and right lungs.",
+            "example_ru": "Первичные бронхи разветвляются от трахеи в левое и правое лёгкое.",
+            "note": "",
+            "image": "data/images/Windpipe.jpg"
+        },
+        {
+            "en": "Secondary bronchi",
+            "ru": "Вторичные бронхи",
+            "example_en": "The secondary bronchi further divide within each lung lobe.",
+            "example_ru": "Вторичные бронхи дополнительно разветвляются в каждой доле лёгкого.",
+            "note": "",
+            "image": "data/images/Windpipe.jpg"
+        },
+        {
+            "en": "Tertiary bronchi",
+            "ru": "Третичные бронхи",
+            "example_en": "The tertiary bronchi continue to branch into smaller airways.",
+            "example_ru": "Третичные бронхи продолжают ветвиться на более мелкие дыхательные пути.",
+            "note": "",
+            "image": "data/images/Windpipe.jpg"
+        },
+        {
+            "en": "Bronchiole",
+            "ru": "Бронхиола",
+            "example_en": "The bronchiole is the smallest branch of the bronchi before the alveoli.",
+            "example_ru": "Бронхиола — это наименьшее ветвление бронхов перед альвеолами.",
+            "note": "",
+            "image": "data/images/Windpipe.jpg"
+        },
+        {
+            "en": "Voice box (larynx)",
+            "ru": "Гортань",
+            "example_en": "The voice box houses the vocal cords.",
+            "example_ru": "Гортань содержит голосовые связки.",
+            "note": "",
+            "image": "data/images/Larynx.jpg"
         },
         {
             "en": "Vocal cords",
-            "ru": "голосовые связки",
-            "example_en": "The vocal cords can be irritated after a breathing tube.",
-            "example_ru": "Голосовые связки могут раздражаться после дыхательной трубки.",
+            "ru": "Голосовые связки",
+            "example_en": "The vocal cords vibrate to produce sound.",
+            "example_ru": "Голосовые связки вибрируют, создавая звук.",
             "note": "",
-            "image": ""
+            "image": "data/images/Vocal cords.jpg"
         },
         {
             "en": "Lung lobe",
