@@ -9,7 +9,7 @@
             "example_en": "The dentist examined the roof of her mouth, or palate.",
             "example_ru": "Стоматолог осмотрел нёбо пациентки.",
             "note": "Roof of the mouth",
-            "image": "./data/_images/Palate.jpg"
+            "image": "../data/_images/Palate.jpg"
         },
         {
             "en": "Baby teeth",
@@ -17,7 +17,7 @@
             "example_en": "Baby teeth usually begin falling out around age six.",
             "example_ru": "Молочные зубы обычно начинают выпадать примерно в шесть лет.",
             "note": "",
-            "image": "./data/_images/Baby teeth.png"
+            "image": ""
         },
         {
             "en": "Molar teeth",
