@@ -16,7 +16,7 @@
             "ru": "Волдырь(и)",
             "example_en": "Won't this cause a blister?",
             "example_ru": "Это не вызовет волдырь?",
-            "note": "Source occasionally mistranslated this as 'мозоль' (callus) — kept distinct from Callus/corn below.",
+            "note": "Keep distinct from Callus/corn below.",
             "image": "data/images/Blister.png"
         },
         {
@@ -97,7 +97,7 @@
             "example_en": "The culture came back positive for staphylococcus.",
             "example_ru": "Посев показал положительный результат на стафилококк.",
             "note": "",
-            "image": "data/images/Staphylococcus"
+            "image": "data/images/Staphylococcus.jpg"
         },
         {
             "en": "Itching",
@@ -112,7 +112,7 @@
             "ru": "Лишай",
             "example_en": "Lichen planus can cause itchy, purple bumps.",
             "example_ru": "Лишай может вызывать зудящие лиловые высыпания.",
-            "note": "Source listed as 'enzoma' (likely typo) — distinct from Eczema below.",
+            "note": "Distinct from Eczema.",
             "image": "data/images/Lichen.webp"
         },
         {
