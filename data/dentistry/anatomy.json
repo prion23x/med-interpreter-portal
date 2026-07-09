@@ -49,7 +49,7 @@
             "example_en": "Baby molars are eventually replaced by permanent premolars.",
             "example_ru": "Молочные моляры со временем заменяются постоянными премолярами.",
             "note": "",
-            "image": "/data/images/Baby molars.webp"
+            "image": "data/images/Baby molars.webp"
         },
         {
             "en": "Canine teeth",
@@ -57,7 +57,7 @@
             "example_en": "Canine teeth are pointed and used for tearing food.",
             "example_ru": "Клыки заострены и используются для разрывания пищи.",
             "note": "",
-            "image": "/data/images/Canine teeth.jpeg"
+            "image": "data/images/Canine teeth.jpeg"
         },
         {
             "en": "Pointy tooth (canine)",
