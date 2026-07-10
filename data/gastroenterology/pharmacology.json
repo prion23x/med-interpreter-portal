@@ -1,0 +1,47 @@
+{
+    "intro": "MEDICATIONS used in gastroenterological treatment.",
+    "reading": "GI pharmacology routinely includes proton pump inhibitors for acid suppression, laxatives and stool softeners for bowel management, simethicone for gas relief, and rectal suppositories for local treatment. Interpreters should know both brand names (Protonix, Colace, Gas-X) and their generic equivalents.",
+    "color": "#a6e3a1",
+    "terms": [
+        {
+            "en": "Suppositories",
+            "ru": "Свечи / Суппозитории",
+            "example_en": "The doctor prescribed suppositories for rectal administration.",
+            "example_ru": "Врач назначил свечи для ректального применения.",
+            "note": "Merged duplicate entries; 'свечи' is the common patient term, 'суппозитории' is clinical",
+            "image": ""
+        },
+        {
+            "en": "Protonix (Pantoprazole)",
+            "ru": "Пантопразол (Протоникс)",
+            "example_en": "Protonix is a proton pump inhibitor used to reduce stomach acid.",
+            "example_ru": "Протоникс — ингибитор протонной помпы, применяемый для снижения кислотности желудка.",
+            "note": "Source: 'протониз' — typo; brand name: Protonix; generic: pantoprazole",
+            "image": ""
+        },
+        {
+            "en": "Stool Softener",
+            "ru": "Смягчитель стула",
+            "example_en": "A stool softener was prescribed to prevent straining.",
+            "example_ru": "Смягчитель стула был назначен для предотвращения натуживания.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Laxative (e.g., Colace)",
+            "ru": "Слабительное (например, Колэйс)",
+            "example_en": "The patient was given a laxative before the colonoscopy prep.",
+            "example_ru": "Пациенту дали слабительное перед подготовкой к колоноскопии.",
+            "note": "Colace is a docusate sodium brand; acts as both laxative and stool softener — note distinction from stool softener entry",
+            "image": ""
+        },
+        {
+            "en": "Gas-X (Simethicone)",
+            "ru": "Симетикон (Газ-Экс)",
+            "example_en": "Gas-X helps relieve bloating and gas discomfort.",
+            "example_ru": "Симетикон помогает устранить вздутие и дискомфорт от газов.",
+            "note": "Source: 'gas ex medication' — typo for 'Gas-X'; generic name: simethicone",
+            "image": ""
+        }
+    ]
+}

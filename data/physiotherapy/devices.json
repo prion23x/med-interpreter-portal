@@ -1,0 +1,255 @@
+{
+    "intro": "DEVICES, mobility aids, adaptive equipment, and home modifications used in physiotherapy and occupational therapy.",
+    "reading": "PT and OT involve a wide range of assistive devices — from mobility aids like canes, crutches, and wheelchairs to post-surgical supports such as casts, splints, and slings. OT also includes home modification equipment: grab bars, raised toilet seats, reachers, and shower chairs. These terms arise often in discharge planning and home safety discussions.",
+    "color": "#a6e3a1",
+    "terms": [
+        {
+            "en": "Cane",
+            "ru": "Трость",
+            "example_en": "He uses a cane to support his weight when walking.",
+            "example_ru": "Он использует трость для поддержки при ходьбе.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Crutches",
+            "ru": "Костыли",
+            "example_en": "She was given crutches to use until the fracture heals.",
+            "example_ru": "Ей выдали костыли до заживления перелома.",
+            "note": "Source: 'cruthces' (typo), duplicate — merged and corrected",
+            "image": ""
+        },
+        {
+            "en": "Sling",
+            "ru": "Повязка / поддерживающая повязка",
+            "example_en": "Keep your arm in the sling for the next three weeks.",
+            "example_ru": "Держите руку в повязке следующие три недели.",
+            "note": "Merged: 'a sling' and 'to be in a sling'",
+            "image": ""
+        },
+        {
+            "en": "Cast",
+            "ru": "Гипс",
+            "example_en": "The cast will be on for six weeks.",
+            "example_ru": "Гипс будет наложен на шесть недель.",
+            "note": "Appears 3 times in source — merged",
+            "image": ""
+        },
+        {
+            "en": "Boot (orthopedic)",
+            "ru": "Ортопедический ботинок",
+            "example_en": "She is in a boot to immobilize the ankle while it heals.",
+            "example_ru": "Она носит ортопедический ботинок для фиксации лодыжки во время заживления.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Wheelchair",
+            "ru": "Инвалидная коляска",
+            "example_en": "He will need a wheelchair until he can walk again.",
+            "example_ru": "Ему потребуется инвалидная коляска до восстановления ходьбы.",
+            "note": "Merged: 'a wheelchair' and 'to be in a wheelchair'",
+            "image": ""
+        },
+        {
+            "en": "Splint",
+            "ru": "Шина",
+            "example_en": "A splint was applied to stabilize the injured wrist.",
+            "example_ru": "Шина была наложена для стабилизации повреждённого запястья.",
+            "note": "Appears 3 times — merged",
+            "image": ""
+        },
+        {
+            "en": "Grab bars",
+            "ru": "Поручни (в душе / у унитаза)",
+            "example_en": "Grab bars in the shower reduce the risk of falls.",
+            "example_ru": "Поручни в душе снижают риск падения.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Surgical rods",
+            "ru": "Стержни (хирургические)",
+            "example_en": "The surgeon used rods to stabilize the fractured spine.",
+            "example_ru": "Хирург использовал стержни для стабилизации сломанного позвоночника.",
+            "note": "Appears twice — merged",
+            "image": ""
+        },
+        {
+            "en": "Heat pads",
+            "ru": "Грелки",
+            "example_en": "Heat pads can relax tight muscles before a session.",
+            "example_ru": "Грелки помогают расслабить напряжённые мышцы перед занятием.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Compression stockings",
+            "ru": "Компрессионные чулки",
+            "example_en": "Compression stockings help prevent blood clots in the legs.",
+            "example_ru": "Компрессионные чулки помогают предотвратить образование тромбов в ногах.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Metal plates, pins and rods",
+            "ru": "Металлические пластины, спицы и стержни",
+            "example_en": "The fracture was fixed with metal plates, pins, and rods.",
+            "example_ru": "Перелом был зафиксирован металлическими пластинами, спицами и стержнями.",
+            "note": "Source: 'металические' — corrected",
+            "image": ""
+        },
+        {
+            "en": "Brace / arm brace",
+            "ru": "Корсет / фиксатор руки",
+            "example_en": "The brace supports the lower back during activity.",
+            "example_ru": "Корсет поддерживает поясницу во время физической нагрузки.",
+            "note": "Source: 'карсет' — corrected; merged 'a brace' and 'a brace on the arm'",
+            "image": ""
+        },
+        {
+            "en": "Leg rest",
+            "ru": "Подставка для ног",
+            "example_en": "A leg rest helps elevate the limb and reduce swelling.",
+            "example_ru": "Подставка для ног помогает приподнять конечность и уменьшить отёк.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Shower chair",
+            "ru": "Стул для душа",
+            "example_en": "A shower chair allows the patient to bathe safely.",
+            "example_ru": "Стул для душа позволяет пациенту безопасно принимать душ.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Railings",
+            "ru": "Перила",
+            "example_en": "Railings along the hallway help him walk without falling.",
+            "example_ru": "Перила вдоль коридора помогают ему ходить без риска падения.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Straps",
+            "ru": "Ремни (удерживающие)",
+            "example_en": "The straps on the brace keep it in place during exercise.",
+            "example_ru": "Ремни на фиксаторе удерживают его на месте во время упражнений.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Contraption / adaptive device (informal)",
+            "ru": "Приспособление",
+            "example_en": "The therapist brought a contraption to help with dressing.",
+            "example_ru": "Терапевт принёс приспособление, помогающее одеваться.",
+            "note": "General/informal term for an adaptive device whose name is not known",
+            "image": ""
+        },
+        {
+            "en": "Wheelchair ramp",
+            "ru": "Пандус для инвалидной коляски",
+            "example_en": "A wheelchair ramp was installed at the entrance.",
+            "example_ru": "У входа был установлен пандус для инвалидной коляски.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Walk-in shower",
+            "ru": "Душевая кабина без поддона",
+            "example_en": "A walk-in shower eliminates the need to step over a threshold.",
+            "example_ru": "Душевая кабина без поддона исключает необходимость перешагивать порог.",
+            "note": "Appears twice — merged",
+            "image": ""
+        },
+        {
+            "en": "Step-over tub with shower",
+            "ru": "Ванна с душем (через бортик)",
+            "example_en": "A step-over tub requires the patient to lift the leg over the edge.",
+            "example_ru": "Ванна через бортик требует подъёма ноги через бортик.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Raised toilet seat / higher toilet",
+            "ru": "Приподнятое сиденье для унитаза",
+            "example_en": "A raised toilet seat reduces hip strain when sitting down.",
+            "example_ru": "Приподнятое сиденье уменьшает нагрузку на бёдра при садении.",
+            "note": "Merged: 'raised toilet seat' and 'higher toilet'",
+            "image": ""
+        },
+        {
+            "en": "Bidet",
+            "ru": "Биде",
+            "example_en": "A bidet reduces the need for bending and twisting in the bathroom.",
+            "example_ru": "Биде снижает необходимость наклоняться и поворачиваться в ванной.",
+            "note": "Source: 'Bidete' — corrected",
+            "image": ""
+        },
+        {
+            "en": "Recliner",
+            "ru": "Кресло с откидной спинкой",
+            "example_en": "A recliner lets the patient rest comfortably with legs elevated.",
+            "example_ru": "Кресло с откидной спинкой позволяет пациенту отдыхать с поднятыми ногами.",
+            "note": "Merged: 'recliener' (typo) and 'recliner'",
+            "image": ""
+        },
+        {
+            "en": "Handheld shower",
+            "ru": "Ручной душ",
+            "example_en": "A handheld shower allows bathing without moving around.",
+            "example_ru": "Ручной душ позволяет мыться без лишних движений.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Arm crank",
+            "ru": "Ручной велотренажёр / вращение руками",
+            "example_en": "The arm crank machine provides upper body cardio training.",
+            "example_ru": "Ручной велотренажёр обеспечивает кардионагрузку для верхней части тела.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Dumbbells",
+            "ru": "Гантели",
+            "example_en": "Light dumbbells are used for shoulder strengthening exercises.",
+            "example_ru": "Лёгкие гантели используются для упражнений на укрепление плеч.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Reachers / grabbers",
+            "ru": "Захватные устройства / манипуляторы",
+            "example_en": "Reachers help patients pick up objects without bending.",
+            "example_ru": "Захватные устройства помогают пациентам поднимать предметы, не наклоняясь.",
+            "note": "Source lists separately; functionally same category — merged",
+            "image": ""
+        },
+        {
+            "en": "Armrest",
+            "ru": "Подлокотник / боковая опора",
+            "example_en": "The armrest helps the patient push up from the chair.",
+            "example_ru": "Подлокотник помогает пациенту опереться и встать со стула.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Cervical collar (neck brace)",
+            "ru": "Шейный ортез / воротник на шее",
+            "example_en": "She must wear the cervical collar for six weeks.",
+            "example_ru": "Ей нужно носить шейный ортез шесть недель.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Shrinker sock",
+            "ru": "Компрессионный носок (для остаточной конечности)",
+            "example_en": "A shrinker sock is worn on the residual limb to reduce swelling.",
+            "example_ru": "Компрессионный носок надевается на остаточную конечность для уменьшения отёка.",
+            "note": "",
+            "image": ""
+        }
+    ]
+}

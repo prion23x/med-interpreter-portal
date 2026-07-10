@@ -1,0 +1,535 @@
+{
+    "intro": "CONDITIONS, symptoms, and clinical presentations encountered in physiotherapy and occupational therapy.",
+    "reading": "PT and OT sessions cover a broad range of musculoskeletal, neurological, and functional conditions — from disc herniations and fractures to balance disorders and post-amputation care. Interpreters must handle both clinical diagnostic terms and everyday patient language describing pain, mobility limitations, and movement difficulties.",
+    "color": "#a6e3a1",
+    "terms": [
+        {
+            "en": "Herniated disc",
+            "ru": "Межпозвоночная грыжа",
+            "example_en": "He has a herniated disc pressing on the nerve.",
+            "example_ru": "У него межпозвоночная грыжа, давящая на нерв.",
+            "note": "Source: 'herneated disc' — corrected",
+            "image": ""
+        },
+        {
+            "en": "Radiating pain",
+            "ru": "Боль, отдающая в... / боль поднимается",
+            "example_en": "The pain radiates from the lower back down to the leg.",
+            "example_ru": "Боль отдаёт из поясницы вниз по ноге.",
+            "note": "Merged: 'the pain goes up' and 'pain radiates to'",
+            "image": ""
+        },
+        {
+            "en": "Injury (general)",
+            "ru": "Травма",
+            "example_en": "She is recovering from a shoulder injury.",
+            "example_ru": "Она восстанавливается после травмы плеча.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Femur fracture",
+            "ru": "Перелом бедренной кости",
+            "example_en": "A femur fracture requires careful rehabilitation.",
+            "example_ru": "Перелом бедренной кости требует тщательной реабилитации.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Femur neck fracture",
+            "ru": "Перелом шейки бедренной кости",
+            "example_en": "Femur neck fractures are common in elderly patients with osteoporosis.",
+            "example_ru": "Переломы шейки бедренной кости часто встречаются у пожилых пациентов с остеопорозом.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Malunion (bones healed incorrectly)",
+            "ru": "Кости зажили неправильно / неправильное срастание",
+            "example_en": "If the bones healed incorrectly, surgery may be needed.",
+            "example_ru": "Если кости зажили неправильно, может потребоваться операция.",
+            "note": "Appears twice in source — merged",
+            "image": ""
+        },
+        {
+            "en": "Development anomalies",
+            "ru": "Пороки развития",
+            "example_en": "The child has development anomalies affecting posture.",
+            "example_ru": "У ребёнка пороки развития, влияющие на осанку.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Cognitive impairments",
+            "ru": "Когнитивные нарушения",
+            "example_en": "Cognitive impairments can make following PT instructions difficult.",
+            "example_ru": "Когнитивные нарушения могут затруднить выполнение инструкций физиотерапевта.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Balance disorder",
+            "ru": "Нарушение равновесия",
+            "example_en": "The patient has a balance disorder and is at risk of falling.",
+            "example_ru": "У пациента нарушение равновесия, что увеличивает риск падения.",
+            "note": "Source: 'a balance (med)' — expanded to full clinical term",
+            "image": ""
+        },
+        {
+            "en": "Rotator cuff injury",
+            "ru": "Травма вращающей манжеты плеча",
+            "example_en": "She came in with a rotator cuff injury from lifting.",
+            "example_ru": "Она поступила с травмой вращающей манжеты плеча от подъёма тяжестей.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Fracture (general)",
+            "ru": "Перелом",
+            "example_en": "The X-ray confirmed a fracture in the wrist.",
+            "example_ru": "Рентген подтвердил перелом запястья.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Non-displaced fracture",
+            "ru": "Перелом без смещения",
+            "example_en": "A non-displaced fracture means the bone cracked but did not shift.",
+            "example_ru": "Перелом без смещения означает, что кость треснула, но не сдвинулась.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Vertebral fracture",
+            "ru": "Перелом позвонка / трещина в позвонке",
+            "example_en": "A vertebral fracture can compress the spinal cord.",
+            "example_ru": "Перелом позвонка может вызвать компрессию спинного мозга.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Muscle strain",
+            "ru": "Растяжение мышцы",
+            "example_en": "He has a muscle strain in the lower back from lifting.",
+            "example_ru": "У него растяжение мышцы поясницы от подъёма тяжестей.",
+            "note": "Merged: 'a strain', 'strain in the back', 'strained a muscle', 'muscle strains'",
+            "image": ""
+        },
+        {
+            "en": "Muscle tightness",
+            "ru": "Напряжённые / затянутые мышцы",
+            "example_en": "Her muscles have tightened since the injury.",
+            "example_ru": "После травмы её мышцы затянулись.",
+            "note": "Merged: 'muscles have tightened' and 'to have a tight muscle'",
+            "image": ""
+        },
+        {
+            "en": "To trip / tripped",
+            "ru": "Споткнуться / споткнулся",
+            "example_en": "He tripped on the stairs and hurt his knee.",
+            "example_ru": "Он споткнулся на лестнице и ушиб колено.",
+            "note": "Merged: 'tripped' and 'to trip'",
+            "image": ""
+        },
+        {
+            "en": "To fall",
+            "ru": "Падать / упасть",
+            "example_en": "She fell getting out of bed in the morning.",
+            "example_ru": "Утром она упала, вставая с кровати.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Osteoporosis",
+            "ru": "Остеопороз",
+            "example_en": "Osteoporosis makes bones fragile and prone to fractures.",
+            "example_ru": "Остеопороз делает кости хрупкими и склонными к переломам.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Osteopenia",
+            "ru": "Остеопения",
+            "example_en": "Osteopenia is a lower-than-normal bone density, a precursor to osteoporosis.",
+            "example_ru": "Остеопения — это сниженная плотность костей, предшественник остеопороза.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Bone thinning",
+            "ru": "Истончение костей",
+            "example_en": "Bone thinning is an early sign of osteopenia.",
+            "example_ru": "Истончение костей является ранним признаком остеопении.",
+            "note": "Source: 'утоньщение' — corrected",
+            "image": ""
+        },
+        {
+            "en": "Scar tissue",
+            "ru": "Рубцовая ткань",
+            "example_en": "Scar tissue from surgery has limited her shoulder movement.",
+            "example_ru": "Рубцовая ткань после операции ограничила движение плеча.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Moderate shortness of breath",
+            "ru": "Умеренная одышка",
+            "example_en": "The patient became moderately out of breath after walking one block.",
+            "example_ru": "После ходьбы на один квартал у пациента появилась умеренная одышка.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Trembling / shaking hands",
+            "ru": "Руки трясутся",
+            "example_en": "His hands have been shaking since the neurological episode.",
+            "example_ru": "С момента неврологического эпизода у него трясутся руки.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Bone-deep pain",
+            "ru": "Пронизывающая до костей боль",
+            "example_en": "She described the pain as a deep, bone-rattling ache.",
+            "example_ru": "Она описала боль как глубокую, пронизывающую до костей.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Disc protrusion",
+            "ru": "Межпозвоночная протрузия",
+            "example_en": "A disc protrusion is less severe than a full herniation.",
+            "example_ru": "Протрузия диска менее серьёзна, чем полная грыжа.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Sensory deficit",
+            "ru": "Дефицит чувствительности",
+            "example_en": "The patient has a sensory deficit in the right leg.",
+            "example_ru": "У пациента дефицит чувствительности в правой ноге.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Skin breakdown",
+            "ru": "Нарушение целостности кожи",
+            "example_en": "Prolonged pressure causes skin breakdown in immobile patients.",
+            "example_ru": "Длительное давление вызывает нарушение целостности кожи у малоподвижных пациентов.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Pressure sores / pressure injury",
+            "ru": "Пролежни / травма от давления",
+            "example_en": "Frequent repositioning prevents pressure sores.",
+            "example_ru": "Частая смена положения предотвращает пролежни.",
+            "note": "Merged: 'preassure sores' (typo), 'pressure injury', 'пролежни'",
+            "image": ""
+        },
+        {
+            "en": "Unsteady on feet / unsteadiness",
+            "ru": "Неустойчивость / ноги проваливаются",
+            "example_en": "She feels unsteady on her feet after standing up quickly.",
+            "example_ru": "После быстрого вставания она чувствует неустойчивость.",
+            "note": "Merged: 'unsteadiness' (2x), 'unsteady on feet', 'ноги проваливаются'",
+            "image": ""
+        },
+        {
+            "en": "Vertebral compression / spine collapse",
+            "ru": "Проседание позвоночника / компрессия позвонков",
+            "example_en": "Osteoporosis can lead to vertebral compression over time.",
+            "example_ru": "Остеопороз может со временем привести к компрессии позвонков.",
+            "note": "Source: 'spine collapses' appears 3 times — merged",
+            "image": ""
+        },
+        {
+            "en": "Spinal curvature (general)",
+            "ru": "Искривление позвоночника",
+            "example_en": "The X-ray showed an abnormal spinal curvature.",
+            "example_ru": "Рентген показал патологическое искривление позвоночника.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Kyphosis",
+            "ru": "Кифоз",
+            "example_en": "Kyphosis causes an exaggerated forward curve of the upper back.",
+            "example_ru": "Кифоз вызывает чрезмерный изгиб позвоночника вперёд в верхней части спины.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Inward / outward spinal curve",
+            "ru": "Внутренний / наружный изгиб позвоночника",
+            "example_en": "The physiotherapist noted an outward curve at the thoracic level.",
+            "example_ru": "Физиотерапевт отметил наружный изгиб на уровне грудного отдела.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Apex of the curve",
+            "ru": "Верхушка / вершина дуги искривления",
+            "example_en": "The apex of the curve is at the L3 vertebra.",
+            "example_ru": "Верхушка дуги искривления находится на уровне позвонка L3.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Stooped posture / bent-over gait",
+            "ru": "Сгорбленная осанка / сгорбленная походка",
+            "example_en": "Kyphosis often results in a stooped posture and bent-over gait.",
+            "example_ru": "Кифоз часто приводит к сгорбленной осанке и согнутой походке.",
+            "note": "Merged: 'Walk with a stoop', 'Bent-over gait', 'to stoop'",
+            "image": ""
+        },
+        {
+            "en": "Pins and needles sensation",
+            "ru": "Ощущение покалывания / мурашки",
+            "example_en": "She feels pins and needles in her feet when standing up.",
+            "example_ru": "Когда она встаёт, она ощущает покалывание в ступнях.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Stiffness",
+            "ru": "Скованность",
+            "example_en": "Morning stiffness in the joints is common with arthritis.",
+            "example_ru": "Утренняя скованность в суставах типична при артрите.",
+            "note": "Appears twice — merged; 'too stiff' folded in",
+            "image": ""
+        },
+        {
+            "en": "Musculoskeletal dysfunction",
+            "ru": "Нарушение функции опорно-двигательного аппарата",
+            "example_en": "Musculoskeletal dysfunction can affect a patient's daily activities.",
+            "example_ru": "Нарушение функции опорно-двигательного аппарата может влиять на повседневную жизнь пациента.",
+            "note": "Source: 'muslce skeletal function' (2x, typo) — corrected and merged",
+            "image": ""
+        },
+        {
+            "en": "Osteoarthritis",
+            "ru": "Остеоартрит",
+            "example_en": "Osteoarthritis is a degenerative joint disease common in older adults.",
+            "example_ru": "Остеоартрит — дегенеративное заболевание суставов, распространённое у пожилых людей.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Primary osteoarthritis",
+            "ru": "Первичный остеоартрит",
+            "example_en": "Primary osteoarthritis develops with age without an underlying cause.",
+            "example_ru": "Первичный остеоартрит развивается с возрастом без конкретной причины.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Back seized up",
+            "ru": "Спину схватило / спину прихватило",
+            "example_en": "He says his back seized up when he bent over.",
+            "example_ru": "Он говорит, что когда он наклонился, спину схватило.",
+            "note": "Colloquial patient expression — source: 'спину хватает'",
+            "image": ""
+        },
+        {
+            "en": "Scraped / skinned knee",
+            "ru": "Ободрал коленку / ссадина на колене",
+            "example_en": "The child skinned his knee on the playground.",
+            "example_ru": "Ребёнок ободрал коленку на игровой площадке.",
+            "note": "Informal patient/caregiver expression",
+            "image": ""
+        },
+        {
+            "en": "Joint hypermobility",
+            "ru": "Гипермобильность сустава / сустав выгибается назад",
+            "example_en": "She mentioned that her joint can bend backwards a little.",
+            "example_ru": "Она отметила, что её сустав немного выгибается назад.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Torn ligaments",
+            "ru": "Разрыв связок",
+            "example_en": "He tore the ligaments in his knee during the game.",
+            "example_ru": "Он порвал связки колена во время игры.",
+            "note": "Source: 'to torn the ligaments' — grammatical error corrected",
+            "image": ""
+        },
+        {
+            "en": "Leg fell asleep (paresthesia)",
+            "ru": "Нога онемела / отсидела ногу",
+            "example_en": "She said her leg fell asleep after sitting for an hour.",
+            "example_ru": "Она сказала, что нога онемела после часа сидения.",
+            "note": "Colloquial patient phrase; source: 'отсидела ногу'",
+            "image": ""
+        },
+        {
+            "en": "Muscle spasm",
+            "ru": "Судорога / мышцу сводит",
+            "example_en": "He woke up with a muscle spasm in his calf.",
+            "example_ru": "Он проснулся с судорогой в икроножной мышце.",
+            "note": "Merged: 'muscle seized up' and 'muscle spasm'",
+            "image": ""
+        },
+        {
+            "en": "Fatigue / muscle fatigue",
+            "ru": "Усталость / мышечная усталость",
+            "example_en": "He feels fatigued after only short periods of exercise.",
+            "example_ru": "Он устаёт после коротких периодов физической нагрузки.",
+            "note": "Merged: 'muscle fatique', 'it will fatique your muscles', 'to feel fatigued'; typos corrected",
+            "image": ""
+        },
+        {
+            "en": "Motor control impairment",
+            "ru": "Нарушение двигательного контроля",
+            "example_en": "Stroke can cause motor control impairment on one side of the body.",
+            "example_ru": "Инсульт может вызвать нарушение двигательного контроля с одной стороны тела.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Dizziness / wooziness",
+            "ru": "Головокружение / дурно",
+            "example_en": "She felt woozy and unsteady after standing up too quickly.",
+            "example_ru": "После слишком быстрого вставания ей стало дурно и неустойчиво.",
+            "note": "Merged: 'woozy' and 'wooziness'",
+            "image": ""
+        },
+        {
+            "en": "Muscle tension",
+            "ru": "Мышечное напряжение",
+            "example_en": "Chronic muscle tension in the neck can cause headaches.",
+            "example_ru": "Хроническое мышечное напряжение в шее может вызывать головные боли.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Dislocation",
+            "ru": "Вывих",
+            "example_en": "The shoulder dislocation was reduced in the emergency room.",
+            "example_ru": "Вывих плеча был вправлен в отделении неотложной помощи.",
+            "note": "Merged: 'dislocation', 'dislocation and loosening' (2x); see also 'to dislocate' in Procedures",
+            "image": ""
+        },
+        {
+            "en": "Hardware loosening",
+            "ru": "Расшатывание компонентов / конструкции",
+            "example_en": "Hardware loosening may require revision surgery.",
+            "example_ru": "Расшатывание компонентов может потребовать ревизионной операции.",
+            "note": "Appears twice (one with empty Russian) — merged",
+            "image": ""
+        },
+        {
+            "en": "Joint contractures",
+            "ru": "Контрактуры суставов",
+            "example_en": "Joint contractures limit the range of motion in the affected joint.",
+            "example_ru": "Контрактуры ограничивают объём движений в поражённом суставе.",
+            "note": "Source: 'контракуты' — corrected",
+            "image": ""
+        },
+        {
+            "en": "ALS (amyotrophic lateral sclerosis)",
+            "ru": "БАС (боковой амиотрофический склероз)",
+            "example_en": "ALS progressively weakens the muscles throughout the body.",
+            "example_ru": "БАС постепенно ослабляет мышцы по всему телу.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Lymphedema",
+            "ru": "Лимфедема / лимфатический отёк",
+            "example_en": "Lymphedema causes swelling due to a build-up of lymph fluid.",
+            "example_ru": "Лимфедема вызывает отёк из-за накопления лимфатической жидкости.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Lower extremity lymphedema",
+            "ru": "Лимфедема нижних конечностей",
+            "example_en": "She developed lower extremity lymphedema after cancer treatment.",
+            "example_ru": "У неё развилась лимфедема нижних конечностей после лечения рака.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Orthostatic hypertension",
+            "ru": "Ортостатическая гипертония",
+            "example_en": "Orthostatic hypertension is a rise in blood pressure upon standing.",
+            "example_ru": "Ортостатическая гипертония — это повышение артериального давления при вставании.",
+            "note": "Note: orthostatic hypotension (drop in BP) is more common clinically — verify which is intended",
+            "image": ""
+        },
+        {
+            "en": "Sprain / twisted finger",
+            "ru": "Растяжение / подвернуть палец",
+            "example_en": "She sprained her finger catching the ball.",
+            "example_ru": "Она подвернула палец, ловя мяч.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Limping",
+            "ru": "Хромать / хромота",
+            "example_en": "He has been limping since the surgery.",
+            "example_ru": "Он хромает с момента операции.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Canal stenosis (spinal)",
+            "ru": "Стеноз / сужение позвоночного канала",
+            "example_en": "Spinal canal stenosis can cause pain and weakness in the legs.",
+            "example_ru": "Стеноз позвоночного канала может вызывать боль и слабость в ногах.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Bone alignment",
+            "ru": "Расположение / выравнивание кости",
+            "example_en": "The surgeon checked the bone alignment after reduction.",
+            "example_ru": "Хирург проверил положение кости после вправления.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Bone healing",
+            "ru": "Срастание кости",
+            "example_en": "Bone healing can take six to eight weeks for minor fractures.",
+            "example_ru": "Срастание кости при небольших переломах может занять от шести до восьми недель.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Foreign body",
+            "ru": "Инородное тело",
+            "example_en": "An X-ray was ordered to rule out a foreign body in the joint.",
+            "example_ru": "Был назначен рентген для исключения инородного тела в суставе.",
+            "note": "",
+            "image": ""
+        },
+        {
+            "en": "Stamina / endurance",
+            "ru": "Выносливость",
+            "example_en": "We will work on building stamina throughout the program.",
+            "example_ru": "Мы будем работать над повышением выносливости в ходе всей программы.",
+            "note": "Merged: 'stamina' and 'endurance' (both in Others section)",
+            "image": ""
+        },
+        {
+            "en": "Disability",
+            "ru": "Инвалидность",
+            "example_en": "The patient applied for disability benefits after the injury.",
+            "example_ru": "Пациент подал заявление на получение пособия по инвалидности после травмы.",
+            "note": "From Others section",
+            "image": ""
+        },
+        {
+            "en": "Warning signs / red flags",
+            "ru": "Тревожные признаки / красные флаги",
+            "example_en": "Tell your therapist immediately if you notice any warning signs.",
+            "example_ru": "Немедленно сообщите терапевту, если заметите тревожные признаки.",
+            "note": "From Others section",
+            "image": ""
+        }
+    ]
+}
