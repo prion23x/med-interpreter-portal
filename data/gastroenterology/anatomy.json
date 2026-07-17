@@ -4,7 +4,7 @@
     "color": "#a6e3a1",
     "terms": [
         {
-            "en": "Navel / Belly Button",
+            "en": "The navel / belly button",
             "ru": "Пупок",
             "example_en": "The pain was located just above the navel.",
             "example_ru": "Боль локализовалась чуть выше пупка.",
@@ -20,7 +20,7 @@
             "image": ""
         },
         {
-            "en": "Colon",
+            "en": "The colon",
             "ru": "Толстая кишка",
             "example_en": "The biopsy was taken from the wall of the colon.",
             "example_ru": "Биопсия была взята со стенки толстой кишки.",
@@ -36,7 +36,7 @@
             "image": ""
         },
         {
-            "en": "Rectum",
+            "en": "The rectum",
             "ru": "Прямая кишка",
             "example_en": "The colonoscopy showed mild inflammation in the rectum.",
             "example_ru": "Колоноскопия выявила лёгкое воспаление в прямой кишке.",
@@ -44,7 +44,7 @@
             "image": ""
         },
         {
-            "en": "Small Intestine",
+            "en": "The small intestine",
             "ru": "Тонкая кишка",
             "example_en": "Most nutrient absorption occurs in the small intestine.",
             "example_ru": "Большая часть питательных веществ всасывается в тонкой кишке.",
@@ -52,7 +52,7 @@
             "image": ""
         },
         {
-            "en": "Bowel / Intestine",
+            "en": "The bowel / intestine",
             "ru": "Кишечник",
             "example_en": "The bowel sounds were normal on exam.",
             "example_ru": "При осмотре перистальтика кишечника была в норме.",
@@ -60,7 +60,7 @@
             "image": ""
         },
         {
-            "en": "Appendix",
+            "en": "The appendix",
             "ru": "Аппендикс",
             "example_en": "The appendix is a small pouch attached to the large intestine.",
             "example_ru": "Аппендикс — небольшой отросток, прикреплённый к толстой кишке.",
@@ -68,7 +68,7 @@
             "image": ""
         },
         {
-            "en": "Pancreas",
+            "en": "The pancreas",
             "ru": "Поджелудочная железа",
             "example_en": "The pancreas produces both digestive enzymes and insulin.",
             "example_ru": "Поджелудочная железа вырабатывает пищеварительные ферменты и инсулин.",
@@ -76,7 +76,7 @@
             "image": ""
         },
         {
-            "en": "Gallbladder",
+            "en": "The gallbladder",
             "ru": "Желчный пузырь",
             "example_en": "Her gallbladder was removed laparoscopically.",
             "example_ru": "Ей удалили желчный пузырь лапароскопически.",
@@ -84,7 +84,7 @@
             "image": ""
         },
         {
-            "en": "Bile Duct",
+            "en": "The bile duct",
             "ru": "Желчный проток",
             "example_en": "A stone was blocking the bile duct.",
             "example_ru": "Камень перекрывал желчный проток.",
@@ -92,7 +92,7 @@
             "image": ""
         },
         {
-            "en": "Pancreatic Duct",
+            "en": "The pancreatic duct",
             "ru": "Панкреатический проток",
             "example_en": "The pancreatic duct appeared dilated on the MRI.",
             "example_ru": "На МРТ панкреатический проток выглядел расширенным.",
@@ -100,7 +100,7 @@
             "image": ""
         },
         {
-            "en": "Digestive System",
+            "en": "The digestive system",
             "ru": "Пищеварительная система",
             "example_en": "The digestive system breaks down food and absorbs nutrients.",
             "example_ru": "Пищеварительная система расщепляет пищу и всасывает питательные вещества.",
@@ -108,7 +108,7 @@
             "image": ""
         },
         {
-            "en": "Right Lower Quadrant",
+            "en": "The right lower quadrant",
             "ru": "Правый нижний квадрант",
             "example_en": "The pain is localized in the right lower quadrant.",
             "example_ru": "Боль локализована в правом нижнем квадранте.",
@@ -116,7 +116,7 @@
             "image": ""
         },
         {
-            "en": "Esophagus",
+            "en": "The esophagus",
             "ru": "Пищевод",
             "example_en": "Food passes from the mouth through the esophagus to the stomach.",
             "example_ru": "Пища проходит через пищевод из полости рта в желудок.",
@@ -124,7 +124,7 @@
             "image": ""
         },
         {
-            "en": "Sigmoid Colon",
+            "en": "The sigmoid colon",
             "ru": "Сигмовидная кишка",
             "example_en": "A polyp was found in the sigmoid colon during colonoscopy.",
             "example_ru": "При колоноскопии в сигмовидной кишке обнаружили полип.",
@@ -132,7 +132,7 @@
             "image": ""
         },
         {
-            "en": "Walls of the Colon",
+            "en": "The walls of the colon",
             "ru": "Стенки толстой кишки",
             "example_en": "Imaging showed thickening of the walls of the colon.",
             "example_ru": "На снимках выявлено утолщение стенок толстой кишки.",

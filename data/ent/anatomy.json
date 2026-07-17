@@ -4,7 +4,7 @@
     "color": "#b7bdf8",
     "terms": [
         {
-            "en": "Thyroid gland",
+            "en": "The thyroid gland",
             "ru": "Щитовидная железа",
             "example_en": "The thyroid gland sits at the front of the neck.",
             "example_ru": "Щитовидная железа расположена в передней части шеи.",
@@ -12,7 +12,7 @@
             "image": "data/images/Thyroid gland.jpg"
         },
         {
-            "en": "Mucous membrane",
+            "en": "A mucous membrane",
             "ru": "Слизистая оболочка",
             "example_en": "The mucous membrane lining the nose traps dust and germs.",
             "example_ru": "Слизистая оболочка, выстилающая нос, задерживает пыль и микробы.",
@@ -20,7 +20,7 @@
             "image": "data/images/Mucous membrane.jpg"
         },
         {
-            "en": "Nostril",
+            "en": "A nostril",
             "ru": "Ноздря",
             "example_en": "Please breathe through one nostril at a time.",
             "example_ru": "Пожалуйста, дышите поочерёдно через каждую ноздрю.",
@@ -28,7 +28,7 @@
             "image": "data/images/Nostril.jpg"
         },
         {
-            "en": "Oral cavity",
+            "en": "The oral cavity",
             "ru": "Полость рта",
             "example_en": "The doctor examined the oral cavity for signs of infection.",
             "example_ru": "Врач осмотрел полость рта на наличие признаков инфекции.",
@@ -45,7 +45,7 @@
             "image": "data/images/Earwax.jpg"
         },
         {
-            "en": "Cervical lymph node",
+            "en": "A cervical lymph node",
             "ru": "Шейный лимфатический узел",
             "example_en": "The doctor felt a swollen cervical lymph node.",
             "example_ru": "Врач прощупал увеличенный шейный лимфатический узел.",
@@ -53,7 +53,7 @@
             "image": "data/images/Cervical lymph node.webp"
         },
         {
-            "en": "Sphenoid sinus",
+            "en": "The sphenoid sinus",
             "ru": "Клиновидная (основная) пазуха",
             "example_en": "The sphenoid sinus is located deep behind the nasal cavity.",
             "example_ru": "Клиновидная пазуха расположена глубоко за полостью носа.",
@@ -61,7 +61,7 @@
             "image": "data/images/Sphenoid sinus.jpg"
         },
         {
-            "en": "Maxillary sinus",
+            "en": "The maxillary sinus",
             "ru": "Верхнечелюстная (гайморова) пазуха",
             "example_en": "The maxillary sinus is the largest of the paranasal sinuses and is located under the eyes.",
             "example_ru": "Верхнечелюстная пазуха — самая крупная из околоносовых пазух, она расположена под глазами.",
@@ -69,7 +69,7 @@
             "image": "data/images/Sphenoid sinus.jpg"
         },
         {
-            "en": "Frontal sinus",
+            "en": "The frontal sinus",
             "ru": "Лобная пазуха",
             "example_en": "Infection in the frontal sinus can cause a severe headache just above the eyebrows.",
             "example_ru": "Инфекция в лобной пазухе может вызвать сильную головную боль чуть выше бровей.",
@@ -77,7 +77,7 @@
             "image": "data/images/Sphenoid sinus.jpg"
         },
         {
-            "en": "Ethmoid sinus",
+            "en": "The ethmoid sinus",
             "ru": "Решётчатая пазуха (решётчатый лабиринт)",
             "example_en": "The ethmoid sinus consists of multiple small air cells located between the eyes.",
             "example_ru": "Решётчатая пазуха состоит из множества мелких воздушных ячеек, расположенных между глазами.",
@@ -85,7 +85,7 @@
             "image": "data/images/Sphenoid sinus.jpg"
         },
         {
-            "en": "Pharynx",
+            "en": "The pharynx",
             "ru": "Глотка",
             "example_en": "The pharynx connects the nose and mouth to the esophagus.",
             "example_ru": "Глотка соединяет нос и рот с пищеводом.",
@@ -93,7 +93,7 @@
             "image": "data/images/Larynx.jpg"
         },
         {
-            "en": "Voice box (larynx)",
+            "en": "The voice box (larynx)",
             "ru": "Гортань",
             "example_en": "The voice box houses the vocal cords.",
             "example_ru": "Гортань содержит голосовые связки.",
@@ -101,7 +101,7 @@
             "image": "data/images/Larynx.jpg"
         },
         {
-            "en": "Adam's apple",
+            "en": "The Adam's apple",
             "ru": "Адамово яблоко",
             "example_en": "The doctor examined his Adam's apple when he swallowed.",
             "example_ru": "Врач осмотрел его адамово яблоко, когда он проглотил.",
@@ -109,7 +109,7 @@
             "image": "data/images/Adams apple.jpg"
         },
         {
-            "en": "Esophagus",
+            "en": "The esophagus",
             "ru": "Пищевод",
             "example_en": "Food travels down the esophagus to the stomach.",
             "example_ru": "Пища проходит по пищеводу в желудок.",
@@ -117,7 +117,7 @@
             "image": "data/images/Esophagus.jpg"
         },
         {
-            "en": "Salivary gland",
+            "en": "A salivary gland",
             "ru": "Слюнная железа",
             "example_en": "The salivary glands produce saliva to aid digestion.",
             "example_ru": "Слюнные железы вырабатывают слюну, способствующую пищеварению.",
@@ -125,7 +125,7 @@
             "image": "data/images/Salivary gland.webp"
         },
         {
-            "en": "Eardrum (tympanic membrane)",
+            "en": "The eardrum (tympanic membrane)",
             "ru": "Барабанная перепонка",
             "example_en": "The eardrum vibrates in response to sound waves.",
             "example_ru": "Барабанная перепонка вибрирует в ответ на звуковые волны.",
@@ -133,7 +133,7 @@
             "image": "data/images/Eardrums.webp"
         },
         {
-            "en": "Vocal cords",
+            "en": "The vocal cords",
             "ru": "Голосовые связки",
             "example_en": "The vocal cords vibrate to produce sound.",
             "example_ru": "Голосовые связки вибрируют, создавая звук.",
@@ -141,7 +141,7 @@
             "image": "data/images/Vocal cords.jpg"
         },
         {
-            "en": "Windpipe (trachea)",
+            "en": "The windpipe (trachea)",
             "ru": "Трахея",
             "example_en": "The windpipe carries air to the lungs.",
             "example_ru": "Трахея проводит воздух в лёгкие.",
@@ -197,7 +197,7 @@
             "image": "data/images/Windpipe.jpg"
         },
         {
-            "en": "Bronchiole",
+            "en": "A bronchiole",
             "ru": "Бронхиола",
             "example_en": "The bronchiole is the smallest branch of the bronchi before the alveoli.",
             "example_ru": "Бронхиола — это наименьшее ветвление бронхов перед альвеолами.",
@@ -205,7 +205,7 @@
             "image": "data/images/Windpipe.jpg"
         },
         {
-            "en": "Hearing organ (ear)",
+            "en": "The hearing organ (ear)",
             "ru": "Орган слуха (ухо)",
             "example_en": "The hearing organ converts sound waves into nerve signals.",
             "example_ru": "Орган слуха преобразует звуковые волны в нервные сигналы.",
@@ -213,7 +213,7 @@
             "image": ""
         },
         {
-            "en": "Uvula",
+            "en": "The uvula",
             "ru": "Нёбный язычок",
             "example_en": "The uvula hangs at the back of the soft palate.",
             "example_ru": "Нёбный язычок свисает в задней части мягкого нёба.",

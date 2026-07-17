@@ -106,6 +106,18 @@ function toggleSection(id) {
 }
 
 const termMap = {};
+let currentAudio = null;
+
+function playTermAudio(path) {
+    if (currentAudio) {
+        currentAudio.pause();
+        currentAudio.currentTime = 0;
+        currentAudio = null;
+    }
+    currentAudio = new Audio(`data/audios/${path}`);
+    currentAudio.play();
+    currentAudio.onended = () => { currentAudio = null; };
+}
 
 function renderTerm(term) {
     const id = 't-' + Math.random().toString(36).slice(2, 8);
@@ -124,8 +136,12 @@ function openModal(id) {
     const term = termMap[id];
     if (!term) return;
 
+    const audioBtn = term.audio_path
+        ? `<button class="modal-audio-btn" onclick="playTermAudio('${term.audio_path}')" title="Play pronunciation">🔊</button>`
+        : '';
+
     let html = `
-        <div class="modal-en">${term.en}</div>
+        <div class="modal-en">${term.en}${audioBtn}</div>
         <div class="modal-ru">${term.ru}</div>`;
 
     if (term.example_en || term.example_ru) {
@@ -154,10 +170,14 @@ function openModal(id) {
 }
 
 function closeModal() {
+    if (currentAudio) {
+        currentAudio.pause();
+        currentAudio.currentTime = 0;
+        currentAudio = null;
+    }
     document.getElementById('modal-overlay').classList.add('hidden');
     document.body.style.overflow = '';
     document.body.style.paddingRight = '';
-
 }
 
 document.addEventListener('keydown', e => {

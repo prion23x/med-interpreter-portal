@@ -12,7 +12,7 @@
             "image": "data/images/Medical patches.webp"
         },
         {
-            "en": "(Compression) Stockings/Socks",
+            "en": "Compression stockings / socks",
             "ru": "Чулки (компрессионные)",
             "example_en": "Wear the compression stockings during the day.",
             "example_ru": "Носите компрессионные чулки в течение дня.",
@@ -20,7 +20,7 @@
             "image": "data/images/Stockings.jpg"
         },
         {
-            "en": "Garment (compression garment)",
+            "en": "A compression garment",
             "ru": "Компрессионное изделие",
             "example_en": "The compression garment helps reduce swelling.",
             "example_ru": "Компрессионное изделие помогает уменьшить отёк.",
@@ -28,7 +28,7 @@
             "image": ""
         },
         {
-            "en": "Dressing",
+            "en": "A dressing",
             "ru": "Повязка (перевязочный материал)",
             "example_en": "Change the dressing once a day.",
             "example_ru": "Меняйте повязку один раз в день.",

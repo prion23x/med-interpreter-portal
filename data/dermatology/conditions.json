@@ -12,7 +12,7 @@
             "image": "data/images/Hives.jpg"
         },
         {
-            "en": "Blister(s)",
+            "en": "A blister",
             "ru": "Волдырь(и)",
             "example_en": "Won't this cause a blister?",
             "example_ru": "Это не вызовет волдырь?",
@@ -60,7 +60,7 @@
             "image": ""
         },
         {
-            "en": "Affected area",
+            "en": "The affected area",
             "ru": "Поражённая область",
             "example_en": "Keep the affected area clean and dry.",
             "example_ru": "Держите поражённую область в чистоте и сухости.",
@@ -76,7 +76,7 @@
             "image": ""
         },
         {
-            "en": "Scar",
+            "en": "A scar",
             "ru": "Шрам",
             "example_en": "The scar has faded over the past year.",
             "example_ru": "Шрам поблек за последний год.",
@@ -84,7 +84,7 @@
             "image": "data/images/Scar.jpg"
         },
         {
-            "en": "Scar tissue",
+            "en": "The scar tissue",
             "ru": "Рубцовая ткань",
             "example_en": "Scar tissue formed around the wound.",
             "example_ru": "Вокруг раны образовалась рубцовая ткань.",
@@ -180,7 +180,7 @@
             "image": "data/images/Eczema.jpg"
         },
         {
-            "en": "Lesion",
+            "en": "A lesion",
             "ru": "Поражение",
             "example_en": "The lesion was biopsied to rule out malignancy.",
             "example_ru": "Была взята биопсия поражения для исключения злокачественности.",

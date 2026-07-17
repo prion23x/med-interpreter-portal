@@ -4,7 +4,7 @@
     "color": "#eed49f",
     "terms": [
         {
-            "en": "Fallopian/Uterine Tubes",
+            "en": "The fallopian / uterine tubes",
             "ru": "Маточные трубки",
             "example_en": "The fallopian tubes carry the egg from the ovary to the uterus.",
             "example_ru": "Маточные трубки переносят яйцеклетку из яичника в матку.",
@@ -12,7 +12,7 @@
             "image": "data/images/Fallopian Tubes.jpg"
         },
         {
-            "en": "Ovaries",
+            "en": "The ovaries",
             "ru": "Яичники",
             "example_en": "The ovaries produce eggs and hormones.",
             "example_ru": "Яичники вырабатывают яйцеклетки и гормоны.",
@@ -20,7 +20,7 @@
             "image": "data/images/uterus_structure.png"
         },
         {
-            "en": "Ligament of Ovary",
+            "en": "The ligament of the ovary",
             "ru": "Связка яичника",
             "example_en": "The ligament of ovary attaches the ovary to the uterus.",
             "example_ru": "Связка яичника прикрепляет яичник к матке.",
@@ -28,7 +28,7 @@
             "image": "data/images/uterus_structure.png"
         },
         {
-            "en": "Cervical Canal",
+            "en": "The cervical canal",
             "ru": "Цервикальный канал",
             "example_en": "The cervical canal connects the uterus to the vagina.",
             "example_ru": "Цервикальный канал соединяет матку с влагалищем.",
@@ -36,7 +36,7 @@
             "image": "data/images/Cervical canal.jpg"
         },
         {
-            "en": "Endometrium",
+            "en": "The endometrium",
             "ru": "Эндометрий",
             "example_en": "The endometrium thickens during the menstrual cycle.",
             "example_ru": "Эндометрий утолщается во время менструального цикла.",
@@ -44,7 +44,7 @@
             "image": "data/images/uterus_structure.png"
         },
         {
-            "en": "Vagina",
+            "en": "The vagina",
             "ru": "Влагалище",
             "example_en": "The vagina is the birth canal.",
             "example_ru": "Влагалище — это родовой канал.",
@@ -52,7 +52,7 @@
             "image": "data/images/Vulva.jpg"
         },
         {
-            "en": "Vulva",
+            "en": "The vulva",
             "ru": "Вульва",
             "example_en": "The vulva includes the external female genitalia.",
             "example_ru": "Вульва включает наружные женские половые органы.",
@@ -60,7 +60,7 @@
             "image": "data/images/Vulva.jpg"
         },
         {
-            "en": "Amniotic Sac",
+            "en": "The amniotic sac",
             "ru": "Амниотическая оболочка",
             "example_en": "The amniotic sac holds the fluid that cushions the fetus.",
             "example_ru": "Амниотическая оболочка удерживает жидкость, которая защищает плод.",
@@ -68,7 +68,7 @@
             "image": "data/images/Amniotic Sac.jpg"
         },
         {
-            "en": "Amniotic Fluid",
+            "en": "The amniotic fluid",
             "ru": "Амниотическая жидкость",
             "example_en": "The amniotic fluid protects and cushions the developing fetus.",
             "example_ru": "Амниотическая жидкость защищает и поддерживает развивающийся плод.",
@@ -76,7 +76,7 @@
             "image": "data/images/Amniotic Fluid.jpeg"
         },
         {
-            "en": "Placenta",
+            "en": "The placenta",
             "ru": "Плацента",
             "example_en": "The placenta transfers nutrients and oxygen to the fetus.",
             "example_ru": "Плацента передает питательные вещества и кислород плоду.",
@@ -84,7 +84,7 @@
             "image": "data/images/Placenta.png"
         },
         {
-            "en": "Cervix",
+            "en": "The cervix",
             "ru": "Шейка матки",
             "example_en": "The cervix opens during labor to allow the baby to pass through.",
             "example_ru": "Шейка матки расширяется во время родов, позволяя ребенку пройти.",
@@ -92,7 +92,7 @@
             "image": "data/images/Cervix.png"
         },
         {
-            "en": "Urethra",
+            "en": "The urethra",
             "ru": "Мочеиспускательный канал",
             "example_en": "The urethra carries urine out of the bladder.",
             "example_ru": "Мочеиспускательный канал выводит мочу из мочевого пузыря.",
@@ -100,7 +100,7 @@
             "image": "data/images/Urethra.webp"
         },
         {
-            "en": "Ureters",
+            "en": "The ureters",
             "ru": "Мочеточники",
             "example_en": "The ureters connect the kidneys to the bladder.",
             "example_ru": "Мочеточники соединяют почки с мочевым пузырём.",
@@ -108,7 +108,7 @@
             "image": "data/images/Urethra.webp"
         },
         {
-            "en": "Uterus",
+            "en": "The uterus",
             "ru": "Матка",
             "example_en": "The uterus is where the fetus develops during pregnancy.",
             "example_ru": "Матка — это орган, где развивается плод во время беременности.",
@@ -116,7 +116,7 @@
             "image": "data/images/uterus_structure.png"
         },
         {
-            "en": "Mammary Glands",
+            "en": "The mammary glands",
             "ru": "Молочные железы",
             "example_en": "The mammary glands produce milk after childbirth.",
             "example_ru": "Молочные железы вырабатывают молоко после родов.",
@@ -124,7 +124,7 @@
             "image": "data/images/Mammary glands.jpg"
         },
         {
-            "en": "Nipple",
+            "en": "A nipple",
             "ru": "Сосок",
             "example_en": "The nipple can become sore during breastfeeding.",
             "example_ru": "Сосок может воспаляться во время грудного вскармливания.",
@@ -132,7 +132,7 @@
             "image": ""
         },
         {
-            "en": "Nipple Tissue",
+            "en": "The nipple tissue",
             "ru": "Ткань соска",
             "example_en": "A biopsy was taken from the nipple tissue.",
             "example_ru": "Была взята биопсия ткани соска.",
@@ -140,7 +140,7 @@
             "image": ""
         },
         {
-            "en": "Vaginal Opening",
+            "en": "The vaginal opening",
             "ru": "Вход во влагалище",
             "example_en": "The doctor examined the vaginal opening during the pelvic exam.",
             "example_ru": "Врач осмотрел вход во влагалище во время гинекологического осмотра.",
@@ -148,7 +148,7 @@
             "image": "data/images/Clitoris.webp"
         },
         {
-            "en": "Clitoris",
+            "en": "The clitoris",
             "ru": "Клитор",
             "example_en": "The clitoris is an external sexual organ located above the vaginal opening.",
             "example_ru": "Клитор — это наружный орган, расположенный над входом во влагалища.",
@@ -156,7 +156,7 @@
             "image": "data/images/Clitoris.webp"
         },
         {
-            "en": "Clitoral Glans",
+            "en": "The clitoral glans",
             "ru": "Головка клитора",
             "example_en": "The clitoral glans is highly sensitive.",
             "example_ru": "Головка клитора очень чувствительна.",
@@ -164,7 +164,7 @@
             "image": "data/images/Clitoris.webp"
         },
         {
-            "en": "Umbilical Cord",
+            "en": "The umbilical cord",
             "ru": "Пуповина",
             "example_en": "The umbilical cord was clamped right after delivery.",
             "example_ru": "Пуповину пережали сразу после родов.",
@@ -172,7 +172,7 @@
             "image": "data/images/Umbilical Cord.webp"
         },
         {
-            "en": "Umbilical Stump",
+            "en": "The umbilical stump",
             "ru": "Пуповинный остаток",
             "example_en": "Keep the umbilical stump clean and dry until it falls off.",
             "example_ru": "Держите пуповинный остаток чистым и сухим, пока он не отпадёт.",
@@ -180,7 +180,7 @@
             "image": "data/images/Umbilical stump.webp"
         },
         {
-            "en": "Umbilical Area",
+            "en": "The umbilical area",
             "ru": "Область пупка",
             "example_en": "There was mild redness in the umbilical area.",
             "example_ru": "В области пупка отмечалось лёгкое покраснение.",
@@ -188,7 +188,7 @@
             "image": ""
         },
         {
-            "en": "Belly Button / Navel",
+            "en": "The belly button / navel",
             "ru": "Пупок",
             "example_en": "The baby's belly button healed within two weeks.",
             "example_ru": "Пупок у ребёнка зажил в течение двух недель.",

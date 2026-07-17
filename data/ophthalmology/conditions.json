@@ -20,7 +20,7 @@
             "image": ""
         },
         {
-            "en": "Stye",
+            "en": "A stye",
             "ru": "Ячмень",
             "example_en": "A stye formed on his lower eyelid.",
             "example_ru": "На его нижнем веке образовался ячмень.",
@@ -76,7 +76,7 @@
             "image": ""
         },
         {
-            "en": "Cataract",
+            "en": "A cataract",
             "ru": "Катаракта",
             "example_en": "The cataract made her vision look cloudy.",
             "example_ru": "Из-за катаракты её зрение казалось затуманенным.",
@@ -100,7 +100,7 @@
             "image": ""
         },
         {
-            "en": "Field of vision",
+            "en": "The field of vision",
             "ru": "Поле зрения",
             "example_en": "Glaucoma can gradually narrow the field of vision.",
             "example_ru": "Глаукома может постепенно сужать поле зрения.",
@@ -108,7 +108,7 @@
             "image": ""
         },
         {
-            "en": "Retinal hemorrhage",
+            "en": "A retinal hemorrhage",
             "ru": "Кровоизлияние в сетчатку",
             "example_en": "A retinal hemorrhage was visible during the fundus exam.",
             "example_ru": "Во время осмотра глазного дна было выявлено кровоизлияние в сетчатку.",
@@ -132,7 +132,7 @@
             "image": ""
         },
         {
-            "en": "Chalazion",
+            "en": "A chalazion",
             "ru": "Халязион",
             "example_en": "The chalazion did not resolve on its own.",
             "example_ru": "Халязион самостоятельно не рассосался.",
@@ -148,7 +148,7 @@
             "image": ""
         },
         {
-            "en": "Corneal ulcer",
+            "en": "A corneal ulcer",
             "ru": "Язва роговицы",
             "example_en": "A corneal ulcer can cause severe eye pain.",
             "example_ru": "Язва роговицы может вызывать сильную боль в глазу.",

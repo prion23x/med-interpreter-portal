@@ -9,15 +9,17 @@
             "example_en": "Please check the blood pressure in both arms.",
             "example_ru": "Пожалуйста, измерьте артериальное давление на обеих руках.",
             "note": "Не кровяное",
-            "image": "https://cdn.prod.website-files.com/66bdfc87da2d5175e8c7dd54/673a1c2ca94458bd37e800b3_blood-pressure.jpeg"
+            "image": "https://cdn.prod.website-files.com/66bdfc87da2d5175e8c7dd54/673a1c2ca94458bd37e800b3_blood-pressure.jpeg",
+            "audio_path": "cardiac_anatomy_blood_pressure_1.mp3"
         },
         {
-            "en": "Pericardium",
+            "en": "The pericardium",
             "ru": "Околосердечный мешок",
             "example_en": "The pericardium protects the heart and helps reduce friction.",
             "example_ru": "Околосердечный мешок защищает сердце и помогает уменьшить трение.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_pericardium_2.mp3"
         },
         {
             "en": "A ventricle",
@@ -25,7 +27,8 @@
             "example_en": "The left ventricle pumps blood to the rest of the body.",
             "example_ru": "Левый желудочек перекачивает кровь в остальные части тела.",
             "note": "e.g., in brain, heart",
-            "image": "https://www.thoughtco.com/thmb/iyctF-drsw6xgSR-ruu7h9AC4Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/heart_cross-section-57ed79845f9b586c3512474e.jpg"
+            "image": "https://www.thoughtco.com/thmb/iyctF-drsw6xgSR-ruu7h9AC4Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/heart_cross-section-57ed79845f9b586c3512474e.jpg",
+            "audio_path": "cardiac_anatomy_a_ventricle_3.mp3"
         },
         {
             "en": "An atrium",
@@ -33,15 +36,17 @@
             "example_en": "The right atrium receives blood returning from the body.",
             "example_ru": "Правое предсердие получает кровь, возвращающуюся из организма.",
             "note": "",
-            "image": "https://www.thoughtco.com/thmb/iyctF-drsw6xgSR-ruu7h9AC4Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/heart_cross-section-57ed79845f9b586c3512474e.jpg"
+            "image": "https://www.thoughtco.com/thmb/iyctF-drsw6xgSR-ruu7h9AC4Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/heart_cross-section-57ed79845f9b586c3512474e.jpg",
+            "audio_path": "cardiac_anatomy_an_atrium_4.mp3"
         },
         {
-            "en": "Cholesterol level",
+            "en": "The cholesterol level",
             "ru": "уровень холестерина",
             "example_en": "Your cholesterol level is higher than we expected.",
             "example_ru": "Ваш уровень холестерина выше, чем мы ожидали.",
             "note": "",
-            "image": "https://www.chandigarhayurvedcentre.com/wp-content/uploads/2024/03/high-cholesterol.jpg"
+            "image": "https://www.chandigarhayurvedcentre.com/wp-content/uploads/2024/03/high-cholesterol.jpg",
+            "audio_path": "cardiac_anatomy_cholesterol_level_5.mp3"
         },
         {
             "en": "HDL",
@@ -49,7 +54,8 @@
             "example_en": "A higher HDL level can be protective for the heart.",
             "example_ru": "Более высокий уровень ЛПВП может защищать сердце.",
             "note": "хороший холестерин",
-            "image": "https://www.herbovedam.com/cdn/shop/articles/7xm508843.jpg?v=1708428975"
+            "image": "https://www.herbovedam.com/cdn/shop/articles/7xm508843.jpg?v=1708428975",
+            "audio_path": "cardiac_anatomy_hdl_6.mp3"
         },
         {
             "en": "LDL",
@@ -57,7 +63,8 @@
             "example_en": "We want to lower your LDL to reduce cardiac risk.",
             "example_ru": "Мы хотим снизить уровень ЛПНП, чтобы уменьшить риск для сердца.",
             "note": "плохой холестерин",
-            "image": "https://www.herbovedam.com/cdn/shop/articles/7xm508843.jpg?v=1708428975"
+            "image": "https://www.herbovedam.com/cdn/shop/articles/7xm508843.jpg?v=1708428975",
+            "audio_path": "cardiac_anatomy_ldl_7.mp3"
         },
         {
             "en": "Red blood cells",
@@ -65,7 +72,8 @@
             "example_en": "Red blood cells carry oxygen through the bloodstream.",
             "example_ru": "Эритроциты переносят кислород по кровотоку.",
             "note": "",
-            "image": "https://physicsworld.com/wp-content/uploads/2018/09/Red-blood-cells.png"
+            "image": "https://physicsworld.com/wp-content/uploads/2018/09/Red-blood-cells.png",
+            "audio_path": "cardiac_anatomy_red_blood_cells_8.mp3"
         },
         {
             "en": "White blood cells",
@@ -73,7 +81,8 @@
             "example_en": "White blood cells help the body fight infection.",
             "example_ru": "Лейкоциты помогают организму бороться с инфекцией.",
             "note": "",
-            "image": "https://cdn11.bigcommerce.com/s-gresmczhg1/product_images/uploaded_images/redbloodcells.jpg"
+            "image": "https://cdn11.bigcommerce.com/s-gresmczhg1/product_images/uploaded_images/redbloodcells.jpg",
+            "audio_path": "cardiac_anatomy_white_blood_cells_9.mp3"
         },
         {
             "en": "Platelets",
@@ -81,7 +90,8 @@
             "example_en": "Platelets help the blood form clots after bleeding.",
             "example_ru": "Тромбоциты помогают крови образовывать сгустки после кровотечения.",
             "note": "",
-            "image": "https://cdn11.bigcommerce.com/s-gresmczhg1/product_images/uploaded_images/redbloodcells.jpg"
+            "image": "https://cdn11.bigcommerce.com/s-gresmczhg1/product_images/uploaded_images/redbloodcells.jpg",
+            "audio_path": "cardiac_anatomy_platelets_10.mp3"
         },
         {
             "en": "A septum",
@@ -89,31 +99,35 @@
             "example_en": "The septum separates the right and left sides of the heart.",
             "example_ru": "Перегородка разделяет правую и левую стороны сердца.",
             "note": "nasal, ventricular",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_a_septum_11.mp3"
         },
         {
-            "en": "Aortic valve",
+            "en": "The aortic valve",
             "ru": "аортальный клапан",
             "example_en": "The aortic valve opens when blood leaves the left ventricle.",
             "example_ru": "Аортальный клапан открывается, когда кровь выходит из левого желудочка.",
             "note": "",
-            "image": "https://www.bhf.org.uk/-/media/images/information-support/illustrations/heart-valves.jpg?rev=b71e3126e8f243fa94a4ce10db3a805b&la=en&h=600&w=800&hash=C9458986981C9E6CC1875598BDC29D81"
+            "image": "https://www.bhf.org.uk/-/media/images/information-support/illustrations/heart-valves.jpg?rev=b71e3126e8f243fa94a4ce10db3a805b&la=en&h=600&w=800&hash=C9458986981C9E6CC1875598BDC29D81",
+            "audio_path": "cardiac_anatomy_aortic_valve_12.mp3"
         },
         {
-            "en": "Bloodflow / Bloodstream",
+            "en": "Blood flow / bloodstream",
             "ru": "Кровоток",
             "example_en": "The ultrasound shows reduced bloodflow through this artery.",
             "example_ru": "УЗИ показывает сниженный кровоток через эту артерию.",
             "note": "",
-            "image": "https://www.verywellhealth.com/thmb/q-DE1yH8q4m1eG34Yy4YKntzt2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-626974567-defc9220866c4e679c8d244dfbb997bb.jpg"
+            "image": "https://www.verywellhealth.com/thmb/q-DE1yH8q4m1eG34Yy4YKntzt2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-626974567-defc9220866c4e679c8d244dfbb997bb.jpg",
+            "audio_path": "cardiac_anatomy_bloodflow_bloodstream_13.mp3"
         },
         {
-            "en": "Femoral vein",
+            "en": "The femoral vein",
             "ru": "бедренная вена",
             "example_en": "The catheter may be placed through the femoral vein.",
             "example_ru": "Катетер могут ввести через бедренную вену.",
             "note": "",
-            "image": "https://www.texasheart.org/wp-content/uploads/2017/12/thi-leg-vasculature.jpg"
+            "image": "https://www.texasheart.org/wp-content/uploads/2017/12/thi-leg-vasculature.jpg",
+            "audio_path": "cardiac_anatomy_femoral_vein_14.mp3"
         },
         {
             "en": "A heart valve",
@@ -121,7 +135,8 @@
             "example_en": "A damaged heart valve can make the heart work harder.",
             "example_ru": "Поврежденный клапан сердца может заставлять сердце работать сильнее.",
             "note": "",
-            "image": "https://www.bhf.org.uk/-/media/images/information-support/illustrations/heart-valves.jpg?rev=b71e3126e8f243fa94a4ce10db3a805b&la=en&h=600&w=800&hash=C9458986981C9E6CC1875598BDC29D81"
+            "image": "https://www.bhf.org.uk/-/media/images/information-support/illustrations/heart-valves.jpg?rev=b71e3126e8f243fa94a4ce10db3a805b&la=en&h=600&w=800&hash=C9458986981C9E6CC1875598BDC29D81",
+            "audio_path": "cardiac_anatomy_a_heart_valve_15.mp3"
         },
         {
             "en": "Dense/thick blood",
@@ -129,7 +144,8 @@
             "example_en": "Thick blood can increase the risk of clot formation.",
             "example_ru": "Густая кровь может повышать риск образования тромбов.",
             "note": "blood",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_dense_thick_blood_16.mp3"
         },
         {
             "en": "Thin blood",
@@ -137,7 +153,8 @@
             "example_en": "This medicine keeps the blood thin to prevent clots.",
             "example_ru": "Это лекарство поддерживает кровь разжиженной, чтобы предотвратить тромбы.",
             "note": "blood",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_thin_blood_17.mp3"
         },
         {
             "en": "Indicators, values",
@@ -145,7 +162,8 @@
             "example_en": "A few blood test values are outside the normal range.",
             "example_ru": "Некоторые показатели анализа крови выходят за пределы нормы.",
             "note": "",
-            "image": "https://impact-ed.sas.upenn.edu/sites/default/files/2021-02/Performance-Indicators-1vz1hur.png"
+            "image": "https://impact-ed.sas.upenn.edu/sites/default/files/2021-02/Performance-Indicators-1vz1hur.png",
+            "audio_path": "cardiac_anatomy_indicators_values_18.mp3"
         },
         {
             "en": "Pericardial fluid",
@@ -153,7 +171,8 @@
             "example_en": "A small amount of pericardial fluid is normal.",
             "example_ru": "Небольшое количество перикардной жидкости является нормой.",
             "note": "",
-            "image": "https://assets.cureus.com/uploads/figure/file/1589387/article_river_f15ec540552b11f08af7492e39999d3b-Figure-1.png"
+            "image": "https://assets.cureus.com/uploads/figure/file/1589387/article_river_f15ec540552b11f08af7492e39999d3b-Figure-1.png",
+            "audio_path": "cardiac_anatomy_pericardial_fluid_19.mp3"
         },
         {
             "en": "Saturated fats",
@@ -161,7 +180,8 @@
             "example_en": "Try to reduce saturated fats in your diet.",
             "example_ru": "Постарайтесь уменьшить количество насыщенных жиров в рационе.",
             "note": "",
-            "image": "https://i.dietdoctor.com/wp-content/uploads/2019/06/fat.jpg?auto=compress%2Cformat&w=800&h=561&fit=crop"
+            "image": "https://i.dietdoctor.com/wp-content/uploads/2019/06/fat.jpg?auto=compress%2Cformat&w=800&h=561&fit=crop",
+            "audio_path": "cardiac_anatomy_saturated_fats_20.mp3"
         },
         {
             "en": "Transfats",
@@ -169,7 +189,8 @@
             "example_en": "Transfats can raise the risk of heart disease.",
             "example_ru": "Транс-жиры могут повышать риск сердечных заболеваний.",
             "note": "",
-            "image": "https://www.diabetes.co.uk/wp-content/uploads/2022/10/fastfood-badforyou.jpg"
+            "image": "https://www.diabetes.co.uk/wp-content/uploads/2022/10/fastfood-badforyou.jpg",
+            "audio_path": "cardiac_anatomy_transfats_21.mp3"
         },
         {
             "en": "Mitral valve",
@@ -177,7 +198,8 @@
             "example_en": "The mitral valve controls blood flow between the atrium and ventricle.",
             "example_ru": "Митральный клапан контролирует поток крови между предсердием и желудочком.",
             "note": "",
-            "image": "https://www.bhf.org.uk/-/media/images/information-support/illustrations/heart-valves.jpg?rev=b71e3126e8f243fa94a4ce10db3a805b&la=en&h=600&w=800&hash=C9458986981C9E6CC1875598BDC29D81"
+            "image": "https://www.bhf.org.uk/-/media/images/information-support/illustrations/heart-valves.jpg?rev=b71e3126e8f243fa94a4ce10db3a805b&la=en&h=600&w=800&hash=C9458986981C9E6CC1875598BDC29D81",
+            "audio_path": "cardiac_anatomy_mitral_valve_22.mp3"
         },
         {
             "en": "Aorta",
@@ -185,7 +207,8 @@
             "example_en": "The aorta carries oxygen-rich blood away from the heart.",
             "example_ru": "Аорта переносит насыщенную кислородом кровь от сердца.",
             "note": "",
-            "image": "https://www.thoughtco.com/thmb/iyctF-drsw6xgSR-ruu7h9AC4Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/heart_cross-section-57ed79845f9b586c3512474e.jpg"
+            "image": "https://www.thoughtco.com/thmb/iyctF-drsw6xgSR-ruu7h9AC4Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/heart_cross-section-57ed79845f9b586c3512474e.jpg",
+            "audio_path": "cardiac_anatomy_aorta_23.mp3"
         },
         {
             "en": "Thicker blood",
@@ -193,7 +216,8 @@
             "example_en": "Thicker blood can increase the chance of clotting.",
             "example_ru": "Более густая кровь может повышать вероятность образования тромбов.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_thicker_blood_24.mp3"
         },
         {
             "en": "Complete blood count",
@@ -201,7 +225,8 @@
             "example_en": "A complete blood count helps us check your blood cells.",
             "example_ru": "Полный анализ крови помогает проверить клетки крови.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_complete_blood_count_25.mp3"
         },
         {
             "en": "CBC",
@@ -209,7 +234,8 @@
             "example_en": "The CBC results will be reviewed by the doctor.",
             "example_ru": "Врач рассмотрит результаты общего анализа крови.",
             "note": "complete blood count",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_cbc_26.mp3"
         },
         {
             "en": "Type and screen",
@@ -217,7 +243,8 @@
             "example_en": "We may need a type and screen before the procedure.",
             "example_ru": "Перед процедурой нам может понадобиться определение группы крови и скрининг антител.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_type_and_screen_27.mp3"
         },
         {
             "en": "Blood count",
@@ -225,7 +252,8 @@
             "example_en": "Your blood count is stable today.",
             "example_ru": "Сегодня количество клеток крови у вас стабильное.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_blood_count_28.mp3"
         },
         {
             "en": "INR level",
@@ -233,7 +261,8 @@
             "example_en": "Your INR level shows how thin your blood is while taking this medicine.",
             "example_ru": "Уровень МНО показывает, насколько разжижена кровь на фоне приема этого лекарства.",
             "note": "Международное нормализованное отношение",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_inr_level_29.mp3"
         },
         {
             "en": "Low-salt diet",
@@ -241,7 +270,8 @@
             "example_en": "A low-salt diet can help reduce fluid buildup.",
             "example_ru": "Низкосолевая диета может помочь уменьшить скопление жидкости.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_low_salt_diet_30.mp3"
         },
         {
             "en": "Supply with blood",
@@ -249,7 +279,8 @@
             "example_en": "The coronary arteries supply the heart muscle with blood.",
             "example_ru": "Коронарные артерии снабжают сердечную мышцу кровью.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_supply_with_blood_31.mp3"
         },
         {
             "en": "Pulmonary blood supply",
@@ -257,7 +288,8 @@
             "example_en": "Pulmonary blood supply depends on blood flow from the heart to the lungs.",
             "example_ru": "Лёгочное кровоснабжение зависит от кровотока от сердца к лёгким.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_pulmonary_blood_supply_32.mp3"
         },
         {
             "en": "Radial artery",
@@ -265,7 +297,8 @@
             "example_en": "The catheter can sometimes be inserted through the radial artery.",
             "example_ru": "Иногда катетер можно ввести через лучевую артерию.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_radial_artery_33.mp3"
         },
         {
             "en": "Atrial lead",
@@ -273,7 +306,8 @@
             "example_en": "The atrial lead helps the pacemaker sense signals from the upper chamber.",
             "example_ru": "Предсердный электрод помогает кардиостимулятору считывать сигналы из верхней камеры сердца.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_atrial_lead_34.mp3"
         },
         {
             "en": "Upper chamber of the heart",
@@ -281,7 +315,8 @@
             "example_en": "The atrium is an upper chamber of the heart.",
             "example_ru": "Предсердие — это верхняя камера сердца.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_upper_chamber_of_the_heart_35.mp3"
         },
         {
             "en": "Chemistry panel",
@@ -289,7 +324,8 @@
             "example_en": "The chemistry panel checks kidney function and electrolytes.",
             "example_ru": "Биохимический анализ крови проверяет функцию почек и электролиты.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_chemistry_panel_36.mp3"
         },
         {
             "en": "Baseline",
@@ -297,7 +333,8 @@
             "example_en": "We compare today’s result with your baseline.",
             "example_ru": "Мы сравниваем сегодняшний результат с вашим базовым уровнем.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_baseline_37.mp3"
         },
         {
             "en": "Blood pressure baseline",
@@ -305,7 +342,8 @@
             "example_en": "Your blood pressure baseline is usually lower at home.",
             "example_ru": "Ваш базовый уровень артериального давления дома обычно ниже.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_blood_pressure_baseline_38.mp3"
         },
         {
             "en": "Readings",
@@ -313,7 +351,8 @@
             "example_en": "Please bring your home blood pressure readings to the visit.",
             "example_ru": "Пожалуйста, принесите на приём домашние показатели артериального давления.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_readings_39.mp3"
         },
         {
             "en": "Abnormal readings",
@@ -321,7 +360,8 @@
             "example_en": "The monitor showed a few abnormal readings overnight.",
             "example_ru": "Монитор показал несколько показателей с отклонением ночью.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_abnormal_readings_40.mp3"
         },
         {
             "en": "Within normal limits",
@@ -329,7 +369,8 @@
             "example_en": "Your heart rhythm is within normal limits today.",
             "example_ru": "Сегодня ваш сердечный ритм в пределах нормы.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_within_normal_limits_41.mp3"
         },
         {
             "en": "Lower limit of normal",
@@ -337,7 +378,8 @@
             "example_en": "Your pulse is near the lower limit of normal.",
             "example_ru": "Ваш пульс близок к нижней границе нормы.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_lower_limit_of_normal_42.mp3"
         },
         {
             "en": "Monitor readings",
@@ -345,7 +387,8 @@
             "example_en": "The monitor readings were stable during the test.",
             "example_ru": "Показатели монитора были стабильными во время теста.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_monitor_readings_43.mp3"
         },
         {
             "en": "Range of readings",
@@ -353,7 +396,8 @@
             "example_en": "Your blood pressure readings have ranged from normal to high.",
             "example_ru": "Ваши показатели артериального давления варьировались от нормальных до высоких.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_range_of_readings_44.mp3"
         },
         {
             "en": "Stable",
@@ -361,7 +405,8 @@
             "example_en": "Your blood pressure has been stable since this morning.",
             "example_ru": "Ваше артериальное давление стабильно с сегодняшнего утра.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_stable_45.mp3"
         },
         {
             "en": "To monitor",
@@ -369,7 +414,8 @@
             "example_en": "We will monitor your heart rhythm overnight.",
             "example_ru": "Мы будем отслеживать ваш сердечный ритм ночью.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_to_monitor_46.mp3"
         },
         {
             "en": "Have ranged from",
@@ -377,7 +423,8 @@
             "example_en": "Your blood pressure readings have ranged from normal to high.",
             "example_ru": "Ваши показатели артериального давления варьировались от нормальных до высоких.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_have_ranged_from_47.mp3"
         },
         {
             "en": "Consistent",
@@ -385,7 +432,8 @@
             "example_en": "Your pulse has been consistent during monitoring.",
             "example_ru": "Ваш пульс был стабильным во время мониторинга.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_anatomy_consistent_48.mp3"
         }
     ]
 }

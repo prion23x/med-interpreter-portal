@@ -4,12 +4,13 @@
     "color": "#f4dbd6",
     "terms": [
         {
-            "en": "Laughing gas (nitrous oxide)",
+            "en": "Nitrous oxide (laughing gas)",
             "ru": "Веселящий газ",
             "example_en": "Laughing gas helps patients relax during the procedure.",
             "example_ru": "Веселящий газ помогает пациентам расслабиться во время процедуры.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_pharmacology_laughing_gas_nitrous_oxide_1.mp3"
         }
     ]
 }

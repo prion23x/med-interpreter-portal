@@ -4,7 +4,7 @@
     "color": "#ee99a0",
     "terms": [
         {
-            "en": "IUD (Intrauterine Device)",
+            "en": "An IUD (intrauterine device)",
             "ru": "Внутриматочная спираль",
             "example_en": "An IUD can prevent pregnancy for several years.",
             "example_ru": "Внутриматочная спираль может предотвращать беременность на несколько лет.",
@@ -12,7 +12,7 @@
             "image": ""
         },
         {
-            "en": "Doppler (Fetal Doppler)",
+            "en": "A Doppler (fetal Doppler)",
             "ru": "Допплер (фетальный допплер)",
             "example_en": "The doctor used a doppler to listen to the baby's heartbeat.",
             "example_ru": "Врач использовал допплер, чтобы прослушать сердцебиение ребёнка.",
@@ -20,7 +20,7 @@
             "image": ""
         },
         {
-            "en": "Vaginal Speculum",
+            "en": "A vaginal speculum",
             "ru": "Влагалищное зеркало",
             "example_en": "The speculum allows the doctor to examine the cervix.",
             "example_ru": "Зеркало позволяет врачу осмотреть шейку матки.",
@@ -28,7 +28,7 @@
             "image": ""
         },
         {
-            "en": "Vaginal Ring",
+            "en": "A vaginal ring",
             "ru": "Вагинальное кольцо",
             "example_en": "The vaginal ring releases hormones over several weeks.",
             "example_ru": "Вагинальное кольцо выделяет гормоны в течение нескольких недель.",
@@ -36,7 +36,7 @@
             "image": ""
         },
         {
-            "en": "Forceps (Obstetric)",
+            "en": "Obstetric forceps",
             "ru": "Акушерские щипцы",
             "example_en": "Forceps were used to help guide the baby during delivery.",
             "example_ru": "Акушерские щипцы использовались, чтобы помочь ребёнку во время родов.",

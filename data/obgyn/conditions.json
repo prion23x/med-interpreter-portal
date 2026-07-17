@@ -4,7 +4,7 @@
     "color": "#f5a97f",
     "terms": [
         {
-            "en": "Gestational Diabetes",
+            "en": "Gestational diabetes",
             "ru": "Гестационный диабет",
             "example_en": "She was diagnosed with gestational diabetes at 26 weeks.",
             "example_ru": "У неё диагностировали гестационный диабет на 26-й неделе.",
@@ -12,7 +12,7 @@
             "image": ""
         },
         {
-            "en": "Premenstrual Syndrome (PMS)",
+            "en": "Premenstrual syndrome (PMS)",
             "ru": "Предменструальный синдром",
             "example_en": "PMS symptoms often improve once the period starts.",
             "example_ru": "Симптомы ПМС часто уменьшаются с началом менструации.",
@@ -20,7 +20,7 @@
             "image": ""
         },
         {
-            "en": "Bladder Inflammation (Cystitis)",
+            "en": "Bladder inflammation (cystitis)",
             "ru": "Воспаление мочевого пузыря",
             "example_en": "Bladder inflammation can cause pain during urination.",
             "example_ru": "Воспаление мочевого пузыря может вызывать боль при мочеиспускании.",
@@ -28,7 +28,7 @@
             "image": ""
         },
         {
-            "en": "Menstrual Period",
+            "en": "A menstrual period",
             "ru": "Менструальный цикл",
             "example_en": "Her last menstrual period started two weeks ago.",
             "example_ru": "Её последняя менструация началась две недели назад.",
@@ -36,7 +36,7 @@
             "image": ""
         },
         {
-            "en": "Miscarriage",
+            "en": "A miscarriage",
             "ru": "Выкидыш",
             "example_en": "She experienced a miscarriage in the first trimester.",
             "example_ru": "У неё случился выкидыш в первом триместре.",
@@ -52,7 +52,7 @@
             "image": ""
         },
         {
-            "en": "Intrauterine Pregnancy",
+            "en": "An intrauterine pregnancy",
             "ru": "Внутриматочная беременность",
             "example_en": "The ultrasound confirmed an intrauterine pregnancy.",
             "example_ru": "УЗИ подтвердило внутриматочную беременность.",
@@ -60,7 +60,7 @@
             "image": ""
         },
         {
-            "en": "Ectopic Pregnancy",
+            "en": "An ectopic pregnancy",
             "ru": "Внематочная беременность",
             "example_en": "An ectopic pregnancy requires urgent treatment.",
             "example_ru": "Внематочная беременность требует срочного лечения.",
@@ -76,7 +76,7 @@
             "image": ""
         },
         {
-            "en": "UTI (Urinary Tract Infection)",
+            "en": "A UTI (urinary tract infection)",
             "ru": "Инфекция мочевыводящих путей",
             "example_en": "She was treated with antibiotics for a UTI.",
             "example_ru": "Ей назначили антибиотики от инфекции мочевыводящих путей.",
@@ -84,7 +84,7 @@
             "image": ""
         },
         {
-            "en": "Heavy Bleeding",
+            "en": "Heavy bleeding",
             "ru": "Обильное кровотечение",
             "example_en": "She reported heavy bleeding between periods.",
             "example_ru": "Она сообщила об обильном кровотечении между менструациями.",
@@ -92,15 +92,15 @@
             "image": ""
         },
         {
-            "en": "Fetal Growth",
+            "en": "Fetal growth",
             "ru": "Рост плода",
-            "example_en": "How far along are you?",
+            "example_en": "How far along are you?" ,
             "example_ru": "На каком вы сроке?",
             "note": "Example reflects the common phrasing used to ask about gestational age/fetal growth.",
             "image": ""
         },
         {
-            "en": "Uterine Overgrowth (Enlargement)",
+            "en": "Uterine overgrowth (enlargement)",
             "ru": "Чрезмерное разрастание матки",
             "example_en": "The scan showed uterine overgrowth consistent with fibroids.",
             "example_ru": "Снимок показал чрезмерное разрастание матки, характерное для миомы.",
@@ -116,7 +116,7 @@
             "image": ""
         },
         {
-            "en": "Uterine Fibroid",
+            "en": "A uterine fibroid",
             "ru": "Миома матки",
             "example_en": "The uterine fibroid was found during a routine ultrasound.",
             "example_ru": "Миома матки была обнаружена при плановом УЗИ.",
@@ -124,7 +124,7 @@
             "image": ""
         },
         {
-            "en": "Breast Concerns",
+            "en": "Breast concerns",
             "ru": "Жалобы на состояние молочных желез",
             "example_en": "She came in with breast concerns after noticing a lump.",
             "example_ru": "Она обратилась с жалобами на молочные железы после обнаружения уплотнения.",
@@ -148,7 +148,7 @@
             "image": ""
         },
         {
-            "en": "Urinary Symptoms",
+            "en": "Urinary symptoms",
             "ru": "Симптомы мочевыводящих путей",
             "example_en": "She reported urinary symptoms including burning and frequency.",
             "example_ru": "Она сообщила о симптомах со стороны мочевыводящих путей, включая жжение и учащённое мочеиспускание.",
@@ -156,7 +156,7 @@
             "image": ""
         },
         {
-            "en": "Positive Margins",
+            "en": "Positive margins",
             "ru": "Позитивные края резекции",
             "example_en": "Positive margins mean tumor cells were found at the edge of the removed tissue.",
             "example_ru": "Позитивные края резекции означают, что опухолевые клетки обнаружены по краю удалённой ткани.",
@@ -164,9 +164,9 @@
             "image": ""
         },
         {
-            "en": "Sexual Intercourse",
+            "en": "Sexual intercourse",
             "ru": "Половой акт",
-            "example_en": "Are you currently sexually active?",
+            "example_en": "Are you currently sexually active?" ,
             "example_ru": "Вы сейчас ведёте половую жизнь?",
             "note": "General term used in patient history-taking; originally listed under Others.",
             "image": ""

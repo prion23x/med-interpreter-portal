@@ -4,7 +4,7 @@
     "color": "#a6e3a1",
     "terms": [
         {
-            "en": "Stoma Bag / Ostomy Bag",
+            "en": "A stoma bag / ostomy bag",
             "ru": "Мешок для стомы / Калоприёмник",
             "example_en": "The nurse demonstrated how to empty and change the stoma bag.",
             "example_ru": "Медсестра показала, как опустошать и менять мешок для стомы.",
@@ -12,7 +12,7 @@
             "image": ""
         },
         {
-            "en": "Feeding Tube",
+            "en": "A feeding tube",
             "ru": "Зонд для кормления",
             "example_en": "The patient was unable to eat and required a feeding tube.",
             "example_ru": "Пациент не мог питаться самостоятельно, поэтому ему потребовался зонд для кормления.",
@@ -20,7 +20,7 @@
             "image": ""
         },
         {
-            "en": "Bedpan",
+            "en": "A bedpan",
             "ru": "Судно / Утка",
             "example_en": "The patient needed a bedpan during the night.",
             "example_ru": "Ночью пациенту понадобилось судно.",
@@ -28,7 +28,7 @@
             "image": ""
         },
         {
-            "en": "NG Tube (Nasogastric Tube)",
+            "en": "An NG tube (nasogastric tube)",
             "ru": "Назогастральный зонд",
             "example_en": "The NG tube was inserted through the nose to drain stomach contents.",
             "example_ru": "Назогастральный зонд ввели через нос для откачивания содержимого желудка.",
@@ -36,7 +36,7 @@
             "image": ""
         },
         {
-            "en": "G Tube (Gastrostomy Tube)",
+            "en": "A G tube (gastrostomy tube)",
             "ru": "Гастростомическая трубка",
             "example_en": "The G tube is placed directly into the stomach through the abdominal wall.",
             "example_ru": "Гастростомическая трубка вводится непосредственно в желудок через брюшную стенку.",
@@ -44,7 +44,7 @@
             "image": ""
         },
         {
-            "en": "JP Drain (Jackson-Pratt Drain)",
+            "en": "A JP drain (Jackson-Pratt drain)",
             "ru": "Дренаж Джексона–Пратта (активный вакуумный дренаж)",
             "example_en": "The JP drain was removed on the third day after surgery.",
             "example_ru": "Дренаж Джексона–Пратта удалили на третий день после операции.",
@@ -52,7 +52,7 @@
             "image": ""
         },
         {
-            "en": "Scope / Endoscope",
+            "en": "A scope / endoscope",
             "ru": "Эндоскоп",
             "example_en": "The scope was passed through the mouth to examine the esophagus.",
             "example_ru": "Эндоскоп ввели через рот для осмотра пищевода.",

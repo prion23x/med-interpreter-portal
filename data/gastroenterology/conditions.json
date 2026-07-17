@@ -4,7 +4,7 @@
     "color": "#a6e3a1",
     "terms": [
         {
-            "en": "Inguinal (Groin) Hernia",
+            "en": "An inguinal (groin) hernia",
             "ru": "Паховая грыжа",
             "example_en": "He was referred for surgery to repair a groin hernia.",
             "example_ru": "Его направили на операцию по поводу паховой грыжи.",
@@ -12,7 +12,7 @@
             "image": ""
         },
         {
-            "en": "Infraumbilical Hernia",
+            "en": "An infraumbilical hernia",
             "ru": "Подпупковая грыжа",
             "example_en": "The infraumbilical hernia was repaired during surgery.",
             "example_ru": "Подпупковая грыжа была устранена в ходе операции.",
@@ -20,7 +20,7 @@
             "image": ""
         },
         {
-            "en": "Sliding Hernia",
+            "en": "A sliding hernia",
             "ru": "Скользящая грыжа",
             "example_en": "A sliding hernia can be difficult to diagnose on physical exam.",
             "example_ru": "Скользящую грыжу бывает сложно выявить при физикальном осмотре.",
@@ -28,7 +28,7 @@
             "image": ""
         },
         {
-            "en": "Stomach Acid / Gastric Juice",
+            "en": "Stomach acid / gastric juice",
             "ru": "Желудочный сок / Желудочная кислота",
             "example_en": "Excess stomach acid can damage the lining of the esophagus.",
             "example_ru": "Избыток желудочного сока может повредить слизистую оболочку пищевода.",
@@ -52,7 +52,7 @@
             "image": ""
         },
         {
-            "en": "Difficulty Swallowing / Dysphagia",
+            "en": "Difficulty swallowing / dysphagia",
             "ru": "Дисфагия / Затруднённое глотание",
             "example_en": "He said it is unpleasant and difficult to swallow solid food.",
             "example_ru": "Он сказал, что ему неприятно и трудно глотать твёрдую пищу.",
@@ -60,7 +60,7 @@
             "image": ""
         },
         {
-            "en": "Stomach Upset",
+            "en": "A stomach upset",
             "ru": "Расстройство желудка",
             "example_en": "Spicy food tends to upset her stomach.",
             "example_ru": "Острая еда обычно вызывает у неё расстройство желудка.",
@@ -68,15 +68,15 @@
             "image": ""
         },
         {
-            "en": "Passing Gas / Flatulence",
+            "en": "Passing gas / flatulence",
             "ru": "Метеоризм / Выпускание газов",
-            "example_en": "Do you pass gas regularly?",
+            "example_en": "Do you pass gas regularly?" ,
             "example_ru": "Вы регулярно выпускаете газы?",
             "note": "Merged: 'do you pass gasses' and 'to expell the gases' — patient phrases folded as examples",
             "image": ""
         },
         {
-            "en": "Gas Pain",
+            "en": "Gas pain",
             "ru": "Газовая боль / Боль от газов",
             "example_en": "The patient complained of gas pain after eating.",
             "example_ru": "Пациент жаловался на боли от газов после еды.",
@@ -84,7 +84,7 @@
             "image": ""
         },
         {
-            "en": "Bowel Sounds (Gurgling / Rumbling)",
+            "en": "Bowel sounds (gurgling / rumbling)",
             "ru": "Урчание / Кишечные шумы",
             "example_en": "The nurse noted active bowel sounds during auscultation.",
             "example_ru": "Медсестра отметила активные кишечные шумы при аускультации.",
@@ -92,7 +92,7 @@
             "image": ""
         },
         {
-            "en": "Unintentional Weight Loss",
+            "en": "Unintentional weight loss",
             "ru": "Непреднамеренная потеря веса",
             "example_en": "Unintentional weight loss can be a warning sign of cancer.",
             "example_ru": "Непреднамеренная потеря веса может быть тревожным признаком онкологии.",
@@ -124,7 +124,7 @@
             "image": ""
         },
         {
-            "en": "Loose Stool",
+            "en": "Loose stool",
             "ru": "Жидкий стул",
             "example_en": "He had loose stool for three days following the procedure.",
             "example_ru": "На протяжении трёх дней после процедуры у него был жидкий стул.",
@@ -132,7 +132,7 @@
             "image": ""
         },
         {
-            "en": "Persistent Vomiting",
+            "en": "Persistent vomiting",
             "ru": "Непрекращающаяся рвота",
             "example_en": "Persistent vomiting for more than 24 hours requires evaluation.",
             "example_ru": "Непрекращающаяся рвота на протяжении более 24 часов требует обследования.",
@@ -156,7 +156,7 @@
             "image": ""
         },
         {
-            "en": "Bowel Obstruction",
+            "en": "A bowel obstruction",
             "ru": "Непроходимость кишечника",
             "example_en": "The patient was diagnosed with a stage 3 bowel obstruction.",
             "example_ru": "Пациенту диагностировали непроходимость кишечника 3-й стадии.",
@@ -172,7 +172,7 @@
             "image": ""
         },
         {
-            "en": "Coating the Stomach",
+            "en": "Coating the stomach",
             "ru": "Обволакивание желудка / Защитный слой",
             "example_en": "This medication helps coat and protect the stomach lining.",
             "example_ru": "Этот препарат помогает обволакивать и защищать слизистую оболочку желудка.",
@@ -180,7 +180,7 @@
             "image": ""
         },
         {
-            "en": "Volvulus / Twisted Colon",
+            "en": "Volvulus / a twisted colon",
             "ru": "Заворот кишки",
             "example_en": "A twisted colon, or volvulus, can cut off blood supply to the bowel.",
             "example_ru": "Заворот кишки может перекрыть кровоснабжение кишечника.",
@@ -196,7 +196,7 @@
             "image": ""
         },
         {
-            "en": "Choking on a Pill",
+            "en": "Choking on a pill",
             "ru": "Поперхнуться таблеткой / Подавиться таблеткой",
             "example_en": "The patient reported she choked on the pill.",
             "example_ru": "Пациентка сообщила, что поперхнулась таблеткой.",
@@ -204,7 +204,7 @@
             "image": ""
         },
         {
-            "en": "Advanced Fibrosis / Scarring",
+            "en": "Advanced fibrosis / scarring",
             "ru": "Выраженный фиброз / Рубцевание",
             "example_en": "Advanced fibrosis was found on the liver biopsy.",
             "example_ru": "При биопсии печени выявлен выраженный фиброз.",
@@ -212,7 +212,7 @@
             "image": ""
         },
         {
-            "en": "Fatty Liver Disease (MASLD / NAFLD)",
+            "en": "Fatty liver disease (MASLD / NAFLD)",
             "ru": "Жировая болезнь печени (МАЖБП)",
             "example_en": "Fatty liver disease is increasingly common in patients with metabolic syndrome.",
             "example_ru": "Жировая болезнь печени всё чаще встречается у пациентов с метаболическим синдромом.",
@@ -220,7 +220,7 @@
             "image": ""
         },
         {
-            "en": "Feces / Stool",
+            "en": "Feces / stool",
             "ru": "Кал / Фекалии",
             "example_en": "A stool sample was collected for laboratory testing.",
             "example_ru": "Для лабораторного анализа был собран образец кала.",
@@ -228,7 +228,7 @@
             "image": ""
         },
         {
-            "en": "Perforation",
+            "en": "A perforation",
             "ru": "Перфорация",
             "example_en": "The surgeon discovered a perforation in the bowel wall.",
             "example_ru": "Хирург обнаружил перфорацию стенки кишечника.",
@@ -236,7 +236,7 @@
             "image": ""
         },
         {
-            "en": "Small Tear / Micro-tear",
+            "en": "A small tear / micro-tear",
             "ru": "Небольшой разрыв / Микротравма",
             "example_en": "A small tear in the mucosa was visible on endoscopy.",
             "example_ru": "При эндоскопии была видна небольшая трещина слизистой.",
@@ -244,7 +244,7 @@
             "image": ""
         },
         {
-            "en": "Bowel Contraction",
+            "en": "Bowel contraction",
             "ru": "Сокращение кишечника",
             "example_en": "This medication is used to stimulate bowel contractions.",
             "example_ru": "Этот препарат используется для стимуляции сокращений кишечника.",
@@ -252,7 +252,7 @@
             "image": ""
         },
         {
-            "en": "Distended Belly / Abdominal Distension",
+            "en": "A distended belly / abdominal distension",
             "ru": "Вздутый живот / Вздутие живота",
             "example_en": "The patient presented with a distended belly and abdominal pain.",
             "example_ru": "Пациент поступил с вздутым животом и болями.",
@@ -260,7 +260,7 @@
             "image": ""
         },
         {
-            "en": "Blocked Stent",
+            "en": "A blocked stent",
             "ru": "Заблокированный стент",
             "example_en": "The patient returned because the stent was blocked.",
             "example_ru": "Пациент вернулся, поскольку стент оказался заблокирован.",
@@ -268,7 +268,7 @@
             "image": ""
         },
         {
-            "en": "Epigastric Pain",
+            "en": "Epigastric pain",
             "ru": "Эпигастральная боль",
             "example_en": "The patient reported epigastric pain after every meal.",
             "example_ru": "Пациент сообщал об эпигастральной боли после каждого приёма пищи.",
@@ -276,7 +276,7 @@
             "image": ""
         },
         {
-            "en": "Nausea / Retching",
+            "en": "Nausea / retching",
             "ru": "Тошнота / Позывы на рвоту",
             "example_en": "The patient felt persistent nausea and retching after the procedure.",
             "example_ru": "После процедуры у пациента наблюдались стойкая тошнота и позывы на рвоту.",
@@ -284,7 +284,7 @@
             "image": ""
         },
         {
-            "en": "Mucosal Lesion",
+            "en": "A mucosal lesion",
             "ru": "Поражение слизистой оболочки",
             "example_en": "A mucosal lesion was biopsied during the endoscopy.",
             "example_ru": "Во время эндоскопии было выполнено биопсирование поражения слизистой оболочки.",

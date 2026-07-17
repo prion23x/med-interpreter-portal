@@ -9,31 +9,35 @@
             "example_en": "Sealing the teeth helps prevent decay in the fissures.",
             "example_ru": "Герметизация зубов помогает предотвратить кариес в бороздах.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_procedures_sealing_of_the_teeth_dental_sealant_1.mp3"
         },
         {
-            "en": "Impression",
+            "en": "An impression",
             "ru": "Слепок (отпечаток)",
             "example_en": "Let's take an impression of your front teeth.",
             "example_ru": "Давайте сделаем слепок ваших передних зубов.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_procedures_impression_2.mp3"
         },
         {
-            "en": "Radiograph (X-ray)",
+            "en": "A radiograph (X-ray)",
             "ru": "Рентгеновский снимок",
             "example_en": "The radiograph revealed a cavity between two teeth.",
             "example_ru": "Рентгеновский снимок показал кариес между двумя зубами.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_procedures_radiograph_x_ray_3.mp3"
         },
         {
-            "en": "Root canal (procedure)",
+            "en": "A root canal (procedure)",
             "ru": "Лечение корневого канала (удаление нерва)",
             "example_en": "He needs a root canal on his upper molar.",
             "example_ru": "Ему требуется лечение корневого канала верхнего моляра.",
             "note": "Procedure — see also \"Root canal\" under Anatomy for the structure itself",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_procedures_root_canal_procedure_4.mp3"
         },
         {
             "en": "Hygiene (cleaning)",
@@ -41,55 +45,62 @@
             "example_en": "Regular hygiene visits help prevent gum disease.",
             "example_ru": "Регулярные визиты на чистку помогают предотвратить заболевания дёсен.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_procedures_hygiene_cleaning_5.mp3"
         },
         {
-            "en": "Filling",
+            "en": "A filling",
             "ru": "Пломба",
             "example_en": "The dentist placed a filling in the decayed tooth.",
             "example_ru": "Стоматолог поставил пломбу в поражённый кариесом зуб.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_procedures_filling_6.mp3"
         },
         {
-            "en": "Pulpectomy",
+            "en": "A pulpectomy",
             "ru": "Пульпэктомия (удаление пульпы)",
             "example_en": "A pulpectomy removes the entire pulp of the tooth.",
             "example_ru": "Пульпэктомия — это полное удаление пульпы зуба.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_procedures_pulpectomy_7.mp3"
         },
         {
-            "en": "Pulpotomy",
+            "en": "A pulpotomy",
             "ru": "Пульпотомия",
             "example_en": "A pulpotomy removes only the crown portion of the pulp.",
             "example_ru": "Пульпотомия удаляет только коронковую часть пульпы.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_procedures_pulpotomy_8.mp3"
         },
         {
-            "en": "Try-in",
+            "en": "A try-in",
             "ru": "Примерка",
             "example_en": "We'll schedule a try-in before the final crown is placed.",
             "example_ru": "Мы назначим примерку перед установкой окончательной коронки.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_procedures_try_in_9.mp3"
         },
         {
-            "en": "Wax try-in with teeth",
+            "en": "A wax try-in with teeth",
             "ru": "Примерка восковой конструкции с зубами",
             "example_en": "The wax try-in lets you preview how the new teeth will look.",
             "example_ru": "Примерка восковой конструкции позволяет заранее увидеть, как будут выглядеть новые зубы.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_procedures_wax_try_in_with_teeth_10.mp3"
         },
         {
-            "en": "Shade guide",
+            "en": "A shade guide",
             "ru": "Шкала расцветок зубов",
             "example_en": "The dentist used a shade guide to match the crown color.",
             "example_ru": "Стоматолог использовал шкалу расцветок, чтобы подобрать цвет коронки.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_procedures_shade_guide_11.mp3"
         },
         {
             "en": "Shades (tooth color options)",
@@ -97,47 +108,53 @@
             "example_en": "This shade is the closest match to your natural teeth.",
             "example_ru": "Этот оттенок наиболее точно соответствует вашим естественным зубам.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_procedures_shades_tooth_color_options_12.mp3"
         },
         {
-            "en": "Tooth extraction",
+            "en": "A tooth extraction",
             "ru": "Удаление зуба",
             "example_en": "The wisdom tooth extraction took about twenty minutes.",
             "example_ru": "Удаление зуба мудрости заняло около двадцати минут.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_procedures_tooth_extraction_13.mp3"
         },
         {
-            "en": "Bite registration",
+            "en": "A bite registration",
             "ru": "Регистрация прикуса",
             "example_en": "Please bite down gently for the bite registration.",
             "example_ru": "Пожалуйста, слегка прикусите для регистрации прикуса.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_procedures_bite_registration_14.mp3"
         },
         {
-            "en": "Frenulum attachment",
+            "en": "A frenulum attachment",
             "ru": "Прикрепление уздечки",
             "example_en": "The frenulum attachment was assessed before the procedure.",
             "example_ru": "Прикрепление уздечки было оценено перед процедурой.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_procedures_frenulum_attachment_15.mp3"
         },
         {
-            "en": "Dental checkup",
+            "en": "A dental checkup",
             "ru": "Профилактический осмотр у стоматолога",
             "example_en": "You should schedule a dental checkup every six months.",
             "example_ru": "Профилактический осмотр у стоматолога рекомендуется проходить каждые полгода.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_procedures_dental_checkup_16.mp3"
         },
         {
-            "en": "Attachment (general)",
+            "en": "An attachment (general)",
             "ru": "Прикрепление, место прикрепления",
             "example_en": "The orthodontist placed small attachments on several teeth.",
             "example_ru": "Ортодонт установил небольшие крепления на нескольких зубах.",
             "note": "General term for an attachment point (e.g., orthodontic attachments, frenulum attachment)",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_procedures_attachment_general_17.mp3"
         }
     ]
 }

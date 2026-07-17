@@ -4,7 +4,7 @@
     "color": "#a6da95",
     "terms": [
         {
-            "en": "Eye reassessment",
+            "en": "An eye reassessment",
             "ru": "Повторное обследование зрения",
             "example_en": "We'll schedule an eye reassessment in three months.",
             "example_ru": "Мы назначим повторное обследование зрения через три месяца.",
@@ -36,7 +36,7 @@
             "image": ""
         },
         {
-            "en": "Slit-lamp examination",
+            "en": "A slit-lamp examination",
             "ru": "Осмотр в щелевой лампе",
             "example_en": "The slit-lamp examination showed no corneal damage.",
             "example_ru": "Осмотр в щелевой лампе не выявил повреждений роговицы.",
@@ -44,7 +44,7 @@
             "image": ""
         },
         {
-            "en": "Fundus examination",
+            "en": "A fundus examination",
             "ru": "Осмотр глазного дна",
             "example_en": "A fundus examination checks the health of the retina.",
             "example_ru": "Осмотр глазного дна позволяет оценить состояние сетчатки.",
@@ -52,7 +52,7 @@
             "image": ""
         },
         {
-            "en": "Visual field test (perimetry)",
+            "en": "A visual field test (perimetry)",
             "ru": "Периметрия",
             "example_en": "The visual field test can detect early glaucoma damage.",
             "example_ru": "Периметрия помогает выявить ранние повреждения при глаукоме.",
@@ -92,7 +92,7 @@
             "image": ""
         },
         {
-            "en": "Corneal ultrasound",
+            "en": "A corneal ultrasound",
             "ru": "УЗИ роговицы",
             "example_en": "A corneal ultrasound measures the thickness of the cornea.",
             "example_ru": "УЗИ роговицы измеряет толщину роговицы.",

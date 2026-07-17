@@ -4,7 +4,7 @@
     "color": "#c6a0f6",
     "terms": [
         {
-            "en": "Valerian extract",
+            "en": "A valerian extract",
             "ru": "валерьянка",
             "example_en": "Some patients take valerian extract for anxiety or sleep.",
             "example_ru": "Некоторые пациенты принимают валерьянку от тревоги или для сна.",
@@ -12,7 +12,7 @@
             "image": ""
         },
         {
-            "en": "Blood thinners, anticoagulant",
+            "en": "Blood thinners (an anticoagulant)",
             "ru": "препарат для разжижения крови, антикоагулянтный препарат",
             "example_en": "Blood thinners help prevent the formation of blood clots.",
             "example_ru": "Препараты для разжижения крови помогают предотвратить образование тромбов.",
@@ -36,7 +36,7 @@
             "image": ""
         },
         {
-            "en": "Blood-thinning medication",
+            "en": "A blood-thinning medication",
             "ru": "лекарство для разжижения крови",
             "example_en": "Blood-thinning medication helps lower the risk of clots.",
             "example_ru": "Лекарство для разжижения крови помогает снизить риск тромбов.",
@@ -44,7 +44,7 @@
             "image": ""
         },
         {
-            "en": "Blood thinner",
+            "en": "A blood thinner",
             "ru": "препарат для разжижения крови",
             "example_en": "Take the blood thinner exactly as prescribed.",
             "example_ru": "Принимайте препарат для разжижения крови строго по назначению.",
@@ -52,7 +52,7 @@
             "image": ""
         },
         {
-            "en": "Heparin shot",
+            "en": "A heparin shot",
             "ru": "укол гепарина",
             "example_en": "A heparin shot helps prevent blood clots while you are in the hospital.",
             "example_ru": "Укол гепарина помогает предотвратить тромбы, пока вы находитесь в больнице.",
@@ -60,7 +60,7 @@
             "image": ""
         },
         {
-            "en": "Prevent blood clots",
+            "en": "To prevent blood clots",
             "ru": "предотвратить образование кровяных тромбов",
             "example_en": "This medicine is used to prevent blood clots.",
             "example_ru": "Это лекарство используется, чтобы предотвратить образование кровяных тромбов.",
@@ -68,7 +68,7 @@
             "image": ""
         },
         {
-            "en": "Long half-life",
+            "en": "A long half-life",
             "ru": "длительный период полураспада",
             "example_en": "A medicine with a long half-life stays in the body longer.",
             "example_ru": "Лекарство с длительным периодом полураспада дольше остается в организме.",
@@ -76,7 +76,7 @@
             "image": ""
         },
         {
-            "en": "Cumulative effect",
+            "en": "A cumulative effect",
             "ru": "накопительный эффект",
             "example_en": "Some medicines can have a cumulative effect over time.",
             "example_ru": "Некоторые лекарства со временем могут иметь накопительный эффект.",

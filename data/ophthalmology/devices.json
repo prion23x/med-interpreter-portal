@@ -4,7 +4,7 @@
     "color": "#8aadf4",
     "terms": [
         {
-            "en": "Eye chart",
+            "en": "An eye chart",
             "ru": "Таблица для проверки зрения",
             "example_en": "Please read the smallest line you can see on the eye chart.",
             "example_ru": "Пожалуйста, прочитайте самую маленькую строку, которую видите на таблице.",
@@ -36,7 +36,7 @@
             "image": ""
         },
         {
-            "en": "Eyeglass frame",
+            "en": "An eyeglass frame",
             "ru": "Оправа",
             "example_en": "She chose a lightweight metal frame.",
             "example_ru": "Она выбрала лёгкую металлическую оправу.",
@@ -44,7 +44,7 @@
             "image": ""
         },
         {
-            "en": "Bifocal lens",
+            "en": "A bifocal lens",
             "ru": "Бифокальная линза",
             "example_en": "Bifocal lenses correct both near and distance vision.",
             "example_ru": "Бифокальные линзы корректируют зрение как вблизи, так и вдали.",
@@ -60,7 +60,7 @@
             "image": ""
         },
         {
-            "en": "Eye patch",
+            "en": "An eye patch",
             "ru": "Глазная повязка",
             "example_en": "Wear the eye patch for the first day after surgery.",
             "example_ru": "Носите глазную повязку в течение первого дня после операции.",

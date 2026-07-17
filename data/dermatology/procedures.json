@@ -4,7 +4,7 @@
     "color": "#8aadf4",
     "terms": [
         {
-            "en": "Apply topically",
+            "en": "To apply topically",
             "ru": "Применять местно",
             "example_en": "Apply the cream topically twice a day.",
             "example_ru": "Применяйте крем местно два раза в день.",
@@ -12,7 +12,7 @@
             "image": ""
         },
         {
-            "en": "Antiseptic wash",
+            "en": "An antiseptic wash",
             "ru": "Антисептическая обработка",
             "example_en": "The wound was cleaned with an antiseptic wash.",
             "example_ru": "Рана была обработана антисептическим раствором.",
@@ -20,7 +20,7 @@
             "image": ""
         },
         {
-            "en": "Numbing the skin",
+            "en": "To numb the skin",
             "ru": "Обезболивание кожи",
             "example_en": "They numb the skin around this area before the procedure.",
             "example_ru": "Кожу вокруг этой области обезболивают перед процедурой.",
@@ -28,7 +28,7 @@
             "image": ""
         },
         {
-            "en": "Saturated dressing",
+            "en": "A saturated dressing",
             "ru": "Пропитавшаяся повязка",
             "example_en": "Change the dressing if it gets saturated.",
             "example_ru": "Смените повязку, если она пропиталась.",
@@ -44,7 +44,7 @@
             "image": ""
         },
         {
-            "en": "Direct firm pressure",
+            "en": "Direct, firm pressure",
             "ru": "Прямое (плотное) давление",
             "example_en": "Apply direct firm pressure to stop the bleeding.",
             "example_ru": "Примените прямое плотное давление, чтобы остановить кровотечение.",
@@ -52,7 +52,7 @@
             "image": ""
         },
         {
-            "en": "Treat / clean the wound",
+            "en": "To treat / clean the wound",
             "ru": "Обработать рану",
             "example_en": "Please clean the wound before applying the dressing.",
             "example_ru": "Пожалуйста, обработайте рану перед наложением повязки.",

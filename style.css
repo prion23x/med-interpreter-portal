@@ -514,6 +514,22 @@ a:hover {
     margin-bottom: 0.3rem;
 }
 
+.modal-audio-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 1.1rem;
+    padding: 0 0 0 0.4rem;
+    vertical-align: middle;
+    line-height: 1;
+    opacity: 0.6;
+    transition: opacity 0.12s;
+}
+
+.modal-audio-btn:hover {
+    opacity: 1;
+}
+
 .modal-ru {
     font-size: 1.15rem;
     font-weight: 600;

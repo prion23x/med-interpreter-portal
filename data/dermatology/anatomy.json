@@ -4,7 +4,7 @@
     "color": "#a6da95",
     "terms": [
         {
-            "en": "Pore",
+            "en": "A pore",
             "ru": "Пора",
             "example_en": "The dermatologist checked for clogged pores.",
             "example_ru": "Дерматолог проверил кожу на наличие закупоренных пор.",
@@ -12,7 +12,7 @@
             "image": "data/images/Pore.jpg"
         },
         {
-            "en": "Oil glands (sebaceous glands)",
+            "en": "The oil glands (sebaceous glands)",
             "ru": "Сальные железы",
             "example_en": "Oil glands can become overactive during adolescence.",
             "example_ru": "Сальные железы могут становиться более активными в подростковом возрасте.",
@@ -20,7 +20,7 @@
             "image": ""
         },
         {
-            "en": "Skin fold / furrow",
+            "en": "A skin fold / furrow",
             "ru": "Борозда (складка, углубление)",
             "example_en": "A rash developed in the skin fold under her arm.",
             "example_ru": "Сыпь появилась в кожной складке под мышкой.",

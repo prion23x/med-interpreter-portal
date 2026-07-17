@@ -4,12 +4,13 @@
     "color": "#f5bde6",
     "terms": [
         {
-            "en": "Cavity (tooth decay)",
+            "en": "A cavity (tooth decay)",
             "ru": "Кариес",
             "example_en": "The X-ray showed a small cavity between two molars.",
             "example_ru": "На рентгене виден небольшой кариес между двумя молярами.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_conditions_cavity_tooth_decay_1.mp3"
         },
         {
             "en": "Sore spots",
@@ -17,7 +18,8 @@
             "example_en": "New dentures can cause sore spots on the gums.",
             "example_ru": "Новые протезы могут вызывать натёртости на дёснах.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_conditions_sore_spots_2.mp3"
         },
         {
             "en": "Periodontitis",
@@ -25,7 +27,8 @@
             "example_en": "Periodontitis can lead to loose teeth if untreated.",
             "example_ru": "Пародонтит может привести к расшатыванию зубов, если его не лечить.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_conditions_periodontitis_3.mp3"
         },
         {
             "en": "Gingivitis",
@@ -33,15 +36,17 @@
             "example_en": "Gingivitis causes red, swollen gums that bleed easily.",
             "example_ru": "Гингивит вызывает покраснение и отёк дёсен, которые легко кровоточат.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_conditions_gingivitis_4.mp3"
         },
         {
-            "en": "Cracked tooth",
+            "en": "A cracked tooth",
             "ru": "Трещина зуба",
             "example_en": "He complained of pain from a cracked tooth.",
             "example_ru": "Он жаловался на боль из-за трещины в зубе.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_conditions_cracked_tooth_5.mp3"
         },
         {
             "en": "Trigeminal neuralgia",
@@ -49,15 +54,17 @@
             "example_en": "Trigeminal neuralgia can cause sudden, severe facial pain.",
             "example_ru": "Невралгия тройничного нерва может вызывать внезапную, сильную боль в лице.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_conditions_trigeminal_neuralgia_6.mp3"
         },
         {
-            "en": "Numb/frozen feeling in the palate",
+            "en": "A numb/frozen feeling in the palate",
             "ru": "«Нёба мерзнет» (жалоба пациента)",
             "example_en": "The patient said the roof of her mouth feels numb.",
             "example_ru": "Пациентка сказала, что у неё немеет нёбо.",
             "note": "Colloquial patient phrase",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_conditions_numb_frozen_feeling_in_the_palate_7.mp3"
         },
         {
             "en": "Loose or missing teeth",
@@ -65,7 +72,8 @@
             "example_en": "Do you have any loose or missing teeth?",
             "example_ru": "Есть ли у вас шатающиеся или отсутствующие зубы?",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dentistry_conditions_loose_or_missing_teeth_8.mp3"
         }
     ]
 }
