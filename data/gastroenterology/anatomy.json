@@ -9,7 +9,8 @@
       "example_en": "The pain was located just above the navel.",
       "example_ru": "Боль локализовалась чуть выше пупка.",
       "note": "Merged: 'navel' and 'belly button/navel'",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_anatomy_the_navel_belly_button_1.mp3"
     },
     {
       "en": "The spleen",
@@ -17,7 +18,8 @@
       "example_en": "The ultrasound showed the spleen was slightly enlarged.",
       "example_ru": "УЗИ показало незначительное увеличение селезёнки.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_anatomy_the_spleen_2.mp3"
     },
     {
       "en": "The colon",
@@ -25,7 +27,8 @@
       "example_en": "The biopsy was taken from the wall of the colon.",
       "example_ru": "Биопсия была взята со стенки толстой кишки.",
       "note": "Merged 3 entries; source had typo 'кшика' → corrected to 'кишка'",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_anatomy_the_colon_3.mp3"
     },
     {
       "en": "A stoma",
@@ -33,7 +36,8 @@
       "example_en": "The nurse taught him how to care for his stoma.",
       "example_ru": "Медсестра научила его ухаживать за стомой.",
       "note": "Surgically created opening; see also Stoma Bag under Devices",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_anatomy_a_stoma_4.mp3"
     },
     {
       "en": "The rectum",
@@ -41,7 +45,8 @@
       "example_en": "The colonoscopy showed mild inflammation in the rectum.",
       "example_ru": "Колоноскопия выявила лёгкое воспаление в прямой кишке.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_anatomy_the_rectum_5.mp3"
     },
     {
       "en": "The small intestine",
@@ -49,7 +54,8 @@
       "example_en": "Most nutrient absorption occurs in the small intestine.",
       "example_ru": "Большая часть питательных веществ всасывается в тонкой кишке.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_anatomy_the_small_intestine_6.mp3"
     },
     {
       "en": "The bowel / intestine",
@@ -57,7 +63,8 @@
       "example_en": "The bowel sounds were normal on exam.",
       "example_ru": "При осмотре перистальтика кишечника была в норме.",
       "note": "Merged: 'a bowel', 'bowel', 'Intestine'; 'bowel' is common in clinical speech",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_anatomy_the_bowel_intestine_7.mp3"
     },
     {
       "en": "The appendix",
@@ -65,7 +72,8 @@
       "example_en": "The appendix is a small pouch attached to the large intestine.",
       "example_ru": "Аппендикс — небольшой отросток, прикреплённый к толстой кишке.",
       "note": "Source typo: 'apendix' — corrected",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_anatomy_the_appendix_8.mp3"
     },
     {
       "en": "The pancreas",
@@ -73,7 +81,8 @@
       "example_en": "The pancreas produces both digestive enzymes and insulin.",
       "example_ru": "Поджелудочная железа вырабатывает пищеварительные ферменты и инсулин.",
       "note": "Merged 3 entries; patient/informal: 'поджелудочная', 'панкреас'",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_anatomy_the_pancreas_9.mp3"
     },
     {
       "en": "The gallbladder",
@@ -81,7 +90,8 @@
       "example_en": "Her gallbladder was removed laparoscopically.",
       "example_ru": "Ей удалили желчный пузырь лапароскопически.",
       "note": "Merged 3 entries; informal: 'желчный', 'холецист'",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_anatomy_the_gallbladder_10.mp3"
     },
     {
       "en": "The bile duct",
@@ -89,7 +99,8 @@
       "example_en": "A stone was blocking the bile duct.",
       "example_ru": "Камень перекрывал желчный проток.",
       "note": "Merged: 'bileduct' and 'bile duct'",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_anatomy_the_bile_duct_11.mp3"
     },
     {
       "en": "The pancreatic duct",
@@ -97,7 +108,8 @@
       "example_en": "The pancreatic duct appeared dilated on the MRI.",
       "example_ru": "На МРТ панкреатический проток выглядел расширенным.",
       "note": "Source typo: 'pacncreatic duct' — corrected; also called duct of Wirsung",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_anatomy_the_pancreatic_duct_12.mp3"
     },
     {
       "en": "The digestive system",
@@ -105,7 +117,8 @@
       "example_en": "The digestive system breaks down food and absorbs nutrients.",
       "example_ru": "Пищеварительная система расщепляет пищу и всасывает питательные вещества.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_anatomy_the_digestive_system_13.mp3"
     },
     {
       "en": "The right lower quadrant",
@@ -113,7 +126,8 @@
       "example_en": "The pain is localized in the right lower quadrant.",
       "example_ru": "Боль локализована в правом нижнем квадранте.",
       "note": "Source typo: 'quadrum' — corrected to 'quadrant'",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_anatomy_the_right_lower_quadrant_14.mp3"
     },
     {
       "en": "The esophagus",
@@ -121,7 +135,8 @@
       "example_en": "Food passes from the mouth through the esophagus to the stomach.",
       "example_ru": "Пища проходит через пищевод из полости рта в желудок.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_anatomy_the_esophagus_15.mp3"
     },
     {
       "en": "The sigmoid colon",
@@ -129,7 +144,8 @@
       "example_en": "A polyp was found in the sigmoid colon during colonoscopy.",
       "example_ru": "При колоноскопии в сигмовидной кишке обнаружили полип.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_anatomy_the_sigmoid_colon_16.mp3"
     },
     {
       "en": "The walls of the colon",
@@ -137,7 +153,8 @@
       "example_en": "Imaging showed thickening of the walls of the colon.",
       "example_ru": "На снимках выявлено утолщение стенок толстой кишки.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_anatomy_the_walls_of_the_colon_17.mp3"
     },
     {
       "en": "Gut Bacteria / Gut Microbiome",
@@ -145,7 +162,8 @@
       "example_en": "Antibiotics can disrupt the gut bacteria.",
       "example_ru": "Антибиотики могут нарушить кишечную микрофлору.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_anatomy_gut_bacteria_gut_microbiome_18.mp3"
     }
   ]
 }

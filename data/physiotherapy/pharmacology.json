@@ -1,15 +1,16 @@
 {
-    "intro": "PHARMACOLOGICAL agents mentioned in physiotherapy and occupational therapy communication.",
-    "reading": "Pharmacology plays a limited direct role in PT and OT sessions, though muscle relaxants are commonly prescribed alongside physiotherapy for conditions involving spasticity, spasm, or severe muscle tightness.",
-    "color": "#a6e3a1",
-    "terms": [
-        {
-            "en": "The Muscle relaxant",
-            "ru": "Миорелаксант / мышечный релаксант",
-            "example_en": "The doctor prescribed a muscle relaxant to reduce spasm before therapy.",
-            "example_ru": "Врач назначил миорелаксант для уменьшения спазма перед терапией.",
-            "note": "",
-            "image": ""
-        }
-    ]
+  "intro": "PHARMACOLOGICAL agents mentioned in physiotherapy and occupational therapy communication.",
+  "reading": "Pharmacology plays a limited direct role in PT and OT sessions, though muscle relaxants are commonly prescribed alongside physiotherapy for conditions involving spasticity, spasm, or severe muscle tightness.",
+  "color": "#a6e3a1",
+  "terms": [
+    {
+      "en": "The Muscle relaxant",
+      "ru": "Миорелаксант / мышечный релаксант",
+      "example_en": "The doctor prescribed a muscle relaxant to reduce spasm before therapy.",
+      "example_ru": "Врач назначил миорелаксант для уменьшения спазма перед терапией.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_pharmacology_the_muscle_relaxant_1.mp3"
+    }
+  ]
 }

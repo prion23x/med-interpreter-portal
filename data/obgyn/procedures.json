@@ -9,7 +9,8 @@
             "example_en": "She chose to have her tubes tied after her third child.",
             "example_ru": "Она решила перевязать маточные трубы после рождения третьего ребёнка.",
             "note": "Includes the informal phrasing 'to have one's tubes tied.'",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_tubal_ligation_1.mp3"
         },
         {
             "en": "An Enema",
@@ -17,7 +18,8 @@
             "example_en": "An enema was given before the procedure.",
             "example_ru": "Перед процедурой была сделана клизма.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_an_enema_2.mp3"
         },
         {
             "en": "A trial of vaginal delivery",
@@ -25,7 +27,8 @@
             "example_en": "The doctor recommended a trial of vaginal delivery.",
             "example_ru": "Врач рекомендовал попытку родов естественным путём.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_trial_of_vaginal_delivery_3.mp3"
         },
         {
             "en": "A cervical exam",
@@ -33,7 +36,8 @@
             "example_en": "A cervical exam checks for dilation during labor.",
             "example_ru": "Осмотр шейки матки проводится для проверки раскрытия во время родов.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_cervical_exam_4.mp3"
         },
         {
             "en": "A Dilation",
@@ -41,7 +45,8 @@
             "example_en": "Dilation is measured in centimeters during labor.",
             "example_ru": "Дилатацию измеряют в сантиметрах во время родов.",
             "note": "Source had two spellings: dilatation/dialation.",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_dilation_5.mp3"
         },
         {
             "en": "A type and screen",
@@ -49,7 +54,8 @@
             "example_en": "A type and screen was ordered before delivery.",
             "example_ru": "Перед родами было назначено определение группы крови и скрининг антител.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_type_and_screen_6.mp3"
         },
         {
             "en": "Prenatal services",
@@ -57,7 +63,8 @@
             "example_en": "The clinic offers a full range of prenatal services.",
             "example_ru": "Клиника предлагает полный спектр пренатальных услуг.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_prenatal_services_7.mp3"
         },
         {
             "en": "A hysterectomy",
@@ -65,7 +72,8 @@
             "example_en": "She underwent a hysterectomy due to severe fibroids.",
             "example_ru": "Ей провели гистерэктомию из-за тяжёлой миомы.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_hysterectomy_8.mp3"
         },
         {
             "en": "A vaginal swab",
@@ -73,7 +81,8 @@
             "example_en": "A vaginal swab was taken to test for infection.",
             "example_ru": "Был взят вагинальный мазок для проверки на инфекцию.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_vaginal_swab_9.mp3"
         },
         {
             "en": "An Endometrial ablation",
@@ -81,7 +90,8 @@
             "example_en": "Endometrial ablation can reduce heavy menstrual bleeding.",
             "example_ru": "Прижигание слизистой оболочки матки может уменьшить обильные менструальные кровотечения.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_an_endometrial_ablation_10.mp3"
         },
         {
             "en": "A pelvic exam",
@@ -89,7 +99,8 @@
             "example_en": "A pelvic exam is part of the annual checkup.",
             "example_ru": "Гинекологический осмотр входит в ежегодный медосмотр.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_pelvic_exam_11.mp3"
         },
         {
             "en": "A Genetic chromosomal screening",
@@ -97,7 +108,8 @@
             "example_en": "Genetic chromosomal screening can detect certain conditions early in pregnancy.",
             "example_ru": "Генетический хромосомный скрининг может выявить некоторые состояния на ранних сроках беременности.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_genetic_chromosomal_screening_12.mp3"
         },
         {
             "en": "A D&C (dilation and curettage)",
@@ -105,7 +117,8 @@
             "example_en": "A D&C may be performed after a miscarriage.",
             "example_ru": "Дилатация и выскабливание может проводиться после выкидыша.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_dc_dilation_and_curettage_13.mp3"
         },
         {
             "en": "A D&A (dilation and aspiration)",
@@ -113,7 +126,8 @@
             "example_en": "A D&A removes tissue using gentle suction.",
             "example_ru": "Дилатация и аспирация удаляет ткань с помощью лёгкого отсасывания.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_da_dilation_and_aspiration_14.mp3"
         },
         {
             "en": "A D&X (dilation and extraction)",
@@ -121,7 +135,8 @@
             "example_en": "A D&X is a later-term procedure performed under specific circumstances.",
             "example_ru": "Дилатация и извлечение — процедура на более позднем сроке, проводимая при определённых обстоятельствах.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_dx_dilation_and_extraction_15.mp3"
         },
         {
             "en": "A Transvaginal urethral sling placement",
@@ -129,7 +144,8 @@
             "example_en": "The sling placement helps treat urinary incontinence.",
             "example_ru": "Установка петли помогает лечить недержание мочи.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_transvaginal_urethral_sling_placement_16.mp3"
         },
         {
             "en": "An In vitro fertilization (IVF)",
@@ -137,7 +153,8 @@
             "example_en": "IVF combines eggs and sperm outside the body.",
             "example_ru": "ЭКО объединяет яйцеклетки и сперматозоиды вне организма.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_an_in_vitro_fertilization_ivf_17.mp3"
         },
         {
             "en": "A vaginectomy",
@@ -145,7 +162,8 @@
             "example_en": "A vaginectomy may be part of treatment for certain cancers.",
             "example_ru": "Удаление влагалища может быть частью лечения некоторых видов рака.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_vaginectomy_18.mp3"
         },
         {
             "en": "A Perineal repair",
@@ -153,7 +171,8 @@
             "example_en": "Perineal repair is done after a tear during delivery.",
             "example_ru": "Восстановление промежности проводится после разрыва во время родов.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_perineal_repair_19.mp3"
         },
         {
             "en": "A cystoscopy",
@@ -161,7 +180,8 @@
             "example_en": "Cystoscopy allows the doctor to see inside the bladder.",
             "example_ru": "Цистоскопия позволяет врачу осмотреть мочевой пузырь изнутри.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_cystoscopy_20.mp3"
         },
         {
             "en": "A Delivery",
@@ -169,7 +189,8 @@
             "example_en": "You need to bear down and push during each contraction.",
             "example_ru": "Вам нужно тужиться и толкать во время каждой схватки.",
             "note": "Example uses the source phrase 'потужиться' (to bear down/push).",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_delivery_21.mp3"
         },
         {
             "en": "A lumpectomy",
@@ -177,7 +198,8 @@
             "example_en": "A lumpectomy removes only the tumor and surrounding tissue.",
             "example_ru": "Люмпэктомия удаляет только опухоль и окружающую ткань.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_lumpectomy_22.mp3"
         },
         {
             "en": "A mastectomy",
@@ -185,7 +207,8 @@
             "example_en": "She chose a mastectomy after her diagnosis.",
             "example_ru": "Она выбрала мастэктомию после постановки диагноза.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_mastectomy_23.mp3"
         },
         {
             "en": "A Tissue re-resection",
@@ -193,7 +216,8 @@
             "example_en": "A re-resection was needed after positive margins were found.",
             "example_ru": "Потребовалась повторная резекция тканей после обнаружения позитивных краёв.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_tissue_re_resection_24.mp3"
         },
         {
             "en": "A midwife",
@@ -201,7 +225,8 @@
             "example_en": "The midwife monitored her throughout labor.",
             "example_ru": "Акушерка наблюдала за ней на протяжении всех родов.",
             "note": "Professional role rather than a procedure; included from Others for interpreter reference.",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_midwife_25.mp3"
         },
         {
             "en": "Reproductive endocrinology and infertility (REI)",
@@ -209,7 +234,8 @@
             "example_en": "She was referred to REI for fertility treatment.",
             "example_ru": "Её направили к специалисту по репродуктивной эндокринологии и бесплодию для лечения.",
             "note": "Name of a subspecialty/department, not a specific procedure; included from Others.",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_reproductive_endocrinology_and_infertility_rei_26.mp3"
         },
         {
             "en": "A vaginal douche",
@@ -217,7 +243,8 @@
             "example_en": "Doctors generally advise against routine vaginal douching.",
             "example_ru": "Врачи обычно не рекомендуют регулярное спринцевание.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_procedures_a_vaginal_douche_27.mp3"
         }
     ]
 }

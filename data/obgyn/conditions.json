@@ -9,7 +9,8 @@
             "example_en": "She was diagnosed with gestational diabetes at 26 weeks.",
             "example_ru": "У неё диагностировали гестационный диабет на 26-й неделе.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_gestational_diabetes_1.mp3"
         },
         {
             "en": "A Premenstrual syndrome (PMS)",
@@ -17,7 +18,8 @@
             "example_en": "PMS symptoms often improve once the period starts.",
             "example_ru": "Симптомы ПМС часто уменьшаются с началом менструации.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_a_premenstrual_syndrome_pms_2.mp3"
         },
         {
             "en": "A Bladder inflammation (cystitis)",
@@ -25,7 +27,8 @@
             "example_en": "Bladder inflammation can cause pain during urination.",
             "example_ru": "Воспаление мочевого пузыря может вызывать боль при мочеиспускании.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_a_bladder_inflammation_cystitis_3.mp3"
         },
         {
             "en": "A menstrual period",
@@ -33,7 +36,8 @@
             "example_en": "Her last menstrual period started two weeks ago.",
             "example_ru": "Её последняя менструация началась две недели назад.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_a_menstrual_period_4.mp3"
         },
         {
             "en": "A miscarriage",
@@ -41,7 +45,8 @@
             "example_en": "She experienced a miscarriage in the first trimester.",
             "example_ru": "У неё случился выкидыш в первом триместре.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_a_miscarriage_5.mp3"
         },
         {
             "en": "Preeclampsia",
@@ -49,7 +54,8 @@
             "example_en": "Preeclampsia is monitored closely with blood pressure checks.",
             "example_ru": "Преэклампсию тщательно контролируют с помощью измерения давления.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_preeclampsia_6.mp3"
         },
         {
             "en": "An intrauterine pregnancy",
@@ -57,7 +63,8 @@
             "example_en": "The ultrasound confirmed an intrauterine pregnancy.",
             "example_ru": "УЗИ подтвердило внутриматочную беременность.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_an_intrauterine_pregnancy_7.mp3"
         },
         {
             "en": "An ectopic pregnancy",
@@ -65,7 +72,8 @@
             "example_en": "An ectopic pregnancy requires urgent treatment.",
             "example_ru": "Внематочная беременность требует срочного лечения.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_an_ectopic_pregnancy_8.mp3"
         },
         {
             "en": "Hemorrhoids",
@@ -73,7 +81,8 @@
             "example_en": "Hemorrhoids are common in the third trimester.",
             "example_ru": "Геморрой часто встречается в третьем триместре.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_hemorrhoids_9.mp3"
         },
         {
             "en": "A UTI (urinary tract infection)",
@@ -81,7 +90,8 @@
             "example_en": "She was treated with antibiotics for a UTI.",
             "example_ru": "Ей назначили антибиотики от инфекции мочевыводящих путей.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_a_uti_urinary_tract_infection_10.mp3"
         },
         {
             "en": "Heavy bleeding",
@@ -89,15 +99,17 @@
             "example_en": "She reported heavy bleeding between periods.",
             "example_ru": "Она сообщила об обильном кровотечении между менструациями.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_heavy_bleeding_11.mp3"
         },
         {
             "en": "Fetal growth",
             "ru": "Рост плода",
-            "example_en": "How far along are you?" ,
+            "example_en": "How far along are you?",
             "example_ru": "На каком вы сроке?",
             "note": "Example reflects the common phrasing used to ask about gestational age/fetal growth.",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_fetal_growth_12.mp3"
         },
         {
             "en": "Uterine overgrowth (enlargement)",
@@ -105,7 +117,8 @@
             "example_en": "The scan showed uterine overgrowth consistent with fibroids.",
             "example_ru": "Снимок показал чрезмерное разрастание матки, характерное для миомы.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_uterine_overgrowth_enlargement_13.mp3"
         },
         {
             "en": "Spotting",
@@ -113,7 +126,8 @@
             "example_en": "Light spotting is common in early pregnancy.",
             "example_ru": "Лёгкие кровянистые выделения часто встречаются на ранних сроках беременности.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_spotting_14.mp3"
         },
         {
             "en": "A uterine fibroid",
@@ -121,7 +135,8 @@
             "example_en": "The uterine fibroid was found during a routine ultrasound.",
             "example_ru": "Миома матки была обнаружена при плановом УЗИ.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_a_uterine_fibroid_15.mp3"
         },
         {
             "en": "Breast concerns",
@@ -129,7 +144,8 @@
             "example_en": "She came in with breast concerns after noticing a lump.",
             "example_ru": "Она обратилась с жалобами на молочные железы после обнаружения уплотнения.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_breast_concerns_16.mp3"
         },
         {
             "en": "Mastitis",
@@ -137,7 +153,8 @@
             "example_en": "Mastitis can cause fever and breast pain during breastfeeding.",
             "example_ru": "Мастит может вызывать жар и боль в груди во время кормления.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_mastitis_17.mp3"
         },
         {
             "en": "Salpingitis",
@@ -145,7 +162,8 @@
             "example_en": "Salpingitis can lead to scarring of the fallopian tubes.",
             "example_ru": "Сальпингит может привести к образованию рубцов в маточных трубах.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_salpingitis_18.mp3"
         },
         {
             "en": "Urinary symptoms",
@@ -153,7 +171,8 @@
             "example_en": "She reported urinary symptoms including burning and frequency.",
             "example_ru": "Она сообщила о симптомах со стороны мочевыводящих путей, включая жжение и учащённое мочеиспускание.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_urinary_symptoms_19.mp3"
         },
         {
             "en": "Positive margins",
@@ -161,15 +180,17 @@
             "example_en": "Positive margins mean tumor cells were found at the edge of the removed tissue.",
             "example_ru": "Позитивные края резекции означают, что опухолевые клетки обнаружены по краю удалённой ткани.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_positive_margins_20.mp3"
         },
         {
             "en": "Sexual intercourse",
             "ru": "Половой акт",
-            "example_en": "Are you currently sexually active?" ,
+            "example_en": "Are you currently sexually active?",
             "example_ru": "Вы сейчас ведёте половую жизнь?",
             "note": "General term used in patient history-taking; originally listed under Others.",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_conditions_sexual_intercourse_21.mp3"
         }
     ]
 }

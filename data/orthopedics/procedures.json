@@ -9,7 +9,8 @@
             "example_en": "The bone density test showed early signs of osteoporosis.",
             "example_ru": "Тест плотности костей выявил ранние признаки остеопороза.",
             "note": "Also called DEXA scan / bone mineral density test; source listed as X-ray-based and general test separately",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_procedures_the_bone_density_test_1.mp3"
         },
         {
             "en": "The Orthopedic surgery",
@@ -17,7 +18,8 @@
             "example_en": "He underwent orthopedic surgery to repair the fracture.",
             "example_ru": "Ему провели ортопедическую операцию для восстановления перелома.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_procedures_the_orthopedic_surgery_2.mp3"
         },
         {
             "en": "The Leg alignment",
@@ -25,7 +27,8 @@
             "example_en": "The surgeon assessed the leg alignment before the procedure.",
             "example_ru": "Хирург оценил выравнивание ног перед процедурой.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_procedures_the_leg_alignment_3.mp3"
         },
         {
             "en": "Core strengthening exercises",
@@ -33,7 +36,8 @@
             "example_en": "Core strengthening exercises support the lower back.",
             "example_ru": "Упражнения для укрепления мышц пресса поддерживают поясницу.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_procedures_core_strengthening_exercises_4.mp3"
         },
         {
             "en": "The Range of motion",
@@ -41,7 +45,8 @@
             "example_en": "The therapist measured his range of motion after surgery.",
             "example_ru": "Терапевт измерил диапазон движения после операции.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_procedures_the_range_of_motion_5.mp3"
         },
         {
             "en": "Bone cement",
@@ -49,7 +54,8 @@
             "example_en": "Bone cement was used to secure the implant.",
             "example_ru": "Костный цемент использовался для фиксации импланта.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_procedures_bone_cement_6.mp3"
         },
         {
             "en": "The Kyphoplasty",
@@ -57,7 +63,8 @@
             "example_en": "Kyphoplasty can relieve pain from a compressed vertebra.",
             "example_ru": "Кифопластика может облегчить боль от компрессии позвонка.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_procedures_the_kyphoplasty_7.mp3"
         },
         {
             "en": "The Rotator cuff repair",
@@ -65,7 +72,8 @@
             "example_en": "Rotator cuff repair is often done arthroscopically.",
             "example_ru": "Восстановление вращательной манжеты плеча часто выполняется артроскопически.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_procedures_the_rotator_cuff_repair_8.mp3"
         },
         {
             "en": "The Joint irrigation",
@@ -73,7 +81,8 @@
             "example_en": "Joint irrigation removes debris from the joint space.",
             "example_ru": "Промывание сустава удаляет посторонние частицы из суставного пространства.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_procedures_the_joint_irrigation_9.mp3"
         },
         {
             "en": "The Shoulder debridement",
@@ -81,7 +90,8 @@
             "example_en": "Shoulder debridement removes damaged tissue from the joint.",
             "example_ru": "Хирургическая обработка плечевого сустава удаляет повреждённую ткань из сустава.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_procedures_the_shoulder_debridement_10.mp3"
         },
         {
             "en": "The Scapular retraction",
@@ -89,7 +99,8 @@
             "example_en": "Retract your shoulders together like this.",
             "example_ru": "Сведите лопатки вместе, вот так.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_procedures_the_scapular_retraction_11.mp3"
         },
         {
             "en": "The Scapular protraction",
@@ -97,7 +108,8 @@
             "example_en": "Now protract your shoulders forward.",
             "example_ru": "Теперь разведите лопатки вперёд.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_procedures_the_scapular_protraction_12.mp3"
         },
         {
             "en": "To flex a tendon",
@@ -105,7 +117,8 @@
             "example_en": "Try to flex the tendon slowly during the exercise.",
             "example_ru": "Постарайтесь медленно сгибать сухожилие во время упражнения.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_procedures_to_flex_a_tendon_13.mp3"
         },
         {
             "en": "The Reverse shoulder replacement",
@@ -113,7 +126,8 @@
             "example_en": "Reverse shoulder replacement is used for severe rotator cuff damage.",
             "example_ru": "Реверсивное эндопротезирование плечевого сустава применяется при тяжёлом повреждении вращательной манжеты.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_procedures_the_reverse_shoulder_replacement_14.mp3"
         },
         {
             "en": "The Orthopedic surgery team",
@@ -121,7 +135,8 @@
             "example_en": "The orthopedic surgery team reviewed the scans before the operation.",
             "example_ru": "Команда ортопедической хирургии изучила снимки перед операцией.",
             "note": "Personnel, not a procedure itself",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_procedures_the_orthopedic_surgery_team_15.mp3"
         },
         {
             "en": "The Spine team",
@@ -129,7 +144,8 @@
             "example_en": "The spine team recommended physical therapy first.",
             "example_ru": "Команда специалистов по лечению позвоночника сначала рекомендовала физиотерапию.",
             "note": "Personnel, not a procedure itself",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_procedures_the_spine_team_16.mp3"
         },
         {
             "en": "The Orthopedist",
@@ -137,7 +153,8 @@
             "example_en": "The orthopedist reviewed the X-ray results.",
             "example_ru": "Ортопед изучил результаты рентгена.",
             "note": "Specialist/profession, not a procedure itself",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_procedures_the_orthopedist_17.mp3"
         }
     ]
 }

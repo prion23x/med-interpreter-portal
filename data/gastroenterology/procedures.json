@@ -9,7 +9,8 @@
       "example_en": "You will drink a barium liquid before the X-ray of your esophagus.",
       "example_ru": "Перед рентгеном пищевода вам нужно будет выпить бариевую жидкость.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_a_barium_swallow_esophageal_x_ray_1.mp3"
     },
     {
       "en": "An enema",
@@ -17,7 +18,8 @@
       "example_en": "The patient received an enema before the procedure.",
       "example_ru": "Пациенту сделали клизму перед процедурой.",
       "note": "Merged duplicate entries",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_an_enema_2.mp3"
     },
     {
       "en": "An H. pylori test",
@@ -25,7 +27,8 @@
       "example_en": "The H. pylori test came back positive.",
       "example_ru": "Тест на хеликобактер пилори дал положительный результат.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_an_h_pylori_test_3.mp3"
     },
     {
       "en": "A colostomy",
@@ -33,7 +36,8 @@
       "example_en": "After the surgery, a colostomy was created to divert stool.",
       "example_ru": "После операции была создана колостома для отведения кишечного содержимого.",
       "note": "Merged duplicate entries",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_a_colostomy_4.mp3"
     },
     {
       "en": "An ileostomy",
@@ -41,7 +45,8 @@
       "example_en": "The ileostomy diverts the small intestine through the abdominal wall.",
       "example_ru": "Илеостома отводит тонкую кишку через переднюю брюшную стенку.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_an_ileostomy_5.mp3"
     },
     {
       "en": "A urostomy",
@@ -49,7 +54,8 @@
       "example_en": "A urostomy is created to divert urine when the bladder is removed.",
       "example_ru": "Уростома создаётся для отведения мочи при удалении мочевого пузыря.",
       "note": "GI-adjacent procedure involving urinary diversion; often done alongside GI surgery",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_a_urostomy_6.mp3"
     },
     {
       "en": "A bowel clean-out",
@@ -57,7 +63,8 @@
       "example_en": "You need to do a bowel clean-out the night before the colonoscopy.",
       "example_ru": "Накануне колоноскопии необходимо провести очищение кишечника.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_a_bowel_clean_out_7.mp3"
     },
     {
       "en": "A laparoscopy",
@@ -65,7 +72,8 @@
       "example_en": "A laparoscopy was performed to visualize the abdominal cavity.",
       "example_ru": "Для осмотра брюшной полости была проведена лапароскопия.",
       "note": "Source typo: 'лапороскопия' — corrected to 'лапароскопия'",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_a_laparoscopy_8.mp3"
     },
     {
       "en": "A cholecystectomy (gallbladder removal)",
@@ -73,7 +81,8 @@
       "example_en": "The gallbladder can be removed laparoscopically through small incisions.",
       "example_ru": "Желчный пузырь можно удалить лапароскопически через небольшие разрезы.",
       "note": "Source phrase 'to get gallbladder laparoscopically' folded as example",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_a_cholecystectomy_gallbladder_removal_9.mp3"
     },
     {
       "en": "A bowel resection",
@@ -81,7 +90,8 @@
       "example_en": "The surgeon performed a partial bowel resection to remove the tumor.",
       "example_ru": "Хирург провёл частичную резекцию кишечника для удаления опухоли.",
       "note": "Source typo: 'bowel recection' — corrected",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_a_bowel_resection_10.mp3"
     },
     {
       "en": "A sigmoidoscopy",
@@ -89,7 +99,8 @@
       "example_en": "A sigmoidoscopy examines the lower portion of the colon.",
       "example_ru": "Сигмоидоскопия исследует нижнюю часть толстой кишки.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_a_sigmoidoscopy_11.mp3"
     },
     {
       "en": "Liver enzyme tests",
@@ -97,7 +108,8 @@
       "example_en": "Elevated liver enzyme levels may indicate liver damage.",
       "example_ru": "Повышенные показатели ферментов печени могут указывать на повреждение печени.",
       "note": "Merged: 'liver enzyme' and 'liver enzymes level'",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_liver_enzyme_tests_12.mp3"
     },
     {
       "en": "A swallow study",
@@ -105,7 +117,8 @@
       "example_en": "The speech therapist ordered a swallow study to assess the patient's swallowing.",
       "example_ru": "Логопед назначил исследование глотания для оценки функции глотания у пациента.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_a_swallow_study_13.mp3"
     },
     {
       "en": "A bowel prep",
@@ -113,7 +126,8 @@
       "example_en": "Please follow the bowel prep instructions the evening before the procedure.",
       "example_ru": "Пожалуйста, следуйте инструкциям по подготовке кишечника накануне процедуры вечером.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_a_bowel_prep_14.mp3"
     },
     {
       "en": "Bowel rest",
@@ -121,7 +135,8 @@
       "example_en": "The doctor ordered bowel rest to allow the intestine to recover.",
       "example_ru": "Врач назначил кишечный покой, чтобы дать кишечнику восстановиться.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_bowel_rest_15.mp3"
     },
     {
       "en": "A stent placement",
@@ -129,7 +144,8 @@
       "example_en": "A stent was placed to keep the bile duct open.",
       "example_ru": "Стент установили для поддержания просвета желчного протока.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_a_stent_placement_16.mp3"
     },
     {
       "en": "Diet advancement",
@@ -137,7 +153,8 @@
       "example_en": "We will advance the diet from clear liquids to soft foods.",
       "example_ru": "Мы переведём вас с прозрачных жидкостей на мягкую пищу.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_diet_advancement_17.mp3"
     },
     {
       "en": "Colon cancer screening",
@@ -145,7 +162,8 @@
       "example_en": "Colon cancer screening is recommended starting at age 45.",
       "example_ru": "Скрининг колоректального рака рекомендуется начиная с 45 лет.",
       "note": "Merged multiple source entries",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_colon_cancer_screening_18.mp3"
     },
     {
       "en": "Clear broth",
@@ -153,7 +171,8 @@
       "example_en": "Start with clear broth after the procedure and advance as tolerated.",
       "example_ru": "После процедуры начните с прозрачного бульона и постепенно расширяйте рацион.",
       "note": "Post-procedure diet stage; from Others section",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_clear_broth_19.mp3"
     },
     {
       "en": "Light broth",
@@ -161,7 +180,8 @@
       "example_en": "Once clear broth is tolerated, you may try light broth.",
       "example_ru": "Если прозрачный бульон переносится хорошо, можно перейти на лёгкий бульон.",
       "note": "Post-procedure diet stage; from Others section",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_light_broth_20.mp3"
     },
     {
       "en": "Clear liquids",
@@ -169,7 +189,8 @@
       "example_en": "You are only allowed clear liquids the day before the procedure.",
       "example_ru": "В день перед процедурой разрешено употреблять только прозрачные жидкости.",
       "note": "Post-procedure diet stage; from Others section",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_clear_liquids_21.mp3"
     },
     {
       "en": "A regular diet",
@@ -177,7 +198,8 @@
       "example_en": "You may return to a regular diet after 48 hours.",
       "example_ru": "Вы можете вернуться к обычному рациону через 48 часов.",
       "note": "From Others section",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_a_regular_diet_22.mp3"
     },
     {
       "en": "Mushy / soft food",
@@ -185,7 +207,8 @@
       "example_en": "Eat mushy, soft foods until the wound has healed.",
       "example_ru": "Придерживайтесь мягкой диеты до заживления раны.",
       "note": "From Others section; used in post-procedure recovery instructions",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_mushy_soft_food_23.mp3"
     },
     {
       "en": "A proctologist / colon surgeon",
@@ -193,7 +216,8 @@
       "example_en": "You will be referred to a proctologist for further evaluation.",
       "example_ru": "Вас направят к проктологу для дальнейшего обследования.",
       "note": "Merged: 'proctologist ; проктоог' (typo→проктолог) and 'a colon surgeon ; хирург проктолог' from Others",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_procedures_a_proctologist_colon_surgeon_24.mp3"
     }
   ]
 }

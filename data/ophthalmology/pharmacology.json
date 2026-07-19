@@ -9,7 +9,8 @@
             "example_en": "The dilating drops will make your pupils widen for about four hours.",
             "example_ru": "Капли для расширения зрачка подействуют примерно четыре часа.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_pharmacology_dilating_drops_mydriatic_drops_1.mp3"
         },
         {
             "en": "Eye drops",
@@ -17,7 +18,8 @@
             "example_en": "Use the eye drops twice a day.",
             "example_ru": "Используйте глазные капли два раза в день.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_pharmacology_eye_drops_2.mp3"
         }
     ]
 }

@@ -9,7 +9,8 @@
             "example_en": "She started taking prenatal vitamins before conception.",
             "example_ru": "Она начала принимать витамины для беременных ещё до зачатия.",
             "note": "Source translation had a typo (\"бедренных\" instead of \"беременных\").",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_pharmacology_prenatal_vitamins_1.mp3"
         },
         {
             "en": "A Hormone replacement therapy (HRT)",
@@ -17,7 +18,8 @@
             "example_en": "HRT can help relieve menopausal symptoms.",
             "example_ru": "Гормонозаместительная терапия может облегчить симптомы менопаузы.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_pharmacology_a_hormone_replacement_therapy_hrt_2.mp3"
         },
         {
             "en": "Folic acid",
@@ -25,7 +27,8 @@
             "example_en": "Folic acid helps prevent neural tube defects.",
             "example_ru": "Фолиевая кислота помогает предотвратить дефекты нервной трубки.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_pharmacology_folic_acid_3.mp3"
         },
         {
             "en": "Human chorionic gonadotropin (hCG)",
@@ -33,7 +36,8 @@
             "example_en": "An hCG blood test can confirm pregnancy.",
             "example_ru": "Анализ крови на ХГЧ может подтвердить беременность.",
             "note": "Endogenous pregnancy hormone/marker, not an administered medication; source had the English/Russian columns reversed.",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_pharmacology_human_chorionic_gonadotropin_hcg_4.mp3"
         }
     ]
 }

@@ -9,7 +9,8 @@
             "example_en": "The nasal cannula delivers oxygen through the nose.",
             "example_ru": "Назальная канюля подаёт кислород через нос.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_devices_the_nasal_cannula_1.mp3"
         },
         {
             "en": "The Cannula",
@@ -17,7 +18,8 @@
             "example_en": "The cannula should sit comfortably in the nostrils.",
             "example_ru": "Канюля должна удобно располагаться в ноздрях.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_devices_the_cannula_2.mp3"
         },
         {
             "en": "The Pulse oximeter",
@@ -25,7 +27,8 @@
             "example_en": "The pulse oximeter clips onto your finger.",
             "example_ru": "Пульсоксиметр закрепляется на пальце.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_devices_the_pulse_oximeter_3.mp3"
         },
         {
             "en": "Oxygen equipment",
@@ -33,7 +36,8 @@
             "example_en": "The oxygen equipment will be delivered to your home.",
             "example_ru": "Кислородное оборудование доставят вам домой.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_devices_oxygen_equipment_4.mp3"
         },
         {
             "en": "The Suction device",
@@ -41,7 +45,8 @@
             "example_en": "The suction device removes mucus from the airway.",
             "example_ru": "Аппарат для отсасывания удаляет слизь из дыхательных путей.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_devices_the_suction_device_5.mp3"
         },
         {
             "en": "The Suction catheter",
@@ -49,7 +54,8 @@
             "example_en": "A suction catheter can clear secretions from the tube.",
             "example_ru": "Отсасывающий катетер может удалить выделения из трубки.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_devices_the_suction_catheter_6.mp3"
         },
         {
             "en": "The Tracheostomy",
@@ -57,7 +63,8 @@
             "example_en": "A tracheostomy creates an opening in the neck for breathing.",
             "example_ru": "Трахеостомия создает отверстие в шее для дыхания.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_devices_the_tracheostomy_7.mp3"
         },
         {
             "en": "The CPAP",
@@ -65,7 +72,8 @@
             "example_en": "CPAP keeps the airway open during sleep.",
             "example_ru": "СИПАП поддерживает дыхательные пути открытыми во время сна.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_devices_the_cpap_8.mp3"
         }
     ]
 }

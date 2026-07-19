@@ -9,7 +9,8 @@
             "example_en": "An IUD can prevent pregnancy for several years.",
             "example_ru": "Внутриматочная спираль может предотвращать беременность на несколько лет.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_devices_an_iud_intrauterine_device_1.mp3"
         },
         {
             "en": "A Doppler (fetal Doppler)",
@@ -17,7 +18,8 @@
             "example_en": "The doctor used a doppler to listen to the baby's heartbeat.",
             "example_ru": "Врач использовал допплер, чтобы прослушать сердцебиение ребёнка.",
             "note": "Russian translation was blank in the source; added for completeness.",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_devices_a_doppler_fetal_doppler_2.mp3"
         },
         {
             "en": "A vaginal speculum",
@@ -25,7 +27,8 @@
             "example_en": "The speculum allows the doctor to examine the cervix.",
             "example_ru": "Зеркало позволяет врачу осмотреть шейку матки.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_devices_a_vaginal_speculum_3.mp3"
         },
         {
             "en": "A vaginal ring",
@@ -33,7 +36,8 @@
             "example_en": "The vaginal ring releases hormones over several weeks.",
             "example_ru": "Вагинальное кольцо выделяет гормоны в течение нескольких недель.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_devices_a_vaginal_ring_4.mp3"
         },
         {
             "en": "Obstetric forceps",
@@ -41,7 +45,8 @@
             "example_en": "Forceps were used to help guide the baby during delivery.",
             "example_ru": "Акушерские щипцы использовались, чтобы помочь ребёнку во время родов.",
             "note": "Also called родовспомогательные щипцы.",
-            "image": ""
+            "image": "",
+            "audio_path": "obgyn_devices_obstetric_forceps_5.mp3"
         }
     ]
 }

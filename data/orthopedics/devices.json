@@ -9,7 +9,8 @@
             "example_en": "He uses a cane to help with balance.",
             "example_ru": "Он использует трость для поддержания равновесия.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_devices_the_cane_1.mp3"
         },
         {
             "en": "Crutches",
@@ -17,7 +18,8 @@
             "example_en": "She was given crutches after the ankle surgery.",
             "example_ru": "После операции на лодыжке ей выдали костыли.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_devices_crutches_2.mp3"
         },
         {
             "en": "The Sling",
@@ -25,7 +27,8 @@
             "example_en": "His arm was in a sling for three weeks.",
             "example_ru": "Его рука была в повязке в течение трёх недель.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_devices_the_sling_3.mp3"
         },
         {
             "en": "The Cast",
@@ -33,7 +36,8 @@
             "example_en": "The cast will stay on for six weeks.",
             "example_ru": "Гипс останется на шесть недель.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_devices_the_cast_4.mp3"
         },
         {
             "en": "The Wheelchair",
@@ -41,7 +45,8 @@
             "example_en": "He uses a wheelchair while recovering from surgery.",
             "example_ru": "Он использует инвалидную коляску во время восстановления после операции.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_devices_the_wheelchair_5.mp3"
         },
         {
             "en": "The Splint",
@@ -49,7 +54,8 @@
             "example_en": "The nurse put a splint on his broken finger.",
             "example_ru": "Медсестра наложила шину на его сломанный палец.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_devices_the_splint_6.mp3"
         },
         {
             "en": "Rods (surgical)",
@@ -57,7 +63,8 @@
             "example_en": "Rods were used to stabilize the fracture.",
             "example_ru": "Для стабилизации перелома использовались стержни.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_devices_rods_surgical_7.mp3"
         },
         {
             "en": "Metal plates, pins and rods",
@@ -65,7 +72,8 @@
             "example_en": "Metal plates, pins, and rods hold the bone in place while it heals.",
             "example_ru": "Металлические пластины, спицы и стержни удерживают кость на месте во время заживления.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_devices_metal_plates_pins_and_rods_8.mp3"
         },
         {
             "en": "The Brace",
@@ -73,7 +81,8 @@
             "example_en": "We are going to redesign these braces for a better fit.",
             "example_ru": "Мы переделаем дизайн этих фиксаторов для лучшей посадки.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_devices_the_brace_9.mp3"
         },
         {
             "en": "The Arm brace",
@@ -81,7 +90,8 @@
             "example_en": "The arm brace keeps the elbow from bending too far.",
             "example_ru": "Фиксатор руки не даёт локтю сгибаться слишком сильно.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_devices_the_arm_brace_10.mp3"
         },
         {
             "en": "The Wheelchair ramp",
@@ -89,7 +99,8 @@
             "example_en": "The clinic installed a wheelchair ramp at the entrance.",
             "example_ru": "Клиника установила пандус для инвалидной коляски при входе.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_devices_the_wheelchair_ramp_11.mp3"
         },
         {
             "en": "The Tourniquet",
@@ -97,7 +108,8 @@
             "example_en": "A tourniquet was applied to control the bleeding.",
             "example_ru": "Жгут был наложен для остановки кровотечения.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_devices_the_tourniquet_12.mp3"
         },
         {
             "en": "The Screw (surgical)",
@@ -105,7 +117,8 @@
             "example_en": "A small screw secures the plate to the bone.",
             "example_ru": "Небольшой винтик крепит пластину к кости.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_devices_the_screw_surgical_13.mp3"
         },
         {
             "en": "The Cervical collar (neck brace)",
@@ -113,7 +126,8 @@
             "example_en": "He was fitted with a cervical collar after the accident.",
             "example_ru": "После аварии ему надели воротник на шею.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "orthopedics_devices_the_cervical_collar_neck_brace_14.mp3"
         }
     ]
 }

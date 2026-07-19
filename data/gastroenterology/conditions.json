@@ -9,7 +9,8 @@
       "example_en": "He was referred for surgery to repair a groin hernia.",
       "example_ru": "Его направили на операцию по поводу паховой грыжи.",
       "note": "Merged duplicate entries",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_an_inguinal_groin_hernia_1.mp3"
     },
     {
       "en": "An infraumbilical hernia",
@@ -17,7 +18,8 @@
       "example_en": "The infraumbilical hernia was repaired during surgery.",
       "example_ru": "Подпупковая грыжа была устранена в ходе операции.",
       "note": "Merged duplicate entries",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_an_infraumbilical_hernia_2.mp3"
     },
     {
       "en": "A sliding hernia",
@@ -25,7 +27,8 @@
       "example_en": "A sliding hernia can be difficult to diagnose on physical exam.",
       "example_ru": "Скользящую грыжу бывает сложно выявить при физикальном осмотре.",
       "note": "Source: 'плавающая грыжа' — informal/patient term; clinical: скользящая грыжа",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_a_sliding_hernia_3.mp3"
     },
     {
       "en": "Stomach acid / gastric juice",
@@ -33,7 +36,8 @@
       "example_en": "Excess stomach acid can damage the lining of the esophagus.",
       "example_ru": "Избыток желудочного сока может повредить слизистую оболочку пищевода.",
       "note": "Source says 'желудочный сок' (gastric juice). Distinct from 'желудочная кислота' (hydrochloric acid). Related but not identical.",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_stomach_acid_gastric_juice_4.mp3"
     },
     {
       "en": "Appendicitis",
@@ -41,7 +45,8 @@
       "example_en": "She was admitted with signs of appendicitis.",
       "example_ru": "Её госпитализировали с признаками аппендицита.",
       "note": "Source typo: 'apendicitis' — corrected",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_appendicitis_5.mp3"
     },
     {
       "en": "Hemorrhoids",
@@ -49,7 +54,8 @@
       "example_en": "He was prescribed a cream to treat his hemorrhoids.",
       "example_ru": "Ему назначили крем для лечения геморроя.",
       "note": "Source: 'геморой' — typo; correct Russian spelling: геморрой",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_hemorrhoids_6.mp3"
     },
     {
       "en": "Difficulty swallowing / dysphagia",
@@ -57,7 +63,8 @@
       "example_en": "He said it is unpleasant and difficult to swallow solid food.",
       "example_ru": "Он сказал, что ему неприятно и трудно глотать твёрдую пищу.",
       "note": "Source: 'unpleasant to swallow' — patient phrase folded as example; clinical term is dysphagia",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_difficulty_swallowing_dysphagia_7.mp3"
     },
     {
       "en": "A stomach upset",
@@ -65,7 +72,8 @@
       "example_en": "Spicy food tends to upset her stomach.",
       "example_ru": "Острая еда обычно вызывает у неё расстройство желудка.",
       "note": "Merged: 'to upset the stomach', 'stomach upset', 'get the stomach in order', 'upset stomach'",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_a_stomach_upset_8.mp3"
     },
     {
       "en": "Passing gas / flatulence",
@@ -73,7 +81,8 @@
       "example_en": "Do you pass gas regularly?",
       "example_ru": "Вы регулярно выпускаете газы?",
       "note": "Merged: 'do you pass gasses' and 'to expell the gases' — patient phrases folded as examples",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_passing_gas_flatulence_9.mp3"
     },
     {
       "en": "A gas pain",
@@ -81,7 +90,8 @@
       "example_en": "The patient complained of gas pain after eating.",
       "example_ru": "Пациент жаловался на боли от газов после еды.",
       "note": "Distinct from passing gas — refers specifically to painful gas buildup; source: 'метеоризм' also listed",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_a_gas_pain_10.mp3"
     },
     {
       "en": "Bowel sounds (gurgling / rumbling)",
@@ -89,7 +99,8 @@
       "example_en": "The nurse noted active bowel sounds during auscultation.",
       "example_ru": "Медсестра отметила активные кишечные шумы при аускультации.",
       "note": "Merged: 'gurgles ; урчание' and 'rumbling sounds ; Грохот'",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_bowel_sounds_gurgling_rumbling_11.mp3"
     },
     {
       "en": "Unintentional weight loss",
@@ -97,7 +108,8 @@
       "example_en": "Unintentional weight loss can be a warning sign of cancer.",
       "example_ru": "Непреднамеренная потеря веса может быть тревожным признаком онкологии.",
       "note": "Source typo: 'unintenantional' — corrected",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_unintentional_weight_loss_12.mp3"
     },
     {
       "en": "Pancreatic Lesions",
@@ -105,7 +117,8 @@
       "example_en": "Imaging revealed multiple pancreatic lesions.",
       "example_ru": "Визуализация выявила множественные поражения поджелудочной железы.",
       "note": "Merged duplicate entries",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_pancreatic_lesions_13.mp3"
     },
     {
       "en": "Pancreatic Cancer",
@@ -113,7 +126,8 @@
       "example_en": "Pancreatic cancer is often detected at a late stage.",
       "example_ru": "Рак поджелудочной железы нередко выявляется на поздней стадии.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_pancreatic_cancer_14.mp3"
     },
     {
       "en": "A perforated ulcer",
@@ -121,7 +135,8 @@
       "example_en": "A perforated ulcer is a surgical emergency.",
       "example_ru": "Прободная язва требует экстренного хирургического вмешательства.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_a_perforated_ulcer_15.mp3"
     },
     {
       "en": "Loose stool",
@@ -129,7 +144,8 @@
       "example_en": "He had loose stool for three days following the procedure.",
       "example_ru": "На протяжении трёх дней после процедуры у него был жидкий стул.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_loose_stool_16.mp3"
     },
     {
       "en": "Persistent vomiting",
@@ -137,7 +153,8 @@
       "example_en": "Persistent vomiting for more than 24 hours requires evaluation.",
       "example_ru": "Непрекращающаяся рвота на протяжении более 24 часов требует обследования.",
       "note": "Source: 'persisting' — corrected to 'persistent'",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_persistent_vomiting_17.mp3"
     },
     {
       "en": "Colorectal Cancer",
@@ -145,7 +162,8 @@
       "example_en": "Colorectal cancer is one of the most common cancers worldwide.",
       "example_ru": "Колоректальный рак — один из наиболее распространённых видов рака в мире.",
       "note": "Merged 3 source entries: 'colorectal cancer', 'colon cancer, Рак толстой кишки', 'colon cancer ; рак толстой кишки...'",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_colorectal_cancer_18.mp3"
     },
     {
       "en": "Esophagitis",
@@ -153,7 +171,8 @@
       "example_en": "Esophagitis can be caused by acid reflux or infection.",
       "example_ru": "Эзофагит может быть вызван кислотным рефлюксом или инфекцией.",
       "note": "Source: 'эсофагит' — typo; correct Russian spelling: эзофагит",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_esophagitis_19.mp3"
     },
     {
       "en": "A bowel obstruction",
@@ -161,7 +180,8 @@
       "example_en": "The patient was diagnosed with a stage 3 bowel obstruction.",
       "example_ru": "Пациенту диагностировали непроходимость кишечника 3-й стадии.",
       "note": "Source: '3я стадия непроходимости ; Stage 3 obstruction' — condition is bowel obstruction; stage preserved in example",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_a_bowel_obstruction_20.mp3"
     },
     {
       "en": "Pancreatitis",
@@ -169,7 +189,8 @@
       "example_en": "Acute pancreatitis often presents with severe upper abdominal pain.",
       "example_ru": "Острый панкреатит, как правило, проявляется сильной болью в верхней части живота.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_pancreatitis_21.mp3"
     },
     {
       "en": "Coating the stomach",
@@ -177,7 +198,8 @@
       "example_en": "This medication helps coat and protect the stomach lining.",
       "example_ru": "Этот препарат помогает обволакивать и защищать слизистую оболочку желудка.",
       "note": "Source: 'to line to stomach' — typo 'to' → 'the'; refers to protective coating effect of medications or food",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_coating_the_stomach_22.mp3"
     },
     {
       "en": "A Volvulus / a twisted colon",
@@ -185,7 +207,8 @@
       "example_en": "A twisted colon, or volvulus, can cut off blood supply to the bowel.",
       "example_ru": "Заворот кишки может перекрыть кровоснабжение кишечника.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_a_volvulus_a_twisted_colon_23.mp3"
     },
     {
       "en": "Jaundice",
@@ -193,7 +216,8 @@
       "example_en": "Jaundice, or yellowing of the skin, may indicate liver problems.",
       "example_ru": "Желтуха — пожелтение кожи — может указывать на заболевание печени.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_jaundice_24.mp3"
     },
     {
       "en": "Choking on a pill",
@@ -201,7 +225,8 @@
       "example_en": "The patient reported she choked on the pill.",
       "example_ru": "Пациентка сообщила, что поперхнулась таблеткой.",
       "note": "Patient informal phrase",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_choking_on_a_pill_25.mp3"
     },
     {
       "en": "Advanced fibrosis / scarring",
@@ -209,7 +234,8 @@
       "example_en": "Advanced fibrosis was found on the liver biopsy.",
       "example_ru": "При биопсии печени выявлен выраженный фиброз.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_advanced_fibrosis_scarring_26.mp3"
     },
     {
       "en": "Fatty liver disease (MASLD / NAFLD)",
@@ -217,7 +243,8 @@
       "example_en": "Fatty liver disease is increasingly common in patients with metabolic syndrome.",
       "example_ru": "Жировая болезнь печени всё чаще встречается у пациентов с метаболическим синдромом.",
       "note": "Merged: 'fatty liver disease' and full Russian МАЖБП entry. MASLD is the current updated term for NAFLD.",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_fatty_liver_disease_masld_nafld_27.mp3"
     },
     {
       "en": "Feces / stool",
@@ -225,7 +252,8 @@
       "example_en": "A stool sample was collected for laboratory testing.",
       "example_ru": "Для лабораторного анализа был собран образец кала.",
       "note": "'Кал' is standard medical term; 'фекалии' is more formal",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_feces_stool_28.mp3"
     },
     {
       "en": "A perforation",
@@ -233,7 +261,8 @@
       "example_en": "The surgeon discovered a perforation in the bowel wall.",
       "example_ru": "Хирург обнаружил перфорацию стенки кишечника.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_a_perforation_29.mp3"
     },
     {
       "en": "A small tear / micro-tear",
@@ -241,7 +270,8 @@
       "example_en": "A small tear in the mucosa was visible on endoscopy.",
       "example_ru": "При эндоскопии была видна небольшая трещина слизистой.",
       "note": "Source had leading '=' sign — formatting artifact, ignored",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_a_small_tear_micro_tear_30.mp3"
     },
     {
       "en": "A bowel contraction",
@@ -249,7 +279,8 @@
       "example_en": "This medication is used to stimulate bowel contractions.",
       "example_ru": "Этот препарат используется для стимуляции сокращений кишечника.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_a_bowel_contraction_31.mp3"
     },
     {
       "en": "A distended belly / abdominal distension",
@@ -257,7 +288,8 @@
       "example_en": "The patient presented with a distended belly and abdominal pain.",
       "example_ru": "Пациент поступил с вздутым животом и болями.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_a_distended_belly_abdominal_distension_32.mp3"
     },
     {
       "en": "A blocked stent",
@@ -265,7 +297,8 @@
       "example_en": "The patient returned because the stent was blocked.",
       "example_ru": "Пациент вернулся, поскольку стент оказался заблокирован.",
       "note": "Source: 'стент забит' — informal patient expression",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_a_blocked_stent_33.mp3"
     },
     {
       "en": "Epigastric pain",
@@ -273,7 +306,8 @@
       "example_en": "The patient reported epigastric pain after every meal.",
       "example_ru": "Пациент сообщал об эпигастральной боли после каждого приёма пищи.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_epigastric_pain_34.mp3"
     },
     {
       "en": "Nausea / retching",
@@ -281,7 +315,8 @@
       "example_en": "The patient felt persistent nausea and retching after the procedure.",
       "example_ru": "После процедуры у пациента наблюдались стойкая тошнота и позывы на рвоту.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_nausea_retching_35.mp3"
     },
     {
       "en": "A mucosal lesion",
@@ -289,7 +324,8 @@
       "example_en": "A mucosal lesion was biopsied during the endoscopy.",
       "example_ru": "Во время эндоскопии было выполнено биопсирование поражения слизистой оболочки.",
       "note": "Source: 'поражение слизситой' — typo corrected",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_a_mucosal_lesion_36.mp3"
     },
     {
       "en": "Moistening with Saliva",
@@ -297,7 +333,8 @@
       "example_en": "The patient was instinctively moistening food with saliva to ease swallowing.",
       "example_ru": "Пациент инстинктивно смачивал пищу слюной, чтобы облегчить глотание.",
       "note": "Patient behavior associated with swallowing difficulty",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_conditions_moistening_with_saliva_37.mp3"
     }
   ]
 }

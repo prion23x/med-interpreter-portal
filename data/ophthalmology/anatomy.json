@@ -9,7 +9,8 @@
             "example_en": "The eyelid protects the eye from dust and light.",
             "example_ru": "Веко защищает глаз от пыли и света.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_eyelid_1.mp3"
         },
         {
             "en": "The pupil",
@@ -17,7 +18,8 @@
             "example_en": "The pupil narrows in bright light.",
             "example_ru": "Зрачок сужается при ярком свете.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_pupil_2.mp3"
         },
         {
             "en": "A pore (gland opening)",
@@ -25,7 +27,8 @@
             "example_en": "A blocked pore along the eyelid can lead to a stye.",
             "example_ru": "Закупоренная пора на веке может привести к ячменю.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_a_pore_gland_opening_3.mp3"
         },
         {
             "en": "The meibomian glands",
@@ -33,7 +36,8 @@
             "example_en": "The oil glands along the eyelid margin keep the tear film stable.",
             "example_ru": "Мейбомиевы железы на краю века поддерживают стабильность слёзной плёнки.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_meibomian_glands_4.mp3"
         },
         {
             "en": "The retina",
@@ -41,7 +45,8 @@
             "example_en": "The retina converts light into nerve signals.",
             "example_ru": "Сетчатка преобразует свет в нервные сигналы.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_retina_5.mp3"
         },
         {
             "en": "The cornea",
@@ -49,7 +54,8 @@
             "example_en": "The cornea is the clear front surface of the eye.",
             "example_ru": "Роговица — это прозрачная передняя поверхность глаза.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_cornea_6.mp3"
         },
         {
             "en": "The iris",
@@ -57,7 +63,8 @@
             "example_en": "The iris controls how much light enters the eye.",
             "example_ru": "Радужка регулирует количество света, попадающего в глаз.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_iris_7.mp3"
         },
         {
             "en": "The lens",
@@ -65,7 +72,8 @@
             "example_en": "The lens focuses light onto the retina.",
             "example_ru": "Хрусталик фокусирует свет на сетчатке.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_lens_8.mp3"
         },
         {
             "en": "The vitreous body (vitreous humor)",
@@ -73,7 +81,8 @@
             "example_en": "The vitreous body fills the space between the lens and the retina.",
             "example_ru": "Стекловидное тело заполняет пространство между хрусталиком и сетчаткой.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_vitreous_body_vitreous_humor_9.mp3"
         },
         {
             "en": "The choroid",
@@ -81,7 +90,8 @@
             "example_en": "The choroid supplies blood to the outer retina.",
             "example_ru": "Хориоидея снабжает кровью наружные слои сетчатки.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_choroid_10.mp3"
         },
         {
             "en": "The ciliary body",
@@ -89,7 +99,8 @@
             "example_en": "The ciliary body produces the fluid inside the eye.",
             "example_ru": "Ресничное тело вырабатывает внутриглазную жидкость.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_ciliary_body_11.mp3"
         },
         {
             "en": "The optic nerve",
@@ -97,7 +108,8 @@
             "example_en": "The optic nerve carries visual signals to the brain.",
             "example_ru": "Зрительный нерв передаёт зрительные сигналы в мозг.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_optic_nerve_12.mp3"
         },
         {
             "en": "The lower eyelid",
@@ -105,7 +117,8 @@
             "example_en": "Please pull down the lower eyelid gently.",
             "example_ru": "Пожалуйста, аккуратно оттяните нижнее веко.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_lower_eyelid_13.mp3"
         },
         {
             "en": "The upper eyelid",
@@ -113,7 +126,8 @@
             "example_en": "The upper eyelid was slightly swollen.",
             "example_ru": "Верхнее веко было слегка припухшим.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_upper_eyelid_14.mp3"
         },
         {
             "en": "The sclera",
@@ -121,7 +135,8 @@
             "example_en": "The sclera is the white outer layer of the eye.",
             "example_ru": "Склера — это белая наружная оболочка глаза.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_sclera_15.mp3"
         },
         {
             "en": "The conjunctiva (ocular mucosa)",
@@ -129,7 +144,8 @@
             "example_en": "The conjunctiva covers the white of the eye and inner eyelid.",
             "example_ru": "Конъюнктива покрывает белок глаза и внутреннюю поверхность века.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_conjunctiva_ocular_mucosa_16.mp3"
         },
         {
             "en": "The macula",
@@ -137,7 +153,8 @@
             "example_en": "The macula is responsible for sharp, central vision.",
             "example_ru": "Макула отвечает за чёткое центральное зрение.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_macula_17.mp3"
         },
         {
             "en": "The tear film",
@@ -145,7 +162,8 @@
             "example_en": "The tear film keeps the eye's surface moist.",
             "example_ru": "Слёзная плёнка увлажняет поверхность глаза.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_tear_film_18.mp3"
         },
         {
             "en": "The tear duct",
@@ -153,7 +171,8 @@
             "example_en": "The tear duct drains tears into the nose.",
             "example_ru": "Слёзный канал отводит слёзы в полость носа.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_tear_duct_19.mp3"
         },
         {
             "en": "The optic disc",
@@ -161,7 +180,8 @@
             "example_en": "The optic disc is where the optic nerve enters the eye.",
             "example_ru": "Диск зрительного нерва — место, где зрительный нерв входит в глаз.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_optic_disc_20.mp3"
         },
         {
             "en": "The eyebrow",
@@ -169,7 +189,8 @@
             "example_en": "The eyebrow helps keep sweat out of the eyes.",
             "example_ru": "Бровь помогает не пропускать пот в глаза.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_anatomy_the_eyebrow_21.mp3"
         }
     ]
 }

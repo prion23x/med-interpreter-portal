@@ -9,7 +9,8 @@
             "example_en": "I have a scratchy throat this morning.",
             "example_ru": "У меня сегодня утром першит в горле.",
             "note": "Merged two near-identical source lines",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_a_scratchy_throat_1.mp3"
         },
         {
             "en": "An upper respiratory tract infection",
@@ -17,7 +18,8 @@
             "example_en": "The child was diagnosed with an upper respiratory tract infection.",
             "example_ru": "Ребёнку поставили диагноз инфекция верхних дыхательных путей.",
             "note": "Merged singular/plural source variants",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_an_upper_respiratory_tract_infection_2.mp3"
         },
         {
             "en": "Trigeminal neuralgia",
@@ -25,7 +27,8 @@
             "example_en": "Trigeminal neuralgia causes sudden facial pain.",
             "example_ru": "Невралгия тройничного нерва вызывает внезапную боль в лице.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_trigeminal_neuralgia_3.mp3"
         },
         {
             "en": "Sleep apnea",
@@ -33,7 +36,8 @@
             "example_en": "Sleep apnea causes brief pauses in breathing during sleep.",
             "example_ru": "Апноэ сна вызывает кратковременные остановки дыхания во время сна.",
             "note": "Source misspelled as \"апннеа\"",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_sleep_apnea_4.mp3"
         },
         {
             "en": "Painful/unpleasant swallowing",
@@ -41,7 +45,8 @@
             "example_en": "It's unpleasant for him to swallow right now.",
             "example_ru": "Ему сейчас неприятно глотать.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_painful_unpleasant_swallowing_5.mp3"
         },
         {
             "en": "A narrow throat passage",
@@ -49,7 +54,8 @@
             "example_en": "A narrow throat passage can make breathing difficult during sleep.",
             "example_ru": "Узкий проход в горле может затруднять дыхание во время сна.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_a_narrow_throat_passage_6.mp3"
         },
         {
             "en": "A numb or frozen feeling in the palate",
@@ -57,7 +63,8 @@
             "example_en": "The patient said the roof of her mouth feels numb.",
             "example_ru": "Пациентка сказала, что у неё немеет нёбо.",
             "note": "Colloquial patient phrase",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_a_numb_or_frozen_feeling_in_the_palate_7.mp3"
         },
         {
             "en": "Hearing loss",
@@ -65,7 +72,8 @@
             "example_en": "He has more trouble following conversations in a noisy environment because of his hearing loss.",
             "example_ru": "Из-за снижения слуха ему сложнее следить за разговором в шумной обстановке.",
             "note": "Merges \"hearing loss\" and \"deficit of hearing\" from source; the brain can perceptually fill in gaps in deaf frequency regions",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_hearing_loss_8.mp3"
         },
         {
             "en": "A deviated septum",
@@ -73,7 +81,8 @@
             "example_en": "A deviated septum can block airflow on one side of the nose.",
             "example_ru": "Искривление носовой перегородки может затруднять поток воздуха с одной стороны носа.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_a_deviated_septum_9.mp3"
         },
         {
             "en": "Sinusitis (a sinus infection)",
@@ -81,7 +90,8 @@
             "example_en": "Sinusitis often causes facial pressure and a stuffy nose.",
             "example_ru": "Синусит часто вызывает давление в области лица и заложенность носа.",
             "note": "Merged 4 source lines: sinus infection, sinus inflammation, sinusitis, гайморит",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_sinusitis_a_sinus_infection_10.mp3"
         },
         {
             "en": "A neck lump",
@@ -89,7 +99,8 @@
             "example_en": "The patient noticed a small lump in her neck.",
             "example_ru": "Пациентка заметила небольшое уплотнение на шее.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_a_neck_lump_11.mp3"
         },
         {
             "en": "Nonspecific uptake near the salivary gland",
@@ -97,7 +108,8 @@
             "example_en": "The scan showed nonspecific uptake near the left salivary gland.",
             "example_ru": "Сканирование показало неспецифическое накопление в области левой слюнной железы.",
             "note": "Imaging/radiology finding phrase",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_nonspecific_uptake_near_the_salivary_gland_12.mp3"
         },
         {
             "en": "A runny or stuffy nose",
@@ -105,7 +117,8 @@
             "example_en": "He was snuffling and had to blow his nose all day.",
             "example_ru": "Он сопел и весь день сморкался.",
             "note": "Merged: runny nose (насморк), snuffle (сопеть), to blow one's nose (высмаркиваться)",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_a_runny_or_stuffy_nose_13.mp3"
         },
         {
             "en": "Snoring",
@@ -113,7 +126,8 @@
             "example_en": "Loud snoring can be a sign of sleep apnea.",
             "example_ru": "Громкий храп может быть признаком апноэ сна.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_snoring_14.mp3"
         },
         {
             "en": "A common cold",
@@ -121,7 +135,8 @@
             "example_en": "He caught a common cold last week.",
             "example_ru": "На прошлой неделе он подхватил обычную простуду.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_a_common_cold_15.mp3"
         },
         {
             "en": "Tinnitus (ringing or buzzing in the ear)",
@@ -129,7 +144,8 @@
             "example_en": "She described the ringing in her ears as a constant high-pitched tone.",
             "example_ru": "Она описала звон в ушах как постоянный высокочастотный звук.",
             "note": "Merged 6 source variants describing ringing/buzzing in the ear",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_tinnitus_ringing_or_buzzing_in_the_ear_16.mp3"
         },
         {
             "en": "A Cholesteatoma",
@@ -137,7 +153,8 @@
             "example_en": "A cholesteatoma is an abnormal skin growth in the middle ear.",
             "example_ru": "Холестеатома — это аномальное разрастание кожи в среднем ухе.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_a_cholesteatoma_17.mp3"
         },
         {
             "en": "An earwax blockage (cerumen impaction)",
@@ -145,7 +162,8 @@
             "example_en": "An earwax blockage can cause temporary hearing loss.",
             "example_ru": "Серная пробка в ухе может вызывать временное снижение слуха.",
             "note": "Source used informal phrase \"a nugget in the ear\"",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_an_earwax_blockage_cerumen_impaction_18.mp3"
         },
         {
             "en": "Deafness",
@@ -153,7 +171,8 @@
             "example_en": "The child was born with complete deafness in one ear.",
             "example_ru": "Ребёнок родился с полной глухотой на одно ухо.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_deafness_19.mp3"
         },
         {
             "en": "Strep throat",
@@ -161,7 +180,8 @@
             "example_en": "Strep throat is treated with antibiotics.",
             "example_ru": "Стрептококковую ангину лечат антибиотиками.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_strep_throat_20.mp3"
         },
         {
             "en": "Pharyngitis",
@@ -169,7 +189,8 @@
             "example_en": "Pharyngitis causes a sore, inflamed throat.",
             "example_ru": "Фарингит вызывает боль и воспаление в горле.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_pharyngitis_21.mp3"
         },
         {
             "en": "Tonsillitis",
@@ -177,7 +198,8 @@
             "example_en": "Tonsillitis often causes a very sore throat and fever.",
             "example_ru": "Тонзиллит часто вызывает сильную боль в горле и повышение температуры.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_tonsillitis_22.mp3"
         },
         {
             "en": "Ototoxic",
@@ -185,7 +207,8 @@
             "example_en": "Some antibiotics are ototoxic and can damage hearing.",
             "example_ru": "Некоторые антибиотики являются ототоксичными и могут повредить слух.",
             "note": "Source spelled this \"autotoxic\" — corrected to ototoxic",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_conditions_ototoxic_23.mp3"
         }
     ]
 }

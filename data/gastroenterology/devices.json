@@ -9,7 +9,8 @@
       "example_en": "The nurse demonstrated how to empty and change the stoma bag.",
       "example_ru": "Медсестра показала, как опустошать и менять мешок для стомы.",
       "note": "'Калоприёмник' is the common informal term",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_devices_a_stoma_bag_ostomy_bag_1.mp3"
     },
     {
       "en": "A feeding tube",
@@ -17,7 +18,8 @@
       "example_en": "The patient was unable to eat and required a feeding tube.",
       "example_ru": "Пациент не мог питаться самостоятельно, поэтому ему потребовался зонд для кормления.",
       "note": "General umbrella term; merged 2 source entries with different translations. Specific types: NG tube, G tube — see separate entries",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_devices_a_feeding_tube_2.mp3"
     },
     {
       "en": "A bedpan",
@@ -25,7 +27,8 @@
       "example_en": "The patient needed a bedpan during the night.",
       "example_ru": "Ночью пациенту понадобилось судно.",
       "note": "'Утка' (urinal-type) is informal; 'судно' is the standard medical term",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_devices_a_bedpan_3.mp3"
     },
     {
       "en": "An NG tube (nasogastric tube)",
@@ -33,7 +36,8 @@
       "example_en": "The NG tube was inserted through the nose to drain stomach contents.",
       "example_ru": "Назогастральный зонд ввели через нос для откачивания содержимого желудка.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_devices_an_ng_tube_nasogastric_tube_4.mp3"
     },
     {
       "en": "A G tube (gastrostomy tube)",
@@ -41,7 +45,8 @@
       "example_en": "The G tube is placed directly into the stomach through the abdominal wall.",
       "example_ru": "Гастростомическая трубка вводится непосредственно в желудок через брюшную стенку.",
       "note": "Distinct from NG tube — surgically placed, not passed through the nose",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_devices_a_g_tube_gastrostomy_tube_5.mp3"
     },
     {
       "en": "A JP drain (Jackson-Pratt drain)",
@@ -49,7 +54,8 @@
       "example_en": "The JP drain was removed on the third day after surgery.",
       "example_ru": "Дренаж Джексона–Пратта удалили на третий день после операции.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_devices_a_jp_drain_jackson_pratt_drain_6.mp3"
     },
     {
       "en": "A scope / endoscope",
@@ -57,7 +63,8 @@
       "example_en": "The scope was passed through the mouth to examine the esophagus.",
       "example_ru": "Эндоскоп ввели через рот для осмотра пищевода.",
       "note": "Source: 'a scope ; зонд' — in GI context 'scope' means endoscope, not a generic probe",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_devices_a_scope_endoscope_7.mp3"
     }
   ]
 }

@@ -1,719 +1,808 @@
 {
-    "intro": "PROCEDURES, exercises, body positions, movement instructions, and assessment terms used in physiotherapy and occupational therapy.",
-    "reading": "PT and OT generate a high volume of procedural language: assessments, surgical procedures, therapeutic exercises, ADL (activities of daily living), and precise movement commands. Interpreters must convey exact body position instructions, exercise names, and directional cues accurately. This section also includes healthcare roles relevant to the PT/OT team.",
-    "color": "#a6e3a1",
-    "terms": [
-        {
-            "en": "The Bone density scan (DEXA scan)",
-            "ru": "Денситометрия / рентген плотности костей",
-            "example_en": "The DEXA scan measures bone mineral density.",
-            "example_ru": "Денситометрия измеряет минеральную плотность костей.",
-            "note": "Merged: 'bone density test', 'bone density xray', 'DEXA scan', 'bone mineral density test' — DEXA is the standard clinical term",
-            "image": ""
-        },
-        {
-            "en": "The Cognitive assessment",
-            "ru": "Когнитивное обследование",
-            "example_en": "The therapist completed a cognitive assessment before starting the program.",
-            "example_ru": "Терапевт провёл когнитивное обследование перед началом программы.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Range of motion",
-            "ru": "Диапазон движения / подвижность суставов",
-            "example_en": "She has reduced range of motion in the shoulder.",
-            "example_ru": "У неё снижен диапазон движения в плечевом суставе.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Alignment of the legs",
-            "ru": "Положение / выравнивание ног",
-            "example_en": "The physiotherapist assessed the alignment of the legs.",
-            "example_ru": "Физиотерапевт оценил положение ног.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Endoprosthetics / joint replacement",
-            "ru": "Эндопротезирование (замена сустава)",
-            "example_en": "She underwent joint replacement surgery on her hip.",
-            "example_ru": "Ей выполнили операцию по замене тазобедренного сустава.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Reverse shoulder replacement",
-            "ru": "Реверсивное эндопротезирование плечевого сустава",
-            "example_en": "Reverse shoulder replacement is used when the rotator cuff is severely damaged.",
-            "example_ru": "Реверсивное эндопротезирование плечевого сустава применяется при тяжёлом повреждении вращательной манжеты.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Rotator cuff repair",
-            "ru": "Восстановление вращательной манжеты плеча",
-            "example_en": "Rotator cuff repair is followed by several weeks of PT.",
-            "example_ru": "После восстановления вращательной манжеты плеча необходимо несколько недель физиотерапии.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Kyphoplasty",
-            "ru": "Кифопластика",
-            "example_en": "Kyphoplasty is a minimally invasive procedure for spinal compression fractures.",
-            "example_ru": "Кифопластика — малоинвазивная процедура при компрессионных переломах позвоночника.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Bone cement",
-            "ru": "Костный цемент",
-            "example_en": "Bone cement was used to stabilize the fractured vertebra.",
-            "example_ru": "Костный цемент был использован для стабилизации сломанного позвонка.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Irrigation of the joint",
-            "ru": "Промывание сустава",
-            "example_en": "Irrigation of the joint removes debris and reduces inflammation.",
-            "example_ru": "Промывание сустава удаляет воспалительные отложения.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Debridement of the shoulder",
-            "ru": "Хирургическая обработка плечевого сустава",
-            "example_en": "Debridement removes damaged tissue from the shoulder joint.",
-            "example_ru": "Хирургическая обработка удаляет повреждённые ткани из плечевого сустава.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "To dislocate",
-            "ru": "Вывихнуть / сместить (сустав)",
-            "example_en": "He dislocated his shoulder during the fall.",
-            "example_ru": "Он вывихнул плечо при падении.",
-            "note": "Source: 'Вывихнуть, Смещать (сустав), Разъединить'",
-            "image": ""
-        },
-        {
-            "en": "The Biocompatibility (material integration)",
-            "ru": "Биосовместимость / приживаемость материала",
-            "example_en": "The implant was designed for high biocompatibility with the body.",
-            "example_ru": "Имплантат был разработан с высокой биосовместимостью с тканями тела.",
-            "note": "Source: 'приживаться к телу ; biocompatability' — typo corrected",
-            "image": ""
-        },
-        {
-            "en": "The Conservative treatment",
-            "ru": "Консервативное лечение",
-            "example_en": "Conservative treatment includes physical therapy and pain management before surgery.",
-            "example_ru": "Консервативное лечение включает физиотерапию и обезболивание перед операцией.",
-            "note": "From Others section",
-            "image": ""
-        },
-        {
-            "en": "The Chiropractic treatment",
-            "ru": "Лечение у хиропрактора",
-            "example_en": "She tried chiropractic treatment for her lower back pain.",
-            "example_ru": "Она пробовала лечение у хиропрактора от боли в пояснице.",
-            "note": "Source: 'хиропарктора' — corrected; from Others section",
-            "image": ""
-        },
-        {
-            "en": "The Speech therapy",
-            "ru": "Речевая терапия / занятия с логопедом",
-            "example_en": "She attends speech therapy twice a week after the stroke.",
-            "example_ru": "После инсульта она посещает речевую терапию дважды в неделю.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Verticalization",
-            "ru": "Вертикализация",
-            "example_en": "Verticalization is the gradual process of getting a patient to an upright position.",
-            "example_ru": "Вертикализация — постепенный процесс перевода пациента в вертикальное положение.",
-            "note": "Source: 'вертикализация' (no English given) — term added",
-            "image": ""
-        },
-        {
-            "en": "The Prone position",
-            "ru": "Положение лёжа на животе",
-            "example_en": "Please turn over and lie in the prone position.",
-            "example_ru": "Пожалуйста, перевернитесь и лягте на живот.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Supine position",
-            "ru": "Положение лёжа на спине",
-            "example_en": "For this exercise, start in the supine position.",
-            "example_ru": "Для этого упражнения начните в положении лёжа на спине.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Lateral position",
-            "ru": "Положение лёжа на боку",
-            "example_en": "Turn to the lateral position to relieve pressure on your back.",
-            "example_ru": "Повернитесь на бок, чтобы снять давление со спины.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Sitting position",
-            "ru": "Положение сидя",
-            "example_en": "Maintain the sitting position during the exercise.",
-            "example_ru": "Сохраняйте положение сидя во время упражнения.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Standing position",
-            "ru": "Положение стоя",
-            "example_en": "Now perform the same movement in the standing position.",
-            "example_ru": "Теперь выполните то же движение в положении стоя.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Kneeling position",
-            "ru": "Положение на коленях",
-            "example_en": "Get into a kneeling position on the mat.",
-            "example_ru": "Встаньте на колени на коврике.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "Core strengthening exercises",
-            "ru": "Упражнения для укрепления мышц кора",
-            "example_en": "Core strengthening exercises help protect the spine.",
-            "example_ru": "Упражнения для укрепления мышц кора помогают защитить позвоночник.",
-            "note": "Source: 'упражнение' — corrected to plural",
-            "image": ""
-        },
-        {
-            "en": "Strengthening exercises (general)",
-            "ru": "Силовые / укрепляющие упражнения",
-            "example_en": "We will start with light strengthening exercises for the shoulder.",
-            "example_ru": "Мы начнём с лёгких укрепляющих упражнений для плеча.",
-            "note": "Source: 'strengtheining exercises' — typo corrected",
-            "image": ""
-        },
-        {
-            "en": "Stretching",
-            "ru": "Растяжка",
-            "example_en": "Stretching after exercise helps prevent muscle tightness.",
-            "example_ru": "Растяжка после упражнений помогает предотвратить скованность мышц.",
-            "note": "Merged: 'stretching', 'to do stretching', 'stretch'",
-            "image": ""
-        },
-        {
-            "en": "The Quad stretch",
-            "ru": "Растяжка четырёхглавой мышцы",
-            "example_en": "Hold the quad stretch for thirty seconds on each leg.",
-            "example_ru": "Удерживайте растяжку четырёхглавой мышцы по тридцать секунд на каждую ногу.",
-            "note": "Source: 'растяжка четырёхглавой мышцу' — corrected",
-            "image": ""
-        },
-        {
-            "en": "Toe crunches",
-            "ru": "Сгибания пальцев ног",
-            "example_en": "Toe crunches help strengthen the small muscles of the foot.",
-            "example_ru": "Сгибания пальцев ног укрепляют мелкие мышцы стопы.",
-            "note": "Source: 'toe crunhes' — typo corrected",
-            "image": ""
-        },
-        {
-            "en": "Deep squatting",
-            "ru": "Глубокое приседание",
-            "example_en": "Avoid deep squatting until the knee is fully healed.",
-            "example_ru": "Избегайте глубоких приседаний до полного восстановления колена.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Scapular retraction",
-            "ru": "Сведение лопаток",
-            "example_en": "Perform scapular retraction by squeezing your shoulder blades together.",
-            "example_ru": "Выполняйте сведение лопаток, сжимая лопатки вместе.",
-            "note": "Merged: 'scapular retraction' and 'to retract the shoulders'",
-            "image": ""
-        },
-        {
-            "en": "The Scapular protraction",
-            "ru": "Разведение лопаток",
-            "example_en": "Now protract the shoulders by pushing them forward.",
-            "example_ru": "Теперь разведите лопатки, выдвигая плечи вперёд.",
-            "note": "Merged: 'to protract the shoulders'",
-            "image": ""
-        },
-        {
-            "en": "The Internal rotation",
-            "ru": "Внутреннее вращение",
-            "example_en": "Internal rotation of the shoulder is restricted after surgery.",
-            "example_ru": "Внутреннее вращение плеча ограничено после операции.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "Arms to the side",
-            "ru": "Руки в стороны",
-            "example_en": "Slowly raise your arms to the side to shoulder height.",
-            "example_ru": "Медленно поднимите руки в стороны до уровня плеч.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The rows (exercise)",
-            "ru": "Тяга в наклоне",
-            "example_en": "The rows strengthen the upper back and rear shoulder muscles.",
-            "example_ru": "Тяга в наклоне укрепляет верхнюю часть спины и задние мышцы плеч.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Low trap lift off",
-            "ru": "Подъём рук для нижней порции трапеции",
-            "example_en": "The low trap lift off targets the lower trapezius muscle.",
-            "example_ru": "Подъём рук для нижней порции трапеции прорабатывает нижнюю трапецию.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "To tighten a muscle",
-            "ru": "Напрячь мышцу",
-            "example_en": "Tighten the muscle and hold for five seconds.",
-            "example_ru": "Напрягите мышцу и удерживайте пять секунд.",
-            "note": "Merged: 'tighten a muscle' and 'to tighten the muslce' (typo)",
-            "image": ""
-        },
-        {
-            "en": "To squeeze and release",
-            "ru": "Сжать и отпустить",
-            "example_en": "Squeeze the ball and release — repeat ten times.",
-            "example_ru": "Сожмите мяч и отпустите — повторите десять раз.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "To bring knees out and in",
-            "ru": "Разведите колени в стороны, затем сведите",
-            "example_en": "Bring your knees out and in slowly to work the hip muscles.",
-            "example_ru": "Медленно разводите и сводите колени для проработки мышц бедра.",
-            "note": "Source: 'bring your knees out and in'",
-            "image": ""
-        },
-        {
-            "en": "Paired muscle relaxation",
-            "ru": "Синхронное расслабление мышц",
-            "example_en": "Paired muscle relaxation involves tensing and then releasing muscle groups.",
-            "example_ru": "Синхронное расслабление мышц предполагает напряжение и расслабление мышечных групп.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Muscle rub / massage",
-            "ru": "Массировать / растирать мышцу",
-            "example_en": "I will rub your muscle to help loosen it before the exercise.",
-            "example_ru": "Я помассирую вашу мышцу, чтобы расслабить её перед упражнением.",
-            "note": "Merged: 'to rub a muslce', 'i will rub your muslce' (typos corrected); 'have you tried rubbing' folded in as example context",
-            "image": ""
-        },
-        {
-            "en": "To keep neck / chin tucked",
-            "ru": "Держать подбородок прижатым / нейтральное положение шеи",
-            "example_en": "Keep your chin tucked throughout the exercise.",
-            "example_ru": "Удерживайте подбородок прижатым к груди во время упражнения.",
-            "note": "Merged: 'keep your neck tucked in' and 'keep ur chin tucked'",
-            "image": ""
-        },
-        {
-            "en": "To reposition / get repositioned",
-            "ru": "Изменить / сменить положение тела",
-            "example_en": "We need to reposition you to prevent pressure sores.",
-            "example_ru": "Нам нужно изменить ваше положение, чтобы предотвратить пролежни.",
-            "note": "Merged: 'to reposition' and 'to get repositioned'",
-            "image": ""
-        },
-        {
-            "en": "To sit up",
-            "ru": "Сесть / сядьте ровно",
-            "example_en": "Now sit up slowly from the lying position.",
-            "example_ru": "Теперь медленно садитесь из положения лёжа.",
-            "note": "Appears twice with slightly different Russian — merged",
-            "image": ""
-        },
-        {
-            "en": "To roll over",
-            "ru": "Перевернуться / повернуться на бок",
-            "example_en": "Roll over onto your left side.",
-            "example_ru": "Перевернитесь на левый бок.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "To lean on / lean back",
-            "ru": "Прислониться к / откинуться назад",
-            "example_en": "Lean back gently and let the chair support you.",
-            "example_ru": "Аккуратно откиньтесь назад и опритесь на спинку кресла.",
-            "note": "Merged: 'lean back' (2x) and 'lean on'",
-            "image": ""
-        },
-        {
-            "en": "To crawl / on all fours",
-            "ru": "Ползти / на четвереньках",
-            "example_en": "Get on all fours and slowly extend one arm forward.",
-            "example_ru": "Встаньте на четвереньки и медленно вытяните одну руку вперёд.",
-            "note": "Merged: 'to crawl', 'on all fours', 'crawling on all fours'",
-            "image": ""
-        },
-        {
-            "en": "To take steps / toddle",
-            "ru": "Делать шаги / топать",
-            "example_en": "Try to take three steps toward the parallel bars.",
-            "example_ru": "Постарайтесь сделать три шага к брусьям.",
-            "note": "Merged: 'to take steps' and 'to toddle'",
-            "image": ""
-        },
-        {
-            "en": "To climb",
-            "ru": "Забираться / подниматься",
-            "example_en": "Can you climb the stairs on your own?",
-            "example_ru": "Вы можете самостоятельно подняться по лестнице?",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "To reach",
-            "ru": "Тянуться / дотянуться",
-            "example_en": "Try to reach the shelf without twisting your spine.",
-            "example_ru": "Постарайтесь дотянуться до полки, не скручивая позвоночник.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "To grab",
-            "ru": "Схватывать / брать",
-            "example_en": "Grab the rail with your stronger hand first.",
-            "example_ru": "Сначала возьмитесь за поручень более сильной рукой.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "To lift",
-            "ru": "Поднимать",
-            "example_en": "Lift your leg slowly to about forty-five degrees.",
-            "example_ru": "Медленно поднимите ногу примерно на сорок пять градусов.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "To bend",
-            "ru": "Сгибать / наклоняться",
-            "example_en": "Bend the knee until you feel a gentle stretch.",
-            "example_ru": "Согните колено до лёгкого ощущения растяжения.",
-            "note": "Merged: 'to bend' and 'to bend forward or backward' and 'to bend down'",
-            "image": ""
-        },
-        {
-            "en": "To bend at the waist",
-            "ru": "Наклониться в пояснице",
-            "example_en": "Try not to bend at the waist — hinge at the hips instead.",
-            "example_ru": "Старайтесь не наклоняться в пояснице — делайте наклон в тазобедренных суставах.",
-            "note": "Source: 'наклопяться в поясницы' — corrected",
-            "image": ""
-        },
-        {
-            "en": "To stretch",
-            "ru": "Растягиваться / тянуться",
-            "example_en": "Stretch your arms above your head and hold for ten seconds.",
-            "example_ru": "Потянитесь руками над головой и удерживайте десять секунд.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "To balance",
-            "ru": "Удерживать равновесие",
-            "example_en": "Try to balance on one foot for ten seconds.",
-            "example_ru": "Постарайтесь удержать равновесие на одной ноге десять секунд.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "To point",
-            "ru": "Указывать / вытянуть",
-            "example_en": "Point your toes forward and hold.",
-            "example_ru": "Вытяните носки вперёд и удерживайте.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "To pinch",
-            "ru": "Ущипнуть / щипать",
-            "example_en": "Pinch the clothespin to strengthen your grip.",
-            "example_ru": "Сожмите прищепку, чтобы укрепить хват.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "To squat",
-            "ru": "Приседать",
-            "example_en": "Squat slowly and keep your back straight.",
-            "example_ru": "Медленно приседайте, держа спину прямо.",
-            "note": "Source: 'приседать ; to squad' — typo in English corrected",
-            "image": ""
-        },
-        {
-            "en": "To flex a tendon",
-            "ru": "Сгибать / задействовать сухожилие",
-            "example_en": "Flex the tendon by curling the toes downward.",
-            "example_ru": "Согните сухожилие, загибая пальцы ног вниз.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "To shift the weight",
-            "ru": "Смещать вес",
-            "example_en": "Shift your weight onto your stronger leg first.",
-            "example_ru": "Сначала сместите вес на более сильную ногу.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "To scoop legs to the side of the bed",
-            "ru": "Перенести ноги к краю кровати",
-            "example_en": "Scoop your legs to the side of the bed before standing up.",
-            "example_ru": "Перенесите ноги к краю кровати, прежде чем вставать.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "To wrap / guide the foot",
-            "ru": "Завернуть / направлять ногу",
-            "example_en": "I will guide your foot through the movement.",
-            "example_ru": "Я буду направлять вашу ногу во время движения.",
-            "note": "Merged: 'to wrap the foot' and 'to guide the foot'",
-            "image": ""
-        },
-        {
-            "en": "To turn the foot outward / inward",
-            "ru": "Повернуть ногу наружу / внутрь",
-            "example_en": "Turn the foot outward, then inward, and hold each position.",
-            "example_ru": "Поверните ногу наружу, затем внутрь, удерживая каждое положение.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "To push off the chair",
-            "ru": "Оттолкнуться от стула / встать со стула",
-            "example_en": "Push off the chair using both armrests to stand up.",
-            "example_ru": "Оттолкнитесь от стула обеими руками, опираясь на подлокотники.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "Crossed arms or legs (avoid)",
-            "ru": "Скрещенные руки или ноги (избегать)",
-            "example_en": "Avoid crossing your arms or legs after hip replacement surgery.",
-            "example_ru": "После операции по замене тазобедренного сустава избегайте скрещивания ног.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "To boost in the bed",
-            "ru": "Подтянуть в кровати",
-            "example_en": "We will boost you up in the bed so you are properly positioned.",
-            "example_ru": "Мы подтянем вас в кровати, чтобы вы заняли правильное положение.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Warm-up / to get acclimated",
-            "ru": "Разминка / привыкание к нагрузке",
-            "example_en": "We will start with a warm-up before the main exercises.",
-            "example_ru": "Мы начнём с разминки перед основными упражнениями.",
-            "note": "Merged: 'to warm up legs' and 'to get acclimated'",
-            "image": ""
-        },
-        {
-            "en": "Twisting",
-            "ru": "Скручивание / торсия",
-            "example_en": "Avoid twisting movements until the spine is stable.",
-            "example_ru": "Избегайте скручиваний до стабилизации позвоночника.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Exercise load / intensity (нагрузка)",
-            "ru": "Нагрузка (физическая)",
-            "example_en": "We will increase the exercise load gradually each week.",
-            "example_ru": "Мы будем постепенно увеличивать нагрузку каждую неделю.",
-            "note": "Source: 'нагрузка' (no English given) — term added",
-            "image": ""
-        },
-        {
-            "en": "Do not overdo it",
-            "ru": "Не перенапрягайтесь",
-            "example_en": "Push yourself, but do not overdo it — stop if there is sharp pain.",
-            "example_ru": "Старайтесь, но не перенапрягайтесь — остановитесь при острой боли.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Steps machine / stair stepper",
-            "ru": "Лестничный тренажёр",
-            "example_en": "The steps machine simulates climbing stairs for cardio training.",
-            "example_ru": "Лестничный тренажёр имитирует подъём по лестнице для кардионагрузки.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The Desensitization",
-            "ru": "Десенсибилизация / снижение чувствительности",
-            "example_en": "Desensitization therapy helps the residual limb tolerate touch.",
-            "example_ru": "Десенсибилизация помогает остаточной конечности привыкнуть к прикосновениям.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "To tap / tapping",
-            "ru": "Постукивать / похлопывать",
-            "example_en": "Gently tap the sensitive area to begin desensitization.",
-            "example_ru": "Осторожно постукивайте по чувствительному участку для десенсибилизации.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "Limb wrapping",
-            "ru": "Бинтование конечности",
-            "example_en": "Limb wrapping after amputation helps shape the residual limb.",
-            "example_ru": "Бинтование конечности после ампутации помогает придать форму остаточной конечности.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "Bathing (ADL)",
-            "ru": "Купание / гигиенические процедуры",
-            "example_en": "The OT assessed how safely she can manage bathing on her own.",
-            "example_ru": "Эрготерапевт оценил, насколько безопасно она справляется с гигиеническими процедурами самостоятельно.",
-            "note": "From Others section; ADL = activity of daily living",
-            "image": ""
-        },
-        {
-            "en": "Grooming (ADL)",
-            "ru": "Уход за собой (личная гигиена)",
-            "example_en": "Grooming tasks like brushing teeth and combing hair are part of the OT assessment.",
-            "example_ru": "Уход за собой — чистка зубов и расчёсывание — входит в оценку эрготерапевта.",
-            "note": "From Others section",
-            "image": ""
-        },
-        {
-            "en": "Fine motor skills",
-            "ru": "Навыки мелкой моторики",
-            "example_en": "The child is working on fine motor skills like buttoning and writing.",
-            "example_ru": "Ребёнок работает над навыками мелкой моторики: застёгиванием пуговиц и письмом.",
-            "note": "From Others section; source: 'Fine Motor Sckill' — typo corrected",
-            "image": ""
-        },
-        {
-            "en": "The Daily activity (ADL)",
-            "ru": "Ежедневная деятельность / повседневные занятия",
-            "example_en": "Our goal is to help you return to your daily activities.",
-            "example_ru": "Наша цель — помочь вам вернуться к ежедневной деятельности.",
-            "note": "From Others section",
-            "image": ""
-        },
-        {
-            "en": "The Occupational therapy",
-            "ru": "Эрготерапия",
-            "example_en": "Occupational therapy focuses on restoring independence in daily tasks.",
-            "example_ru": "Эрготерапия направлена на восстановление самостоятельности в повседневных задачах.",
-            "note": "From Others section",
-            "image": ""
-        },
-        {
-            "en": "The Bed rest",
-            "ru": "Постельный режим",
-            "example_en": "The doctor recommends bed rest for the first two weeks.",
-            "example_ru": "Врач рекомендует постельный режим в первые две недели.",
-            "note": "Merged: 'bed rest' and 'to be on bed rest'; from Others section",
-            "image": ""
-        },
-        {
-            "en": "With minimal assistance",
-            "ru": "При минимальном содействии",
-            "example_en": "She can now transfer to the chair with minimal assistance.",
-            "example_ru": "Сейчас она может пересесть на стул при минимальном содействии.",
-            "note": "From Others section",
-            "image": ""
-        },
-        {
-            "en": "The Strenuous activity",
-            "ru": "Интенсивная физическая нагрузка",
-            "example_en": "Avoid strenuous activity for at least six weeks after surgery.",
-            "example_ru": "Избегайте интенсивной физической нагрузки не менее шести недель после операции.",
-            "note": "From Others section",
-            "image": ""
-        },
-        {
-            "en": "At their own pace",
-            "ru": "В своём темпе",
-            "example_en": "Let the patient move at their own pace — do not rush them.",
-            "example_ru": "Позвольте пациенту двигаться в своём темпе — не торопите.",
-            "note": "From Others section",
-            "image": ""
-        },
-        {
-            "en": "Precautions / home precautions",
-            "ru": "Меры предосторожности (в домашних условиях)",
-            "example_en": "Review all precautions before the patient is discharged.",
-            "example_ru": "Перед выпиской повторите все меры предосторожности.",
-            "note": "Merged: 'precautions' and 'precautions for home'",
-            "image": ""
-        },
-        {
-            "en": "The Orthopedist",
-            "ru": "Ортопед",
-            "example_en": "The orthopedist reviewed the X-rays and recommended surgery.",
-            "example_ru": "Ортопед изучил рентгенограммы и рекомендовал операцию.",
-            "note": "From Others section",
-            "image": ""
-        },
-        {
-            "en": "The Speech language pathologist (SLP)",
-            "ru": "Специалист по патологии речи / логопед",
-            "example_en": "The SLP will evaluate swallowing and speech after the stroke.",
-            "example_ru": "Специалист по патологии речи оценит глотание и речь после инсульта.",
-            "note": "Source: 'специалист по потологии речи' — corrected",
-            "image": ""
-        },
-        {
-            "en": "The Spine team",
-            "ru": "Команда специалистов по лечению позвоночника",
-            "example_en": "The spine team will review your case at the next meeting.",
-            "example_ru": "Команда специалистов по позвоночнику рассмотрит ваш случай на следующем совещании.",
-            "note": "From Others section",
-            "image": ""
-        },
-        {
-            "en": "The Assistive technology evaluator",
-            "ru": "Специалист по оценке вспомогательных технологий",
-            "example_en": "The assistive technology evaluator will assess what devices can support you at home.",
-            "example_ru": "Специалист по вспомогательным технологиям оценит, какие устройства помогут вам дома.",
-            "note": "From Others section",
-            "image": ""
-        },
-        {
-            "en": "The Patient care assistant (PCA)",
-            "ru": "Ассистент по уходу за пациентами / помощник по уходу",
-            "example_en": "The PCA will help you with transfers and personal care.",
-            "example_ru": "Ассистент по уходу поможет вам с перемещением и личной гигиеной.",
-            "note": "From Others section",
-            "image": ""
-        }
-    ]
+  "intro": "PROCEDURES, exercises, body positions, movement instructions, and assessment terms used in physiotherapy and occupational therapy.",
+  "reading": "PT and OT generate a high volume of procedural language: assessments, surgical procedures, therapeutic exercises, ADL (activities of daily living), and precise movement commands. Interpreters must convey exact body position instructions, exercise names, and directional cues accurately. This section also includes healthcare roles relevant to the PT/OT team.",
+  "color": "#a6e3a1",
+  "terms": [
+    {
+      "en": "The Bone density scan (DEXA scan)",
+      "ru": "Денситометрия / рентген плотности костей",
+      "example_en": "The DEXA scan measures bone mineral density.",
+      "example_ru": "Денситометрия измеряет минеральную плотность костей.",
+      "note": "Merged: 'bone density test', 'bone density xray', 'DEXA scan', 'bone mineral density test' — DEXA is the standard clinical term",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_bone_density_scan_dexa_scan_1.mp3"
+    },
+    {
+      "en": "The Cognitive assessment",
+      "ru": "Когнитивное обследование",
+      "example_en": "The therapist completed a cognitive assessment before starting the program.",
+      "example_ru": "Терапевт провёл когнитивное обследование перед началом программы.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_cognitive_assessment_2.mp3"
+    },
+    {
+      "en": "The Range of motion",
+      "ru": "Диапазон движения / подвижность суставов",
+      "example_en": "She has reduced range of motion in the shoulder.",
+      "example_ru": "У неё снижен диапазон движения в плечевом суставе.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_range_of_motion_3.mp3"
+    },
+    {
+      "en": "The Alignment of the legs",
+      "ru": "Положение / выравнивание ног",
+      "example_en": "The physiotherapist assessed the alignment of the legs.",
+      "example_ru": "Физиотерапевт оценил положение ног.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_alignment_of_the_legs_4.mp3"
+    },
+    {
+      "en": "The Endoprosthetics / joint replacement",
+      "ru": "Эндопротезирование (замена сустава)",
+      "example_en": "She underwent joint replacement surgery on her hip.",
+      "example_ru": "Ей выполнили операцию по замене тазобедренного сустава.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_endoprosthetics_joint_replacement_5.mp3"
+    },
+    {
+      "en": "The Reverse shoulder replacement",
+      "ru": "Реверсивное эндопротезирование плечевого сустава",
+      "example_en": "Reverse shoulder replacement is used when the rotator cuff is severely damaged.",
+      "example_ru": "Реверсивное эндопротезирование плечевого сустава применяется при тяжёлом повреждении вращательной манжеты.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_reverse_shoulder_replacement_6.mp3"
+    },
+    {
+      "en": "The Rotator cuff repair",
+      "ru": "Восстановление вращательной манжеты плеча",
+      "example_en": "Rotator cuff repair is followed by several weeks of PT.",
+      "example_ru": "После восстановления вращательной манжеты плеча необходимо несколько недель физиотерапии.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_rotator_cuff_repair_7.mp3"
+    },
+    {
+      "en": "The Kyphoplasty",
+      "ru": "Кифопластика",
+      "example_en": "Kyphoplasty is a minimally invasive procedure for spinal compression fractures.",
+      "example_ru": "Кифопластика — малоинвазивная процедура при компрессионных переломах позвоночника.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_kyphoplasty_8.mp3"
+    },
+    {
+      "en": "The Bone cement",
+      "ru": "Костный цемент",
+      "example_en": "Bone cement was used to stabilize the fractured vertebra.",
+      "example_ru": "Костный цемент был использован для стабилизации сломанного позвонка.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_bone_cement_9.mp3"
+    },
+    {
+      "en": "The Irrigation of the joint",
+      "ru": "Промывание сустава",
+      "example_en": "Irrigation of the joint removes debris and reduces inflammation.",
+      "example_ru": "Промывание сустава удаляет воспалительные отложения.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_irrigation_of_the_joint_10.mp3"
+    },
+    {
+      "en": "The Debridement of the shoulder",
+      "ru": "Хирургическая обработка плечевого сустава",
+      "example_en": "Debridement removes damaged tissue from the shoulder joint.",
+      "example_ru": "Хирургическая обработка удаляет повреждённые ткани из плечевого сустава.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_debridement_of_the_shoulder_11.mp3"
+    },
+    {
+      "en": "To dislocate",
+      "ru": "Вывихнуть / сместить (сустав)",
+      "example_en": "He dislocated his shoulder during the fall.",
+      "example_ru": "Он вывихнул плечо при падении.",
+      "note": "Source: 'Вывихнуть, Смещать (сустав), Разъединить'",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_dislocate_12.mp3"
+    },
+    {
+      "en": "The Biocompatibility (material integration)",
+      "ru": "Биосовместимость / приживаемость материала",
+      "example_en": "The implant was designed for high biocompatibility with the body.",
+      "example_ru": "Имплантат был разработан с высокой биосовместимостью с тканями тела.",
+      "note": "Source: 'приживаться к телу ; biocompatability' — typo corrected",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_biocompatibility_material_integration_13.mp3"
+    },
+    {
+      "en": "The Conservative treatment",
+      "ru": "Консервативное лечение",
+      "example_en": "Conservative treatment includes physical therapy and pain management before surgery.",
+      "example_ru": "Консервативное лечение включает физиотерапию и обезболивание перед операцией.",
+      "note": "From Others section",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_conservative_treatment_14.mp3"
+    },
+    {
+      "en": "The Chiropractic treatment",
+      "ru": "Лечение у хиропрактора",
+      "example_en": "She tried chiropractic treatment for her lower back pain.",
+      "example_ru": "Она пробовала лечение у хиропрактора от боли в пояснице.",
+      "note": "Source: 'хиропарктора' — corrected; from Others section",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_chiropractic_treatment_15.mp3"
+    },
+    {
+      "en": "The Speech therapy",
+      "ru": "Речевая терапия / занятия с логопедом",
+      "example_en": "She attends speech therapy twice a week after the stroke.",
+      "example_ru": "После инсульта она посещает речевую терапию дважды в неделю.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_speech_therapy_16.mp3"
+    },
+    {
+      "en": "The Verticalization",
+      "ru": "Вертикализация",
+      "example_en": "Verticalization is the gradual process of getting a patient to an upright position.",
+      "example_ru": "Вертикализация — постепенный процесс перевода пациента в вертикальное положение.",
+      "note": "Source: 'вертикализация' (no English given) — term added",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_verticalization_17.mp3"
+    },
+    {
+      "en": "The Prone position",
+      "ru": "Положение лёжа на животе",
+      "example_en": "Please turn over and lie in the prone position.",
+      "example_ru": "Пожалуйста, перевернитесь и лягте на живот.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_prone_position_18.mp3"
+    },
+    {
+      "en": "The Supine position",
+      "ru": "Положение лёжа на спине",
+      "example_en": "For this exercise, start in the supine position.",
+      "example_ru": "Для этого упражнения начните в положении лёжа на спине.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_supine_position_19.mp3"
+    },
+    {
+      "en": "The Lateral position",
+      "ru": "Положение лёжа на боку",
+      "example_en": "Turn to the lateral position to relieve pressure on your back.",
+      "example_ru": "Повернитесь на бок, чтобы снять давление со спины.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_lateral_position_20.mp3"
+    },
+    {
+      "en": "The Sitting position",
+      "ru": "Положение сидя",
+      "example_en": "Maintain the sitting position during the exercise.",
+      "example_ru": "Сохраняйте положение сидя во время упражнения.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_sitting_position_21.mp3"
+    },
+    {
+      "en": "The Standing position",
+      "ru": "Положение стоя",
+      "example_en": "Now perform the same movement in the standing position.",
+      "example_ru": "Теперь выполните то же движение в положении стоя.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_standing_position_22.mp3"
+    },
+    {
+      "en": "The Kneeling position",
+      "ru": "Положение на коленях",
+      "example_en": "Get into a kneeling position on the mat.",
+      "example_ru": "Встаньте на колени на коврике.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_kneeling_position_23.mp3"
+    },
+    {
+      "en": "Core strengthening exercises",
+      "ru": "Упражнения для укрепления мышц кора",
+      "example_en": "Core strengthening exercises help protect the spine.",
+      "example_ru": "Упражнения для укрепления мышц кора помогают защитить позвоночник.",
+      "note": "Source: 'упражнение' — corrected to plural",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_core_strengthening_exercises_24.mp3"
+    },
+    {
+      "en": "Strengthening exercises (general)",
+      "ru": "Силовые / укрепляющие упражнения",
+      "example_en": "We will start with light strengthening exercises for the shoulder.",
+      "example_ru": "Мы начнём с лёгких укрепляющих упражнений для плеча.",
+      "note": "Source: 'strengtheining exercises' — typo corrected",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_strengthening_exercises_general_25.mp3"
+    },
+    {
+      "en": "Stretching",
+      "ru": "Растяжка",
+      "example_en": "Stretching after exercise helps prevent muscle tightness.",
+      "example_ru": "Растяжка после упражнений помогает предотвратить скованность мышц.",
+      "note": "Merged: 'stretching', 'to do stretching', 'stretch'",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_stretching_26.mp3"
+    },
+    {
+      "en": "The Quad stretch",
+      "ru": "Растяжка четырёхглавой мышцы",
+      "example_en": "Hold the quad stretch for thirty seconds on each leg.",
+      "example_ru": "Удерживайте растяжку четырёхглавой мышцы по тридцать секунд на каждую ногу.",
+      "note": "Source: 'растяжка четырёхглавой мышцу' — corrected",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_quad_stretch_27.mp3"
+    },
+    {
+      "en": "Toe crunches",
+      "ru": "Сгибания пальцев ног",
+      "example_en": "Toe crunches help strengthen the small muscles of the foot.",
+      "example_ru": "Сгибания пальцев ног укрепляют мелкие мышцы стопы.",
+      "note": "Source: 'toe crunhes' — typo corrected",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_toe_crunches_28.mp3"
+    },
+    {
+      "en": "Deep squatting",
+      "ru": "Глубокое приседание",
+      "example_en": "Avoid deep squatting until the knee is fully healed.",
+      "example_ru": "Избегайте глубоких приседаний до полного восстановления колена.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_deep_squatting_29.mp3"
+    },
+    {
+      "en": "The Scapular retraction",
+      "ru": "Сведение лопаток",
+      "example_en": "Perform scapular retraction by squeezing your shoulder blades together.",
+      "example_ru": "Выполняйте сведение лопаток, сжимая лопатки вместе.",
+      "note": "Merged: 'scapular retraction' and 'to retract the shoulders'",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_scapular_retraction_30.mp3"
+    },
+    {
+      "en": "The Scapular protraction",
+      "ru": "Разведение лопаток",
+      "example_en": "Now protract the shoulders by pushing them forward.",
+      "example_ru": "Теперь разведите лопатки, выдвигая плечи вперёд.",
+      "note": "Merged: 'to protract the shoulders'",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_scapular_protraction_31.mp3"
+    },
+    {
+      "en": "The Internal rotation",
+      "ru": "Внутреннее вращение",
+      "example_en": "Internal rotation of the shoulder is restricted after surgery.",
+      "example_ru": "Внутреннее вращение плеча ограничено после операции.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_internal_rotation_32.mp3"
+    },
+    {
+      "en": "Arms to the side",
+      "ru": "Руки в стороны",
+      "example_en": "Slowly raise your arms to the side to shoulder height.",
+      "example_ru": "Медленно поднимите руки в стороны до уровня плеч.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_arms_to_the_side_33.mp3"
+    },
+    {
+      "en": "The rows (exercise)",
+      "ru": "Тяга в наклоне",
+      "example_en": "The rows strengthen the upper back and rear shoulder muscles.",
+      "example_ru": "Тяга в наклоне укрепляет верхнюю часть спины и задние мышцы плеч.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_rows_exercise_34.mp3"
+    },
+    {
+      "en": "The Low trap lift off",
+      "ru": "Подъём рук для нижней порции трапеции",
+      "example_en": "The low trap lift off targets the lower trapezius muscle.",
+      "example_ru": "Подъём рук для нижней порции трапеции прорабатывает нижнюю трапецию.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_low_trap_lift_off_35.mp3"
+    },
+    {
+      "en": "To tighten a muscle",
+      "ru": "Напрячь мышцу",
+      "example_en": "Tighten the muscle and hold for five seconds.",
+      "example_ru": "Напрягите мышцу и удерживайте пять секунд.",
+      "note": "Merged: 'tighten a muscle' and 'to tighten the muslce' (typo)",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_tighten_a_muscle_36.mp3"
+    },
+    {
+      "en": "To squeeze and release",
+      "ru": "Сжать и отпустить",
+      "example_en": "Squeeze the ball and release — repeat ten times.",
+      "example_ru": "Сожмите мяч и отпустите — повторите десять раз.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_squeeze_and_release_37.mp3"
+    },
+    {
+      "en": "To bring knees out and in",
+      "ru": "Разведите колени в стороны, затем сведите",
+      "example_en": "Bring your knees out and in slowly to work the hip muscles.",
+      "example_ru": "Медленно разводите и сводите колени для проработки мышц бедра.",
+      "note": "Source: 'bring your knees out and in'",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_bring_knees_out_and_in_38.mp3"
+    },
+    {
+      "en": "Paired muscle relaxation",
+      "ru": "Синхронное расслабление мышц",
+      "example_en": "Paired muscle relaxation involves tensing and then releasing muscle groups.",
+      "example_ru": "Синхронное расслабление мышц предполагает напряжение и расслабление мышечных групп.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_paired_muscle_relaxation_39.mp3"
+    },
+    {
+      "en": "The Muscle rub / massage",
+      "ru": "Массировать / растирать мышцу",
+      "example_en": "I will rub your muscle to help loosen it before the exercise.",
+      "example_ru": "Я помассирую вашу мышцу, чтобы расслабить её перед упражнением.",
+      "note": "Merged: 'to rub a muslce', 'i will rub your muslce' (typos corrected); 'have you tried rubbing' folded in as example context",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_muscle_rub_massage_40.mp3"
+    },
+    {
+      "en": "To keep neck / chin tucked",
+      "ru": "Держать подбородок прижатым / нейтральное положение шеи",
+      "example_en": "Keep your chin tucked throughout the exercise.",
+      "example_ru": "Удерживайте подбородок прижатым к груди во время упражнения.",
+      "note": "Merged: 'keep your neck tucked in' and 'keep ur chin tucked'",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_keep_neck_chin_tucked_41.mp3"
+    },
+    {
+      "en": "To reposition / get repositioned",
+      "ru": "Изменить / сменить положение тела",
+      "example_en": "We need to reposition you to prevent pressure sores.",
+      "example_ru": "Нам нужно изменить ваше положение, чтобы предотвратить пролежни.",
+      "note": "Merged: 'to reposition' and 'to get repositioned'",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_reposition_get_repositioned_42.mp3"
+    },
+    {
+      "en": "To sit up",
+      "ru": "Сесть / сядьте ровно",
+      "example_en": "Now sit up slowly from the lying position.",
+      "example_ru": "Теперь медленно садитесь из положения лёжа.",
+      "note": "Appears twice with slightly different Russian — merged",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_sit_up_43.mp3"
+    },
+    {
+      "en": "To roll over",
+      "ru": "Перевернуться / повернуться на бок",
+      "example_en": "Roll over onto your left side.",
+      "example_ru": "Перевернитесь на левый бок.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_roll_over_44.mp3"
+    },
+    {
+      "en": "To lean on / lean back",
+      "ru": "Прислониться к / откинуться назад",
+      "example_en": "Lean back gently and let the chair support you.",
+      "example_ru": "Аккуратно откиньтесь назад и опритесь на спинку кресла.",
+      "note": "Merged: 'lean back' (2x) and 'lean on'",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_lean_on_lean_back_45.mp3"
+    },
+    {
+      "en": "To crawl / on all fours",
+      "ru": "Ползти / на четвереньках",
+      "example_en": "Get on all fours and slowly extend one arm forward.",
+      "example_ru": "Встаньте на четвереньки и медленно вытяните одну руку вперёд.",
+      "note": "Merged: 'to crawl', 'on all fours', 'crawling on all fours'",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_crawl_on_all_fours_46.mp3"
+    },
+    {
+      "en": "To take steps / toddle",
+      "ru": "Делать шаги / топать",
+      "example_en": "Try to take three steps toward the parallel bars.",
+      "example_ru": "Постарайтесь сделать три шага к брусьям.",
+      "note": "Merged: 'to take steps' and 'to toddle'",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_take_steps_toddle_47.mp3"
+    },
+    {
+      "en": "To climb",
+      "ru": "Забираться / подниматься",
+      "example_en": "Can you climb the stairs on your own?",
+      "example_ru": "Вы можете самостоятельно подняться по лестнице?",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_climb_48.mp3"
+    },
+    {
+      "en": "To reach",
+      "ru": "Тянуться / дотянуться",
+      "example_en": "Try to reach the shelf without twisting your spine.",
+      "example_ru": "Постарайтесь дотянуться до полки, не скручивая позвоночник.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_reach_49.mp3"
+    },
+    {
+      "en": "To grab",
+      "ru": "Схватывать / брать",
+      "example_en": "Grab the rail with your stronger hand first.",
+      "example_ru": "Сначала возьмитесь за поручень более сильной рукой.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_grab_50.mp3"
+    },
+    {
+      "en": "To lift",
+      "ru": "Поднимать",
+      "example_en": "Lift your leg slowly to about forty-five degrees.",
+      "example_ru": "Медленно поднимите ногу примерно на сорок пять градусов.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_lift_51.mp3"
+    },
+    {
+      "en": "To bend",
+      "ru": "Сгибать / наклоняться",
+      "example_en": "Bend the knee until you feel a gentle stretch.",
+      "example_ru": "Согните колено до лёгкого ощущения растяжения.",
+      "note": "Merged: 'to bend' and 'to bend forward or backward' and 'to bend down'",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_bend_52.mp3"
+    },
+    {
+      "en": "To bend at the waist",
+      "ru": "Наклониться в пояснице",
+      "example_en": "Try not to bend at the waist — hinge at the hips instead.",
+      "example_ru": "Старайтесь не наклоняться в пояснице — делайте наклон в тазобедренных суставах.",
+      "note": "Source: 'наклопяться в поясницы' — corrected",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_bend_at_the_waist_53.mp3"
+    },
+    {
+      "en": "To stretch",
+      "ru": "Растягиваться / тянуться",
+      "example_en": "Stretch your arms above your head and hold for ten seconds.",
+      "example_ru": "Потянитесь руками над головой и удерживайте десять секунд.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_stretch_54.mp3"
+    },
+    {
+      "en": "To balance",
+      "ru": "Удерживать равновесие",
+      "example_en": "Try to balance on one foot for ten seconds.",
+      "example_ru": "Постарайтесь удержать равновесие на одной ноге десять секунд.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_balance_55.mp3"
+    },
+    {
+      "en": "To point",
+      "ru": "Указывать / вытянуть",
+      "example_en": "Point your toes forward and hold.",
+      "example_ru": "Вытяните носки вперёд и удерживайте.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_point_56.mp3"
+    },
+    {
+      "en": "To pinch",
+      "ru": "Ущипнуть / щипать",
+      "example_en": "Pinch the clothespin to strengthen your grip.",
+      "example_ru": "Сожмите прищепку, чтобы укрепить хват.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_pinch_57.mp3"
+    },
+    {
+      "en": "To squat",
+      "ru": "Приседать",
+      "example_en": "Squat slowly and keep your back straight.",
+      "example_ru": "Медленно приседайте, держа спину прямо.",
+      "note": "Source: 'приседать ; to squad' — typo in English corrected",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_squat_58.mp3"
+    },
+    {
+      "en": "To flex a tendon",
+      "ru": "Сгибать / задействовать сухожилие",
+      "example_en": "Flex the tendon by curling the toes downward.",
+      "example_ru": "Согните сухожилие, загибая пальцы ног вниз.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_flex_a_tendon_59.mp3"
+    },
+    {
+      "en": "To shift the weight",
+      "ru": "Смещать вес",
+      "example_en": "Shift your weight onto your stronger leg first.",
+      "example_ru": "Сначала сместите вес на более сильную ногу.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_shift_the_weight_60.mp3"
+    },
+    {
+      "en": "To scoop legs to the side of the bed",
+      "ru": "Перенести ноги к краю кровати",
+      "example_en": "Scoop your legs to the side of the bed before standing up.",
+      "example_ru": "Перенесите ноги к краю кровати, прежде чем вставать.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_scoop_legs_to_the_side_of_the_bed_61.mp3"
+    },
+    {
+      "en": "To wrap / guide the foot",
+      "ru": "Завернуть / направлять ногу",
+      "example_en": "I will guide your foot through the movement.",
+      "example_ru": "Я буду направлять вашу ногу во время движения.",
+      "note": "Merged: 'to wrap the foot' and 'to guide the foot'",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_wrap_guide_the_foot_62.mp3"
+    },
+    {
+      "en": "To turn the foot outward / inward",
+      "ru": "Повернуть ногу наружу / внутрь",
+      "example_en": "Turn the foot outward, then inward, and hold each position.",
+      "example_ru": "Поверните ногу наружу, затем внутрь, удерживая каждое положение.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_turn_the_foot_outward_inward_63.mp3"
+    },
+    {
+      "en": "To push off the chair",
+      "ru": "Оттолкнуться от стула / встать со стула",
+      "example_en": "Push off the chair using both armrests to stand up.",
+      "example_ru": "Оттолкнитесь от стула обеими руками, опираясь на подлокотники.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_push_off_the_chair_64.mp3"
+    },
+    {
+      "en": "Crossed arms or legs (avoid)",
+      "ru": "Скрещенные руки или ноги (избегать)",
+      "example_en": "Avoid crossing your arms or legs after hip replacement surgery.",
+      "example_ru": "После операции по замене тазобедренного сустава избегайте скрещивания ног.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_crossed_arms_or_legs_avoid_65.mp3"
+    },
+    {
+      "en": "To boost in the bed",
+      "ru": "Подтянуть в кровати",
+      "example_en": "We will boost you up in the bed so you are properly positioned.",
+      "example_ru": "Мы подтянем вас в кровати, чтобы вы заняли правильное положение.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_boost_in_the_bed_66.mp3"
+    },
+    {
+      "en": "The Warm-up / to get acclimated",
+      "ru": "Разминка / привыкание к нагрузке",
+      "example_en": "We will start with a warm-up before the main exercises.",
+      "example_ru": "Мы начнём с разминки перед основными упражнениями.",
+      "note": "Merged: 'to warm up legs' and 'to get acclimated'",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_warm_up_to_get_acclimated_67.mp3"
+    },
+    {
+      "en": "Twisting",
+      "ru": "Скручивание / торсия",
+      "example_en": "Avoid twisting movements until the spine is stable.",
+      "example_ru": "Избегайте скручиваний до стабилизации позвоночника.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_twisting_68.mp3"
+    },
+    {
+      "en": "The Exercise load / intensity (нагрузка)",
+      "ru": "Нагрузка (физическая)",
+      "example_en": "We will increase the exercise load gradually each week.",
+      "example_ru": "Мы будем постепенно увеличивать нагрузку каждую неделю.",
+      "note": "Source: 'нагрузка' (no English given) — term added",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_exercise_load_intensity_69.mp3"
+    },
+    {
+      "en": "Do not overdo it",
+      "ru": "Не перенапрягайтесь",
+      "example_en": "Push yourself, but do not overdo it — stop if there is sharp pain.",
+      "example_ru": "Старайтесь, но не перенапрягайтесь — остановитесь при острой боли.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_do_not_overdo_it_70.mp3"
+    },
+    {
+      "en": "The Steps machine / stair stepper",
+      "ru": "Лестничный тренажёр",
+      "example_en": "The steps machine simulates climbing stairs for cardio training.",
+      "example_ru": "Лестничный тренажёр имитирует подъём по лестнице для кардионагрузки.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_steps_machine_stair_stepper_71.mp3"
+    },
+    {
+      "en": "The Desensitization",
+      "ru": "Десенсибилизация / снижение чувствительности",
+      "example_en": "Desensitization therapy helps the residual limb tolerate touch.",
+      "example_ru": "Десенсибилизация помогает остаточной конечности привыкнуть к прикосновениям.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_desensitization_72.mp3"
+    },
+    {
+      "en": "To tap / tapping",
+      "ru": "Постукивать / похлопывать",
+      "example_en": "Gently tap the sensitive area to begin desensitization.",
+      "example_ru": "Осторожно постукивайте по чувствительному участку для десенсибилизации.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_to_tap_tapping_73.mp3"
+    },
+    {
+      "en": "Limb wrapping",
+      "ru": "Бинтование конечности",
+      "example_en": "Limb wrapping after amputation helps shape the residual limb.",
+      "example_ru": "Бинтование конечности после ампутации помогает придать форму остаточной конечности.",
+      "note": "",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_limb_wrapping_74.mp3"
+    },
+    {
+      "en": "Bathing (ADL)",
+      "ru": "Купание / гигиенические процедуры",
+      "example_en": "The OT assessed how safely she can manage bathing on her own.",
+      "example_ru": "Эрготерапевт оценил, насколько безопасно она справляется с гигиеническими процедурами самостоятельно.",
+      "note": "From Others section; ADL = activity of daily living",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_bathing_adl_75.mp3"
+    },
+    {
+      "en": "Grooming (ADL)",
+      "ru": "Уход за собой (личная гигиена)",
+      "example_en": "Grooming tasks like brushing teeth and combing hair are part of the OT assessment.",
+      "example_ru": "Уход за собой — чистка зубов и расчёсывание — входит в оценку эрготерапевта.",
+      "note": "From Others section",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_grooming_adl_76.mp3"
+    },
+    {
+      "en": "Fine motor skills",
+      "ru": "Навыки мелкой моторики",
+      "example_en": "The child is working on fine motor skills like buttoning and writing.",
+      "example_ru": "Ребёнок работает над навыками мелкой моторики: застёгиванием пуговиц и письмом.",
+      "note": "From Others section; source: 'Fine Motor Sckill' — typo corrected",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_fine_motor_skills_77.mp3"
+    },
+    {
+      "en": "The Daily activity (ADL)",
+      "ru": "Ежедневная деятельность / повседневные занятия",
+      "example_en": "Our goal is to help you return to your daily activities.",
+      "example_ru": "Наша цель — помочь вам вернуться к ежедневной деятельности.",
+      "note": "From Others section",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_daily_activity_adl_78.mp3"
+    },
+    {
+      "en": "The Occupational therapy",
+      "ru": "Эрготерапия",
+      "example_en": "Occupational therapy focuses on restoring independence in daily tasks.",
+      "example_ru": "Эрготерапия направлена на восстановление самостоятельности в повседневных задачах.",
+      "note": "From Others section",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_occupational_therapy_79.mp3"
+    },
+    {
+      "en": "The Bed rest",
+      "ru": "Постельный режим",
+      "example_en": "The doctor recommends bed rest for the first two weeks.",
+      "example_ru": "Врач рекомендует постельный режим в первые две недели.",
+      "note": "Merged: 'bed rest' and 'to be on bed rest'; from Others section",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_bed_rest_80.mp3"
+    },
+    {
+      "en": "With minimal assistance",
+      "ru": "При минимальном содействии",
+      "example_en": "She can now transfer to the chair with minimal assistance.",
+      "example_ru": "Сейчас она может пересесть на стул при минимальном содействии.",
+      "note": "From Others section",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_with_minimal_assistance_81.mp3"
+    },
+    {
+      "en": "The Strenuous activity",
+      "ru": "Интенсивная физическая нагрузка",
+      "example_en": "Avoid strenuous activity for at least six weeks after surgery.",
+      "example_ru": "Избегайте интенсивной физической нагрузки не менее шести недель после операции.",
+      "note": "From Others section",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_strenuous_activity_82.mp3"
+    },
+    {
+      "en": "At their own pace",
+      "ru": "В своём темпе",
+      "example_en": "Let the patient move at their own pace — do not rush them.",
+      "example_ru": "Позвольте пациенту двигаться в своём темпе — не торопите.",
+      "note": "From Others section",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_at_their_own_pace_83.mp3"
+    },
+    {
+      "en": "Precautions / home precautions",
+      "ru": "Меры предосторожности (в домашних условиях)",
+      "example_en": "Review all precautions before the patient is discharged.",
+      "example_ru": "Перед выпиской повторите все меры предосторожности.",
+      "note": "Merged: 'precautions' and 'precautions for home'",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_precautions_home_precautions_84.mp3"
+    },
+    {
+      "en": "The Orthopedist",
+      "ru": "Ортопед",
+      "example_en": "The orthopedist reviewed the X-rays and recommended surgery.",
+      "example_ru": "Ортопед изучил рентгенограммы и рекомендовал операцию.",
+      "note": "From Others section",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_orthopedist_85.mp3"
+    },
+    {
+      "en": "The Speech language pathologist (SLP)",
+      "ru": "Специалист по патологии речи / логопед",
+      "example_en": "The SLP will evaluate swallowing and speech after the stroke.",
+      "example_ru": "Специалист по патологии речи оценит глотание и речь после инсульта.",
+      "note": "Source: 'специалист по потологии речи' — corrected",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_speech_language_pathologist_slp_86.mp3"
+    },
+    {
+      "en": "The Spine team",
+      "ru": "Команда специалистов по лечению позвоночника",
+      "example_en": "The spine team will review your case at the next meeting.",
+      "example_ru": "Команда специалистов по позвоночнику рассмотрит ваш случай на следующем совещании.",
+      "note": "From Others section",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_spine_team_87.mp3"
+    },
+    {
+      "en": "The Assistive technology evaluator",
+      "ru": "Специалист по оценке вспомогательных технологий",
+      "example_en": "The assistive technology evaluator will assess what devices can support you at home.",
+      "example_ru": "Специалист по вспомогательным технологиям оценит, какие устройства помогут вам дома.",
+      "note": "From Others section",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_assistive_technology_evaluator_88.mp3"
+    },
+    {
+      "en": "The Patient care assistant (PCA)",
+      "ru": "Ассистент по уходу за пациентами / помощник по уходу",
+      "example_en": "The PCA will help you with transfers and personal care.",
+      "example_ru": "Ассистент по уходу поможет вам с перемещением и личной гигиеной.",
+      "note": "From Others section",
+      "image": "",
+      "audio_path": "physiotherapy_procedures_the_patient_care_assistant_pca_89.mp3"
+    }
+  ]
 }

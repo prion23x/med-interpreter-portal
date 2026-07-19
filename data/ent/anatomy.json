@@ -9,7 +9,8 @@
             "example_en": "The thyroid gland sits at the front of the neck.",
             "example_ru": "Щитовидная железа расположена в передней части шеи.",
             "note": "",
-            "image": "data/images/Thyroid gland.jpg"
+            "image": "data/images/Thyroid gland.jpg",
+            "audio_path": "ent_anatomy_the_thyroid_gland_1.mp3"
         },
         {
             "en": "A mucous membrane",
@@ -17,7 +18,8 @@
             "example_en": "The mucous membrane lining the nose traps dust and germs.",
             "example_ru": "Слизистая оболочка, выстилающая нос, задерживает пыль и микробы.",
             "note": "",
-            "image": "data/images/Mucous membrane.jpg"
+            "image": "data/images/Mucous membrane.jpg",
+            "audio_path": "ent_anatomy_a_mucous_membrane_2.mp3"
         },
         {
             "en": "A nostril",
@@ -25,7 +27,8 @@
             "example_en": "Please breathe through one nostril at a time.",
             "example_ru": "Пожалуйста, дышите поочерёдно через каждую ноздрю.",
             "note": "",
-            "image": "data/images/Nostril.jpg"
+            "image": "data/images/Nostril.jpg",
+            "audio_path": "ent_anatomy_a_nostril_3.mp3"
         },
         {
             "en": "The oral cavity",
@@ -33,16 +36,17 @@
             "example_en": "The doctor examined the oral cavity for signs of infection.",
             "example_ru": "Врач осмотрел полость рта на наличие признаков инфекции.",
             "note": "Includes the lips, tongue, teeth, gums, and palate.",
-            "image": "data/images/Oral cavity.jpg"
+            "image": "data/images/Oral cavity.jpg",
+            "audio_path": "ent_anatomy_the_oral_cavity_4.mp3"
         },
-        
         {
             "en": "Earwax",
             "ru": "Ушная сера",
             "example_en": "A small amount of earwax is normal and protective.",
             "example_ru": "Небольшое количество ушной серы — это нормально и служит защитой.",
             "note": "",
-            "image": "data/images/Earwax.jpg"
+            "image": "data/images/Earwax.jpg",
+            "audio_path": "ent_anatomy_earwax_5.mp3"
         },
         {
             "en": "A cervical lymph node",
@@ -50,7 +54,8 @@
             "example_en": "The doctor felt a swollen cervical lymph node.",
             "example_ru": "Врач прощупал увеличенный шейный лимфатический узел.",
             "note": "",
-            "image": "data/images/Cervical lymph node.webp"
+            "image": "data/images/Cervical lymph node.webp",
+            "audio_path": "ent_anatomy_a_cervical_lymph_node_6.mp3"
         },
         {
             "en": "The sphenoid sinus",
@@ -58,7 +63,8 @@
             "example_en": "The sphenoid sinus is located deep behind the nasal cavity.",
             "example_ru": "Клиновидная пазуха расположена глубоко за полостью носа.",
             "note": "Source listed as \"noid sinus\" — corrected to sphenoid sinus",
-            "image": "data/images/Sphenoid sinus.jpg"
+            "image": "data/images/Sphenoid sinus.jpg",
+            "audio_path": "ent_anatomy_the_sphenoid_sinus_7.mp3"
         },
         {
             "en": "The maxillary sinus",
@@ -66,7 +72,8 @@
             "example_en": "The maxillary sinus is the largest of the paranasal sinuses and is located under the eyes.",
             "example_ru": "Верхнечелюстная пазуха — самая крупная из околоносовых пазух, она расположена под глазами.",
             "note": "Located in the cheekbone area; often associated with standard sinusitis (maxillary sinusitis/гайморит).",
-            "image": "data/images/Sphenoid sinus.jpg"
+            "image": "data/images/Sphenoid sinus.jpg",
+            "audio_path": "ent_anatomy_the_maxillary_sinus_8.mp3"
         },
         {
             "en": "The frontal sinus",
@@ -74,7 +81,8 @@
             "example_en": "Infection in the frontal sinus can cause a severe headache just above the eyebrows.",
             "example_ru": "Инфекция в лобной пазухе может вызвать сильную головную боль чуть выше бровей.",
             "note": "Located in the forehead area, right above the eyes.",
-            "image": "data/images/Sphenoid sinus.jpg"
+            "image": "data/images/Sphenoid sinus.jpg",
+            "audio_path": "ent_anatomy_the_frontal_sinus_9.mp3"
         },
         {
             "en": "The ethmoid sinus",
@@ -82,7 +90,8 @@
             "example_en": "The ethmoid sinus consists of multiple small air cells located between the eyes.",
             "example_ru": "Решётчатая пазуха состоит из множества мелких воздушных ячеек, расположенных между глазами.",
             "note": "A collection of small air cavities forming a labyrinth structure near the bridge of the nose.",
-            "image": "data/images/Sphenoid sinus.jpg"
+            "image": "data/images/Sphenoid sinus.jpg",
+            "audio_path": "ent_anatomy_the_ethmoid_sinus_10.mp3"
         },
         {
             "en": "The pharynx",
@@ -90,7 +99,8 @@
             "example_en": "The pharynx connects the nose and mouth to the esophagus.",
             "example_ru": "Глотка соединяет нос и рот с пищеводом.",
             "note": "",
-            "image": "data/images/Larynx.jpg"
+            "image": "data/images/Larynx.jpg",
+            "audio_path": "ent_anatomy_the_pharynx_11.mp3"
         },
         {
             "en": "The voice box (larynx)",
@@ -98,7 +108,8 @@
             "example_en": "The voice box houses the vocal cords.",
             "example_ru": "Гортань содержит голосовые связки.",
             "note": "",
-            "image": "data/images/Larynx.jpg"
+            "image": "data/images/Larynx.jpg",
+            "audio_path": "ent_anatomy_the_voice_box_larynx_12.mp3"
         },
         {
             "en": "The Adam's apple",
@@ -106,7 +117,8 @@
             "example_en": "The doctor examined his Adam's apple when he swallowed.",
             "example_ru": "Врач осмотрел его адамово яблоко, когда он проглотил.",
             "note": "The visible thyroid cartilage at the front of the neck.",
-            "image": "data/images/Adams apple.jpg"
+            "image": "data/images/Adams apple.jpg",
+            "audio_path": "ent_anatomy_the_adams_apple_13.mp3"
         },
         {
             "en": "The esophagus",
@@ -114,7 +126,8 @@
             "example_en": "Food travels down the esophagus to the stomach.",
             "example_ru": "Пища проходит по пищеводу в желудок.",
             "note": "",
-            "image": "data/images/Esophagus.jpg"
+            "image": "data/images/Esophagus.jpg",
+            "audio_path": "ent_anatomy_the_esophagus_14.mp3"
         },
         {
             "en": "A salivary gland",
@@ -122,7 +135,8 @@
             "example_en": "The salivary glands produce saliva to aid digestion.",
             "example_ru": "Слюнные железы вырабатывают слюну, способствующую пищеварению.",
             "note": "",
-            "image": "data/images/Salivary gland.webp"
+            "image": "data/images/Salivary gland.webp",
+            "audio_path": "ent_anatomy_a_salivary_gland_15.mp3"
         },
         {
             "en": "The eardrum (tympanic membrane)",
@@ -130,7 +144,8 @@
             "example_en": "The eardrum vibrates in response to sound waves.",
             "example_ru": "Барабанная перепонка вибрирует в ответ на звуковые волны.",
             "note": "",
-            "image": "data/images/Eardrums.webp"
+            "image": "data/images/Eardrums.webp",
+            "audio_path": "ent_anatomy_the_eardrum_tympanic_membrane_16.mp3"
         },
         {
             "en": "The vocal cords",
@@ -138,7 +153,8 @@
             "example_en": "The vocal cords vibrate to produce sound.",
             "example_ru": "Голосовые связки вибрируют, создавая звук.",
             "note": "",
-            "image": "data/images/Vocal cords.jpg"
+            "image": "data/images/Vocal cords.jpg",
+            "audio_path": "ent_anatomy_the_vocal_cords_17.mp3"
         },
         {
             "en": "The windpipe (trachea)",
@@ -146,7 +162,8 @@
             "example_en": "The windpipe carries air to the lungs.",
             "example_ru": "Трахея проводит воздух в лёгкие.",
             "note": "",
-            "image": "data/images/Windpipe.jpg"
+            "image": "data/images/Windpipe.jpg",
+            "audio_path": "ent_anatomy_the_windpipe_trachea_18.mp3"
         },
         {
             "en": "The Tracheal cartilage",
@@ -154,7 +171,8 @@
             "example_en": "The tracheal cartilage rings keep the windpipe open.",
             "example_ru": "Кольца трахеального хряща держат дыхательное горло открытым.",
             "note": "",
-            "image": "data/images/Lung roots.jpg"
+            "image": "data/images/Lung roots.jpg",
+            "audio_path": "ent_anatomy_the_tracheal_cartilage_19.mp3"
         },
         {
             "en": "Lung tissue",
@@ -162,7 +180,8 @@
             "example_en": "The lung tissue absorbs oxygen from the air.",
             "example_ru": "Лёгочная ткань поглощает кислород из воздуха.",
             "note": "",
-            "image": "data/images/Lung roots.jpg"
+            "image": "data/images/Lung roots.jpg",
+            "audio_path": "ent_anatomy_lung_tissue_20.mp3"
         },
         {
             "en": "The Root of the lung",
@@ -170,7 +189,8 @@
             "example_en": "The root of the lung contains the main blood vessels and bronchi.",
             "example_ru": "Корень лёгкого содержит основные кровеносные сосуды и бронхи.",
             "note": "",
-            "image": "data/images/Lung roots.jpg"
+            "image": "data/images/Lung roots.jpg",
+            "audio_path": "ent_anatomy_the_root_of_the_lung_21.mp3"
         },
         {
             "en": "Primary bronchi",
@@ -178,7 +198,8 @@
             "example_en": "The primary bronchi split from the trachea into the left and right lungs.",
             "example_ru": "Первичные бронхи разветвляются от трахеи в левое и правое лёгкое.",
             "note": "",
-            "image": "data/images/Windpipe.jpg"
+            "image": "data/images/Windpipe.jpg",
+            "audio_path": "ent_anatomy_primary_bronchi_22.mp3"
         },
         {
             "en": "Secondary bronchi",
@@ -186,7 +207,8 @@
             "example_en": "The secondary bronchi further divide within each lung lobe.",
             "example_ru": "Вторичные бронхи дополнительно разветвляются в каждой доле лёгкого.",
             "note": "",
-            "image": "data/images/Windpipe.jpg"
+            "image": "data/images/Windpipe.jpg",
+            "audio_path": "ent_anatomy_secondary_bronchi_23.mp3"
         },
         {
             "en": "Tertiary bronchi",
@@ -194,7 +216,8 @@
             "example_en": "The tertiary bronchi continue to branch into smaller airways.",
             "example_ru": "Третичные бронхи продолжают ветвиться на более мелкие дыхательные пути.",
             "note": "",
-            "image": "data/images/Windpipe.jpg"
+            "image": "data/images/Windpipe.jpg",
+            "audio_path": "ent_anatomy_tertiary_bronchi_24.mp3"
         },
         {
             "en": "A bronchiole",
@@ -202,7 +225,8 @@
             "example_en": "The bronchiole is the smallest branch of the bronchi before the alveoli.",
             "example_ru": "Бронхиола — это наименьшее ветвление бронхов перед альвеолами.",
             "note": "",
-            "image": "data/images/Windpipe.jpg"
+            "image": "data/images/Windpipe.jpg",
+            "audio_path": "ent_anatomy_a_bronchiole_25.mp3"
         },
         {
             "en": "The hearing organ (ear)",
@@ -210,7 +234,8 @@
             "example_en": "The hearing organ converts sound waves into nerve signals.",
             "example_ru": "Орган слуха преобразует звуковые волны в нервные сигналы.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_anatomy_the_hearing_organ_ear_26.mp3"
         },
         {
             "en": "The uvula",
@@ -218,7 +243,8 @@
             "example_en": "The uvula hangs at the back of the soft palate.",
             "example_ru": "Нёбный язычок свисает в задней части мягкого нёба.",
             "note": "Also called palatine/velar uvula",
-            "image": "data/images/Uvula.jpeg"
+            "image": "data/images/Uvula.jpeg",
+            "audio_path": "ent_anatomy_the_uvula_27.mp3"
         },
         {
             "en": "The Sense of taste (gustation)",
@@ -226,7 +252,8 @@
             "example_en": "Some patients report a temporary loss of taste after a sinus infection.",
             "example_ru": "Некоторые пациенты сообщают о временной потере чувства вкуса после синусита.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_anatomy_the_sense_of_taste_gustation_28.mp3"
         },
         {
             "en": "The Sense of smell (olfaction)",
@@ -234,7 +261,8 @@
             "example_en": "A blocked nose can reduce the sense of smell.",
             "example_ru": "Заложенность носа может снижать чувство запаха.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_anatomy_the_sense_of_smell_olfaction_29.mp3"
         }
     ]
 }

@@ -9,7 +9,8 @@
             "example_en": "Wheezing can happen when the airways are tight.",
             "example_ru": "Хрипение может возникать, когда дыхательные пути сужены.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_conditions_wheezing_1.mp3"
         },
         {
             "en": "The Whooping cough",
@@ -17,7 +18,8 @@
             "example_en": "Whooping cough can cause severe coughing spells.",
             "example_ru": "Коклюш может вызывать сильные приступы кашля.",
             "note": "source Russian said “хрип”; normalized",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_conditions_the_whooping_cough_2.mp3"
         },
         {
             "en": "The Upper respiratory tract infection",
@@ -25,7 +27,8 @@
             "example_en": "An upper respiratory tract infection can cause cough and congestion.",
             "example_ru": "Инфекция верхних дыхательных путей может вызывать кашель и заложенность.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_conditions_the_upper_respiratory_tract_infection_3.mp3"
         },
         {
             "en": "The COPD",
@@ -33,7 +36,8 @@
             "example_en": "COPD can make it harder to breathe during activity.",
             "example_ru": "ХОБЛ может затруднять дыхание при физической нагрузке.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_conditions_the_copd_4.mp3"
         },
         {
             "en": "The Sleep apnea",
@@ -41,7 +45,8 @@
             "example_en": "Sleep apnea can cause pauses in breathing during sleep.",
             "example_ru": "Апноэ сна может вызывать остановки дыхания во сне.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_conditions_the_sleep_apnea_5.mp3"
         },
         {
             "en": "Shortness of breath",
@@ -49,7 +54,8 @@
             "example_en": "Call us if your shortness of breath gets worse.",
             "example_ru": "Позвоните нам, если одышка усилится.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_conditions_shortness_of_breath_6.mp3"
         },
         {
             "en": "Moderately out of breath",
@@ -57,7 +63,8 @@
             "example_en": "The patient became moderately out of breath after walking.",
             "example_ru": "У пациента появилась умеренная одышка после ходьбы.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_conditions_moderately_out_of_breath_7.mp3"
         },
         {
             "en": "The Dyspnea",
@@ -65,7 +72,8 @@
             "example_en": "Dyspnea is the medical term for difficult breathing.",
             "example_ru": "Одышка — это медицинский термин для затруднённого дыхания.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_conditions_the_dyspnea_8.mp3"
         },
         {
             "en": "Gasping for air",
@@ -73,7 +81,8 @@
             "example_en": "Go to the emergency room if you are gasping for air.",
             "example_ru": "Обратитесь в отделение неотложной помощи, если вы ловите воздух ртом.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_conditions_gasping_for_air_9.mp3"
         },
         {
             "en": "Snoring concerns",
@@ -81,7 +90,8 @@
             "example_en": "Snoring concerns may be related to sleep apnea.",
             "example_ru": "Проблемы с храпом могут быть связаны с апноэ сна.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_conditions_snoring_concerns_10.mp3"
         },
         {
             "en": "The Opacification in part of the lung",
@@ -89,7 +99,8 @@
             "example_en": "The X-ray showed opacification in part of the lung.",
             "example_ru": "Рентген показал затемнение участка лёгкого.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_conditions_the_opacification_in_part_of_the_lung_11.mp3"
         },
         {
             "en": "Crackles in the lungs",
@@ -97,7 +108,8 @@
             "example_en": "The doctor heard crackles in the lungs.",
             "example_ru": "Врач услышал хрипы в лёгких.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_conditions_crackles_in_the_lungs_12.mp3"
         },
         {
             "en": "The Reactive airway disease",
@@ -105,7 +117,8 @@
             "example_en": "Reactive airway disease can cause coughing and wheezing.",
             "example_ru": "Реактивное заболевание дыхательных путей может вызывать кашель и хрипы.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_conditions_the_reactive_airway_disease_13.mp3"
         },
         {
             "en": "Fluid in the lungs",
@@ -113,7 +126,8 @@
             "example_en": "Fluid in the lungs can make breathing difficult.",
             "example_ru": "Жидкость в лёгких может затруднять дыхание.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_conditions_fluid_in_the_lungs_14.mp3"
         }
     ]
 }

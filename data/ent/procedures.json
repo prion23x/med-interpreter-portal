@@ -9,7 +9,8 @@
             "example_en": "Gargling with warm salt water can ease a sore throat.",
             "example_ru": "Полоскание горла тёплой солёной водой может облегчить боль в горле.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_procedures_gargling_1.mp3"
         },
         {
             "en": "A Tonsillectomy",
@@ -17,7 +18,8 @@
             "example_en": "The surgeon recommended a tonsillectomy due to recurrent infections.",
             "example_ru": "Хирург рекомендовал удаление миндалин из-за частых инфекций.",
             "note": "Merged 3 duplicate source lines",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_procedures_a_tonsillectomy_2.mp3"
         },
         {
             "en": "An Adenoidectomy",
@@ -25,7 +27,8 @@
             "example_en": "An adenoidectomy may help with chronic nasal blockage in children.",
             "example_ru": "Аденоидэктомия может помочь при хронической заложенности носа у детей.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_procedures_an_adenoidectomy_3.mp3"
         },
         {
             "en": "A Tracheostomy",
@@ -33,7 +36,8 @@
             "example_en": "A tracheostomy creates an opening in the neck to help with breathing.",
             "example_ru": "Трахеостомия создаёт отверстие в шее для облегчения дыхания.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_procedures_a_tracheostomy_4.mp3"
         },
         {
             "en": "A swallow study",
@@ -41,7 +45,8 @@
             "example_en": "During the swallow study, the patient was asked to take a swallow of thickened liquid.",
             "example_ru": "Во время исследования акта глотания пациента попросили сделать глоток загущённой жидкости.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_procedures_a_swallow_study_5.mp3"
         },
         {
             "en": "A Curettage (scraping out)",
@@ -49,7 +54,8 @@
             "example_en": "The doctor performed a light curettage to clear debris from the ear canal.",
             "example_ru": "Врач провёл лёгкое выскабливание, чтобы удалить загрязнения из слухового прохода.",
             "note": "Source phrase: \"to scratch out\"",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_procedures_a_curettage_scraping_out_6.mp3"
         },
         {
             "en": "Straightening the ear canal",
@@ -57,7 +63,8 @@
             "example_en": "The doctor gently pulled the ear to straighten the ear canal for examination.",
             "example_ru": "Врач слегка потянул за ухо, чтобы выпрямить слуховой проход для осмотра.",
             "note": "Source: \"to strain an ear canal\" — likely means straighten, for otoscopic exam",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_procedures_straightening_the_ear_canal_7.mp3"
         },
         {
             "en": "A hearing test (audiometry)",
@@ -65,7 +72,8 @@
             "example_en": "Raise your hand each time you hear a beep during the hearing test.",
             "example_ru": "Поднимайте руку каждый раз, когда слышите звуковой сигнал во время проверки слуха.",
             "note": "Merged duplicate source line",
-            "image": ""
+            "image": "",
+            "audio_path": "ent_procedures_a_hearing_test_audiometry_8.mp3"
         }
     ]
 }

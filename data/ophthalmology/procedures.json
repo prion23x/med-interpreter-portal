@@ -9,7 +9,8 @@
             "example_en": "We'll schedule an eye reassessment in three months.",
             "example_ru": "Мы назначим повторное обследование зрения через три месяца.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_procedures_an_eye_reassessment_1.mp3"
         },
         {
             "en": "To squeeze the eyelids shut",
@@ -17,7 +18,8 @@
             "example_en": "Please squeeze your eyelids shut tightly, then relax.",
             "example_ru": "Пожалуйста, крепко зажмурьтесь, а затем расслабьтесь.",
             "note": "Common exam instruction",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_procedures_to_squeeze_the_eyelids_shut_2.mp3"
         },
         {
             "en": "To pull an eyelash",
@@ -25,7 +27,8 @@
             "example_en": "The doctor had to pull an eyelash that was irritating the eye.",
             "example_ru": "Врачу пришлось выдернуть ресницу, которая раздражала глаз.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_procedures_to_pull_an_eyelash_3.mp3"
         },
         {
             "en": "A refraction (test)",
@@ -33,7 +36,8 @@
             "example_en": "The refraction test determines your glasses prescription.",
             "example_ru": "Тест на рефракцию определяет параметры для очков.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_procedures_a_refraction_test_4.mp3"
         },
         {
             "en": "A slit-lamp examination",
@@ -41,7 +45,8 @@
             "example_en": "The slit-lamp examination showed no corneal damage.",
             "example_ru": "Осмотр в щелевой лампе не выявил повреждений роговицы.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_procedures_a_slit_lamp_examination_5.mp3"
         },
         {
             "en": "A fundus examination",
@@ -49,7 +54,8 @@
             "example_en": "A fundus examination checks the health of the retina.",
             "example_ru": "Осмотр глазного дна позволяет оценить состояние сетчатки.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_procedures_a_fundus_examination_6.mp3"
         },
         {
             "en": "A visual field test (perimetry)",
@@ -57,7 +63,8 @@
             "example_en": "The visual field test can detect early glaucoma damage.",
             "example_ru": "Периметрия помогает выявить ранние повреждения при глаукоме.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_procedures_a_visual_field_test_perimetry_7.mp3"
         },
         {
             "en": "Tonometry",
@@ -65,7 +72,8 @@
             "example_en": "Tonometry measures the pressure inside the eye.",
             "example_ru": "Тонометрия измеряет давление внутри глаза.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_procedures_tonometry_8.mp3"
         },
         {
             "en": "LASIK surgery",
@@ -73,7 +81,8 @@
             "example_en": "LASIK surgery can reduce the need for glasses.",
             "example_ru": "Лазерная коррекция зрения может снизить потребность в очках.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_procedures_lasik_surgery_9.mp3"
         },
         {
             "en": "Pupil dilation",
@@ -81,7 +90,8 @@
             "example_en": "Pupil dilation allows a better view of the retina.",
             "example_ru": "Расширение зрачка позволяет лучше рассмотреть сетчатку.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_procedures_pupil_dilation_10.mp3"
         },
         {
             "en": "Fluorescein staining",
@@ -89,7 +99,8 @@
             "example_en": "Fluorescein staining highlights scratches on the cornea.",
             "example_ru": "Окрашивание флуоресцеином выявляет царапины на роговице.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_procedures_fluorescein_staining_11.mp3"
         },
         {
             "en": "A corneal ultrasound",
@@ -97,7 +108,8 @@
             "example_en": "A corneal ultrasound measures the thickness of the cornea.",
             "example_ru": "УЗИ роговицы измеряет толщину роговицы.",
             "note": "Source typo \"carate ultrasound\" corrected",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_procedures_a_corneal_ultrasound_12.mp3"
         }
     ]
 }

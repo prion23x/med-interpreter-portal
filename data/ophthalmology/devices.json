@@ -9,7 +9,8 @@
             "example_en": "Please read the smallest line you can see on the eye chart.",
             "example_ru": "Пожалуйста, прочитайте самую маленькую строку, которую видите на таблице.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_devices_an_eye_chart_1.mp3"
         },
         {
             "en": "Contact lenses",
@@ -17,7 +18,8 @@
             "example_en": "She has worn contact lenses for ten years.",
             "example_ru": "Она носит контактные линзы уже десять лет.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_devices_contact_lenses_2.mp3"
         },
         {
             "en": "Eyeglasses",
@@ -25,7 +27,8 @@
             "example_en": "He needs new eyeglasses for reading.",
             "example_ru": "Ему нужны новые очки для чтения.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_devices_eyeglasses_3.mp3"
         },
         {
             "en": "A diopter",
@@ -33,7 +36,8 @@
             "example_en": "Your new prescription is minus two diopters.",
             "example_ru": "Ваш новый рецепт — минус две диоптрии.",
             "note": "Unit of lens power, not a physical device",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_devices_a_diopter_4.mp3"
         },
         {
             "en": "An eyeglass frame",
@@ -41,7 +45,8 @@
             "example_en": "She chose a lightweight metal frame.",
             "example_ru": "Она выбрала лёгкую металлическую оправу.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_devices_an_eyeglass_frame_5.mp3"
         },
         {
             "en": "A bifocal lens",
@@ -49,7 +54,8 @@
             "example_en": "Bifocal lenses correct both near and distance vision.",
             "example_ru": "Бифокальные линзы корректируют зрение как вблизи, так и вдали.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_devices_a_bifocal_lens_6.mp3"
         },
         {
             "en": "Tinted lenses",
@@ -57,7 +63,8 @@
             "example_en": "Tinted lenses can reduce glare outdoors.",
             "example_ru": "Затемнённые линзы уменьшают блики на улице.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_devices_tinted_lenses_7.mp3"
         },
         {
             "en": "An eye patch",
@@ -65,7 +72,8 @@
             "example_en": "Wear the eye patch for the first day after surgery.",
             "example_ru": "Носите глазную повязку в течение первого дня после операции.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_devices_an_eye_patch_8.mp3"
         },
         {
             "en": "Single vision lenses",
@@ -73,7 +81,8 @@
             "example_en": "Single vision lenses correct for only one distance.",
             "example_ru": "Однофокусные линзы корректируют зрение только на одном расстоянии.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_devices_single_vision_lenses_9.mp3"
         }
     ]
 }

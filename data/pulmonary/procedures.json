@@ -9,7 +9,8 @@
             "example_en": "A lung resection removes the affected part of the lung.",
             "example_ru": "Удаление части лёгкого позволяет убрать поражённый участок.",
             "note": "normalized from “Resection of lung”",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_procedures_the_lung_resection_1.mp3"
         },
         {
             "en": "To drain fluid from the lungs",
@@ -17,7 +18,8 @@
             "example_en": "The team may need to drain fluid from the lungs.",
             "example_ru": "Команде может понадобиться откачать жидкость из лёгких.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_procedures_to_drain_fluid_from_the_lungs_2.mp3"
         },
         {
             "en": "The Bag suctioning",
@@ -25,7 +27,8 @@
             "example_en": "Bag suctioning can help clear secretions from the airway.",
             "example_ru": "Аспирация мешком может помочь удалить выделения из дыхательных путей.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_procedures_the_bag_suctioning_3.mp3"
         },
         {
             "en": "The Forceful breathing test",
@@ -33,7 +36,8 @@
             "example_en": "The forceful breathing test measures how well air moves out of the lungs.",
             "example_ru": "Тест форсированного дыхания измеряет, насколько хорошо воздух выходит из лёгких.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_procedures_the_forceful_breathing_test_4.mp3"
         },
         {
             "en": "To breathe fast",
@@ -41,7 +45,8 @@
             "example_en": "For this part of the test, breathe fast when I tell you.",
             "example_ru": "Для этой части теста дышите быстро, когда я скажу.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_procedures_to_breathe_fast_5.mp3"
         },
         {
             "en": "To breathe normally",
@@ -49,7 +54,8 @@
             "example_en": "Please breathe normally while we record the reading.",
             "example_ru": "Пожалуйста, дышите обычно, пока мы записываем показатель.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_procedures_to_breathe_normally_6.mp3"
         },
         {
             "en": "To breathe out with force",
@@ -57,7 +63,8 @@
             "example_en": "Take a deep breath, then breathe out with force.",
             "example_ru": "Сделайте глубокий вдох, затем выдохните с силой.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_procedures_to_breathe_out_with_force_7.mp3"
         }
     ]
 }

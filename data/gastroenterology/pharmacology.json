@@ -9,7 +9,8 @@
       "example_en": "The doctor prescribed suppositories for rectal administration.",
       "example_ru": "Врач назначил свечи для ректального применения.",
       "note": "Merged duplicate entries; 'свечи' is the common patient term, 'суппозитории' is clinical",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_pharmacology_suppositories_1.mp3"
     },
     {
       "en": "Protonix (pantoprazole)",
@@ -17,7 +18,8 @@
       "example_en": "Protonix is a proton pump inhibitor used to reduce stomach acid.",
       "example_ru": "Протоникс — ингибитор протонной помпы, применяемый для снижения кислотности желудка.",
       "note": "Source: 'протониз' — typo; brand name: Protonix; generic: pantoprazole",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_pharmacology_protonix_pantoprazole_2.mp3"
     },
     {
       "en": "A stool softener",
@@ -25,7 +27,8 @@
       "example_en": "A stool softener was prescribed to prevent straining.",
       "example_ru": "Смягчитель стула был назначен для предотвращения натуживания.",
       "note": "",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_pharmacology_a_stool_softener_3.mp3"
     },
     {
       "en": "A laxative (for example, Colace)",
@@ -33,7 +36,8 @@
       "example_en": "The patient was given a laxative before the colonoscopy prep.",
       "example_ru": "Пациенту дали слабительное перед подготовкой к колоноскопии.",
       "note": "Colace is a docusate sodium brand; acts as both laxative and stool softener — note distinction from stool softener entry",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_pharmacology_a_laxative_for_example_colace_4.mp3"
     },
     {
       "en": "Gas-X (simethicone)",
@@ -41,7 +45,8 @@
       "example_en": "Gas-X helps relieve bloating and gas discomfort.",
       "example_ru": "Симетикон помогает устранить вздутие и дискомфорт от газов.",
       "note": "Source: 'gas ex medication' — typo for 'Gas-X'; generic name: simethicone",
-      "image": ""
+      "image": "",
+      "audio_path": "gastroenterology_pharmacology_gas_x_simethicone_5.mp3"
     }
   ]
 }

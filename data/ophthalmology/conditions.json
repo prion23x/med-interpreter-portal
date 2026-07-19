@@ -9,7 +9,8 @@
             "example_en": "She was squinting at the eye chart.",
             "example_ru": "Она щурилась, глядя на таблицу для проверки зрения.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_squinting_1.mp3"
         },
         {
             "en": "Vision was failing",
@@ -17,7 +18,8 @@
             "example_en": "The patient said his vision was failing over the past year.",
             "example_ru": "Пациент сказал, что за последний год у него пропадало зрение.",
             "note": "Colloquial patient phrase",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_vision_was_failing_2.mp3"
         },
         {
             "en": "A stye",
@@ -25,7 +27,8 @@
             "example_en": "A stye formed on his lower eyelid.",
             "example_ru": "На его нижнем веке образовался ячмень.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_a_stye_3.mp3"
         },
         {
             "en": "Visual acuity",
@@ -33,7 +36,8 @@
             "example_en": "Visual acuity was measured at 20/40 in the right eye.",
             "example_ru": "Острота зрения правого глаза составила 20/40.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_visual_acuity_4.mp3"
         },
         {
             "en": "Intraocular pressure",
@@ -41,7 +45,8 @@
             "example_en": "Intraocular pressure was elevated during the exam.",
             "example_ru": "Во время осмотра внутриглазное давление было повышено.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_intraocular_pressure_5.mp3"
         },
         {
             "en": "Astigmatism",
@@ -49,7 +54,8 @@
             "example_en": "Astigmatism causes blurred vision at all distances.",
             "example_ru": "Астигматизм вызывает нечёткость зрения на любом расстоянии.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_astigmatism_6.mp3"
         },
         {
             "en": "Hyperopia (farsightedness)",
@@ -57,7 +63,8 @@
             "example_en": "Hyperopia makes it hard to focus on nearby objects.",
             "example_ru": "Гиперметропия затрудняет фокусировку на близких предметах.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_hyperopia_farsightedness_7.mp3"
         },
         {
             "en": "Myopia (nearsightedness)",
@@ -65,7 +72,8 @@
             "example_en": "Myopia makes distant objects appear blurry.",
             "example_ru": "При миопии удалённые предметы выглядят размытыми.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_myopia_nearsightedness_8.mp3"
         },
         {
             "en": "Glaucoma",
@@ -73,7 +81,8 @@
             "example_en": "Glaucoma can damage the optic nerve if untreated.",
             "example_ru": "Глаукома может повредить зрительный нерв, если её не лечить.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_glaucoma_9.mp3"
         },
         {
             "en": "A cataract",
@@ -81,7 +90,8 @@
             "example_en": "The cataract made her vision look cloudy.",
             "example_ru": "Из-за катаракты её зрение казалось затуманенным.",
             "note": "Patients may describe this as a \"cloudy lens\" (помутнение хрусталика)",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_a_cataract_10.mp3"
         },
         {
             "en": "Dry eye syndrome",
@@ -89,7 +99,8 @@
             "example_en": "Dry eye syndrome causes a gritty, irritated feeling.",
             "example_ru": "Синдром сухого глаза вызывает ощущение песка и раздражения в глазах.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_dry_eye_syndrome_11.mp3"
         },
         {
             "en": "A retinal detachment",
@@ -97,7 +108,8 @@
             "example_en": "Retinal detachment requires urgent surgical treatment.",
             "example_ru": "Отслойка сетчатки требует срочного хирургического лечения.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_a_retinal_detachment_12.mp3"
         },
         {
             "en": "The field of vision",
@@ -105,7 +117,8 @@
             "example_en": "Glaucoma can gradually narrow the field of vision.",
             "example_ru": "Глаукома может постепенно сужать поле зрения.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_the_field_of_vision_13.mp3"
         },
         {
             "en": "A retinal hemorrhage",
@@ -113,7 +126,8 @@
             "example_en": "A retinal hemorrhage was visible during the fundus exam.",
             "example_ru": "Во время осмотра глазного дна было выявлено кровоизлияние в сетчатку.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_a_retinal_hemorrhage_14.mp3"
         },
         {
             "en": "Conjunctivitis",
@@ -121,7 +135,8 @@
             "example_en": "Conjunctivitis often causes redness and discharge.",
             "example_ru": "Конъюнктивит часто вызывает покраснение и выделения.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_conjunctivitis_15.mp3"
         },
         {
             "en": "Floaters",
@@ -129,7 +144,8 @@
             "example_en": "He noticed new floaters in his left eye.",
             "example_ru": "Он заметил новые плавающие помутнения в левом глазу.",
             "note": "Source had a typo \"ушки\" — corrected to \"мушки перед глазами\"",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_floaters_16.mp3"
         },
         {
             "en": "A chalazion",
@@ -137,7 +153,8 @@
             "example_en": "The chalazion did not resolve on its own.",
             "example_ru": "Халязион самостоятельно не рассосался.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_a_chalazion_17.mp3"
         },
         {
             "en": "Blepharitis",
@@ -145,7 +162,8 @@
             "example_en": "Blepharitis causes inflammation along the eyelid margin.",
             "example_ru": "Блефарит вызывает воспаление края века.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_blepharitis_18.mp3"
         },
         {
             "en": "A corneal ulcer",
@@ -153,7 +171,8 @@
             "example_en": "A corneal ulcer can cause severe eye pain.",
             "example_ru": "Язва роговицы может вызывать сильную боль в глазу.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_a_corneal_ulcer_19.mp3"
         },
         {
             "en": "A vitreous detachment",
@@ -161,7 +180,8 @@
             "example_en": "Vitreous detachment is common with age.",
             "example_ru": "Отслойка стекловидного тела часто встречается с возрастом.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_a_vitreous_detachment_20.mp3"
         },
         {
             "en": "Ocular motility (impaired)",
@@ -169,7 +189,8 @@
             "example_en": "The doctor checked her ocular motility in all directions.",
             "example_ru": "Врач проверил подвижность её глаз во всех направлениях.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_ocular_motility_impaired_21.mp3"
         },
         {
             "en": "Flashing lights (photopsia)",
@@ -177,7 +198,8 @@
             "example_en": "He reported seeing flashing lights in his peripheral vision.",
             "example_ru": "Он сообщил, что видел вспышки света на периферии зрения.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_flashing_lights_photopsia_22.mp3"
         },
         {
             "en": "Double vision (diplopia)",
@@ -185,7 +207,8 @@
             "example_en": "She said everything was doubling.",
             "example_ru": "Она сказала, что у неё всё двоится.",
             "note": "Colloquial patient phrase for diplopia",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_double_vision_diplopia_23.mp3"
         },
         {
             "en": "Excessive tearing",
@@ -193,7 +216,8 @@
             "example_en": "Excessive tearing can be a sign of a blocked tear duct.",
             "example_ru": "Слезотечение может быть признаком закупорки слёзного канала.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_excessive_tearing_24.mp3"
         },
         {
             "en": "Eye rolling",
@@ -201,7 +225,8 @@
             "example_en": "The child's eyes rolled back briefly during the exam.",
             "example_ru": "Во время осмотра глаза ребёнка ненадолго закатились.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_eye_rolling_25.mp3"
         },
         {
             "en": "Blurry vision",
@@ -209,7 +234,8 @@
             "example_en": "He complained of blurry vision in the mornings.",
             "example_ru": "Он жаловался на затуманенное зрение по утрам.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_blurry_vision_26.mp3"
         },
         {
             "en": "Scleritis",
@@ -217,7 +243,8 @@
             "example_en": "Scleritis causes deep, severe eye pain and redness.",
             "example_ru": "Склерит вызывает глубокую, сильную боль и покраснение глаза.",
             "note": "Source typo \"screlitis\" corrected",
-            "image": ""
+            "image": "",
+            "audio_path": "ophthalmology_conditions_scleritis_27.mp3"
         }
     ]
 }

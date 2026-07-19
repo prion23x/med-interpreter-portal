@@ -9,7 +9,8 @@
             "example_en": "The windpipe carries air from the throat to the lungs.",
             "example_ru": "Трахея проводит воздух из горла в лёгкие.",
             "note": "",
-            "image": "data/images/Windpipe.jpg"
+            "image": "data/images/Windpipe.jpg",
+            "audio_path": "pulmonary_anatomy_the_windpipe_1.mp3"
         },
         {
             "en": "The Tracheal cartilage",
@@ -17,7 +18,8 @@
             "example_en": "The tracheal cartilage rings keep the windpipe open.",
             "example_ru": "Кольца трахеального хряща держат дыхательное горло открытым.",
             "note": "",
-            "image": "data/images/Lung roots.jpg"
+            "image": "data/images/Lung roots.jpg",
+            "audio_path": "pulmonary_anatomy_the_tracheal_cartilage_2.mp3"
         },
         {
             "en": "The Root of the lung",
@@ -25,7 +27,8 @@
             "example_en": "The root of the lung contains the main blood vessels and bronchi.",
             "example_ru": "Корень лёгкого содержит основные кровеносные сосуды и бронхи.",
             "note": "",
-            "image": "data/images/Lung roots.jpg"
+            "image": "data/images/Lung roots.jpg",
+            "audio_path": "pulmonary_anatomy_the_root_of_the_lung_3.mp3"
         },
         {
             "en": "Primary bronchi",
@@ -33,7 +36,8 @@
             "example_en": "The primary bronchi split from the trachea into the left and right lungs.",
             "example_ru": "Первичные бронхи разветвляются от трахеи в левое и правое лёгкое.",
             "note": "",
-            "image": "data/images/Windpipe.jpg"
+            "image": "data/images/Windpipe.jpg",
+            "audio_path": "pulmonary_anatomy_primary_bronchi_4.mp3"
         },
         {
             "en": "Secondary bronchi",
@@ -41,7 +45,8 @@
             "example_en": "The secondary bronchi further divide within each lung lobe.",
             "example_ru": "Вторичные бронхи дополнительно разветвляются в каждой доле лёгкого.",
             "note": "",
-            "image": "data/images/Windpipe.jpg"
+            "image": "data/images/Windpipe.jpg",
+            "audio_path": "pulmonary_anatomy_secondary_bronchi_5.mp3"
         },
         {
             "en": "Tertiary bronchi",
@@ -49,7 +54,8 @@
             "example_en": "The tertiary bronchi continue to branch into smaller airways.",
             "example_ru": "Третичные бронхи продолжают ветвиться на более мелкие дыхательные пути.",
             "note": "",
-            "image": "data/images/Windpipe.jpg"
+            "image": "data/images/Windpipe.jpg",
+            "audio_path": "pulmonary_anatomy_tertiary_bronchi_6.mp3"
         },
         {
             "en": "The Bronchiole",
@@ -57,7 +63,8 @@
             "example_en": "The bronchiole is the smallest branch of the bronchi before the alveoli.",
             "example_ru": "Бронхиола — это наименьшее ветвление бронхов перед альвеолами.",
             "note": "",
-            "image": "data/images/Windpipe.jpg"
+            "image": "data/images/Windpipe.jpg",
+            "audio_path": "pulmonary_anatomy_the_bronchiole_7.mp3"
         },
         {
             "en": "The Voice box (larynx)",
@@ -65,7 +72,8 @@
             "example_en": "The voice box houses the vocal cords.",
             "example_ru": "Гортань содержит голосовые связки.",
             "note": "",
-            "image": "data/images/Larynx.jpg"
+            "image": "data/images/Larynx.jpg",
+            "audio_path": "pulmonary_anatomy_the_voice_box_larynx_8.mp3"
         },
         {
             "en": "Vocal cords",
@@ -73,7 +81,8 @@
             "example_en": "The vocal cords vibrate to produce sound.",
             "example_ru": "Голосовые связки вибрируют, создавая звук.",
             "note": "",
-            "image": "data/images/Vocal cords.jpg"
+            "image": "data/images/Vocal cords.jpg",
+            "audio_path": "pulmonary_anatomy_vocal_cords_9.mp3"
         },
         {
             "en": "The Lung lobe",
@@ -81,7 +90,8 @@
             "example_en": "The right lung has three lobes.",
             "example_ru": "Правое лёгкое имеет три доли.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_anatomy_the_lung_lobe_10.mp3"
         },
         {
             "en": "Air sacs",
@@ -89,7 +99,8 @@
             "example_en": "Air sacs are where oxygen enters the blood.",
             "example_ru": "Альвеолы — это место, где кислород поступает в кровь.",
             "note": "normalized from “airsacks”",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_anatomy_air_sacs_11.mp3"
         },
         {
             "en": "The Chest wall",
@@ -97,7 +108,8 @@
             "example_en": "The chest wall moves when you breathe.",
             "example_ru": "Стенка грудной клетки двигается, когда вы дышите.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_anatomy_the_chest_wall_12.mp3"
         },
         {
             "en": "The Breathing rate",
@@ -105,7 +117,8 @@
             "example_en": "The nurse will check your breathing rate.",
             "example_ru": "Медсестра проверит частоту дыхания.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_anatomy_the_breathing_rate_13.mp3"
         },
         {
             "en": "The Oxygen level / SpO2",
@@ -113,7 +126,8 @@
             "example_en": "The oxygen level is measured with a pulse oximeter.",
             "example_ru": "Уровень кислорода измеряют пульсоксиметром.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_anatomy_the_oxygen_level_spo2_14.mp3"
         },
         {
             "en": "Phlegm",
@@ -121,7 +135,8 @@
             "example_en": "Please tell us if the phlegm changes color.",
             "example_ru": "Пожалуйста, сообщите нам, если мокрота изменит цвет.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_anatomy_phlegm_15.mp3"
         },
         {
             "en": "Secretions",
@@ -129,7 +144,8 @@
             "example_en": "Thick secretions can make coughing harder.",
             "example_ru": "Густые выделения могут затруднять кашель.",
             "note": "e.g., phlegm",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_anatomy_secretions_16.mp3"
         },
         {
             "en": "Mucus in the lungs",
@@ -137,7 +153,8 @@
             "example_en": "Mucus in the lungs can cause noisy breathing.",
             "example_ru": "Слизь в лёгких может вызывать шумное дыхание.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_anatomy_mucus_in_the_lungs_17.mp3"
         },
         {
             "en": "The Upper respiratory tract",
@@ -145,7 +162,8 @@
             "example_en": "A cold usually affects the upper respiratory tract.",
             "example_ru": "Простуда обычно поражает верхние дыхательные пути.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "pulmonary_anatomy_the_upper_respiratory_tract_18.mp3"
         }
     ]
 }
