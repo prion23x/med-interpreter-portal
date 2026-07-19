@@ -64,6 +64,26 @@ if (!id) {
                 }, { rootMargin: '-10% 0px -60% 0px' });
 
                 document.querySelectorAll('.section').forEach(s => observer.observe(s));
+
+                // Handle highlight from search navigation (?section=X&term=Y)
+                const highlightTerm = params.get('term');
+                const highlightSection = params.get('section');
+                if (highlightTerm && highlightSection) {
+                    const targetSection = document.getElementById(`section-${highlightSection}`);
+                    if (targetSection) {
+                        targetSection.classList.add('open');
+                        setTimeout(() => {
+                            const targetCard = [...targetSection.querySelectorAll('.term-card')]
+                                .find(c => c.dataset.en === highlightTerm);
+                            if (targetCard) {
+                                const top = targetCard.getBoundingClientRect().top + window.scrollY - 90;
+                                window.scrollTo({ top, behavior: 'smooth' });
+                                targetCard.classList.add('term-card--highlight');
+                                setTimeout(() => targetCard.classList.remove('term-card--highlight'), 2500);
+                            }
+                        }, 150);
+                    }
+                }
             });
         })
         .catch(() => {
@@ -123,7 +143,7 @@ function renderTerm(term) {
     const id = 't-' + Math.random().toString(36).slice(2, 8);
     termMap[id] = term;
     return `
-        <div class="term-card" onclick="openModal('${id}')">
+        <div class="term-card" data-en="${term.en.replace(/"/g, '&quot;')}" onclick="openModal('${id}')">
             ${term.image ? '<div class="term-image-indicator" title="Has image">🖼</div>' : ''}
             <div class="term-header">
                 <span class="term-en">${term.en}</span>
@@ -137,7 +157,7 @@ function openModal(id) {
     if (!term) return;
 
     const audioBtn = term.audio_path
-        ? `<button class="modal-audio-btn" onclick="playTermAudio('${term.audio_path}')" title="Play pronunciation">🔊🔊🔊</button>`
+        ? `<button class="modal-audio-btn" onclick="playTermAudio('${term.audio_path}')" title="Play pronunciation">🔊</button>`
         : '';
 
     let html = `

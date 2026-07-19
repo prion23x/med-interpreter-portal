@@ -576,6 +576,124 @@ a:hover {
     color: var(--blue);
 }
 
+
+
+/* ============================================================
+    SEARCH BAR
+    ============================================================ */
+.search-bar {
+    position: relative;
+    display: flex;
+    align-items: center;
+    background: var(--surface0);
+    border: 1px solid var(--surface1);
+    border-radius: 8px;
+    padding: 0 0.75rem;
+    gap: 0.4rem;
+    height: 34px;
+    width: 220px;
+    transition: border-color 0.15s, width 0.2s;
+    margin-left: auto;
+    margin-right: 0.5rem;
+}
+
+.search-bar.focused {
+    border-color: var(--mauve);
+    width: 300px;
+}
+
+.search-icon {
+    font-size: 0.85rem;
+    flex-shrink: 0;
+    line-height: 1;
+}
+
+#search-input {
+    background: none;
+    border: none;
+    outline: none;
+    color: var(--text);
+    font-size: 0.875rem;
+    width: 100%;
+    font-family: inherit;
+}
+
+#search-input::placeholder {
+    color: var(--overlay0);
+}
+
+.search-dropdown {
+    position: absolute;
+    top: calc(100% + 6px);
+    left: 0;
+    right: 0;
+    min-width: 320px;
+    background: var(--mantle);
+    border: 1px solid var(--surface1);
+    border-radius: 10px;
+    z-index: 300;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+    max-height: 420px;
+    overflow-y: auto;
+}
+
+.search-dropdown.hidden { display: none; }
+
+.search-result-item {
+    padding: 0.65rem 1rem;
+    cursor: pointer;
+    border-bottom: 1px solid var(--surface0);
+    transition: background 0.1s;
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+}
+
+.search-result-item:last-child { border-bottom: none; }
+
+.search-result-item:hover,
+.search-result-item.selected { background: var(--surface0); }
+
+.search-result-primary {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--text);
+}
+
+.search-result-primary mark {
+    background: none;
+    color: var(--mauve);
+    font-weight: 700;
+}
+
+.search-result-secondary {
+    font-size: 0.85rem;
+    color: var(--teal);
+}
+
+.search-result-meta {
+    font-size: 0.72rem;
+    color: var(--overlay1);
+    text-transform: capitalize;
+}
+
+.search-no-results {
+    padding: 1rem;
+    text-align: center;
+    color: var(--subtext0);
+    font-size: 0.875rem;
+}
+
+/* Term highlight on navigation from search */
+.term-card--highlight {
+    animation: termPulse 2.5s ease forwards;
+}
+
+@keyframes termPulse {
+    0%   { border-color: var(--mauve); box-shadow: 0 0 0 2px var(--mauve); }
+    70%  { border-color: var(--mauve); box-shadow: 0 0 0 2px var(--mauve); }
+    100% { border-color: var(--surface1); box-shadow: none; }
+}
 /* ============================================================
     SECTION NAV SIDEBAR
     ============================================================ */
