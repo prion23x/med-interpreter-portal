@@ -12,7 +12,7 @@
             "image": ""
         },
         {
-            "en": "Whooping cough",
+            "en": "The Whooping cough",
             "ru": "коклюш",
             "example_en": "Whooping cough can cause severe coughing spells.",
             "example_ru": "Коклюш может вызывать сильные приступы кашля.",
@@ -20,7 +20,7 @@
             "image": ""
         },
         {
-            "en": "Upper respiratory tract infection",
+            "en": "The Upper respiratory tract infection",
             "ru": "инфекция верхних дыхательных путей",
             "example_en": "An upper respiratory tract infection can cause cough and congestion.",
             "example_ru": "Инфекция верхних дыхательных путей может вызывать кашель и заложенность.",
@@ -28,7 +28,7 @@
             "image": ""
         },
         {
-            "en": "COPD",
+            "en": "The COPD",
             "ru": "ХОБЛ, хроническая обструктивная болезнь лёгких",
             "example_en": "COPD can make it harder to breathe during activity.",
             "example_ru": "ХОБЛ может затруднять дыхание при физической нагрузке.",
@@ -36,7 +36,7 @@
             "image": ""
         },
         {
-            "en": "Sleep apnea",
+            "en": "The Sleep apnea",
             "ru": "апноэ сна",
             "example_en": "Sleep apnea can cause pauses in breathing during sleep.",
             "example_ru": "Апноэ сна может вызывать остановки дыхания во сне.",
@@ -60,7 +60,7 @@
             "image": ""
         },
         {
-            "en": "Dyspnea",
+            "en": "The Dyspnea",
             "ru": "затруднённое дыхание, одышка",
             "example_en": "Dyspnea is the medical term for difficult breathing.",
             "example_ru": "Одышка — это медицинский термин для затруднённого дыхания.",
@@ -84,7 +84,7 @@
             "image": ""
         },
         {
-            "en": "Opacification in part of the lung",
+            "en": "The Opacification in part of the lung",
             "ru": "затемнение участка лёгкого",
             "example_en": "The X-ray showed opacification in part of the lung.",
             "example_ru": "Рентген показал затемнение участка лёгкого.",
@@ -100,7 +100,7 @@
             "image": ""
         },
         {
-            "en": "Reactive airway disease",
+            "en": "The Reactive airway disease",
             "ru": "реактивное заболевание дыхательных путей",
             "example_en": "Reactive airway disease can cause coughing and wheezing.",
             "example_ru": "Реактивное заболевание дыхательных путей может вызывать кашель и хрипы.",

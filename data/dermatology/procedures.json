@@ -9,7 +9,8 @@
             "example_en": "Apply the cream topically twice a day.",
             "example_ru": "Применяйте крем местно два раза в день.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_procedures_to_apply_topically_1.mp3"
         },
         {
             "en": "An antiseptic wash",
@@ -17,7 +18,8 @@
             "example_en": "The wound was cleaned with an antiseptic wash.",
             "example_ru": "Рана была обработана антисептическим раствором.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_procedures_an_antiseptic_wash_2.mp3"
         },
         {
             "en": "To numb the skin",
@@ -25,7 +27,8 @@
             "example_en": "They numb the skin around this area before the procedure.",
             "example_ru": "Кожу вокруг этой области обезболивают перед процедурой.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_procedures_to_numb_the_skin_3.mp3"
         },
         {
             "en": "A saturated dressing",
@@ -33,7 +36,8 @@
             "example_en": "Change the dressing if it gets saturated.",
             "example_ru": "Смените повязку, если она пропиталась.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_procedures_a_saturated_dressing_4.mp3"
         },
         {
             "en": "Wound care",
@@ -41,7 +45,8 @@
             "example_en": "Proper wound care helps prevent infection.",
             "example_ru": "Правильный уход за раной помогает предотвратить инфекцию.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_procedures_wound_care_5.mp3"
         },
         {
             "en": "Direct, firm pressure",
@@ -49,7 +54,8 @@
             "example_en": "Apply direct firm pressure to stop the bleeding.",
             "example_ru": "Примените прямое плотное давление, чтобы остановить кровотечение.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_procedures_direct_firm_pressure_6.mp3"
         },
         {
             "en": "To treat / clean the wound",
@@ -57,7 +63,8 @@
             "example_en": "Please clean the wound before applying the dressing.",
             "example_ru": "Пожалуйста, обработайте рану перед наложением повязки.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_procedures_to_treat__clean_the_wound_7.mp3"
         },
         {
             "en": "Limb wrapping",
@@ -65,7 +72,8 @@
             "example_en": "Limb wrapping helps control the swelling.",
             "example_ru": "Бинтование конечности помогает контролировать отёк.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_procedures_limb_wrapping_8.mp3"
         }
     ]
 }

@@ -1,151 +1,151 @@
 {
-    "intro": "STRUCTURES and general gastroenterology terms used in clinical communication.",
-    "reading": "The gastrointestinal tract spans from the esophagus to the rectum and includes accessory organs such as the pancreas, gallbladder, and liver. Interpreters working in gastroenterology should be familiar with both organ names and anatomical landmarks, as physicians often refer to quadrants, specific intestinal segments, and ductal structures during consultations.",
-    "color": "#a6e3a1",
-    "terms": [
-        {
-            "en": "The navel / belly button",
-            "ru": "Пупок",
-            "example_en": "The pain was located just above the navel.",
-            "example_ru": "Боль локализовалась чуть выше пупка.",
-            "note": "Merged: 'navel' and 'belly button/navel'",
-            "image": ""
-        },
-        {
-            "en": "Spleen",
-            "ru": "Селезёнка",
-            "example_en": "The ultrasound showed the spleen was slightly enlarged.",
-            "example_ru": "УЗИ показало незначительное увеличение селезёнки.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The colon",
-            "ru": "Толстая кишка",
-            "example_en": "The biopsy was taken from the wall of the colon.",
-            "example_ru": "Биопсия была взята со стенки толстой кишки.",
-            "note": "Merged 3 entries; source had typo 'кшика' → corrected to 'кишка'",
-            "image": ""
-        },
-        {
-            "en": "Stoma",
-            "ru": "Стома",
-            "example_en": "The nurse taught him how to care for his stoma.",
-            "example_ru": "Медсестра научила его ухаживать за стомой.",
-            "note": "Surgically created opening; see also Stoma Bag under Devices",
-            "image": ""
-        },
-        {
-            "en": "The rectum",
-            "ru": "Прямая кишка",
-            "example_en": "The colonoscopy showed mild inflammation in the rectum.",
-            "example_ru": "Колоноскопия выявила лёгкое воспаление в прямой кишке.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The small intestine",
-            "ru": "Тонкая кишка",
-            "example_en": "Most nutrient absorption occurs in the small intestine.",
-            "example_ru": "Большая часть питательных веществ всасывается в тонкой кишке.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The bowel / intestine",
-            "ru": "Кишечник",
-            "example_en": "The bowel sounds were normal on exam.",
-            "example_ru": "При осмотре перистальтика кишечника была в норме.",
-            "note": "Merged: 'a bowel', 'bowel', 'Intestine'; 'bowel' is common in clinical speech",
-            "image": ""
-        },
-        {
-            "en": "The appendix",
-            "ru": "Аппендикс",
-            "example_en": "The appendix is a small pouch attached to the large intestine.",
-            "example_ru": "Аппендикс — небольшой отросток, прикреплённый к толстой кишке.",
-            "note": "Source typo: 'apendix' — corrected",
-            "image": ""
-        },
-        {
-            "en": "The pancreas",
-            "ru": "Поджелудочная железа",
-            "example_en": "The pancreas produces both digestive enzymes and insulin.",
-            "example_ru": "Поджелудочная железа вырабатывает пищеварительные ферменты и инсулин.",
-            "note": "Merged 3 entries; patient/informal: 'поджелудочная', 'панкреас'",
-            "image": ""
-        },
-        {
-            "en": "The gallbladder",
-            "ru": "Желчный пузырь",
-            "example_en": "Her gallbladder was removed laparoscopically.",
-            "example_ru": "Ей удалили желчный пузырь лапароскопически.",
-            "note": "Merged 3 entries; informal: 'желчный', 'холецист'",
-            "image": ""
-        },
-        {
-            "en": "The bile duct",
-            "ru": "Желчный проток",
-            "example_en": "A stone was blocking the bile duct.",
-            "example_ru": "Камень перекрывал желчный проток.",
-            "note": "Merged: 'bileduct' and 'bile duct'",
-            "image": ""
-        },
-        {
-            "en": "The pancreatic duct",
-            "ru": "Панкреатический проток",
-            "example_en": "The pancreatic duct appeared dilated on the MRI.",
-            "example_ru": "На МРТ панкреатический проток выглядел расширенным.",
-            "note": "Source typo: 'pacncreatic duct' — corrected; also called duct of Wirsung",
-            "image": ""
-        },
-        {
-            "en": "The digestive system",
-            "ru": "Пищеварительная система",
-            "example_en": "The digestive system breaks down food and absorbs nutrients.",
-            "example_ru": "Пищеварительная система расщепляет пищу и всасывает питательные вещества.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The right lower quadrant",
-            "ru": "Правый нижний квадрант",
-            "example_en": "The pain is localized in the right lower quadrant.",
-            "example_ru": "Боль локализована в правом нижнем квадранте.",
-            "note": "Source typo: 'quadrum' — corrected to 'quadrant'",
-            "image": ""
-        },
-        {
-            "en": "The esophagus",
-            "ru": "Пищевод",
-            "example_en": "Food passes from the mouth through the esophagus to the stomach.",
-            "example_ru": "Пища проходит через пищевод из полости рта в желудок.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The sigmoid colon",
-            "ru": "Сигмовидная кишка",
-            "example_en": "A polyp was found in the sigmoid colon during colonoscopy.",
-            "example_ru": "При колоноскопии в сигмовидной кишке обнаружили полип.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "The walls of the colon",
-            "ru": "Стенки толстой кишки",
-            "example_en": "Imaging showed thickening of the walls of the colon.",
-            "example_ru": "На снимках выявлено утолщение стенок толстой кишки.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "Gut Bacteria / Gut Microbiome",
-            "ru": "Кишечная микрофлора",
-            "example_en": "Antibiotics can disrupt the gut bacteria.",
-            "example_ru": "Антибиотики могут нарушить кишечную микрофлору.",
-            "note": "",
-            "image": ""
-        }
-    ]
+  "intro": "STRUCTURES and general gastroenterology terms used in clinical communication.",
+  "reading": "The gastrointestinal tract spans from the esophagus to the rectum and includes accessory organs such as the pancreas, gallbladder, and liver. Interpreters working in gastroenterology should be familiar with both organ names and anatomical landmarks, as physicians often refer to quadrants, specific intestinal segments, and ductal structures during consultations.",
+  "color": "#a6e3a1",
+  "terms": [
+    {
+      "en": "The navel / belly button",
+      "ru": "Пупок",
+      "example_en": "The pain was located just above the navel.",
+      "example_ru": "Боль локализовалась чуть выше пупка.",
+      "note": "Merged: 'navel' and 'belly button/navel'",
+      "image": ""
+    },
+    {
+      "en": "The spleen",
+      "ru": "Селезёнка",
+      "example_en": "The ultrasound showed the spleen was slightly enlarged.",
+      "example_ru": "УЗИ показало незначительное увеличение селезёнки.",
+      "note": "",
+      "image": ""
+    },
+    {
+      "en": "The colon",
+      "ru": "Толстая кишка",
+      "example_en": "The biopsy was taken from the wall of the colon.",
+      "example_ru": "Биопсия была взята со стенки толстой кишки.",
+      "note": "Merged 3 entries; source had typo 'кшика' → corrected to 'кишка'",
+      "image": ""
+    },
+    {
+      "en": "A stoma",
+      "ru": "Стома",
+      "example_en": "The nurse taught him how to care for his stoma.",
+      "example_ru": "Медсестра научила его ухаживать за стомой.",
+      "note": "Surgically created opening; see also Stoma Bag under Devices",
+      "image": ""
+    },
+    {
+      "en": "The rectum",
+      "ru": "Прямая кишка",
+      "example_en": "The colonoscopy showed mild inflammation in the rectum.",
+      "example_ru": "Колоноскопия выявила лёгкое воспаление в прямой кишке.",
+      "note": "",
+      "image": ""
+    },
+    {
+      "en": "The small intestine",
+      "ru": "Тонкая кишка",
+      "example_en": "Most nutrient absorption occurs in the small intestine.",
+      "example_ru": "Большая часть питательных веществ всасывается в тонкой кишке.",
+      "note": "",
+      "image": ""
+    },
+    {
+      "en": "The bowel / intestine",
+      "ru": "Кишечник",
+      "example_en": "The bowel sounds were normal on exam.",
+      "example_ru": "При осмотре перистальтика кишечника была в норме.",
+      "note": "Merged: 'a bowel', 'bowel', 'Intestine'; 'bowel' is common in clinical speech",
+      "image": ""
+    },
+    {
+      "en": "The appendix",
+      "ru": "Аппендикс",
+      "example_en": "The appendix is a small pouch attached to the large intestine.",
+      "example_ru": "Аппендикс — небольшой отросток, прикреплённый к толстой кишке.",
+      "note": "Source typo: 'apendix' — corrected",
+      "image": ""
+    },
+    {
+      "en": "The pancreas",
+      "ru": "Поджелудочная железа",
+      "example_en": "The pancreas produces both digestive enzymes and insulin.",
+      "example_ru": "Поджелудочная железа вырабатывает пищеварительные ферменты и инсулин.",
+      "note": "Merged 3 entries; patient/informal: 'поджелудочная', 'панкреас'",
+      "image": ""
+    },
+    {
+      "en": "The gallbladder",
+      "ru": "Желчный пузырь",
+      "example_en": "Her gallbladder was removed laparoscopically.",
+      "example_ru": "Ей удалили желчный пузырь лапароскопически.",
+      "note": "Merged 3 entries; informal: 'желчный', 'холецист'",
+      "image": ""
+    },
+    {
+      "en": "The bile duct",
+      "ru": "Желчный проток",
+      "example_en": "A stone was blocking the bile duct.",
+      "example_ru": "Камень перекрывал желчный проток.",
+      "note": "Merged: 'bileduct' and 'bile duct'",
+      "image": ""
+    },
+    {
+      "en": "The pancreatic duct",
+      "ru": "Панкреатический проток",
+      "example_en": "The pancreatic duct appeared dilated on the MRI.",
+      "example_ru": "На МРТ панкреатический проток выглядел расширенным.",
+      "note": "Source typo: 'pacncreatic duct' — corrected; also called duct of Wirsung",
+      "image": ""
+    },
+    {
+      "en": "The digestive system",
+      "ru": "Пищеварительная система",
+      "example_en": "The digestive system breaks down food and absorbs nutrients.",
+      "example_ru": "Пищеварительная система расщепляет пищу и всасывает питательные вещества.",
+      "note": "",
+      "image": ""
+    },
+    {
+      "en": "The right lower quadrant",
+      "ru": "Правый нижний квадрант",
+      "example_en": "The pain is localized in the right lower quadrant.",
+      "example_ru": "Боль локализована в правом нижнем квадранте.",
+      "note": "Source typo: 'quadrum' — corrected to 'quadrant'",
+      "image": ""
+    },
+    {
+      "en": "The esophagus",
+      "ru": "Пищевод",
+      "example_en": "Food passes from the mouth through the esophagus to the stomach.",
+      "example_ru": "Пища проходит через пищевод из полости рта в желудок.",
+      "note": "",
+      "image": ""
+    },
+    {
+      "en": "The sigmoid colon",
+      "ru": "Сигмовидная кишка",
+      "example_en": "A polyp was found in the sigmoid colon during colonoscopy.",
+      "example_ru": "При колоноскопии в сигмовидной кишке обнаружили полип.",
+      "note": "",
+      "image": ""
+    },
+    {
+      "en": "The walls of the colon",
+      "ru": "Стенки толстой кишки",
+      "example_en": "Imaging showed thickening of the walls of the colon.",
+      "example_ru": "На снимках выявлено утолщение стенок толстой кишки.",
+      "note": "",
+      "image": ""
+    },
+    {
+      "en": "Gut Bacteria / Gut Microbiome",
+      "ru": "Кишечная микрофлора",
+      "example_en": "Antibiotics can disrupt the gut bacteria.",
+      "example_ru": "Антибиотики могут нарушить кишечную микрофлору.",
+      "note": "",
+      "image": ""
+    }
+  ]
 }

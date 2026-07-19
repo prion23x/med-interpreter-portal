@@ -4,7 +4,7 @@
     "color": "#a6da95",
     "terms": [
         {
-            "en": "Lung resection",
+            "en": "The Lung resection",
             "ru": "удаление части лёгкого",
             "example_en": "A lung resection removes the affected part of the lung.",
             "example_ru": "Удаление части лёгкого позволяет убрать поражённый участок.",
@@ -12,7 +12,7 @@
             "image": ""
         },
         {
-            "en": "Drain fluid from the lungs",
+            "en": "To drain fluid from the lungs",
             "ru": "откачать жидкость из лёгких",
             "example_en": "The team may need to drain fluid from the lungs.",
             "example_ru": "Команде может понадобиться откачать жидкость из лёгких.",
@@ -20,7 +20,7 @@
             "image": ""
         },
         {
-            "en": "Bag suctioning",
+            "en": "The Bag suctioning",
             "ru": "аспирация мешком",
             "example_en": "Bag suctioning can help clear secretions from the airway.",
             "example_ru": "Аспирация мешком может помочь удалить выделения из дыхательных путей.",
@@ -28,7 +28,7 @@
             "image": ""
         },
         {
-            "en": "Forceful breathing test",
+            "en": "The Forceful breathing test",
             "ru": "тест форсированного дыхания",
             "example_en": "The forceful breathing test measures how well air moves out of the lungs.",
             "example_ru": "Тест форсированного дыхания измеряет, насколько хорошо воздух выходит из лёгких.",
@@ -36,7 +36,7 @@
             "image": ""
         },
         {
-            "en": "Breathe fast",
+            "en": "To breathe fast",
             "ru": "дышите быстро",
             "example_en": "For this part of the test, breathe fast when I tell you.",
             "example_ru": "Для этой части теста дышите быстро, когда я скажу.",
@@ -44,7 +44,7 @@
             "image": ""
         },
         {
-            "en": "Breathe normally",
+            "en": "To breathe normally",
             "ru": "дышите обычно",
             "example_en": "Please breathe normally while we record the reading.",
             "example_ru": "Пожалуйста, дышите обычно, пока мы записываем показатель.",
@@ -52,7 +52,7 @@
             "image": ""
         },
         {
-            "en": "Breathe out with force",
+            "en": "To breathe out with force",
             "ru": "выдохните с силой",
             "example_en": "Take a deep breath, then breathe out with force.",
             "example_ru": "Сделайте глубокий вдох, затем выдохните с силой.",

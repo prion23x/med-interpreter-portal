@@ -4,7 +4,7 @@
     "color": "#f5bde6",
     "terms": [
         {
-            "en": "Nasal cannula",
+            "en": "The Nasal cannula",
             "ru": "назальная канюля",
             "example_en": "The nasal cannula delivers oxygen through the nose.",
             "example_ru": "Назальная канюля подаёт кислород через нос.",
@@ -12,7 +12,7 @@
             "image": ""
         },
         {
-            "en": "Cannula",
+            "en": "The Cannula",
             "ru": "канюля",
             "example_en": "The cannula should sit comfortably in the nostrils.",
             "example_ru": "Канюля должна удобно располагаться в ноздрях.",
@@ -20,7 +20,7 @@
             "image": ""
         },
         {
-            "en": "Pulse oximeter",
+            "en": "The Pulse oximeter",
             "ru": "пульсоксиметр",
             "example_en": "The pulse oximeter clips onto your finger.",
             "example_ru": "Пульсоксиметр закрепляется на пальце.",
@@ -36,7 +36,7 @@
             "image": ""
         },
         {
-            "en": "Suction device",
+            "en": "The Suction device",
             "ru": "аппарат для отсасывания",
             "example_en": "The suction device removes mucus from the airway.",
             "example_ru": "Аппарат для отсасывания удаляет слизь из дыхательных путей.",
@@ -44,7 +44,7 @@
             "image": ""
         },
         {
-            "en": "Suction catheter",
+            "en": "The Suction catheter",
             "ru": "отсасывающий катетер",
             "example_en": "A suction catheter can clear secretions from the tube.",
             "example_ru": "Отсасывающий катетер может удалить выделения из трубки.",
@@ -52,7 +52,7 @@
             "image": ""
         },
         {
-            "en": "Tracheostomy",
+            "en": "The Tracheostomy",
             "ru": "трахеостомия",
             "example_en": "A tracheostomy creates an opening in the neck for breathing.",
             "example_ru": "Трахеостомия создает отверстие в шее для дыхания.",
@@ -60,7 +60,7 @@
             "image": ""
         },
         {
-            "en": "CPAP",
+            "en": "The CPAP",
             "ru": "СИПАП",
             "example_en": "CPAP keeps the airway open during sleep.",
             "example_ru": "СИПАП поддерживает дыхательные пути открытыми во время сна.",

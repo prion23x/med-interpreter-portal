@@ -4,7 +4,7 @@
     "color": "#f5bde6",
     "terms": [
         {
-            "en": "Tubal ligation",
+            "en": "A Tubal ligation",
             "ru": "Перевязка маточных труб",
             "example_en": "She chose to have her tubes tied after her third child.",
             "example_ru": "Она решила перевязать маточные трубы после рождения третьего ребёнка.",
@@ -12,7 +12,7 @@
             "image": ""
         },
         {
-            "en": "Enema",
+            "en": "An Enema",
             "ru": "Клизма",
             "example_en": "An enema was given before the procedure.",
             "example_ru": "Перед процедурой была сделана клизма.",
@@ -36,7 +36,7 @@
             "image": ""
         },
         {
-            "en": "Dilation",
+            "en": "A Dilation",
             "ru": "Дилатация (расширение)",
             "example_en": "Dilation is measured in centimeters during labor.",
             "example_ru": "Дилатацию измеряют в сантиметрах во время родов.",
@@ -76,7 +76,7 @@
             "image": ""
         },
         {
-            "en": "Endometrial ablation",
+            "en": "An Endometrial ablation",
             "ru": "Прижигание слизистой оболочки матки",
             "example_en": "Endometrial ablation can reduce heavy menstrual bleeding.",
             "example_ru": "Прижигание слизистой оболочки матки может уменьшить обильные менструальные кровотечения.",
@@ -92,7 +92,7 @@
             "image": ""
         },
         {
-            "en": "Genetic chromosomal screening",
+            "en": "A Genetic chromosomal screening",
             "ru": "Генетический хромосомный скрининг плода",
             "example_en": "Genetic chromosomal screening can detect certain conditions early in pregnancy.",
             "example_ru": "Генетический хромосомный скрининг может выявить некоторые состояния на ранних сроках беременности.",
@@ -124,7 +124,7 @@
             "image": ""
         },
         {
-            "en": "Transvaginal urethral sling placement",
+            "en": "A Transvaginal urethral sling placement",
             "ru": "Установка трансвагинальной синтетической уретральной петли",
             "example_en": "The sling placement helps treat urinary incontinence.",
             "example_ru": "Установка петли помогает лечить недержание мочи.",
@@ -132,7 +132,7 @@
             "image": ""
         },
         {
-            "en": "In vitro fertilization (IVF)",
+            "en": "An In vitro fertilization (IVF)",
             "ru": "Экстракорпоральное оплодотворение",
             "example_en": "IVF combines eggs and sperm outside the body.",
             "example_ru": "ЭКО объединяет яйцеклетки и сперматозоиды вне организма.",
@@ -148,7 +148,7 @@
             "image": ""
         },
         {
-            "en": "Perineal repair",
+            "en": "A Perineal repair",
             "ru": "Восстановление промежности",
             "example_en": "Perineal repair is done after a tear during delivery.",
             "example_ru": "Восстановление промежности проводится после разрыва во время родов.",
@@ -164,7 +164,7 @@
             "image": ""
         },
         {
-            "en": "Delivery",
+            "en": "A Delivery",
             "ru": "Роды",
             "example_en": "You need to bear down and push during each contraction.",
             "example_ru": "Вам нужно тужиться и толкать во время каждой схватки.",
@@ -188,7 +188,7 @@
             "image": ""
         },
         {
-            "en": "Tissue re-resection",
+            "en": "A Tissue re-resection",
             "ru": "Повторная резекция тканей",
             "example_en": "A re-resection was needed after positive margins were found.",
             "example_ru": "Потребовалась повторная резекция тканей после обнаружения позитивных краёв.",

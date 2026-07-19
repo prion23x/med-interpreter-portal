@@ -9,7 +9,8 @@
             "example_en": "Apply the medical patch directly over the area.",
             "example_ru": "Наклейте медицинский пластырь непосредственно на область.",
             "note": "An adhesive covering applied to the skin to protect a wound or sore, or to deliver medication transdermally (e.g. nicotine, lidocaine or pain-relief patches).",
-            "image": "data/images/Medical patches.webp"
+            "image": "data/images/Medical patches.webp",
+            "audio_path": "dermatology_devices_medical_patches_1.mp3"
         },
         {
             "en": "Compression stockings / socks",
@@ -17,7 +18,8 @@
             "example_en": "Wear the compression stockings during the day.",
             "example_ru": "Носите компрессионные чулки в течение дня.",
             "note": "An elastic garment worn around the leg that applies graduated pressure — highest at the ankle and decreasing upward — to improve venous blood return and reduce swelling.",
-            "image": "data/images/Stockings.jpg"
+            "image": "data/images/Stockings.jpg",
+            "audio_path": "dermatology_devices_compression_stockings__socks_2.mp3"
         },
         {
             "en": "A compression garment",
@@ -25,7 +27,8 @@
             "example_en": "The compression garment helps reduce swelling.",
             "example_ru": "Компрессионное изделие помогает уменьшить отёк.",
             "note": "Tight-fitting elastic clothing that applies sustained pressure to a body area to control swelling, support post-surgical healing, and manage conditions like lymphedema or venous insufficiency.",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_devices_a_compression_garment_3.mp3"
         },
         {
             "en": "A dressing",
@@ -33,7 +36,8 @@
             "example_en": "Change the dressing once a day.",
             "example_ru": "Меняйте повязку один раз в день.",
             "note": "A material applied to a wound to provide a protective barrier against contamination, absorb drainage, and maintain the moisture level needed for healing.",
-            "image": "data/images/Dressing.jpeg"
+            "image": "data/images/Dressing.jpeg",
+            "audio_path": "dermatology_devices_a_dressing_4.mp3"
         },
         {
             "en": "Shrinker sock",
@@ -41,7 +45,8 @@
             "example_en": "The shrinker sock reduces swelling after amputation.",
             "example_ru": "Компрессионный носок уменьшает отёк после ампутации.",
             "note": "A compression garment worn over the residual limb after amputation to reduce post-surgical swelling and gradually reshape the limb into a conical form suitable for prosthetic fitting.",
-            "image": "data/images/Shrinker sock.jpeg"
+            "image": "data/images/Shrinker sock.jpeg",
+            "audio_path": "dermatology_devices_shrinker_sock_5.mp3"
         },
         {
             "en": "Mild soap",
@@ -49,7 +54,8 @@
             "example_en": "Clean the wound with mild soap and water.",
             "example_ru": "Промойте рану мягким мылом и водой.",
             "note": "General wound-care supply.",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_devices_mild_soap_6.mp3"
         }
     ]
 }

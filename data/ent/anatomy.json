@@ -149,7 +149,7 @@
             "image": "data/images/Windpipe.jpg"
         },
         {
-            "en": "Tracheal cartilage",
+            "en": "The Tracheal cartilage",
             "ru": "Трахеальный хрящ",
             "example_en": "The tracheal cartilage rings keep the windpipe open.",
             "example_ru": "Кольца трахеального хряща держат дыхательное горло открытым.",
@@ -165,7 +165,7 @@
             "image": "data/images/Lung roots.jpg"
         },
         {
-            "en": "Root of the lung",
+            "en": "The Root of the lung",
             "ru": "Корень лёгкого",
             "example_en": "The root of the lung contains the main blood vessels and bronchi.",
             "example_ru": "Корень лёгкого содержит основные кровеносные сосуды и бронхи.",
@@ -221,7 +221,7 @@
             "image": "data/images/Uvula.jpeg"
         },
         {
-            "en": "Sense of taste (gustation)",
+            "en": "The Sense of taste (gustation)",
             "ru": "Чувство вкуса",
             "example_en": "Some patients report a temporary loss of taste after a sinus infection.",
             "example_ru": "Некоторые пациенты сообщают о временной потере чувства вкуса после синусита.",
@@ -229,7 +229,7 @@
             "image": ""
         },
         {
-            "en": "Sense of smell (olfaction)",
+            "en": "The Sense of smell (olfaction)",
             "ru": "Чувство запаха (обоняние)",
             "example_en": "A blocked nose can reduce the sense of smell.",
             "example_ru": "Заложенность носа может снижать чувство запаха.",

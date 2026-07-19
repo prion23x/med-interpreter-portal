@@ -4,7 +4,7 @@
     "color": "#8aadf4",
     "terms": [
         {
-            "en": "Windpipe",
+            "en": "The Windpipe",
             "ru": "трахея",
             "example_en": "The windpipe carries air from the throat to the lungs.",
             "example_ru": "Трахея проводит воздух из горла в лёгкие.",
@@ -12,7 +12,7 @@
             "image": "data/images/Windpipe.jpg"
         },
         {
-            "en": "Tracheal cartilage",
+            "en": "The Tracheal cartilage",
             "ru": "Трахеальный хрящ",
             "example_en": "The tracheal cartilage rings keep the windpipe open.",
             "example_ru": "Кольца трахеального хряща держат дыхательное горло открытым.",
@@ -20,7 +20,7 @@
             "image": "data/images/Lung roots.jpg"
         },
         {
-            "en": "Root of the lung",
+            "en": "The Root of the lung",
             "ru": "Корень лёгкого",
             "example_en": "The root of the lung contains the main blood vessels and bronchi.",
             "example_ru": "Корень лёгкого содержит основные кровеносные сосуды и бронхи.",
@@ -52,7 +52,7 @@
             "image": "data/images/Windpipe.jpg"
         },
         {
-            "en": "Bronchiole",
+            "en": "The Bronchiole",
             "ru": "Бронхиола",
             "example_en": "The bronchiole is the smallest branch of the bronchi before the alveoli.",
             "example_ru": "Бронхиола — это наименьшее ветвление бронхов перед альвеолами.",
@@ -60,7 +60,7 @@
             "image": "data/images/Windpipe.jpg"
         },
         {
-            "en": "Voice box (larynx)",
+            "en": "The Voice box (larynx)",
             "ru": "Гортань",
             "example_en": "The voice box houses the vocal cords.",
             "example_ru": "Гортань содержит голосовые связки.",
@@ -76,7 +76,7 @@
             "image": "data/images/Vocal cords.jpg"
         },
         {
-            "en": "Lung lobe",
+            "en": "The Lung lobe",
             "ru": "лёгочная доля",
             "example_en": "The right lung has three lobes.",
             "example_ru": "Правое лёгкое имеет три доли.",
@@ -92,7 +92,7 @@
             "image": ""
         },
         {
-            "en": "Chest wall",
+            "en": "The Chest wall",
             "ru": "стенка грудной клетки",
             "example_en": "The chest wall moves when you breathe.",
             "example_ru": "Стенка грудной клетки двигается, когда вы дышите.",
@@ -100,7 +100,7 @@
             "image": ""
         },
         {
-            "en": "Breathing rate",
+            "en": "The Breathing rate",
             "ru": "частота дыхания",
             "example_en": "The nurse will check your breathing rate.",
             "example_ru": "Медсестра проверит частоту дыхания.",
@@ -108,7 +108,7 @@
             "image": ""
         },
         {
-            "en": "Oxygen level / SpO2",
+            "en": "The Oxygen level / SpO2",
             "ru": "уровень кислорода / SpO2",
             "example_en": "The oxygen level is measured with a pulse oximeter.",
             "example_ru": "Уровень кислорода измеряют пульсоксиметром.",
@@ -140,7 +140,7 @@
             "image": ""
         },
         {
-            "en": "Upper respiratory tract",
+            "en": "The Upper respiratory tract",
             "ru": "верхние дыхательные пути",
             "example_en": "A cold usually affects the upper respiratory tract.",
             "example_ru": "Простуда обычно поражает верхние дыхательные пути.",

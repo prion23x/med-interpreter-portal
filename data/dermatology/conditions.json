@@ -9,7 +9,8 @@
             "example_en": "She broke out in hives after taking the medication.",
             "example_ru": "У неё появилась крапивница после приёма лекарства.",
             "note": "",
-            "image": "data/images/Hives.jpg"
+            "image": "data/images/Hives.jpg",
+            "audio_path": "dermatology_conditions_hives_1.mp3"
         },
         {
             "en": "A blister",
@@ -17,7 +18,8 @@
             "example_en": "Won't this cause a blister?",
             "example_ru": "Это не вызовет волдырь?",
             "note": "Keep distinct from Callus/corn below.",
-            "image": "data/images/Blister.png"
+            "image": "data/images/Blister.png",
+            "audio_path": "dermatology_conditions_a_blister_2.mp3"
         },
         {
             "en": "A corn",
@@ -25,7 +27,8 @@
             "example_en": "He wore tight dress shoes and developed a painful corn on his pinky toe.",
             "example_ru": "Из-за тесной обуви у него на мизинце ноги появилась болезненная стержневая мозоль.",
             "note": "Refers to small, painful bumps with a deep, hard center core, typically found on toes.",
-            "image": "data/images/Corn_and_Callus.jpg"
+            "image": "data/images/Corn_and_Callus.jpg",
+            "audio_path": "dermatology_conditions_a_corn_3.mp3"
         },
         {
             "en": "A callus",
@@ -33,7 +36,8 @@
             "example_en": "Running every day caused a thick callus to form on the ball of her foot.",
             "example_ru": "Ежедневный бег привёл к образованию толстого натоптыша на подушечке стопы.",
             "note": "Refers to flat, broad patches of rough, thickened skin, typically found on the soles of the feet.",
-            "image": "data/images/Corn_and_Callus.jpg"
+            "image": "data/images/Corn_and_Callus.jpg",
+            "audio_path": "dermatology_conditions_a_callus_4.mp3"
         },
         {
             "en": "Shingles",
@@ -41,7 +45,8 @@
             "example_en": "Shingles causes a painful, blistering rash.",
             "example_ru": "Опоясывающий лишай вызывает болезненную сыпь с волдырями.",
             "note": "",
-            "image": "data/images/Shingles.png"
+            "image": "data/images/Shingles.png",
+            "audio_path": "dermatology_conditions_shingles_5.mp3"
         },
         {
             "en": "Painful masses / growths",
@@ -49,7 +54,8 @@
             "example_en": "The patient reported painful growths under the skin.",
             "example_ru": "Пациент сообщил о болезненных наростах под кожей.",
             "note": "",
-            "image": "data/images/Painful masses.jpeg"
+            "image": "data/images/Painful masses.jpeg",
+            "audio_path": "dermatology_conditions_painful_masses__growths_6.mp3"
         },
         {
             "en": "Peel off (skin peeling)",
@@ -57,7 +63,8 @@
             "example_en": "The old bandage started to peel off.",
             "example_ru": "Старая повязка начала отклеиваться.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_conditions_peel_off_skin_peeling_7.mp3"
         },
         {
             "en": "The affected area",
@@ -65,7 +72,8 @@
             "example_en": "Keep the affected area clean and dry.",
             "example_ru": "Держите поражённую область в чистоте и сухости.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_conditions_the_affected_area_8.mp3"
         },
         {
             "en": "Breakdown of tissue",
@@ -73,7 +81,8 @@
             "example_en": "Prolonged pressure can cause breakdown of tissue.",
             "example_ru": "Длительное давление может вызвать разрушение ткани.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_conditions_breakdown_of_tissue_9.mp3"
         },
         {
             "en": "A scar",
@@ -81,7 +90,8 @@
             "example_en": "The scar has faded over the past year.",
             "example_ru": "Шрам поблек за последний год.",
             "note": "",
-            "image": "data/images/Scar.jpg"
+            "image": "data/images/Scar.jpg",
+            "audio_path": "dermatology_conditions_a_scar_10.mp3"
         },
         {
             "en": "The scar tissue",
@@ -89,7 +99,8 @@
             "example_en": "Scar tissue formed around the wound.",
             "example_ru": "Вокруг раны образовалась рубцовая ткань.",
             "note": "",
-            "image": "data/images/Scar tissue.jpeg"
+            "image": "data/images/Scar tissue.jpeg",
+            "audio_path": "dermatology_conditions_the_scar_tissue_11.mp3"
         },
         {
             "en": "Staphylococcus",
@@ -97,7 +108,8 @@
             "example_en": "The culture came back positive for staphylococcus.",
             "example_ru": "Посев показал положительный результат на стафилококк.",
             "note": "",
-            "image": "data/images/Staphylococcus.jpg"
+            "image": "data/images/Staphylococcus.jpg",
+            "audio_path": "dermatology_conditions_staphylococcus_12.mp3"
         },
         {
             "en": "Itching",
@@ -105,7 +117,8 @@
             "example_en": "The rash is accompanied by intense itching.",
             "example_ru": "Сыпь сопровождается сильным зудом.",
             "note": "",
-            "image": "data/images/Itching.webp"
+            "image": "data/images/Itching.webp",
+            "audio_path": "dermatology_conditions_itching_13.mp3"
         },
         {
             "en": "Lichen",
@@ -113,7 +126,8 @@
             "example_en": "Lichen planus can cause itchy, purple bumps.",
             "example_ru": "Лишай может вызывать зудящие лиловые высыпания.",
             "note": "Distinct from Eczema.",
-            "image": "data/images/Lichen.webp"
+            "image": "data/images/Lichen.webp",
+            "audio_path": "dermatology_conditions_lichen_14.mp3"
         },
         {
             "en": "Skin breakdown",
@@ -121,7 +135,8 @@
             "example_en": "Skin breakdown was noted near the wound edges.",
             "example_ru": "Отмечено нарушение целостности кожи по краям раны.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_conditions_skin_breakdown_15.mp3"
         },
         {
             "en": "Inflammation",
@@ -129,7 +144,8 @@
             "example_en": "The area shows signs of inflammation.",
             "example_ru": "В этой области отмечены признаки воспаления.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_conditions_inflammation_16.mp3"
         },
         {
             "en": "Swelling",
@@ -137,7 +153,8 @@
             "example_en": "There is mild swelling around the injection site.",
             "example_ru": "Вокруг места инъекции наблюдается лёгкий отёк.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_conditions_swelling_17.mp3"
         },
         {
             "en": "Hair loss",
@@ -145,7 +162,8 @@
             "example_en": "Hair loss can be a side effect of the treatment.",
             "example_ru": "Выпадение волос может быть побочным эффектом лечения.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_conditions_hair_loss_18.mp3"
         },
         {
             "en": "Skin tear",
@@ -153,7 +171,8 @@
             "example_en": "The fall caused a skin tear on her forearm.",
             "example_ru": "Падение вызвало разрыв кожи на предплечье.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_conditions_skin_tear_19.mp3"
         },
         {
             "en": "Lump in the neck",
@@ -161,7 +180,8 @@
             "example_en": "She noticed a lump in her neck last week.",
             "example_ru": "На прошлой неделе она заметила уплотнение на шее.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_conditions_lump_in_the_neck_20.mp3"
         },
         {
             "en": "Red patches on the skin",
@@ -169,7 +189,8 @@
             "example_en": "Red patches appeared on his arms.",
             "example_ru": "На его руках появились покраснения.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_conditions_red_patches_on_the_skin_21.mp3"
         },
         {
             "en": "Eczema",
@@ -177,7 +198,8 @@
             "example_en": "Eczema causes dry, itchy, inflamed skin.",
             "example_ru": "Экзема вызывает сухость, зуд и воспаление кожи.",
             "note": "Commonly referring to atopic dermatitis, is a chronic skin condition characterized by dry, red, and intensely itchy patches",
-            "image": "data/images/Eczema.jpg"
+            "image": "data/images/Eczema.jpg",
+            "audio_path": "dermatology_conditions_eczema_22.mp3"
         },
         {
             "en": "A lesion",
@@ -185,7 +207,8 @@
             "example_en": "The lesion was biopsied to rule out malignancy.",
             "example_ru": "Была взята биопсия поражения для исключения злокачественности.",
             "note": "",
-            "image": "data/images/Lesion.webp"
+            "image": "data/images/Lesion.webp",
+            "audio_path": "dermatology_conditions_a_lesion_23.mp3"
         },
         {
             "en": "Lymphedema",
@@ -193,7 +216,8 @@
             "example_en": "She developed lower extremity lymphedema after surgery.",
             "example_ru": "После операции у неё развилась лимфедема нижних конечностей.",
             "note": "Lymphedema is chronic swelling caused by a backup of lymph fluid in the body's tissues. It happens when lymph nodes or vessels are damaged or removed, usually from cancer treatment",
-            "image": "data/images/Lymphedema.png"
+            "image": "data/images/Lymphedema.png",
+            "audio_path": "dermatology_conditions_lymphedema_24.mp3"
         },
         {
             "en": "Gout",
@@ -201,7 +225,8 @@
             "example_en": "Gout often affects the big toe first.",
             "example_ru": "Подагра часто в первую очередь поражает большой палец ноги.",
             "note": "Gout is a highly painful, inflammatory form of arthritis caused by an excess of uric acid in the blood (hyperuricemia)",
-            "image": "data/images/Gout.jpg"
+            "image": "data/images/Gout.jpg",
+            "audio_path": "dermatology_conditions_gout_25.mp3"
         },
         {
             "en": "Advanced scabies",
@@ -209,7 +234,8 @@
             "example_en": "The rash was diagnosed as an advanced form of scabies.",
             "example_ru": "Сыпь была диагностирована как запущенная форма чесотки.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_conditions_advanced_scabies_26.mp3"
         },
         {
             "en": "Skin manifestation",
@@ -217,7 +243,8 @@
             "example_en": "This is a common skin manifestation of the disease.",
             "example_ru": "Это распространённое кожное проявление данного заболевания.",
             "note": "A skin manifestation is an outward sign on your skin caused by an internal illness. Your skin acts like a window. It shows clues about hidden issues like infections, immune problems, or organ diseases in your organs. Common signs include rashes, bumps, or color changes.",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_conditions_skin_manifestation_27.mp3"
         },
         {
             "en": "Lupus",
@@ -225,7 +252,8 @@
             "example_en": "Lupus can cause a butterfly-shaped rash on the face.",
             "example_ru": "Волчанка может вызывать сыпь в форме бабочки на лице.",
             "note": "",
-            "image": "data/images/Lupus.jpg"
+            "image": "data/images/Lupus.jpg",
+            "audio_path": "dermatology_conditions_lupus_28.mp3"
         },
         {
             "en": "Yellowing of the skin",
@@ -233,7 +261,8 @@
             "example_en": "Yellowing of the skin may indicate a liver problem.",
             "example_ru": "Пожелтение кожи может указывать на проблему с печенью.",
             "note": "Yellowing of the skin is often caused by jaundice, a buildup of bilirubin (a yellow waste product from dead red blood cells) in the blood.",
-            "image": "data/images/Yellowing of the skin.jpg"
+            "image": "data/images/Yellowing of the skin.jpg",
+            "audio_path": "dermatology_conditions_yellowing_of_the_skin_29.mp3"
         },
         {
             "en": "Heavy sweating",
@@ -241,7 +270,8 @@
             "example_en": "He reported heavy sweating at night.",
             "example_ru": "Он сообщил о сильном потоотделении по ночам.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_conditions_heavy_sweating_30.mp3"
         },
         {
             "en": "Sores",
@@ -249,7 +279,8 @@
             "example_en": "The patient had several sores on her legs.",
             "example_ru": "У пациентки было несколько болячек на ногах.",
             "note": "",
-            "image": "data/images/Sores.jpg"
+            "image": "data/images/Sores.jpg",
+            "audio_path": "dermatology_conditions_sores_31.mp3"
         },
         {
             "en": "Pressure/Bed sores (pressure injury)",
@@ -257,7 +288,8 @@
             "example_en": "Pressure sores can develop from staying in one position too long.",
             "example_ru": "Пролежни могут появиться из-за долгого пребывания в одном положении.",
             "note": "Pressure sores (or bedsores) happen when constant weight presses on your skin and cuts off blood flow.",
-            "image": "data/images/Pressure sores.png"
+            "image": "data/images/Pressure sores.png",
+            "audio_path": "dermatology_conditions_pressurebed_sores_pressure_injury_32.mp3"
         },
         {
             "en": "Clogged pore",
@@ -265,7 +297,8 @@
             "example_en": "A clogged pore can lead to a breakout.",
             "example_ru": "Закупоренная пора может привести к высыпанию.",
             "note": "",
-            "image": "data/images/Clogged pore.jpg"
+            "image": "data/images/Clogged pore.jpg",
+            "audio_path": "dermatology_conditions_clogged_pore_33.mp3"
         },
         {
             "en": "Bug bites",
@@ -273,7 +306,8 @@
             "example_en": "The bug bites caused mild swelling and redness.",
             "example_ru": "Укусы насекомых вызвали лёгкий отёк и покраснение.",
             "note": "",
-            "image": "data/images/Bug bites.jpg"
+            "image": "data/images/Bug bites.jpg",
+            "audio_path": "dermatology_conditions_bug_bites_34.mp3"
         },
         {
             "en": "Flushing on the cheeks",
@@ -281,7 +315,8 @@
             "example_en": "She experiences flushing in the cheeks when anxious.",
             "example_ru": "У неё появляется покраснение на щеках при волнении.",
             "note": "Cheek flushing happens when the blood vessels in your face suddenly widen.",
-            "image": "data/images/Flushing in the cheeks.png"
+            "image": "data/images/Flushing in the cheeks.png",
+            "audio_path": "dermatology_conditions_flushing_on_the_cheeks_35.mp3"
         },
         {
             "en": "Ridge (bump)",
@@ -289,7 +324,8 @@
             "example_en": "There is a small ridge along the scar line.",
             "example_ru": "Вдоль линии шрама есть небольшой выступ.",
             "note": "",
-            "image": "data/images/Ridge.jpeg"
+            "image": "data/images/Ridge.jpeg",
+            "audio_path": "dermatology_conditions_ridge_bump_36.mp3"
         },
         {
             "en": "Lipoma (fatty tumor)",
@@ -297,7 +333,8 @@
             "example_en": "The lipoma was soft and moved easily under the skin.",
             "example_ru": "Жировик был мягким и легко смещался под кожей.",
             "note": "",
-            "image": "data/images/Lipoma.jpeg"
+            "image": "data/images/Lipoma.jpeg",
+            "audio_path": "dermatology_conditions_lipoma_fatty_tumor_37.mp3"
         },
         {
             "en": "Bruise / bruising",
@@ -305,7 +342,8 @@
             "example_en": "The bruise should fade within two weeks.",
             "example_ru": "Синяк должен пройти в течение двух недель.",
             "note": "A bruise (also called a contusion) is a common skin injury that occurs when trauma damages small blood vessels under the skin WITHOUT breaking it",
-            "image": "data/images/Bruise.jpeg"
+            "image": "data/images/Bruise.jpeg",
+            "audio_path": "dermatology_conditions_bruise__bruising_38.mp3"
         },
         {
             "en": "Scab",
@@ -313,7 +351,8 @@
             "example_en": "Don't pick at the scab while it heals.",
             "example_ru": "Не сдирайте корку, пока она заживает.",
             "note": "",
-            "image": "data/images/Scab.jpeg"
+            "image": "data/images/Scab.jpeg",
+            "audio_path": "dermatology_conditions_scab_39.mp3"
         },
         {
             "en": "Red mole (red nevus / birthmark)",
@@ -321,7 +360,8 @@
             "example_en": "The red mole has not changed in size.",
             "example_ru": "Красная родинка не изменилась в размере.",
             "note": "A hematoma is a localized collection of blood that pools outside of damaged blood vessels.",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_conditions_red_mole_red_nevus_birthmark_40.mp3"
         },
         {
             "en": "Hematoma",
@@ -329,7 +369,8 @@
             "example_en": "A hematoma formed after the injection.",
             "example_ru": "После инъекции образовалась гематома.",
             "note": "",
-            "image": "data/images/Hematoma.jpg"
+            "image": "data/images/Hematoma.jpg",
+            "audio_path": "dermatology_conditions_hematoma_41.mp3"
         }
     ]
 }

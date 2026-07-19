@@ -12,7 +12,7 @@
             "image": ""
         },
         {
-            "en": "Squeeze the eyelids shut",
+            "en": "To squeeze the eyelids shut",
             "ru": "Зажмуриться",
             "example_en": "Please squeeze your eyelids shut tightly, then relax.",
             "example_ru": "Пожалуйста, крепко зажмурьтесь, а затем расслабьтесь.",
@@ -20,7 +20,7 @@
             "image": ""
         },
         {
-            "en": "Pull an eyelash",
+            "en": "To pull an eyelash",
             "ru": "Выдернуть ресницу",
             "example_en": "The doctor had to pull an eyelash that was irritating the eye.",
             "example_ru": "Врачу пришлось выдернуть ресницу, которая раздражала глаз.",
@@ -28,7 +28,7 @@
             "image": ""
         },
         {
-            "en": "Refraction (test)",
+            "en": "A refraction (test)",
             "ru": "Рефракция",
             "example_en": "The refraction test determines your glasses prescription.",
             "example_ru": "Тест на рефракцию определяет параметры для очков.",

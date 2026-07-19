@@ -9,7 +9,8 @@
             "example_en": "The dermatologist checked for clogged pores.",
             "example_ru": "Дерматолог проверил кожу на наличие закупоренных пор.",
             "note": "",
-            "image": "data/images/Pore.jpg"
+            "image": "data/images/Pore.jpg",
+            "audio_path": "dermatology_anatomy_a_pore_1.mp3"
         },
         {
             "en": "The oil glands (sebaceous glands)",
@@ -17,7 +18,8 @@
             "example_en": "Oil glands can become overactive during adolescence.",
             "example_ru": "Сальные железы могут становиться более активными в подростковом возрасте.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_anatomy_the_oil_glands_sebaceous_glands_2.mp3"
         },
         {
             "en": "A skin fold / furrow",
@@ -25,7 +27,8 @@
             "example_en": "A rash developed in the skin fold under her arm.",
             "example_ru": "Сыпь появилась в кожной складке под мышкой.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_anatomy_a_skin_fold__furrow_3.mp3"
         },
         {
             "en": "The ball of the foot",
@@ -33,7 +36,8 @@
             "example_en": "High heels often cause a burning pain in the ball of the foot.",
             "example_ru": "Высокие каблуки часто вызывают жгучую боль в подушечке стопы.",
             "note": "The padded area on the bottom of the foot located right behind the toes.",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_anatomy_the_ball_of_the_foot_4.mp3"
         },
         {
             "en": "The heel",
@@ -41,7 +45,8 @@
             "example_en": "He developed a painful blister on his heel from his new running shoes.",
             "example_ru": "Из-за новых кроссовок у него на пятке появился болезненный мозоль.",
             "note": "The rounded, bony back part of the foot beneath the ankle.",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_anatomy_the_heel_5.mp3"
         },
         {
             "en": "Uric Acid",
@@ -49,7 +54,8 @@
             "example_en": "The doctor explained that high uric acid levels can lead to gout and joint pain.",
             "example_ru": "Врач объяснил, что высокий уровень мочевой кислоты может привести к подагре и боли в суставах.",
             "note": "Uric acid is a waste product generated when the body breaks down purines found in your cells and certain foods.",
-            "image": ""
+            "image": "",
+            "audio_path": "dermatology_anatomy_uric_acid_6.mp3"
         }
     ]
 }

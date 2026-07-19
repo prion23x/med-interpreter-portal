@@ -1,63 +1,63 @@
 {
-    "intro": "DEVICES and equipment used in gastroenterological care.",
-    "reading": "GI devices include drainage and feeding systems, ostomy appliances, and diagnostic scopes. Interpreters should note the distinction between NG tube (inserted through the nose) and G tube (surgically placed through the abdomen), as well as ostomy bag terminology used in post-surgical care discussions.",
-    "color": "#a6e3a1",
-    "terms": [
-        {
-            "en": "A stoma bag / ostomy bag",
-            "ru": "Мешок для стомы / Калоприёмник",
-            "example_en": "The nurse demonstrated how to empty and change the stoma bag.",
-            "example_ru": "Медсестра показала, как опустошать и менять мешок для стомы.",
-            "note": "'Калоприёмник' is the common informal term",
-            "image": ""
-        },
-        {
-            "en": "A feeding tube",
-            "ru": "Зонд для кормления",
-            "example_en": "The patient was unable to eat and required a feeding tube.",
-            "example_ru": "Пациент не мог питаться самостоятельно, поэтому ему потребовался зонд для кормления.",
-            "note": "General umbrella term; merged 2 source entries with different translations. Specific types: NG tube, G tube — see separate entries",
-            "image": ""
-        },
-        {
-            "en": "A bedpan",
-            "ru": "Судно / Утка",
-            "example_en": "The patient needed a bedpan during the night.",
-            "example_ru": "Ночью пациенту понадобилось судно.",
-            "note": "'Утка' (urinal-type) is informal; 'судно' is the standard medical term",
-            "image": ""
-        },
-        {
-            "en": "An NG tube (nasogastric tube)",
-            "ru": "Назогастральный зонд",
-            "example_en": "The NG tube was inserted through the nose to drain stomach contents.",
-            "example_ru": "Назогастральный зонд ввели через нос для откачивания содержимого желудка.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "A G tube (gastrostomy tube)",
-            "ru": "Гастростомическая трубка",
-            "example_en": "The G tube is placed directly into the stomach through the abdominal wall.",
-            "example_ru": "Гастростомическая трубка вводится непосредственно в желудок через брюшную стенку.",
-            "note": "Distinct from NG tube — surgically placed, not passed through the nose",
-            "image": ""
-        },
-        {
-            "en": "A JP drain (Jackson-Pratt drain)",
-            "ru": "Дренаж Джексона–Пратта (активный вакуумный дренаж)",
-            "example_en": "The JP drain was removed on the third day after surgery.",
-            "example_ru": "Дренаж Джексона–Пратта удалили на третий день после операции.",
-            "note": "",
-            "image": ""
-        },
-        {
-            "en": "A scope / endoscope",
-            "ru": "Эндоскоп",
-            "example_en": "The scope was passed through the mouth to examine the esophagus.",
-            "example_ru": "Эндоскоп ввели через рот для осмотра пищевода.",
-            "note": "Source: 'a scope ; зонд' — in GI context 'scope' means endoscope, not a generic probe",
-            "image": ""
-        }
-    ]
+  "intro": "DEVICES and equipment used in gastroenterological care.",
+  "reading": "GI devices include drainage and feeding systems, ostomy appliances, and diagnostic scopes. Interpreters should note the distinction between NG tube (inserted through the nose) and G tube (surgically placed through the abdomen), as well as ostomy bag terminology used in post-surgical care discussions.",
+  "color": "#a6e3a1",
+  "terms": [
+    {
+      "en": "A stoma bag / ostomy bag",
+      "ru": "Мешок для стомы / Калоприёмник",
+      "example_en": "The nurse demonstrated how to empty and change the stoma bag.",
+      "example_ru": "Медсестра показала, как опустошать и менять мешок для стомы.",
+      "note": "'Калоприёмник' is the common informal term",
+      "image": ""
+    },
+    {
+      "en": "A feeding tube",
+      "ru": "Зонд для кормления",
+      "example_en": "The patient was unable to eat and required a feeding tube.",
+      "example_ru": "Пациент не мог питаться самостоятельно, поэтому ему потребовался зонд для кормления.",
+      "note": "General umbrella term; merged 2 source entries with different translations. Specific types: NG tube, G tube — see separate entries",
+      "image": ""
+    },
+    {
+      "en": "A bedpan",
+      "ru": "Судно / Утка",
+      "example_en": "The patient needed a bedpan during the night.",
+      "example_ru": "Ночью пациенту понадобилось судно.",
+      "note": "'Утка' (urinal-type) is informal; 'судно' is the standard medical term",
+      "image": ""
+    },
+    {
+      "en": "An NG tube (nasogastric tube)",
+      "ru": "Назогастральный зонд",
+      "example_en": "The NG tube was inserted through the nose to drain stomach contents.",
+      "example_ru": "Назогастральный зонд ввели через нос для откачивания содержимого желудка.",
+      "note": "",
+      "image": ""
+    },
+    {
+      "en": "A G tube (gastrostomy tube)",
+      "ru": "Гастростомическая трубка",
+      "example_en": "The G tube is placed directly into the stomach through the abdominal wall.",
+      "example_ru": "Гастростомическая трубка вводится непосредственно в желудок через брюшную стенку.",
+      "note": "Distinct from NG tube — surgically placed, not passed through the nose",
+      "image": ""
+    },
+    {
+      "en": "A JP drain (Jackson-Pratt drain)",
+      "ru": "Дренаж Джексона–Пратта (активный вакуумный дренаж)",
+      "example_en": "The JP drain was removed on the third day after surgery.",
+      "example_ru": "Дренаж Джексона–Пратта удалили на третий день после операции.",
+      "note": "",
+      "image": ""
+    },
+    {
+      "en": "A scope / endoscope",
+      "ru": "Эндоскоп",
+      "example_en": "The scope was passed through the mouth to examine the esophagus.",
+      "example_ru": "Эндоскоп ввели через рот для осмотра пищевода.",
+      "note": "Source: 'a scope ; зонд' — in GI context 'scope' means endoscope, not a generic probe",
+      "image": ""
+    }
+  ]
 }
