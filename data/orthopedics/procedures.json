@@ -4,7 +4,7 @@
     "color": "#8bd5ca",
     "terms": [
         {
-            "en": "Bone density test",
+            "en": "The Bone density test",
             "ru": "Тест плотности костей",
             "example_en": "The bone density test showed early signs of osteoporosis.",
             "example_ru": "Тест плотности костей выявил ранние признаки остеопороза.",
@@ -12,7 +12,7 @@
             "image": ""
         },
         {
-            "en": "Orthopedic surgery",
+            "en": "The Orthopedic surgery",
             "ru": "Ортопедическая хирургия",
             "example_en": "He underwent orthopedic surgery to repair the fracture.",
             "example_ru": "Ему провели ортопедическую операцию для восстановления перелома.",
@@ -20,7 +20,7 @@
             "image": ""
         },
         {
-            "en": "Leg alignment",
+            "en": "The Leg alignment",
             "ru": "Положение (выравнивание) ног",
             "example_en": "The surgeon assessed the leg alignment before the procedure.",
             "example_ru": "Хирург оценил выравнивание ног перед процедурой.",
@@ -36,7 +36,7 @@
             "image": ""
         },
         {
-            "en": "Range of motion",
+            "en": "The Range of motion",
             "ru": "Диапазон движения (подвижность суставов)",
             "example_en": "The therapist measured his range of motion after surgery.",
             "example_ru": "Терапевт измерил диапазон движения после операции.",
@@ -52,7 +52,7 @@
             "image": ""
         },
         {
-            "en": "Kyphoplasty",
+            "en": "The Kyphoplasty",
             "ru": "Кифопластика",
             "example_en": "Kyphoplasty can relieve pain from a compressed vertebra.",
             "example_ru": "Кифопластика может облегчить боль от компрессии позвонка.",
@@ -60,7 +60,7 @@
             "image": ""
         },
         {
-            "en": "Rotator cuff repair",
+            "en": "The Rotator cuff repair",
             "ru": "Восстановление вращательной манжеты плеча",
             "example_en": "Rotator cuff repair is often done arthroscopically.",
             "example_ru": "Восстановление вращательной манжеты плеча часто выполняется артроскопически.",
@@ -68,7 +68,7 @@
             "image": ""
         },
         {
-            "en": "Joint irrigation",
+            "en": "The Joint irrigation",
             "ru": "Промывание сустава",
             "example_en": "Joint irrigation removes debris from the joint space.",
             "example_ru": "Промывание сустава удаляет посторонние частицы из суставного пространства.",
@@ -76,7 +76,7 @@
             "image": ""
         },
         {
-            "en": "Shoulder debridement",
+            "en": "The Shoulder debridement",
             "ru": "Хирургическая обработка плечевого сустава",
             "example_en": "Shoulder debridement removes damaged tissue from the joint.",
             "example_ru": "Хирургическая обработка плечевого сустава удаляет повреждённую ткань из сустава.",
@@ -84,7 +84,7 @@
             "image": ""
         },
         {
-            "en": "Scapular retraction",
+            "en": "The Scapular retraction",
             "ru": "Сведение лопаток (приведение лопаток к позвоночнику)",
             "example_en": "Retract your shoulders together like this.",
             "example_ru": "Сведите лопатки вместе, вот так.",
@@ -92,7 +92,7 @@
             "image": ""
         },
         {
-            "en": "Scapular protraction",
+            "en": "The Scapular protraction",
             "ru": "Развести лопатки (протракция лопаток)",
             "example_en": "Now protract your shoulders forward.",
             "example_ru": "Теперь разведите лопатки вперёд.",
@@ -108,7 +108,7 @@
             "image": ""
         },
         {
-            "en": "Reverse shoulder replacement",
+            "en": "The Reverse shoulder replacement",
             "ru": "Реверсивное эндопротезирование плечевого сустава",
             "example_en": "Reverse shoulder replacement is used for severe rotator cuff damage.",
             "example_ru": "Реверсивное эндопротезирование плечевого сустава применяется при тяжёлом повреждении вращательной манжеты.",
@@ -116,7 +116,7 @@
             "image": ""
         },
         {
-            "en": "Orthopedic surgery team",
+            "en": "The Orthopedic surgery team",
             "ru": "Команда ортопедической хирургии",
             "example_en": "The orthopedic surgery team reviewed the scans before the operation.",
             "example_ru": "Команда ортопедической хирургии изучила снимки перед операцией.",
@@ -124,7 +124,7 @@
             "image": ""
         },
         {
-            "en": "Spine team",
+            "en": "The Spine team",
             "ru": "Команда специалистов по лечению позвоночника",
             "example_en": "The spine team recommended physical therapy first.",
             "example_ru": "Команда специалистов по лечению позвоночника сначала рекомендовала физиотерапию.",
@@ -132,7 +132,7 @@
             "image": ""
         },
         {
-            "en": "Orthopedist",
+            "en": "The Orthopedist",
             "ru": "Ортопед",
             "example_en": "The orthopedist reviewed the X-ray results.",
             "example_ru": "Ортопед изучил результаты рентгена.",

@@ -12,7 +12,7 @@
             "image": ""
         },
         {
-            "en": "Femur fracture",
+            "en": "The Femur fracture",
             "ru": "Перелом бедренной кости",
             "example_en": "He suffered a femur fracture in the accident.",
             "example_ru": "Он получил перелом бедренной кости в результате аварии.",
@@ -20,7 +20,7 @@
             "image": ""
         },
         {
-            "en": "Femur neck fracture",
+            "en": "The Femur neck fracture",
             "ru": "Перелом шейки бедренной кости",
             "example_en": "A femur neck fracture is common in older adults after a fall.",
             "example_ru": "Перелом шейки бедренной кости часто встречается у пожилых людей после падения.",
@@ -36,7 +36,7 @@
             "image": ""
         },
         {
-            "en": "Shoulder cuff injury",
+            "en": "The Shoulder cuff injury",
             "ru": "Травма вращающей манжеты плеча",
             "example_en": "The shoulder cuff injury limited his range of motion.",
             "example_ru": "Травма вращающей манжеты плеча ограничила подвижность его плеча.",
@@ -44,7 +44,7 @@
             "image": ""
         },
         {
-            "en": "Fracture (general)",
+            "en": "The Fracture (general)",
             "ru": "Перелом",
             "example_en": "The X-ray confirmed a fracture in the wrist.",
             "example_ru": "Рентген подтвердил перелом запястья.",
@@ -116,7 +116,7 @@
             "image": ""
         },
         {
-            "en": "Spinal curvature",
+            "en": "The Spinal curvature",
             "ru": "Искривление (изгиб) позвоночника",
             "example_en": "The scan showed an abnormal spinal curvature.",
             "example_ru": "Снимок показал аномальное искривление позвоночника.",
@@ -132,7 +132,7 @@
             "image": ""
         },
         {
-            "en": "Vertebral fracture",
+            "en": "The Vertebral fracture",
             "ru": "Трещина в позвонке",
             "example_en": "A small vertebral fracture was visible on the scan.",
             "example_ru": "На снимке была видна небольшая трещина в позвонке.",
@@ -148,7 +148,7 @@
             "image": ""
         },
         {
-            "en": "Rotator cuff tear",
+            "en": "The Rotator cuff tear",
             "ru": "Разрыв вращательной манжеты плеча",
             "example_en": "A rotator cuff tear often causes pain when lifting the arm.",
             "example_ru": "Разрыв вращательной манжеты плеча часто вызывает боль при поднятии руки.",
@@ -172,7 +172,7 @@
             "image": ""
         },
         {
-            "en": "Dislocation",
+            "en": "The Dislocation",
             "ru": "Вывих",
             "example_en": "The shoulder dislocation was reduced in the emergency room.",
             "example_ru": "Вывих плеча был вправлен в приёмном отделении.",
@@ -180,7 +180,7 @@
             "image": ""
         },
         {
-            "en": "Bone alignment",
+            "en": "The Bone alignment",
             "ru": "Расположение (выравнивание) кости",
             "example_en": "The doctor checked the bone alignment after the cast was removed.",
             "example_ru": "Врач проверил выравнивание кости после снятия гипса.",
@@ -196,7 +196,7 @@
             "image": ""
         },
         {
-            "en": "Non-displaced fracture",
+            "en": "The Non-displaced fracture",
             "ru": "Перелом без смещения",
             "example_en": "A non-displaced fracture often heals without surgery.",
             "example_ru": "Перелом без смещения часто заживает без операции.",
@@ -204,7 +204,7 @@
             "image": ""
         },
         {
-            "en": "Stooped / bent-over gait",
+            "en": "The Stooped / bent-over gait",
             "ru": "Сгорбленная походка (ходить сгорбленным)",
             "example_en": "Kyphosis can cause a stooped, bent-over gait.",
             "example_ru": "Кифоз может вызывать сгорбленную походку.",
@@ -212,7 +212,7 @@
             "image": ""
         },
         {
-            "en": "Sprained/twisted finger",
+            "en": "The Sprained/twisted finger",
             "ru": "Подвёрнутый палец",
             "example_en": "She sprained her finger while playing volleyball.",
             "example_ru": "Она подвернула палец во время игры в волейбол.",
@@ -236,7 +236,7 @@
             "image": ""
         },
         {
-            "en": "Spinal canal stenosis",
+            "en": "The Spinal canal stenosis",
             "ru": "Сужение (спинномозгового) канала",
             "example_en": "Spinal canal stenosis can compress the nerves.",
             "example_ru": "Сужение спинномозгового канала может сдавливать нервы.",
@@ -260,7 +260,7 @@
             "image": ""
         },
         {
-            "en": "Muscle strain",
+            "en": "The Muscle strain",
             "ru": "Растяжение мышц",
             "example_en": "A muscle strain can cause pain and swelling.",
             "example_ru": "Растяжение мышц может вызывать боль и отёк.",

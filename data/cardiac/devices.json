@@ -9,7 +9,8 @@
             "example_en": "A stent can help keep the artery open.",
             "example_ru": "Стент-расширитель сосудов может помочь держать артерию открытой.",
             "note": "а не просто \"стент\"",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_a_stent_1.mp3"
         },
         {
             "en": "A loop recorder",
@@ -17,7 +18,8 @@
             "example_en": "A loop recorder can track heart rhythm for a long time.",
             "example_ru": "Петлевой регистратор может долго отслеживать сердечный ритм.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_a_loop_recorder_2.mp3"
         },
         {
             "en": "An aneurysm clip",
@@ -25,7 +27,8 @@
             "example_en": "The surgeon placed an aneurysm clip to stop blood from entering the aneurysm.",
             "example_ru": "Хирург установил клипсу для аневризмы, чтобы кровь не попадала в аневризму.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_an_aneurysm_clip_3.mp3"
         },
         {
             "en": "Rods",
@@ -33,7 +36,8 @@
             "example_en": "The rods help stabilize the area after surgery.",
             "example_ru": "Стержни помогают стабилизировать область после операции.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_rods_4.mp3"
         },
         {
             "en": "A blood pressure cuff",
@@ -41,7 +45,8 @@
             "example_en": "The nurse placed the blood pressure cuff on your arm.",
             "example_ru": "Медсестра надела манжету для измерения артериального давления на вашу руку.",
             "note": "не кровяного, а артериального",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_a_blood_pressure_cuff_5.mp3"
         },
         {
             "en": "Leads / stickers",
@@ -49,7 +54,8 @@
             "example_en": "The EKG stickers need to stay attached during the test.",
             "example_ru": "Электроды для ЭКГ должны оставаться прикрепленными во время теста.",
             "note": "EKG",
-            "image": "https://www.intcomedical.com/web/upload/2025/07/08/20250708141058_94633.webp"
+            "image": "https://www.intcomedical.com/web/upload/2025/07/08/20250708141058_94633.webp",
+            "audio_path": "cardiac_devices_leads_stickers_6.mp3"
         },
         {
             "en": "Pins",
@@ -57,7 +63,8 @@
             "example_en": "Pins may be used to hold small bones in place.",
             "example_ru": "Хирургические спицы могут использоваться, чтобы удерживать небольшие кости на месте.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_pins_7.mp3"
         },
         {
             "en": "A defibrillator",
@@ -65,7 +72,8 @@
             "example_en": "A defibrillator can deliver a shock to restore rhythm.",
             "example_ru": "Дефибриллятор может подать разряд, чтобы восстановить ритм.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_a_defibrillator_8.mp3"
         },
         {
             "en": "A pacemaker",
@@ -73,7 +81,8 @@
             "example_en": "A pacemaker helps control a slow heart rhythm.",
             "example_ru": "Кардиостимулятор помогает контролировать замедленный сердечный ритм.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_a_pacemaker_9.mp3"
         },
         {
             "en": "A cord",
@@ -81,7 +90,8 @@
             "example_en": "The cord should not be pulled during monitoring.",
             "example_ru": "Канатик нельзя тянуть во время мониторинга.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_a_cord_10.mp3"
         },
         {
             "en": "A heart monitor",
@@ -89,7 +99,8 @@
             "example_en": "You will wear the heart monitor for a few days.",
             "example_ru": "Вы будете носить монитор сердечной активности несколько дней.",
             "note": "attachable, usually for a few days",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_a_heart_monitor_11.mp3"
         },
         {
             "en": "Patches",
@@ -97,7 +108,8 @@
             "example_en": "The patches may irritate the skin after several days.",
             "example_ru": "Пластыри могут раздражать кожу через несколько дней.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_patches_12.mp3"
         },
         {
             "en": "Zio Patch",
@@ -105,7 +117,8 @@
             "example_en": "The Zio Patch records your heart rhythm while you wear it.",
             "example_ru": "Одноразовый регистратор ЭКГ записывает сердечный ритм, пока вы его носите.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_zio_patch_13.mp3"
         },
         {
             "en": "A tight blood pressure cuff",
@@ -113,7 +126,8 @@
             "example_en": "The blood pressure cuff will feel a bit tight for a few seconds.",
             "example_ru": "Манжета для измерения давления будет немного давить несколько секунд.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_a_tight_blood_pressure_cuff_14.mp3"
         },
         {
             "en": "A pulse oximeter",
@@ -121,7 +135,8 @@
             "example_en": "The pulse oximeter measures oxygen level and pulse.",
             "example_ru": "Пульсоксиметр измеряет уровень кислорода и пульс.",
             "note": "SpO2",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_a_pulse_oximeter_15.mp3"
         },
         {
             "en": "Compression stockings",
@@ -129,7 +144,8 @@
             "example_en": "Compression stockings can help reduce leg swelling.",
             "example_ru": "Компрессионные чулки могут помочь уменьшить отёк ног.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_compression_stockings_16.mp3"
         },
         {
             "en": "A stocking",
@@ -137,7 +153,8 @@
             "example_en": "Put the stocking on before swelling increases during the day.",
             "example_ru": "Наденьте чулок до того, как отёк усилится в течение дня.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_a_stocking_17.mp3"
         },
         {
             "en": "A compression garment",
@@ -145,7 +162,8 @@
             "example_en": "The compression garment should fit snugly but not cut off circulation.",
             "example_ru": "Компрессионное изделие должно плотно прилегать, но не нарушать кровообращение.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_a_compression_garment_18.mp3"
         },
         {
             "en": "A tourniquet",
@@ -153,7 +171,8 @@
             "example_en": "The nurse uses a tourniquet before drawing blood.",
             "example_ru": "Медсестра использует жгут перед забором крови.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_a_tourniquet_19.mp3"
         },
         {
             "en": "An IV tourniquet",
@@ -161,7 +180,8 @@
             "example_en": "The IV tourniquet helps make the vein easier to find.",
             "example_ru": "Жгут для внутривенного доступа помогает легче найти вену.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_an_iv_tourniquet_20.mp3"
         },
         {
             "en": "A port",
@@ -169,7 +189,8 @@
             "example_en": "A port can be used for blood draws or medicines.",
             "example_ru": "Порт-систему можно использовать для забора крови или введения лекарств.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_a_port_21.mp3"
         },
         {
             "en": "A pump",
@@ -177,7 +198,8 @@
             "example_en": "The pump controls how quickly the medicine goes in.",
             "example_ru": "Помпа контролирует скорость введения лекарства.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_a_pump_22.mp3"
         },
         {
             "en": "An IV line",
@@ -185,7 +207,8 @@
             "example_en": "The IV line will stay in place during the test.",
             "example_ru": "Капельница останется на месте во время обследования.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_an_iv_line_23.mp3"
         },
         {
             "en": "IV fluid",
@@ -193,7 +216,8 @@
             "example_en": "IV fluid may be given through the line.",
             "example_ru": "Жидкость для внутривенного введения могут подать через линию.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_devices_iv_fluid_24.mp3"
         }
     ]
 }

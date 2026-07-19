@@ -9,7 +9,8 @@
             "example_en": "Some patients take valerian extract for anxiety or sleep.",
             "example_ru": "Некоторые пациенты принимают валерьянку от тревоги или для сна.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_pharmacology_a_valerian_extract_1.mp3"
         },
         {
             "en": "Blood thinners (an anticoagulant)",
@@ -17,7 +18,8 @@
             "example_en": "Blood thinners help prevent the formation of blood clots.",
             "example_ru": "Препараты для разжижения крови помогают предотвратить образование тромбов.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_pharmacology_blood_thinners_an_anticoagulant_2.mp3"
         },
         {
             "en": "Diuretics",
@@ -25,7 +27,8 @@
             "example_en": "Diuretics help the body get rid of extra fluid.",
             "example_ru": "Мочегонные препараты помогают организму вывести избыточную жидкость.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_pharmacology_diuretics_3.mp3"
         },
         {
             "en": "Water pills",
@@ -33,7 +36,8 @@
             "example_en": "Water pills may make you urinate more often.",
             "example_ru": "Мочегонные таблетки могут вызывать более частое мочеиспускание.",
             "note": "diuretics",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_pharmacology_water_pills_4.mp3"
         },
         {
             "en": "A blood-thinning medication",
@@ -41,7 +45,8 @@
             "example_en": "Blood-thinning medication helps lower the risk of clots.",
             "example_ru": "Лекарство для разжижения крови помогает снизить риск тромбов.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_pharmacology_a_bloodthinning_medication_5.mp3"
         },
         {
             "en": "A blood thinner",
@@ -49,7 +54,8 @@
             "example_en": "Take the blood thinner exactly as prescribed.",
             "example_ru": "Принимайте препарат для разжижения крови строго по назначению.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_pharmacology_a_blood_thinner_6.mp3"
         },
         {
             "en": "A heparin shot",
@@ -57,7 +63,8 @@
             "example_en": "A heparin shot helps prevent blood clots while you are in the hospital.",
             "example_ru": "Укол гепарина помогает предотвратить тромбы, пока вы находитесь в больнице.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_pharmacology_a_heparin_shot_7.mp3"
         },
         {
             "en": "To prevent blood clots",
@@ -65,7 +72,8 @@
             "example_en": "This medicine is used to prevent blood clots.",
             "example_ru": "Это лекарство используется, чтобы предотвратить образование кровяных тромбов.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_pharmacology_to_prevent_blood_clots_8.mp3"
         },
         {
             "en": "A long half-life",
@@ -73,7 +81,8 @@
             "example_en": "A medicine with a long half-life stays in the body longer.",
             "example_ru": "Лекарство с длительным периодом полураспада дольше остается в организме.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_pharmacology_a_long_halflife_9.mp3"
         },
         {
             "en": "A cumulative effect",
@@ -81,7 +90,8 @@
             "example_en": "Some medicines can have a cumulative effect over time.",
             "example_ru": "Некоторые лекарства со временем могут иметь накопительный эффект.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_pharmacology_a_cumulative_effect_10.mp3"
         }
     ]
 }

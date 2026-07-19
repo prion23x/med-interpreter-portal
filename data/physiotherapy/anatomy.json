@@ -4,7 +4,7 @@
     "color": "#a6e3a1",
     "terms": [
         {
-            "en": "Intervertebral disc",
+            "en": "The Intervertebral disc",
             "ru": "Межпозвоночный диск",
             "example_en": "The MRI showed a damaged intervertebral disc in the lumbar region.",
             "example_ru": "МРТ показало повреждённый межпозвоночный диск в поясничной области.",
@@ -12,7 +12,7 @@
             "image": ""
         },
         {
-            "en": "Hip",
+            "en": "The Hip",
             "ru": "Бедро",
             "example_en": "She feels pain in the hip when walking.",
             "example_ru": "При ходьбе у неё болит бедро.",
@@ -20,7 +20,7 @@
             "image": ""
         },
         {
-            "en": "Hip joint",
+            "en": "The Hip joint",
             "ru": "Бедренный сустав",
             "example_en": "The hip joint connects the leg to the pelvis.",
             "example_ru": "Бедренный сустав соединяет ногу с тазом.",
@@ -28,7 +28,7 @@
             "image": ""
         },
         {
-            "en": "Heel",
+            "en": "The Heel",
             "ru": "Пятка",
             "example_en": "He has sharp pain in the heel when taking a step.",
             "example_ru": "При шаге у него острая боль в пятке.",
@@ -36,7 +36,7 @@
             "image": ""
         },
         {
-            "en": "Lower back",
+            "en": "The Lower back",
             "ru": "Поясница",
             "example_en": "The lower back pain has been present for three weeks.",
             "example_ru": "Боль в пояснице сохраняется уже три недели.",
@@ -44,7 +44,7 @@
             "image": ""
         },
         {
-            "en": "Rotator cuff",
+            "en": "The Rotator cuff",
             "ru": "Вращающая манжета плеча",
             "example_en": "The rotator cuff stabilizes the shoulder joint.",
             "example_ru": "Вращающая манжета плеча стабилизирует плечевой сустав.",
@@ -60,7 +60,7 @@
             "image": ""
         },
         {
-            "en": "Ankle",
+            "en": "The Ankle",
             "ru": "Лодыжка / голеностопный сустав",
             "example_en": "He sprained his ankle during the fall.",
             "example_ru": "Он вывихнул лодыжку при падении.",
@@ -68,7 +68,7 @@
             "image": ""
         },
         {
-            "en": "Torso",
+            "en": "The Torso",
             "ru": "Туловище",
             "example_en": "Core exercises strengthen the muscles of the torso.",
             "example_ru": "Упражнения для кора укрепляют мышцы туловища.",
@@ -84,7 +84,7 @@
             "image": ""
         },
         {
-            "en": "Collarbone (clavicle)",
+            "en": "The Collarbone (clavicle)",
             "ru": "Ключица",
             "example_en": "She fractured her collarbone in the accident.",
             "example_ru": "В аварии она сломала ключицу.",
@@ -92,7 +92,7 @@
             "image": ""
         },
         {
-            "en": "Shin",
+            "en": "The Shin",
             "ru": "Голень",
             "example_en": "The shin runs from the knee to the ankle.",
             "example_ru": "Голень расположена между коленом и лодыжкой.",
@@ -108,7 +108,7 @@
             "image": ""
         },
         {
-            "en": "Tendon",
+            "en": "The Tendon",
             "ru": "Сухожилие",
             "example_en": "The tendon connects the muscle to the bone.",
             "example_ru": "Сухожилие соединяет мышцу с костью.",
@@ -124,7 +124,7 @@
             "image": ""
         },
         {
-            "en": "Humerus (arm bone)",
+            "en": "The Humerus (arm bone)",
             "ru": "Плечевая кость",
             "example_en": "The humerus extends from the shoulder to the elbow.",
             "example_ru": "Плечевая кость простирается от плеча до локтя.",
@@ -132,7 +132,7 @@
             "image": ""
         },
         {
-            "en": "Ulna",
+            "en": "The Ulna",
             "ru": "Локтевая кость",
             "example_en": "The ulna runs along the inner forearm.",
             "example_ru": "Локтевая кость проходит вдоль внутренней части предплечья.",
@@ -140,7 +140,7 @@
             "image": ""
         },
         {
-            "en": "Radius",
+            "en": "The Radius",
             "ru": "Лучевая кость",
             "example_en": "The radius is on the thumb side of the forearm.",
             "example_ru": "Лучевая кость расположена со стороны большого пальца предплечья.",
@@ -156,7 +156,7 @@
             "image": ""
         },
         {
-            "en": "Shoulder blade (scapula)",
+            "en": "The Shoulder blade (scapula)",
             "ru": "Лопатка",
             "example_en": "Scapular retraction involves squeezing the shoulder blades together.",
             "example_ru": "Сведение лопаток предполагает сближение лопаток.",
@@ -164,7 +164,7 @@
             "image": ""
         },
         {
-            "en": "Ball and socket joint",
+            "en": "The Ball and socket joint",
             "ru": "Шаровидный сустав (головка и впадина)",
             "example_en": "The shoulder is a ball and socket joint allowing a wide range of motion.",
             "example_ru": "Плечо является шаровидным суставом, обеспечивающим широкий диапазон движений.",
@@ -172,7 +172,7 @@
             "image": ""
         },
         {
-            "en": "Armpit area (axilla)",
+            "en": "The Armpit area (axilla)",
             "ru": "Подмышечная впадина",
             "example_en": "There is some swelling in the armpit area.",
             "example_ru": "В подмышечной впадине есть небольшой отёк.",
@@ -180,7 +180,7 @@
             "image": ""
         },
         {
-            "en": "Head of the humerus",
+            "en": "The Head of the humerus",
             "ru": "Головка плечевой кости",
             "example_en": "The head of the humerus fits into the shoulder socket.",
             "example_ru": "Головка плечевой кости входит в плечевую впадину.",
@@ -188,7 +188,7 @@
             "image": ""
         },
         {
-            "en": "Shoulder socket (glenoid fossa)",
+            "en": "The Shoulder socket (glenoid fossa)",
             "ru": "Плечевая впадина (суставная ямка)",
             "example_en": "The shoulder socket is shallow, allowing mobility but increasing dislocation risk.",
             "example_ru": "Плечевая впадина неглубокая, что обеспечивает подвижность, но увеличивает риск вывиха.",
@@ -204,7 +204,7 @@
             "image": ""
         },
         {
-            "en": "Spine",
+            "en": "The Spine",
             "ru": "Позвоночник",
             "example_en": "The spine consists of 33 vertebrae divided into five regions.",
             "example_ru": "Позвоночник состоит из 33 позвонков, разделённых на пять отделов.",
@@ -212,7 +212,7 @@
             "image": ""
         },
         {
-            "en": "Cervical spine",
+            "en": "The Cervical spine",
             "ru": "Шейный отдел позвоночника (7 позвонков)",
             "example_en": "The cervical spine supports the head and allows neck movement.",
             "example_ru": "Шейный отдел позвоночника поддерживает голову и обеспечивает движения шеи.",
@@ -220,7 +220,7 @@
             "image": ""
         },
         {
-            "en": "Thoracic spine",
+            "en": "The Thoracic spine",
             "ru": "Грудной отдел позвоночника (12 позвонков)",
             "example_en": "The thoracic spine connects to the rib cage.",
             "example_ru": "Грудной отдел позвоночника соединяется с грудной клеткой.",
@@ -228,7 +228,7 @@
             "image": ""
         },
         {
-            "en": "Lumbar spine",
+            "en": "The Lumbar spine",
             "ru": "Поясничный отдел позвоночника (5 позвонков)",
             "example_en": "Most lower back pain originates in the lumbar spine.",
             "example_ru": "Большинство болей в пояснице возникает в поясничном отделе позвоночника.",
@@ -236,7 +236,7 @@
             "image": ""
         },
         {
-            "en": "Sacral spine (sacrum)",
+            "en": "The Sacral spine (sacrum)",
             "ru": "Крестцовый отдел позвоночника (5 позвонков)",
             "example_en": "The sacral spine connects the spinal column to the pelvis.",
             "example_ru": "Крестцовый отдел позвоночника соединяет позвоночный столб с тазом.",
@@ -244,7 +244,7 @@
             "image": ""
         },
         {
-            "en": "Coccygeal spine (coccyx)",
+            "en": "The Coccygeal spine (coccyx)",
             "ru": "Копчиковый отдел позвоночника (3–5 позвонков)",
             "example_en": "The coccygeal spine is the lowest section of the vertebral column.",
             "example_ru": "Копчиковый отдел — самая нижняя часть позвоночного столба.",
@@ -252,7 +252,7 @@
             "image": ""
         },
         {
-            "en": "Tailbone (coccyx)",
+            "en": "The Tailbone (coccyx)",
             "ru": "Копчик",
             "example_en": "She bruised her tailbone in the fall.",
             "example_ru": "При падении она ушибла копчик.",
@@ -260,7 +260,7 @@
             "image": ""
         },
         {
-            "en": "Phalanx (finger or toe bone)",
+            "en": "The Phalanx (finger or toe bone)",
             "ru": "Фаланга",
             "example_en": "Each finger has three phalanges except the thumb.",
             "example_ru": "Каждый палец руки имеет три фаланги, кроме большого.",
@@ -268,7 +268,7 @@
             "image": ""
         },
         {
-            "en": "Chest wall",
+            "en": "The Chest wall",
             "ru": "Стенка грудной клетки",
             "example_en": "Breathing exercises help expand the chest wall.",
             "example_ru": "Дыхательные упражнения помогают расширить стенку грудной клетки.",
@@ -276,7 +276,7 @@
             "image": ""
         },
         {
-            "en": "Sternum (breastbone)",
+            "en": "The Sternum (breastbone)",
             "ru": "Грудина",
             "example_en": "The sternum is the flat bone at the center of the chest.",
             "example_ru": "Грудина — плоская кость в центре грудной клетки.",
@@ -292,7 +292,7 @@
             "image": ""
         },
         {
-            "en": "Residual limb",
+            "en": "The Residual limb",
             "ru": "Остаточная конечность",
             "example_en": "The prosthetist measured the residual limb for the fitting.",
             "example_ru": "Протезист измерил остаточную конечность для примерки.",

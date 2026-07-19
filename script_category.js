@@ -137,7 +137,7 @@ function openModal(id) {
     if (!term) return;
 
     const audioBtn = term.audio_path
-        ? `<button class="modal-audio-btn" onclick="playTermAudio('${term.audio_path}')" title="Play pronunciation">🔊</button>`
+        ? `<button class="modal-audio-btn" onclick="playTermAudio('${term.audio_path}')" title="Play pronunciation">🗣️🔊</button>`
         : '';
 
     let html = `

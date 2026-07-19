@@ -4,7 +4,7 @@
     "color": "#a6e3a1",
     "terms": [
         {
-            "en": "Cane",
+            "en": "The Cane",
             "ru": "Трость",
             "example_en": "He uses a cane to support his weight when walking.",
             "example_ru": "Он использует трость для поддержки при ходьбе.",
@@ -20,7 +20,7 @@
             "image": ""
         },
         {
-            "en": "Sling",
+            "en": "The Sling",
             "ru": "Повязка / поддерживающая повязка",
             "example_en": "Keep your arm in the sling for the next three weeks.",
             "example_ru": "Держите руку в повязке следующие три недели.",
@@ -28,7 +28,7 @@
             "image": ""
         },
         {
-            "en": "Cast",
+            "en": "The Cast",
             "ru": "Гипс",
             "example_en": "The cast will be on for six weeks.",
             "example_ru": "Гипс будет наложен на шесть недель.",
@@ -36,7 +36,7 @@
             "image": ""
         },
         {
-            "en": "Boot (orthopedic)",
+            "en": "The Boot (orthopedic)",
             "ru": "Ортопедический ботинок",
             "example_en": "She is in a boot to immobilize the ankle while it heals.",
             "example_ru": "Она носит ортопедический ботинок для фиксации лодыжки во время заживления.",
@@ -44,7 +44,7 @@
             "image": ""
         },
         {
-            "en": "Wheelchair",
+            "en": "The Wheelchair",
             "ru": "Инвалидная коляска",
             "example_en": "He will need a wheelchair until he can walk again.",
             "example_ru": "Ему потребуется инвалидная коляска до восстановления ходьбы.",
@@ -52,7 +52,7 @@
             "image": ""
         },
         {
-            "en": "Splint",
+            "en": "The Splint",
             "ru": "Шина",
             "example_en": "A splint was applied to stabilize the injured wrist.",
             "example_ru": "Шина была наложена для стабилизации повреждённого запястья.",
@@ -100,7 +100,7 @@
             "image": ""
         },
         {
-            "en": "Brace / arm brace",
+            "en": "The Brace / arm brace",
             "ru": "Корсет / фиксатор руки",
             "example_en": "The brace supports the lower back during activity.",
             "example_ru": "Корсет поддерживает поясницу во время физической нагрузки.",
@@ -108,7 +108,7 @@
             "image": ""
         },
         {
-            "en": "Leg rest",
+            "en": "The Leg rest",
             "ru": "Подставка для ног",
             "example_en": "A leg rest helps elevate the limb and reduce swelling.",
             "example_ru": "Подставка для ног помогает приподнять конечность и уменьшить отёк.",
@@ -116,7 +116,7 @@
             "image": ""
         },
         {
-            "en": "Shower chair",
+            "en": "The Shower chair",
             "ru": "Стул для душа",
             "example_en": "A shower chair allows the patient to bathe safely.",
             "example_ru": "Стул для душа позволяет пациенту безопасно принимать душ.",
@@ -140,7 +140,7 @@
             "image": ""
         },
         {
-            "en": "Contraption / adaptive device (informal)",
+            "en": "The Contraption / adaptive device (informal)",
             "ru": "Приспособление",
             "example_en": "The therapist brought a contraption to help with dressing.",
             "example_ru": "Терапевт принёс приспособление, помогающее одеваться.",
@@ -148,7 +148,7 @@
             "image": ""
         },
         {
-            "en": "Wheelchair ramp",
+            "en": "The Wheelchair ramp",
             "ru": "Пандус для инвалидной коляски",
             "example_en": "A wheelchair ramp was installed at the entrance.",
             "example_ru": "У входа был установлен пандус для инвалидной коляски.",
@@ -156,7 +156,7 @@
             "image": ""
         },
         {
-            "en": "Walk-in shower",
+            "en": "The Walk-in shower",
             "ru": "Душевая кабина без поддона",
             "example_en": "A walk-in shower eliminates the need to step over a threshold.",
             "example_ru": "Душевая кабина без поддона исключает необходимость перешагивать порог.",
@@ -164,7 +164,7 @@
             "image": ""
         },
         {
-            "en": "Step-over tub with shower",
+            "en": "The Step-over tub with shower",
             "ru": "Ванна с душем (через бортик)",
             "example_en": "A step-over tub requires the patient to lift the leg over the edge.",
             "example_ru": "Ванна через бортик требует подъёма ноги через бортик.",
@@ -172,7 +172,7 @@
             "image": ""
         },
         {
-            "en": "Raised toilet seat / higher toilet",
+            "en": "The Raised toilet seat / higher toilet",
             "ru": "Приподнятое сиденье для унитаза",
             "example_en": "A raised toilet seat reduces hip strain when sitting down.",
             "example_ru": "Приподнятое сиденье уменьшает нагрузку на бёдра при садении.",
@@ -180,7 +180,7 @@
             "image": ""
         },
         {
-            "en": "Bidet",
+            "en": "The Bidet",
             "ru": "Биде",
             "example_en": "A bidet reduces the need for bending and twisting in the bathroom.",
             "example_ru": "Биде снижает необходимость наклоняться и поворачиваться в ванной.",
@@ -188,7 +188,7 @@
             "image": ""
         },
         {
-            "en": "Recliner",
+            "en": "The Recliner",
             "ru": "Кресло с откидной спинкой",
             "example_en": "A recliner lets the patient rest comfortably with legs elevated.",
             "example_ru": "Кресло с откидной спинкой позволяет пациенту отдыхать с поднятыми ногами.",
@@ -196,7 +196,7 @@
             "image": ""
         },
         {
-            "en": "Handheld shower",
+            "en": "The Handheld shower",
             "ru": "Ручной душ",
             "example_en": "A handheld shower allows bathing without moving around.",
             "example_ru": "Ручной душ позволяет мыться без лишних движений.",
@@ -204,7 +204,7 @@
             "image": ""
         },
         {
-            "en": "Arm crank",
+            "en": "The Arm crank",
             "ru": "Ручной велотренажёр / вращение руками",
             "example_en": "The arm crank machine provides upper body cardio training.",
             "example_ru": "Ручной велотренажёр обеспечивает кардионагрузку для верхней части тела.",
@@ -228,7 +228,7 @@
             "image": ""
         },
         {
-            "en": "Armrest",
+            "en": "The Armrest",
             "ru": "Подлокотник / боковая опора",
             "example_en": "The armrest helps the patient push up from the chair.",
             "example_ru": "Подлокотник помогает пациенту опереться и встать со стула.",
@@ -236,7 +236,7 @@
             "image": ""
         },
         {
-            "en": "Cervical collar (neck brace)",
+            "en": "The Cervical collar (neck brace)",
             "ru": "Шейный ортез / воротник на шее",
             "example_en": "She must wear the cervical collar for six weeks.",
             "example_ru": "Ей нужно носить шейный ортез шесть недель.",
@@ -244,7 +244,7 @@
             "image": ""
         },
         {
-            "en": "Shrinker sock",
+            "en": "The Shrinker sock",
             "ru": "Компрессионный носок (для остаточной конечности)",
             "example_en": "A shrinker sock is worn on the residual limb to reduce swelling.",
             "example_ru": "Компрессионный носок надевается на остаточную конечность для уменьшения отёка.",

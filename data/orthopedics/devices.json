@@ -4,7 +4,7 @@
     "color": "#8aadf4",
     "terms": [
         {
-            "en": "Cane",
+            "en": "The Cane",
             "ru": "Трость",
             "example_en": "He uses a cane to help with balance.",
             "example_ru": "Он использует трость для поддержания равновесия.",
@@ -20,7 +20,7 @@
             "image": ""
         },
         {
-            "en": "Sling",
+            "en": "The Sling",
             "ru": "Повязка",
             "example_en": "His arm was in a sling for three weeks.",
             "example_ru": "Его рука была в повязке в течение трёх недель.",
@@ -28,7 +28,7 @@
             "image": ""
         },
         {
-            "en": "Cast",
+            "en": "The Cast",
             "ru": "Гипс",
             "example_en": "The cast will stay on for six weeks.",
             "example_ru": "Гипс останется на шесть недель.",
@@ -36,7 +36,7 @@
             "image": ""
         },
         {
-            "en": "Wheelchair",
+            "en": "The Wheelchair",
             "ru": "Инвалидная коляска",
             "example_en": "He uses a wheelchair while recovering from surgery.",
             "example_ru": "Он использует инвалидную коляску во время восстановления после операции.",
@@ -44,7 +44,7 @@
             "image": ""
         },
         {
-            "en": "Splint",
+            "en": "The Splint",
             "ru": "Шина",
             "example_en": "The nurse put a splint on his broken finger.",
             "example_ru": "Медсестра наложила шину на его сломанный палец.",
@@ -68,7 +68,7 @@
             "image": ""
         },
         {
-            "en": "Brace",
+            "en": "The Brace",
             "ru": "Корсет (фиксатор)",
             "example_en": "We are going to redesign these braces for a better fit.",
             "example_ru": "Мы переделаем дизайн этих фиксаторов для лучшей посадки.",
@@ -76,7 +76,7 @@
             "image": ""
         },
         {
-            "en": "Arm brace",
+            "en": "The Arm brace",
             "ru": "Фиксатор руки",
             "example_en": "The arm brace keeps the elbow from bending too far.",
             "example_ru": "Фиксатор руки не даёт локтю сгибаться слишком сильно.",
@@ -84,7 +84,7 @@
             "image": ""
         },
         {
-            "en": "Wheelchair ramp",
+            "en": "The Wheelchair ramp",
             "ru": "Пандус для инвалидной коляски",
             "example_en": "The clinic installed a wheelchair ramp at the entrance.",
             "example_ru": "Клиника установила пандус для инвалидной коляски при входе.",
@@ -92,7 +92,7 @@
             "image": ""
         },
         {
-            "en": "Tourniquet",
+            "en": "The Tourniquet",
             "ru": "Жгут",
             "example_en": "A tourniquet was applied to control the bleeding.",
             "example_ru": "Жгут был наложен для остановки кровотечения.",
@@ -100,7 +100,7 @@
             "image": ""
         },
         {
-            "en": "Screw (surgical)",
+            "en": "The Screw (surgical)",
             "ru": "Винтик",
             "example_en": "A small screw secures the plate to the bone.",
             "example_ru": "Небольшой винтик крепит пластину к кости.",
@@ -108,7 +108,7 @@
             "image": ""
         },
         {
-            "en": "Cervical collar (neck brace)",
+            "en": "The Cervical collar (neck brace)",
             "ru": "Воротник на шее (шейный ортез)",
             "example_en": "He was fitted with a cervical collar after the accident.",
             "example_ru": "После аварии ему надели воротник на шею.",

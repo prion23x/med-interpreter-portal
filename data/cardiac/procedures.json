@@ -9,7 +9,8 @@
             "example_en": "The angiogram helps us see whether an artery is blocked.",
             "example_ru": "Ангиограмма помогает увидеть, заблокирована ли артерия.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_an_angiogram_1.mp3"
         },
         {
             "en": "A heart transplant",
@@ -17,7 +18,8 @@
             "example_en": "A heart transplant is considered only for severe heart failure.",
             "example_ru": "Пересадку сердца рассматривают только при тяжелой сердечной недостаточности.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_a_heart_transplant_2.mp3"
         },
         {
             "en": "A stress test",
@@ -25,7 +27,8 @@
             "example_en": "The stress test checks how your heart works during exercise.",
             "example_ru": "Обследование сердца под нагрузкой проверяет, как сердце работает при физической нагрузке.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_a_stress_test_3.mp3"
         },
         {
             "en": "Chest compressions",
@@ -33,7 +36,8 @@
             "example_en": "Start chest compressions if the patient has no pulse.",
             "example_ru": "Начните непрямой массаж сердца, если у пациента нет пульса.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_chest_compressions_4.mp3"
         },
         {
             "en": "Transplantation",
@@ -41,7 +45,8 @@
             "example_en": "Transplantation requires careful matching and long-term follow-up.",
             "example_ru": "Пересадка требует тщательного подбора и длительного наблюдения.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_transplantation_5.mp3"
         },
         {
             "en": "Open heart surgery",
@@ -49,7 +54,8 @@
             "example_en": "Open heart surgery may be needed to repair the valve.",
             "example_ru": "Для восстановления клапана может потребоваться операция на открытом сердце.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_open_heart_surgery_6.mp3"
         },
         {
             "en": "CPR",
@@ -57,7 +63,8 @@
             "example_en": "CPR should begin immediately during cardiac arrest.",
             "example_ru": "Сердечно-лёгочную реанимацию нужно начать немедленно при остановке сердца.",
             "note": "cardiopulmonary resuscitation; chest compressions",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_cpr_7.mp3"
         },
         {
             "en": "Strenuous activity",
@@ -65,7 +72,8 @@
             "example_en": "Avoid strenuous activity until the cardiologist clears you.",
             "example_ru": "Избегайте интенсивной физической нагрузки, пока кардиолог не разрешит.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_strenuous_activity_8.mp3"
         },
         {
             "en": "Bypass",
@@ -73,7 +81,8 @@
             "example_en": "A bypass creates a new route for blood around the blockage.",
             "example_ru": "Шунтирование создает новый путь для крови в обход закупорки.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_bypass_9.mp3"
         },
         {
             "en": "Coronary bypass surgery",
@@ -81,7 +90,8 @@
             "example_en": "Coronary bypass surgery can improve blood flow to the heart muscle.",
             "example_ru": "Операция коронарного шунтирования может улучшить кровоток к сердечной мышце.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_coronary_bypass_surgery_10.mp3"
         },
         {
             "en": "EKG",
@@ -89,7 +99,8 @@
             "example_en": "The EKG showed an abnormal heart rhythm.",
             "example_ru": "ЭКГ показала аномальный сердечный ритм.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_ekg_11.mp3"
         },
         {
             "en": "Cardiac catheterization",
@@ -97,7 +108,8 @@
             "example_en": "Cardiac catheterization lets the doctor examine the heart arteries.",
             "example_ru": "Катетеризация сердца позволяет врачу обследовать артерии сердца.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_cardiac_catheterization_12.mp3"
         },
         {
             "en": "Cardiopulmonary massage",
@@ -105,7 +117,8 @@
             "example_en": "Cardiopulmonary massage continued until the rhythm returned.",
             "example_ru": "Сердечно-лёгочный массаж продолжали, пока ритм не восстановился.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_cardiopulmonary_massage_13.mp3"
         },
         {
             "en": "ECMO flow",
@@ -113,7 +126,8 @@
             "example_en": "The team adjusted the ECMO flow during the procedure.",
             "example_ru": "Команда отрегулировала объёмную скорость кровотока на ЭКМО во время процедуры.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_ecmo_flow_14.mp3"
         },
         {
             "en": "Stent placement",
@@ -121,7 +135,8 @@
             "example_en": "Stent placement can open a narrowed artery.",
             "example_ru": "Установка стента может открыть суженную артерию.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_stent_placement_15.mp3"
         },
         {
             "en": "Radiofrequency ablation",
@@ -129,7 +144,8 @@
             "example_en": "Radiofrequency ablation may be used to treat certain rhythm problems.",
             "example_ru": "Радиочастотная абляция может применяться для лечения некоторых нарушений ритма.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_radiofrequency_ablation_16.mp3"
         },
         {
             "en": "Doppler ultrasound",
@@ -137,7 +153,8 @@
             "example_en": "A Doppler ultrasound checks blood flow through the vessels.",
             "example_ru": "Допплерография проверяет кровоток по сосудам.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_doppler_ultrasound_17.mp3"
         },
         {
             "en": "Carotid ultrasound",
@@ -145,7 +162,8 @@
             "example_en": "A carotid ultrasound checks blood flow in the neck arteries.",
             "example_ru": "УЗИ сонных артерий проверяет кровоток в артериях шеи.",
             "note": "normalized from unclear source row",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_carotid_ultrasound_18.mp3"
         },
         {
             "en": "A blood draw",
@@ -153,7 +171,8 @@
             "example_en": "A blood draw is needed before the procedure.",
             "example_ru": "Перед процедурой нужен забор крови.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_a_blood_draw_19.mp3"
         },
         {
             "en": "A blood collection tube",
@@ -161,7 +180,8 @@
             "example_en": "The nurse filled one tube of blood for the lab.",
             "example_ru": "Медсестра наполнила одну пробирку с кровью для лаборатории.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_a_blood_collection_tube_20.mp3"
         },
         {
             "en": "Port blood draw",
@@ -169,7 +189,8 @@
             "example_en": "A port blood draw may be easier if your veins are hard to access.",
             "example_ru": "Забор крови через порт-систему может быть проще, если к венам трудно получить доступ.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_port_blood_draw_21.mp3"
         },
         {
             "en": "Port access",
@@ -177,7 +198,8 @@
             "example_en": "Port access must be done using sterile technique.",
             "example_ru": "Пункцию порт-системы нужно выполнять стерильно.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_port_access_22.mp3"
         },
         {
             "en": "Nuclear medicine scan",
@@ -185,7 +207,8 @@
             "example_en": "A nuclear medicine scan can show how well blood reaches the heart muscle.",
             "example_ru": "Радиоизотопное сканирование может показать, насколько хорошо кровь поступает к сердечной мышце.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_nuclear_medicine_scan_23.mp3"
         },
         {
             "en": "Take it easy",
@@ -193,7 +216,8 @@
             "example_en": "Take it easy for the rest of the day after the test.",
             "example_ru": "Не перенапрягайтесь до конца дня после обследования.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_take_it_easy_24.mp3"
         },
         {
             "en": "Do not overdo it",
@@ -201,7 +225,8 @@
             "example_en": "Do not overdo it while you are recovering.",
             "example_ru": "Не перенапрягайтесь, пока восстанавливаетесь.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_do_not_overdo_it_25.mp3"
         },
         {
             "en": "Stamina",
@@ -209,7 +234,8 @@
             "example_en": "Cardiac rehabilitation can help improve stamina.",
             "example_ru": "Кардиореабилитация может помочь улучшить выносливость.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_stamina_26.mp3"
         },
         {
             "en": "To draw blood",
@@ -217,7 +243,8 @@
             "example_en": "We need to draw blood before the scan.",
             "example_ru": "Перед сканированием нам нужно взять кровь.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_to_draw_blood_27.mp3"
         },
         {
             "en": "To poke and take blood",
@@ -225,7 +252,8 @@
             "example_en": "The nurse will poke the vein and take blood for the test.",
             "example_ru": "Медсестра сделает прокол вены для забора крови на анализ.",
             "note": "",
-            "image": ""
+            "image": "",
+            "audio_path": "cardiac_procedures_to_poke_and_take_blood_28.mp3"
         }
     ]
 }

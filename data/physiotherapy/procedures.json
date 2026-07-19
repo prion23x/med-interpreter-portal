@@ -4,7 +4,7 @@
     "color": "#a6e3a1",
     "terms": [
         {
-            "en": "Bone density scan (DEXA scan)",
+            "en": "The Bone density scan (DEXA scan)",
             "ru": "Денситометрия / рентген плотности костей",
             "example_en": "The DEXA scan measures bone mineral density.",
             "example_ru": "Денситометрия измеряет минеральную плотность костей.",
@@ -12,7 +12,7 @@
             "image": ""
         },
         {
-            "en": "Cognitive assessment",
+            "en": "The Cognitive assessment",
             "ru": "Когнитивное обследование",
             "example_en": "The therapist completed a cognitive assessment before starting the program.",
             "example_ru": "Терапевт провёл когнитивное обследование перед началом программы.",
@@ -20,7 +20,7 @@
             "image": ""
         },
         {
-            "en": "Range of motion",
+            "en": "The Range of motion",
             "ru": "Диапазон движения / подвижность суставов",
             "example_en": "She has reduced range of motion in the shoulder.",
             "example_ru": "У неё снижен диапазон движения в плечевом суставе.",
@@ -28,7 +28,7 @@
             "image": ""
         },
         {
-            "en": "Alignment of the legs",
+            "en": "The Alignment of the legs",
             "ru": "Положение / выравнивание ног",
             "example_en": "The physiotherapist assessed the alignment of the legs.",
             "example_ru": "Физиотерапевт оценил положение ног.",
@@ -36,7 +36,7 @@
             "image": ""
         },
         {
-            "en": "Endoprosthetics / joint replacement",
+            "en": "The Endoprosthetics / joint replacement",
             "ru": "Эндопротезирование (замена сустава)",
             "example_en": "She underwent joint replacement surgery on her hip.",
             "example_ru": "Ей выполнили операцию по замене тазобедренного сустава.",
@@ -44,7 +44,7 @@
             "image": ""
         },
         {
-            "en": "Reverse shoulder replacement",
+            "en": "The Reverse shoulder replacement",
             "ru": "Реверсивное эндопротезирование плечевого сустава",
             "example_en": "Reverse shoulder replacement is used when the rotator cuff is severely damaged.",
             "example_ru": "Реверсивное эндопротезирование плечевого сустава применяется при тяжёлом повреждении вращательной манжеты.",
@@ -52,7 +52,7 @@
             "image": ""
         },
         {
-            "en": "Rotator cuff repair",
+            "en": "The Rotator cuff repair",
             "ru": "Восстановление вращательной манжеты плеча",
             "example_en": "Rotator cuff repair is followed by several weeks of PT.",
             "example_ru": "После восстановления вращательной манжеты плеча необходимо несколько недель физиотерапии.",
@@ -60,7 +60,7 @@
             "image": ""
         },
         {
-            "en": "Kyphoplasty",
+            "en": "The Kyphoplasty",
             "ru": "Кифопластика",
             "example_en": "Kyphoplasty is a minimally invasive procedure for spinal compression fractures.",
             "example_ru": "Кифопластика — малоинвазивная процедура при компрессионных переломах позвоночника.",
@@ -68,7 +68,7 @@
             "image": ""
         },
         {
-            "en": "Bone cement",
+            "en": "The Bone cement",
             "ru": "Костный цемент",
             "example_en": "Bone cement was used to stabilize the fractured vertebra.",
             "example_ru": "Костный цемент был использован для стабилизации сломанного позвонка.",
@@ -76,7 +76,7 @@
             "image": ""
         },
         {
-            "en": "Irrigation of the joint",
+            "en": "The Irrigation of the joint",
             "ru": "Промывание сустава",
             "example_en": "Irrigation of the joint removes debris and reduces inflammation.",
             "example_ru": "Промывание сустава удаляет воспалительные отложения.",
@@ -84,7 +84,7 @@
             "image": ""
         },
         {
-            "en": "Debridement of the shoulder",
+            "en": "The Debridement of the shoulder",
             "ru": "Хирургическая обработка плечевого сустава",
             "example_en": "Debridement removes damaged tissue from the shoulder joint.",
             "example_ru": "Хирургическая обработка удаляет повреждённые ткани из плечевого сустава.",
@@ -100,7 +100,7 @@
             "image": ""
         },
         {
-            "en": "Biocompatibility (material integration)",
+            "en": "The Biocompatibility (material integration)",
             "ru": "Биосовместимость / приживаемость материала",
             "example_en": "The implant was designed for high biocompatibility with the body.",
             "example_ru": "Имплантат был разработан с высокой биосовместимостью с тканями тела.",
@@ -108,7 +108,7 @@
             "image": ""
         },
         {
-            "en": "Conservative treatment",
+            "en": "The Conservative treatment",
             "ru": "Консервативное лечение",
             "example_en": "Conservative treatment includes physical therapy and pain management before surgery.",
             "example_ru": "Консервативное лечение включает физиотерапию и обезболивание перед операцией.",
@@ -116,7 +116,7 @@
             "image": ""
         },
         {
-            "en": "Chiropractic treatment",
+            "en": "The Chiropractic treatment",
             "ru": "Лечение у хиропрактора",
             "example_en": "She tried chiropractic treatment for her lower back pain.",
             "example_ru": "Она пробовала лечение у хиропрактора от боли в пояснице.",
@@ -124,7 +124,7 @@
             "image": ""
         },
         {
-            "en": "Speech therapy",
+            "en": "The Speech therapy",
             "ru": "Речевая терапия / занятия с логопедом",
             "example_en": "She attends speech therapy twice a week after the stroke.",
             "example_ru": "После инсульта она посещает речевую терапию дважды в неделю.",
@@ -132,7 +132,7 @@
             "image": ""
         },
         {
-            "en": "Verticalization",
+            "en": "The Verticalization",
             "ru": "Вертикализация",
             "example_en": "Verticalization is the gradual process of getting a patient to an upright position.",
             "example_ru": "Вертикализация — постепенный процесс перевода пациента в вертикальное положение.",
@@ -140,7 +140,7 @@
             "image": ""
         },
         {
-            "en": "Prone position",
+            "en": "The Prone position",
             "ru": "Положение лёжа на животе",
             "example_en": "Please turn over and lie in the prone position.",
             "example_ru": "Пожалуйста, перевернитесь и лягте на живот.",
@@ -148,7 +148,7 @@
             "image": ""
         },
         {
-            "en": "Supine position",
+            "en": "The Supine position",
             "ru": "Положение лёжа на спине",
             "example_en": "For this exercise, start in the supine position.",
             "example_ru": "Для этого упражнения начните в положении лёжа на спине.",
@@ -156,7 +156,7 @@
             "image": ""
         },
         {
-            "en": "Lateral position",
+            "en": "The Lateral position",
             "ru": "Положение лёжа на боку",
             "example_en": "Turn to the lateral position to relieve pressure on your back.",
             "example_ru": "Повернитесь на бок, чтобы снять давление со спины.",
@@ -164,7 +164,7 @@
             "image": ""
         },
         {
-            "en": "Sitting position",
+            "en": "The Sitting position",
             "ru": "Положение сидя",
             "example_en": "Maintain the sitting position during the exercise.",
             "example_ru": "Сохраняйте положение сидя во время упражнения.",
@@ -172,7 +172,7 @@
             "image": ""
         },
         {
-            "en": "Standing position",
+            "en": "The Standing position",
             "ru": "Положение стоя",
             "example_en": "Now perform the same movement in the standing position.",
             "example_ru": "Теперь выполните то же движение в положении стоя.",
@@ -180,7 +180,7 @@
             "image": ""
         },
         {
-            "en": "Kneeling position",
+            "en": "The Kneeling position",
             "ru": "Положение на коленях",
             "example_en": "Get into a kneeling position on the mat.",
             "example_ru": "Встаньте на колени на коврике.",
@@ -212,7 +212,7 @@
             "image": ""
         },
         {
-            "en": "Quad stretch",
+            "en": "The Quad stretch",
             "ru": "Растяжка четырёхглавой мышцы",
             "example_en": "Hold the quad stretch for thirty seconds on each leg.",
             "example_ru": "Удерживайте растяжку четырёхглавой мышцы по тридцать секунд на каждую ногу.",
@@ -236,7 +236,7 @@
             "image": ""
         },
         {
-            "en": "Scapular retraction",
+            "en": "The Scapular retraction",
             "ru": "Сведение лопаток",
             "example_en": "Perform scapular retraction by squeezing your shoulder blades together.",
             "example_ru": "Выполняйте сведение лопаток, сжимая лопатки вместе.",
@@ -244,7 +244,7 @@
             "image": ""
         },
         {
-            "en": "Scapular protraction",
+            "en": "The Scapular protraction",
             "ru": "Разведение лопаток",
             "example_en": "Now protract the shoulders by pushing them forward.",
             "example_ru": "Теперь разведите лопатки, выдвигая плечи вперёд.",
@@ -252,7 +252,7 @@
             "image": ""
         },
         {
-            "en": "Internal rotation",
+            "en": "The Internal rotation",
             "ru": "Внутреннее вращение",
             "example_en": "Internal rotation of the shoulder is restricted after surgery.",
             "example_ru": "Внутреннее вращение плеча ограничено после операции.",
@@ -276,7 +276,7 @@
             "image": ""
         },
         {
-            "en": "Low trap lift off",
+            "en": "The Low trap lift off",
             "ru": "Подъём рук для нижней порции трапеции",
             "example_en": "The low trap lift off targets the lower trapezius muscle.",
             "example_ru": "Подъём рук для нижней порции трапеции прорабатывает нижнюю трапецию.",
@@ -284,7 +284,7 @@
             "image": ""
         },
         {
-            "en": "Tighten a muscle",
+            "en": "To tighten a muscle",
             "ru": "Напрячь мышцу",
             "example_en": "Tighten the muscle and hold for five seconds.",
             "example_ru": "Напрягите мышцу и удерживайте пять секунд.",
@@ -292,7 +292,7 @@
             "image": ""
         },
         {
-            "en": "Squeeze and release",
+            "en": "To squeeze and release",
             "ru": "Сжать и отпустить",
             "example_en": "Squeeze the ball and release — repeat ten times.",
             "example_ru": "Сожмите мяч и отпустите — повторите десять раз.",
@@ -300,7 +300,7 @@
             "image": ""
         },
         {
-            "en": "Bring knees out and in",
+            "en": "To bring knees out and in",
             "ru": "Разведите колени в стороны, затем сведите",
             "example_en": "Bring your knees out and in slowly to work the hip muscles.",
             "example_ru": "Медленно разводите и сводите колени для проработки мышц бедра.",
@@ -316,7 +316,7 @@
             "image": ""
         },
         {
-            "en": "Muscle rub / massage",
+            "en": "The Muscle rub / massage",
             "ru": "Массировать / растирать мышцу",
             "example_en": "I will rub your muscle to help loosen it before the exercise.",
             "example_ru": "Я помассирую вашу мышцу, чтобы расслабить её перед упражнением.",
@@ -324,7 +324,7 @@
             "image": ""
         },
         {
-            "en": "Keep neck / chin tucked",
+            "en": "To keep neck / chin tucked",
             "ru": "Держать подбородок прижатым / нейтральное положение шеи",
             "example_en": "Keep your chin tucked throughout the exercise.",
             "example_ru": "Удерживайте подбородок прижатым к груди во время упражнения.",
@@ -468,7 +468,7 @@
             "image": ""
         },
         {
-            "en": "Flex a tendon",
+            "en": "To flex a tendon",
             "ru": "Сгибать / задействовать сухожилие",
             "example_en": "Flex the tendon by curling the toes downward.",
             "example_ru": "Согните сухожилие, загибая пальцы ног вниз.",
@@ -476,7 +476,7 @@
             "image": ""
         },
         {
-            "en": "Shift the weight",
+            "en": "To shift the weight",
             "ru": "Смещать вес",
             "example_en": "Shift your weight onto your stronger leg first.",
             "example_ru": "Сначала сместите вес на более сильную ногу.",
@@ -484,7 +484,7 @@
             "image": ""
         },
         {
-            "en": "Scoop legs to the side of the bed",
+            "en": "To scoop legs to the side of the bed",
             "ru": "Перенести ноги к краю кровати",
             "example_en": "Scoop your legs to the side of the bed before standing up.",
             "example_ru": "Перенесите ноги к краю кровати, прежде чем вставать.",
@@ -500,7 +500,7 @@
             "image": ""
         },
         {
-            "en": "Turn the foot outward / inward",
+            "en": "To turn the foot outward / inward",
             "ru": "Повернуть ногу наружу / внутрь",
             "example_en": "Turn the foot outward, then inward, and hold each position.",
             "example_ru": "Поверните ногу наружу, затем внутрь, удерживая каждое положение.",
@@ -508,7 +508,7 @@
             "image": ""
         },
         {
-            "en": "Push off the chair",
+            "en": "To push off the chair",
             "ru": "Оттолкнуться от стула / встать со стула",
             "example_en": "Push off the chair using both armrests to stand up.",
             "example_ru": "Оттолкнитесь от стула обеими руками, опираясь на подлокотники.",
@@ -532,7 +532,7 @@
             "image": ""
         },
         {
-            "en": "Warm-up / to get acclimated",
+            "en": "The Warm-up / to get acclimated",
             "ru": "Разминка / привыкание к нагрузке",
             "example_en": "We will start with a warm-up before the main exercises.",
             "example_ru": "Мы начнём с разминки перед основными упражнениями.",
@@ -548,7 +548,7 @@
             "image": ""
         },
         {
-            "en": "Exercise load / intensity (нагрузка)",
+            "en": "The Exercise load / intensity (нагрузка)",
             "ru": "Нагрузка (физическая)",
             "example_en": "We will increase the exercise load gradually each week.",
             "example_ru": "Мы будем постепенно увеличивать нагрузку каждую неделю.",
@@ -564,7 +564,7 @@
             "image": ""
         },
         {
-            "en": "Steps machine / stair stepper",
+            "en": "The Steps machine / stair stepper",
             "ru": "Лестничный тренажёр",
             "example_en": "The steps machine simulates climbing stairs for cardio training.",
             "example_ru": "Лестничный тренажёр имитирует подъём по лестнице для кардионагрузки.",
@@ -572,7 +572,7 @@
             "image": ""
         },
         {
-            "en": "Desensitization",
+            "en": "The Desensitization",
             "ru": "Десенсибилизация / снижение чувствительности",
             "example_en": "Desensitization therapy helps the residual limb tolerate touch.",
             "example_ru": "Десенсибилизация помогает остаточной конечности привыкнуть к прикосновениям.",
@@ -620,7 +620,7 @@
             "image": ""
         },
         {
-            "en": "Daily activity (ADL)",
+            "en": "The Daily activity (ADL)",
             "ru": "Ежедневная деятельность / повседневные занятия",
             "example_en": "Our goal is to help you return to your daily activities.",
             "example_ru": "Наша цель — помочь вам вернуться к ежедневной деятельности.",
@@ -628,7 +628,7 @@
             "image": ""
         },
         {
-            "en": "Occupational therapy",
+            "en": "The Occupational therapy",
             "ru": "Эрготерапия",
             "example_en": "Occupational therapy focuses on restoring independence in daily tasks.",
             "example_ru": "Эрготерапия направлена на восстановление самостоятельности в повседневных задачах.",
@@ -636,7 +636,7 @@
             "image": ""
         },
         {
-            "en": "Bed rest",
+            "en": "The Bed rest",
             "ru": "Постельный режим",
             "example_en": "The doctor recommends bed rest for the first two weeks.",
             "example_ru": "Врач рекомендует постельный режим в первые две недели.",
@@ -652,7 +652,7 @@
             "image": ""
         },
         {
-            "en": "Strenuous activity",
+            "en": "The Strenuous activity",
             "ru": "Интенсивная физическая нагрузка",
             "example_en": "Avoid strenuous activity for at least six weeks after surgery.",
             "example_ru": "Избегайте интенсивной физической нагрузки не менее шести недель после операции.",
@@ -676,7 +676,7 @@
             "image": ""
         },
         {
-            "en": "Orthopedist",
+            "en": "The Orthopedist",
             "ru": "Ортопед",
             "example_en": "The orthopedist reviewed the X-rays and recommended surgery.",
             "example_ru": "Ортопед изучил рентгенограммы и рекомендовал операцию.",
@@ -684,7 +684,7 @@
             "image": ""
         },
         {
-            "en": "Speech language pathologist (SLP)",
+            "en": "The Speech language pathologist (SLP)",
             "ru": "Специалист по патологии речи / логопед",
             "example_en": "The SLP will evaluate swallowing and speech after the stroke.",
             "example_ru": "Специалист по патологии речи оценит глотание и речь после инсульта.",
@@ -692,7 +692,7 @@
             "image": ""
         },
         {
-            "en": "Spine team",
+            "en": "The Spine team",
             "ru": "Команда специалистов по лечению позвоночника",
             "example_en": "The spine team will review your case at the next meeting.",
             "example_ru": "Команда специалистов по позвоночнику рассмотрит ваш случай на следующем совещании.",
@@ -700,7 +700,7 @@
             "image": ""
         },
         {
-            "en": "Assistive technology evaluator",
+            "en": "The Assistive technology evaluator",
             "ru": "Специалист по оценке вспомогательных технологий",
             "example_en": "The assistive technology evaluator will assess what devices can support you at home.",
             "example_ru": "Специалист по вспомогательным технологиям оценит, какие устройства помогут вам дома.",
@@ -708,7 +708,7 @@
             "image": ""
         },
         {
-            "en": "Patient care assistant (PCA)",
+            "en": "The Patient care assistant (PCA)",
             "ru": "Ассистент по уходу за пациентами / помощник по уходу",
             "example_en": "The PCA will help you with transfers and personal care.",
             "example_ru": "Ассистент по уходу поможет вам с перемещением и личной гигиеной.",
