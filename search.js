@@ -214,7 +214,9 @@ function initSearch() {
     input.addEventListener('focus', async () => {
         bar.classList.add('focused');
         if (IS_CATEGORY_PAGE) {
+            
             enterSearchMode();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         } else if (!searchIndex) {
             await buildSearchIndex();
         }
