@@ -216,7 +216,10 @@ function initSearch() {
         if (IS_CATEGORY_PAGE) {
             
             enterSearchMode();
-            window.scrollTo({ top: 0, behavior: 'smooth' });
+            // window.scrollTo({ top: 0, behavior: 'smooth' });
+            // document.querySelector('.content')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            window.scrollTo({ top: -60, behavior: 'smooth' }); // tweak -60 to match navbar height
+
         } else if (!searchIndex) {
             await buildSearchIndex();
         }
@@ -235,6 +238,7 @@ function initSearch() {
     });
 
     input.addEventListener('input', () => {
+        updateClearBtn()
         clearTimeout(searchDebounceTimer);
         searchDebounceTimer = setTimeout(() => {
             const q = input.value.trim();
