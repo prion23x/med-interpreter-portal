@@ -195,7 +195,21 @@ function initSearch() {
     const input = document.getElementById('search-input');
     const bar = document.getElementById('search-bar');
     const dropdown = document.getElementById('search-dropdown');
+    const clearBtn = document.getElementById('search-clear');
     if (!input || !bar || !dropdown) return;
+
+    function updateClearBtn() {
+        if (!clearBtn) return;
+        clearBtn.classList.toggle('hidden', !input.value);
+    }
+
+    clearBtn?.addEventListener('mousedown', e => {
+        e.preventDefault(); // prevent input blur before click fires
+        input.value = '';
+        updateClearBtn();
+        if (IS_CATEGORY_PAGE) exitSearchMode(input, bar, dropdown);
+        else { dropdown.classList.add('hidden'); input.blur(); }
+    });
 
     input.addEventListener('focus', async () => {
         bar.classList.add('focused');
