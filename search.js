@@ -214,7 +214,7 @@ function initSearch() {
     input.addEventListener('focus', async () => {
         bar.classList.add('focused');
         if (IS_CATEGORY_PAGE) {
-            
+
             enterSearchMode();
             // window.scrollTo({ top: 0, behavior: 'smooth' });
             // document.querySelector('.content')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -244,7 +244,11 @@ function initSearch() {
             const q = input.value.trim();
             if (q.length < 2) {
                 dropdown.classList.add('hidden');
-                if (IS_CATEGORY_PAGE) clearInPlaceFilter();
+                if (IS_CATEGORY_PAGE) {
+                    clearInPlaceFilter()
+                    enterSearchMode();
+
+                };
                 return;
             }
             if (IS_CATEGORY_PAGE) {
