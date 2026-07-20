@@ -762,6 +762,24 @@ a:hover {
     font-weight: 600;
 }
 
+/* Search mode on category page — hide metadata, show only terms */
+.search-mode .category-header,
+.search-mode .section-toggle,
+.search-mode .section-intro,
+.search-mode .section-reading {
+    display: none;
+}
+
+.search-mode .section {
+    margin-bottom: 0.5rem;
+    border-left: none !important;
+    padding-left: 0 !important;
+}
+
+.search-mode .section-body {
+    padding-top: 0;
+}
+
 @media (min-width: 1280px) {
     .section-nav {
         display: block;
@@ -794,3 +812,5 @@ a:hover {
         grid-template-columns: 1fr;
     }
 }
+
+

@@ -158,6 +158,35 @@ function handleKeyNav(e, dropdown) {
 }
 
 // ============================================================
+//  CATEGORY PAGE — search mode (hides metadata, intercepts card clicks)
+// ============================================================
+let searchModeActive = false;
+
+function enterSearchMode() {
+    searchModeActive = true;
+    document.getElementById('content')?.classList.add('search-mode');
+}
+
+function exitSearchMode(input, bar, dropdown) {
+    searchModeActive = false;
+    document.getElementById('content')?.classList.remove('search-mode');
+    if (input) input.value = '';
+    if (bar) bar.classList.remove('focused');
+    if (dropdown) dropdown.classList.add('hidden');
+    clearInPlaceFilter();
+}
+
+function exitSearchAndScrollTo(card, input, bar, dropdown) {
+    exitSearchMode(input, bar, dropdown);
+    setTimeout(() => {
+        const top = card.getBoundingClientRect().top + window.scrollY - 90;
+        window.scrollTo({ top, behavior: 'smooth' });
+        card.classList.add('term-card--highlight');
+        setTimeout(() => card.classList.remove('term-card--highlight'), 2500);
+    }, 50);
+}
+
+// ============================================================
 //  INIT
 // ============================================================
 let searchDebounceTimer = null;
@@ -170,17 +199,21 @@ function initSearch() {
 
     input.addEventListener('focus', async () => {
         bar.classList.add('focused');
-        if (!IS_CATEGORY_PAGE && !searchIndex) {
+        if (IS_CATEGORY_PAGE) {
+            enterSearchMode();
+        } else if (!searchIndex) {
             await buildSearchIndex();
         }
     });
 
     input.addEventListener('blur', () => {
         setTimeout(() => {
-            bar.classList.remove('focused');
-            dropdown.classList.add('hidden');
-            if (IS_CATEGORY_PAGE && !input.value.trim()) {
-                clearInPlaceFilter();
+            if (IS_CATEGORY_PAGE) {
+                if (!input.value.trim()) exitSearchMode(input, bar, dropdown);
+                else bar.classList.remove('focused');
+            } else {
+                bar.classList.remove('focused');
+                dropdown.classList.add('hidden');
             }
         }, 150);
     });
@@ -204,10 +237,8 @@ function initSearch() {
 
     input.addEventListener('keydown', e => {
         if (e.key === 'Escape') {
-            input.value = '';
-            input.blur();
-            if (IS_CATEGORY_PAGE) clearInPlaceFilter();
-            dropdown.classList.add('hidden');
+            if (IS_CATEGORY_PAGE) exitSearchMode(input, bar, dropdown);
+            else { input.value = ''; input.blur(); dropdown.classList.add('hidden'); }
             return;
         }
         if (!IS_CATEGORY_PAGE) handleKeyNav(e, dropdown);
@@ -217,6 +248,19 @@ function initSearch() {
     document.addEventListener('click', e => {
         if (!bar.contains(e.target)) dropdown.classList.add('hidden');
     });
+
+    // Category page: intercept term card clicks during search mode
+    // Capture phase runs before the inline onclick on the card
+    if (IS_CATEGORY_PAGE) {
+        document.addEventListener('click', e => {
+            if (!searchModeActive) return;
+            const card = e.target.closest('.term-card');
+            if (!card) return;
+            e.stopImmediatePropagation();
+            e.preventDefault();
+            exitSearchAndScrollTo(card, input, bar, dropdown);
+        }, true);
+    }
 }
 
 document.addEventListener('DOMContentLoaded', initSearch);
